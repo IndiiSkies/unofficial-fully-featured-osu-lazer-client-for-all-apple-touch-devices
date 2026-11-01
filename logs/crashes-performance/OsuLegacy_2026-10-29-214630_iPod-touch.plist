@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AutoSubmitted</key>
+	<true/>
+	<key>SysInfoCrashReporterKey</key>
+	<string>025978efb17add2bfb0133704387fc3b1c04bf3d</string>
+	<key>bug_type</key>
+	<string>109</string>
+	<key>description</key>
+	<string>Incident Identifier: 44321328-DC51-4BC4-82EC-FCC91AA9AFCF
+CrashReporter Key:   025978efb17add2bfb0133704387fc3b1c04bf3d
+Hardware Model:      iPod2,1
+Process:         OsuLegacy [961]
+Path:            /var/mobile/Applications/3B29704E-D9E3-4E48-8134-C5FC92907E5E/OsuLegacy.app/OsuLegacy
+Identifier:      OsuLegacy
+Version:         ??? (???)
+Code Type:       ARM (Native)
+Parent Process:  punchd [1]
+
+Date/Time:       2026-10-29 21:46:30.845 -0400
+OS Version:      iPhone OS 4.2.1 (8C148)
+Report Version:  104
+
+Exception Type:  EXC_BAD_ACCESS (SIGSEGV)
+Exception Codes: KERN_PROTECTION_FAILURE at 0x2fd00ff4
+Crashed Thread:  0
+
+Thread 0 Crashed:
+0   ???                           	0x03abb5dc 0 + 61584860
+1   ???                           	0x03abb82c 0 + 61585452
+2   ???                           	0x03abb82c 0 + 61585452
+3   ???                           	0x03abb82c 0 + 61585452
+4   ???                           	0x03abb82c 0 + 61585452
+5   ???                           	0x03abb82c 0 + 61585452
+6   ???                           	0x03abb82c 0 + 61585452
+7   ???                           	0x03abb82c 0 + 61585452
+8   ???                           	0x03abb82c 0 + 61585452
+9   ???                           	0x03abb82c 0 + 61585452
+10  ???                           	0x03abb82c 0 + 61585452
+11  ???                           	0x03abb82c 0 + 61585452
+12  ???                           	0x03abb82c 0 + 61585452
+13  ???                           	0x03abb82c 0 + 61585452
+14  ???                           	0x03abb82c 0 + 61585452
+15  ???                           	0x03abb82c 0 + 61585452
+16  ???                           	0x03abb82c 0 + 61585452
+17  ???                           	0x03abb82c 0 + 61585452
+18  ???                           	0x03abb82c 0 + 61585452
+19  ???                           	0x03abb82c 0 + 61585452
+20  ???                           	0x03abb82c 0 + 61585452
+21  ???                           	0x03abb82c 0 + 61585452
+22  ???                           	0x03abb82c 0 + 61585452
+23  ???                           	0x03abb82c 0 + 61585452
+24  ???                           	0x03abb82c 0 + 61585452
+25  ???                           	0x03abb82c 0 + 61585452
+26  ???                           	0x03abb82c 0 + 61585452
+27  ???                           	0x03abb82c 0 + 61585452
+28  ???                           	0x03abb82c 0 + 61585452
+29  ???                           	0x03abb82c 0 + 61585452
+30  ???                           	0x03abb82c 0 + 61585452
+31  ???                           	0x03abb82c 0 + 61585452
+32  ???                           	0x03abb82c 0 + 61585452
+33  ???                           	0x03abb82c 0 + 61585452
+34  ???                           	0x03abb82c 0 + 61585452
+35  ???                           	0x03abb82c 0 + 61585452
+36  ???                           	0x03abb82c 0 + 61585452
+37  ???                           	0x03abb82c 0 + 61585452
+38  ???                           	0x03abb82c 0 + 61585452
+39  ???                           	0x03abb82c 0 + 61585452
+40  ???                           	0x03abb82c 0 + 61585452
+41  ???                           	0x03abb82c 0 + 61585452
+42  ???                           	0x03abb82c 0 + 61585452
+43  ???                           	0x03abb82c 0 + 61585452
+44  ???                           	0x03abb82c 0 + 61585452
+45  ???                           	0x03abb82c 0 + 61585452
+46  ???                           	0x03abb82c 0 + 61585452
+47  ???                           	0x03abb82c 0 + 61585452
+48  ???                           	0x03abb82c 0 + 61585452
+49  ???                           	0x03abb82c 0 + 61585452
+50  ???                           	0x03abb82c 0 + 61585452
+51  ???                           	0x03abb82c 0 + 61585452
+52  ???                           	0x03abb82c 0 + 61585452
+53  ???                           	0x03abb82c 0 + 61585452
+54  ???                           	0x03abb82c 0 + 61585452
+55  ???                           	0x03abb82c 0 + 61585452
+56  ???                           	0x03abb82c 0 + 61585452
+57  ???                           	0x03abb82c 0 + 61585452
+58  ???                           	0x03abb82c 0 + 61585452
+59  ???                           	0x03abb82c 0 + 61585452
+60  ???                           	0x03abb82c 0 + 61585452
+61  ???                           	0x03abb82c 0 + 61585452
+62  ???                           	0x03abb82c 0 + 61585452
+63  ???                           	0x03abb82c 0 + 61585452
+64  ???                           	0x03abb82c 0 + 61585452
+65  ???                           	0x03abb82c 0 + 61585452
+66  ???                           	0x03abb82c 0 + 61585452
+67  ???                           	0x03abb82c 0 + 61585452
+68  ???                           	0x03abb82c 0 + 61585452
+69  ???                           	0x03abb82c 0 + 61585452
+70  ???                           	0x03abb82c 0 + 61585452
+71  ???                           	0x03abb82c 0 + 61585452
+72  ???                           	0x03abb82c 0 + 61585452
+73  ???                           	0x03abb82c 0 + 61585452
+74  ???                           	0x03abb82c 0 + 61585452
+75  ???                           	0x03abb82c 0 + 61585452
+76  ???                           	0x03abb82c 0 + 61585452
+77  ???                           	0x03abb82c 0 + 61585452
+78  ???                           	0x03abb82c 0 + 61585452
+79  ???                           	0x03abb82c 0 + 61585452
+80  ???                           	0x03abb82c 0 + 61585452
+81  ???                           	0x03abb82c 0 + 61585452
+82  ???                           	0x03abb82c 0 + 61585452
+83  ???                           	0x03abb82c 0 + 61585452
+84  ???                           	0x03abb82c 0 + 61585452
+85  ???                           	0x03abb82c 0 + 61585452
+86  ???                           	0x03abb82c 0 + 61585452
+87  ???                           	0x03abb82c 0 + 61585452
+88  ???                           	0x03abb82c 0 + 61585452
+89  ???                           	0x03abb82c 0 + 61585452
+90  ???                           	0x03abb82c 0 + 61585452
+91  ???                           	0x03abb82c 0 + 61585452
+92  ???                           	0x03abb82c 0 + 61585452
+93  ???                           	0x03abb82c 0 + 61585452
+94  ???                           	0x03abb82c 0 + 61585452
+95  ???                           	0x03abb82c 0 + 61585452
+96  ???                           	0x03abb82c 0 + 61585452
+97  ???                           	0x03abb82c 0 + 61585452
+98  ???                           	0x03abb82c 0 + 61585452
+99  ???                           	0x03abb82c 0 + 61585452
+100 ???                           	0x03abb82c 0 + 61585452
+101 ???                           	0x03abb82c 0 + 61585452
+102 ???                           	0x03abb82c 0 + 61585452
+103 ???                           	0x03abb82c 0 + 61585452
+104 ???                           	0x03abb82c 0 + 61585452
+105 ???                           	0x03abb82c 0 + 61585452
+106 ???                           	0x03abb82c 0 + 61585452
+107 ???                           	0x03abb82c 0 + 61585452
+108 ???                           	0x03abb82c 0 + 61585452
+109 ???                           	0x03abb82c 0 + 61585452
+110 ???                           	0x03abb82c 0 + 61585452
+111 ???                           	0x03abb82c 0 + 61585452
+112 ???                           	0x03abb82c 0 + 61585452
+113 ???                           	0x03abb82c 0 + 61585452
+114 ???                           	0x03abb82c 0 + 61585452
+115 ???                           	0x03abb82c 0 + 61585452
+116 ???                           	0x03abb82c 0 + 61585452
+117 ???                           	0x03abb82c 0 + 61585452
+118 ???                           	0x03abb82c 0 + 61585452
+119 ???                           	0x03abb82c 0 + 61585452
+120 ???                           	0x03abb82c 0 + 61585452
+121 ???                           	0x03abb82c 0 + 61585452
+122 ???                           	0x03abb82c 0 + 61585452
+123 ???                           	0x03abb82c 0 + 61585452
+124 ???                           	0x03abb82c 0 + 61585452
+125 ???                           	0x03abb82c 0 + 61585452
+126 ???                           	0x03abb82c 0 + 61585452
+127 ???                           	0x03abb82c 0 + 61585452
+128 ???                           	0x03abb82c 0 + 61585452
+129 ???                           	0x03abb82c 0 + 61585452
+130 ???                           	0x03abb82c 0 + 61585452
+131 ???                           	0x03abb82c 0 + 61585452
+132 ???                           	0x03abb82c 0 + 61585452
+133 ???                           	0x03abb82c 0 + 61585452
+134 ???                           	0x03abb82c 0 + 61585452
+135 ???                           	0x03abb82c 0 + 61585452
+136 ???                           	0x03abb82c 0 + 61585452
+137 ???                           	0x03abb82c 0 + 61585452
+138 ???                           	0x03abb82c 0 + 61585452
+139 ???                           	0x03abb82c 0 + 61585452
+140 ???                           	0x03abb82c 0 + 61585452
+141 ???                           	0x03abb82c 0 + 61585452
+142 ???                           	0x03abb82c 0 + 61585452
+143 ???                           	0x03abb82c 0 + 61585452
+144 ???                           	0x03abb82c 0 + 61585452
+145 ???                           	0x03abb82c 0 + 61585452
+146 ???                           	0x03abb82c 0 + 61585452
+147 ???                           	0x03abb82c 0 + 61585452
+148 ???                           	0x03abb82c 0 + 61585452
+149 ???                           	0x03abb82c 0 + 61585452
+150 ???                           	0x03abb82c 0 + 61585452
+151 ???                           	0x03abb82c 0 + 61585452
+152 ???                           	0x03abb82c 0 + 61585452
+153 ???                           	0x03abb82c 0 + 61585452
+154 ???                           	0x03abb82c 0 + 61585452
+155 ???                           	0x03abb82c 0 + 61585452
+156 ???                           	0x03abb82c 0 + 61585452
+157 ???                           	0x03abb82c 0 + 61585452
+158 ???                           	0x03abb82c 0 + 61585452
+159 ???                           	0x03abb82c 0 + 61585452
+160 ???                           	0x03abb82c 0 + 61585452
+161 ???                           	0x03abb82c 0 + 61585452
+162 ???                           	0x03abb82c 0 + 61585452
+163 ???                           	0x03abb82c 0 + 61585452
+164 ???                           	0x03abb82c 0 + 61585452
+165 ???                           	0x03abb82c 0 + 61585452
+166 ???                           	0x03abb82c 0 + 61585452
+167 ???                           	0x03abb82c 0 + 61585452
+168 ???                           	0x03abb82c 0 + 61585452
+169 ???                           	0x03abb82c 0 + 61585452
+170 ???                           	0x03abb82c 0 + 61585452
+171 ???                           	0x03abb82c 0 + 61585452
+172 ???                           	0x03abb82c 0 + 61585452
+173 ???                           	0x03abb82c 0 + 61585452
+174 ???                           	0x03abb82c 0 + 61585452
+175 ???                           	0x03abb82c 0 + 61585452
+176 ???                           	0x03abb82c 0 + 61585452
+177 ???                           	0x03abb82c 0 + 61585452
+178 ???                           	0x03abb82c 0 + 61585452
+179 ???                           	0x03abb82c 0 + 61585452
+180 ???                           	0x03abb82c 0 + 61585452
+181 ???                           	0x03abb82c 0 + 61585452
+182 ???                           	0x03abb82c 0 + 61585452
+183 ???                           	0x03abb82c 0 + 61585452
+184 ???                           	0x03abb82c 0 + 61585452
+185 ???                           	0x03abb82c 0 + 61585452
+186 ???                           	0x03abb82c 0 + 61585452
+187 ???                           	0x03abb82c 0 + 61585452
+188 ???                           	0x03abb82c 0 + 61585452
+189 ???                           	0x03abb82c 0 + 61585452
+190 ???                           	0x03abb82c 0 + 61585452
+191 ???                           	0x03abb82c 0 + 61585452
+192 ???                           	0x03abb82c 0 + 61585452
+193 ???                           	0x03abb82c 0 + 61585452
+194 ???                           	0x03abb82c 0 + 61585452
+195 ???                           	0x03abb82c 0 + 61585452
+196 ???                           	0x03abb82c 0 + 61585452
+197 ???                           	0x03abb82c 0 + 61585452
+198 ???                           	0x03abb82c 0 + 61585452
+199 ???                           	0x03abb82c 0 + 61585452
+200 ???                           	0x03abb82c 0 + 61585452
+201 ???                           	0x03abb82c 0 + 61585452
+202 ???                           	0x03abb82c 0 + 61585452
+203 ???                           	0x03abb82c 0 + 61585452
+204 ???                           	0x03abb82c 0 + 61585452
+205 ???                           	0x03abb82c 0 + 61585452
+206 ???                           	0x03abb82c 0 + 61585452
+207 ???                           	0x03abb82c 0 + 61585452
+208 ???                           	0x03abb82c 0 + 61585452
+209 ???                           	0x03abb82c 0 + 61585452
+210 ???                           	0x03abb82c 0 + 61585452
+211 ???                           	0x03abb82c 0 + 61585452
+212 ???                           	0x03abb82c 0 + 61585452
+213 ???                           	0x03abb82c 0 + 61585452
+214 ???                           	0x03abb82c 0 + 61585452
+215 ???                           	0x03abb82c 0 + 61585452
+216 ???                           	0x03abb82c 0 + 61585452
+217 ???                           	0x03abb82c 0 + 61585452
+218 ???                           	0x03abb82c 0 + 61585452
+219 ???                           	0x03abb82c 0 + 61585452
+220 ???                           	0x03abb82c 0 + 61585452
+221 ???                           	0x03abb82c 0 + 61585452
+222 ???                           	0x03abb82c 0 + 61585452
+223 ???                           	0x03abb82c 0 + 61585452
+224 ???                           	0x03abb82c 0 + 61585452
+225 ???                           	0x03abb82c 0 + 61585452
+226 ???                           	0x03abb82c 0 + 61585452
+227 ???                           	0x03abb82c 0 + 61585452
+228 ???                           	0x03abb82c 0 + 61585452
+229 ???                           	0x03abb82c 0 + 61585452
+230 ???                           	0x03abb82c 0 + 61585452
+231 ???                           	0x03abb82c 0 + 61585452
+232 ???                           	0x03abb82c 0 + 61585452
+233 ???                           	0x03abb82c 0 + 61585452
+234 ???                           	0x03abb82c 0 + 61585452
+235 ???                           	0x03abb82c 0 + 61585452
+236 ???                           	0x03abb82c 0 + 61585452
+237 ???                           	0x03abb82c 0 + 61585452
+238 ???                           	0x03abb82c 0 + 61585452
+239 ???                           	0x03abb82c 0 + 61585452
+240 ???                           	0x03abb82c 0 + 61585452
+241 ???                           	0x03abb82c 0 + 61585452
+242 ???                           	0x03abb82c 0 + 61585452
+243 ???                           	0x03abb82c 0 + 61585452
+244 ???                           	0x03abb82c 0 + 61585452
+245 ???                           	0x03abb82c 0 + 61585452
+246 ???                           	0x03abb82c 0 + 61585452
+247 ???                           	0x03abb82c 0 + 61585452
+248 ???                           	0x03abb82c 0 + 61585452
+249 ???                           	0x03abb82c 0 + 61585452
+250 ???                           	0x03abb82c 0 + 61585452
+251 ???                           	0x03abb82c 0 + 61585452
+252 ???                           	0x03abb82c 0 + 61585452
+253 ???                           	0x03abb82c 0 + 61585452
+254 ???                           	0x03abb82c 0 + 61585452
+255 ???                           	0x03abb82c 0 + 61585452
+256 ???                           	0x03abb82c 0 + 61585452
+257 ???                           	0x03abb82c 0 + 61585452
+258 ???                           	0x03abb82c 0 + 61585452
+259 ???                           	0x03abb82c 0 + 61585452
+260 ???                           	0x03abb82c 0 + 61585452
+261 ???                           	0x03abb82c 0 + 61585452
+262 ???                           	0x03abb82c 0 + 61585452
+263 ???                           	0x03abb82c 0 + 61585452
+264 ???                           	0x03abb82c 0 + 61585452
+265 ???                           	0x03abb82c 0 + 61585452
+266 ???                           	0x03abb82c 0 + 61585452
+267 ???                           	0x03abb82c 0 + 61585452
+268 ???                           	0x03abb82c 0 + 61585452
+269 ???                           	0x03abb82c 0 + 61585452
+270 ???                           	0x03abb82c 0 + 61585452
+271 ???                           	0x03abb82c 0 + 61585452
+272 ???                           	0x03abb82c 0 + 61585452
+273 ???                           	0x03abb82c 0 + 61585452
+274 ???                           	0x03abb82c 0 + 61585452
+275 ???                           	0x03abb82c 0 + 61585452
+276 ???                           	0x03abb82c 0 + 61585452
+277 ???                           	0x03abb82c 0 + 61585452
+278 ???                           	0x03abb82c 0 + 61585452
+279 ???                           	0x03abb82c 0 + 61585452
+280 ???                           	0x03abb82c 0 + 61585452
+281 ???                           	0x03abb82c 0 + 61585452
+282 ???                           	0x03abb82c 0 + 61585452
+283 ???                           	0x03abb82c 0 + 61585452
+284 ???                           	0x03abb82c 0 + 61585452
+285 ???                           	0x03abb82c 0 + 61585452
+286 ???                           	0x03abb82c 0 + 61585452
+287 ???                           	0x03abb82c 0 + 61585452
+288 ???                           	0x03abb82c 0 + 61585452
+289 ???                           	0x03abb82c 0 + 61585452
+290 ???                           	0x03abb82c 0 + 61585452
+291 ???                           	0x03abb82c 0 + 61585452
+292 ???                           	0x03abb82c 0 + 61585452
+293 ???                           	0x03abb82c 0 + 61585452
+294 ???                           	0x03abb82c 0 + 61585452
+295 ???                           	0x03abb82c 0 + 61585452
+296 ???                           	0x03abb82c 0 + 61585452
+297 ???                           	0x03abb82c 0 + 61585452
+298 ???                           	0x03abb82c 0 + 61585452
+299 ???                           	0x03abb82c 0 + 61585452
+300 ???                           	0x03abb82c 0 + 61585452
+301 ???                           	0x03abb82c 0 + 61585452
+302 ???                           	0x03abb82c 0 + 61585452
+303 ???                           	0x03abb82c 0 + 61585452
+304 ???                           	0x03abb82c 0 + 61585452
+305 ???                           	0x03abb82c 0 + 61585452
+306 ???                           	0x03abb82c 0 + 61585452
+307 ???                           	0x03abb82c 0 + 61585452
+308 ???                           	0x03abb82c 0 + 61585452
+309 ???                           	0x03abb82c 0 + 61585452
+310 ???                           	0x03abb82c 0 + 61585452
+311 ???                           	0x03abb82c 0 + 61585452
+312 ???                           	0x03abb82c 0 + 61585452
+313 ???                           	0x03abb82c 0 + 61585452
+314 ???                           	0x03abb82c 0 + 61585452
+315 ???                           	0x03abb82c 0 + 61585452
+316 ???                           	0x03abb82c 0 + 61585452
+317 ???                           	0x03abb82c 0 + 61585452
+318 ???                           	0x03abb82c 0 + 61585452
+319 ???                           	0x03abb82c 0 + 61585452
+320 ???                           	0x03abb82c 0 + 61585452
+321 ???                           	0x03abb82c 0 + 61585452
+322 ???                           	0x03abb82c 0 + 61585452
+323 ???                           	0x03abb82c 0 + 61585452
+324 ???                           	0x03abb82c 0 + 61585452
+325 ???                           	0x03abb82c 0 + 61585452
+326 ???                           	0x03abb82c 0 + 61585452
+327 ???                           	0x03abb82c 0 + 61585452
+328 ???                           	0x03abb82c 0 + 61585452
+329 ???                           	0x03abb82c 0 + 61585452
+330 ???                           	0x03abb82c 0 + 61585452
+331 ???                           	0x03abb82c 0 + 61585452
+332 ???                           	0x03abb82c 0 + 61585452
+333 ???                           	0x03abb82c 0 + 61585452
+334 ???                           	0x03abb82c 0 + 61585452
+335 ???                           	0x03abb82c 0 + 61585452
+336 ???                           	0x03abb82c 0 + 61585452
+337 ???                           	0x03abb82c 0 + 61585452
+338 ???                           	0x03abb82c 0 + 61585452
+339 ???                           	0x03abb82c 0 + 61585452
+340 ???                           	0x03abb82c 0 + 61585452
+341 ???                           	0x03abb82c 0 + 61585452
+342 ???                           	0x03abb82c 0 + 61585452
+343 ???                           	0x03abb82c 0 + 61585452
+344 ???                           	0x03abb82c 0 + 61585452
+345 ???                           	0x03abb82c 0 + 61585452
+346 ???                           	0x03abb82c 0 + 61585452
+347 ???                           	0x03abb82c 0 + 61585452
+348 ???                           	0x03abb82c 0 + 61585452
+349 ???                           	0x03abb82c 0 + 61585452
+350 ???                           	0x03abb82c 0 + 61585452
+351 ???                           	0x03abb82c 0 + 61585452
+352 ???                           	0x03abb82c 0 + 61585452
+353 ???                           	0x03abb82c 0 + 61585452
+354 ???                           	0x03abb82c 0 + 61585452
+355 ???                           	0x03abb82c 0 + 61585452
+356 ???                           	0x03abb82c 0 + 61585452
+357 ???                           	0x03abb82c 0 + 61585452
+358 ???                           	0x03abb82c 0 + 61585452
+359 ???                           	0x03abb82c 0 + 61585452
+360 ???                           	0x03abb82c 0 + 61585452
+361 ???                           	0x03abb82c 0 + 61585452
+362 ???                           	0x03abb82c 0 + 61585452
+363 ???                           	0x03abb82c 0 + 61585452
+364 ???                           	0x03abb82c 0 + 61585452
+365 ???                           	0x03abb82c 0 + 61585452
+366 ???                           	0x03abb82c 0 + 61585452
+367 ???                           	0x03abb82c 0 + 61585452
+368 ???                           	0x03abb82c 0 + 61585452
+369 ???                           	0x03abb82c 0 + 61585452
+370 ???                           	0x03abb82c 0 + 61585452
+371 ???                           	0x03abb82c 0 + 61585452
+372 ???                           	0x03abb82c 0 + 61585452
+373 ???                           	0x03abb82c 0 + 61585452
+374 ???                           	0x03abb82c 0 + 61585452
+375 ???                           	0x03abb82c 0 + 61585452
+376 ???                           	0x03abb82c 0 + 61585452
+377 ???                           	0x03abb82c 0 + 61585452
+378 ???                           	0x03abb82c 0 + 61585452
+379 ???                           	0x03abb82c 0 + 61585452
+380 ???                           	0x03abb82c 0 + 61585452
+381 ???                           	0x03abb82c 0 + 61585452
+382 ???                           	0x03abb82c 0 + 61585452
+383 ???                           	0x03abb82c 0 + 61585452
+384 ???                           	0x03abb82c 0 + 61585452
+385 ???                           	0x03abb82c 0 + 61585452
+386 ???                           	0x03abb82c 0 + 61585452
+387 ???                           	0x03abb82c 0 + 61585452
+388 ???                           	0x03abb82c 0 + 61585452
+389 ???                           	0x03abb82c 0 + 61585452
+390 ???                           	0x03abb82c 0 + 61585452
+391 ???                           	0x03abb82c 0 + 61585452
+392 ???                           	0x03abb82c 0 + 61585452
+393 ???                           	0x03abb82c 0 + 61585452
+394 ???                           	0x03abb82c 0 + 61585452
+395 ???                           	0x03abb82c 0 + 61585452
+396 ???                           	0x03abb82c 0 + 61585452
+397 ???                           	0x03abb82c 0 + 61585452
+398 ???                           	0x03abb82c 0 + 61585452
+399 ???                           	0x03abb82c 0 + 61585452
+400 ???                           	0x03abb82c 0 + 61585452
+401 ???                           	0x03abb82c 0 + 61585452
+402 ???                           	0x03abb82c 0 + 61585452
+403 ???                           	0x03abb82c 0 + 61585452
+404 ???                           	0x03abb82c 0 + 61585452
+405 ???                           	0x03abb82c 0 + 61585452
+406 ???                           	0x03abb82c 0 + 61585452
+407 ???                           	0x03abb82c 0 + 61585452
+408 ???                           	0x03abb82c 0 + 61585452
+409 ???                           	0x03abb82c 0 + 61585452
+410 ???                           	0x03abb82c 0 + 61585452
+411 ???                           	0x03abb82c 0 + 61585452
+412 ???                           	0x03abb82c 0 + 61585452
+413 ???                           	0x03abb82c 0 + 61585452
+414 ???                           	0x03abb82c 0 + 61585452
+415 ???                           	0x03abb82c 0 + 61585452
+416 ???                           	0x03abb82c 0 + 61585452
+417 ???                           	0x03abb82c 0 + 61585452
+418 ???                           	0x03abb82c 0 + 61585452
+419 ???                           	0x03abb82c 0 + 61585452
+420 ???                           	0x03abb82c 0 + 61585452
+421 ???                           	0x03abb82c 0 + 61585452
+422 ???                           	0x03abb82c 0 + 61585452
+423 ???                           	0x03abb82c 0 + 61585452
+424 ???                           	0x03abb82c 0 + 61585452
+425 ???                           	0x03abb82c 0 + 61585452
+426 ???                           	0x03abb82c 0 + 61585452
+427 ???                           	0x03abb82c 0 + 61585452
+428 ???                           	0x03abb82c 0 + 61585452
+429 ???                           	0x03abb82c 0 + 61585452
+430 ???                           	0x03abb82c 0 + 61585452
+431 ???                           	0x03abb82c 0 + 61585452
+432 ???                           	0x03abb82c 0 + 61585452
+433 ???                           	0x03abb82c 0 + 61585452
+434 ???                           	0x03abb82c 0 + 61585452
+435 ???                           	0x03abb82c 0 + 61585452
+436 ???                           	0x03abb82c 0 + 61585452
+437 ???                           	0x03abb82c 0 + 61585452
+438 ???                           	0x03abb82c 0 + 61585452
+439 ???                           	0x03abb82c 0 + 61585452
+440 ???                           	0x03abb82c 0 + 61585452
+441 ???                           	0x03abb82c 0 + 61585452
+442 ???                           	0x03abb82c 0 + 61585452
+443 ???                           	0x03abb82c 0 + 61585452
+444 ???                           	0x03abb82c 0 + 61585452
+445 ???                           	0x03abb82c 0 + 61585452
+446 ???                           	0x03abb82c 0 + 61585452
+447 ???                           	0x03abb82c 0 + 61585452
+448 ???                           	0x03abb82c 0 + 61585452
+449 ???                           	0x03abb82c 0 + 61585452
+450 ???                           	0x03abb82c 0 + 61585452
+451 ???                           	0x03abb82c 0 + 61585452
+452 ???                           	0x03abb82c 0 + 61585452
+453 ???                           	0x03abb82c 0 + 61585452
+454 ???                           	0x03abb82c 0 + 61585452
+455 ???                           	0x03abb82c 0 + 61585452
+456 ???                           	0x03abb82c 0 + 61585452
+457 ???                           	0x03abb82c 0 + 61585452
+458 ???                           	0x03abb82c 0 + 61585452
+459 ???                           	0x03abb82c 0 + 61585452
+460 ???                           	0x03abb82c 0 + 61585452
+461 ???                           	0x03abb82c 0 + 61585452
+462 ???                           	0x03abb82c 0 + 61585452
+463 ???                           	0x03abb82c 0 + 61585452
+464 ???                           	0x03abb82c 0 + 61585452
+465 ???                           	0x03abb82c 0 + 61585452
+466 ???                           	0x03abb82c 0 + 61585452
+467 ???                           	0x03abb82c 0 + 61585452
+468 ???                           	0x03abb82c 0 + 61585452
+469 ???                           	0x03abb82c 0 + 61585452
+470 ???                           	0x03abb82c 0 + 61585452
+471 ???                           	0x03abb82c 0 + 61585452
+472 ???                           	0x03abb82c 0 + 61585452
+473 ???                           	0x03abb82c 0 + 61585452
+474 ???                           	0x03abb82c 0 + 61585452
+475 ???                           	0x03abb82c 0 + 61585452
+476 ???                           	0x03abb82c 0 + 61585452
+477 ???                           	0x03abb82c 0 + 61585452
+478 ???                           	0x03abb82c 0 + 61585452
+479 ???                           	0x03abb82c 0 + 61585452
+480 ???                           	0x03abb82c 0 + 61585452
+481 ???                           	0x03abb82c 0 + 61585452
+482 ???                           	0x03abb82c 0 + 61585452
+483 ???                           	0x03abb82c 0 + 61585452
+484 ???                           	0x03abb82c 0 + 61585452
+485 ???                           	0x03abb82c 0 + 61585452
+486 ???                           	0x03abb82c 0 + 61585452
+487 ???                           	0x03abb82c 0 + 61585452
+488 ???                           	0x03abb82c 0 + 61585452
+489 ???                           	0x03abb82c 0 + 61585452
+490 ???                           	0x03abb82c 0 + 61585452
+491 ???                           	0x03abb82c 0 + 61585452
+492 ???                           	0x03abb82c 0 + 61585452
+493 ???                           	0x03abb82c 0 + 61585452
+494 ???                           	0x03abb82c 0 + 61585452
+495 ???                           	0x03abb82c 0 + 61585452
+496 ???                           	0x03abb82c 0 + 61585452
+497 ???                           	0x03abb82c 0 + 61585452
+498 ???                           	0x03abb82c 0 + 61585452
+499 ???                           	0x03abb82c 0 + 61585452
+500 ???                           	0x03abb82c 0 + 61585452
+501 ???                           	0x03abb82c 0 + 61585452
+502 ???                           	0x03abb82c 0 + 61585452
+503 ???                           	0x03abb82c 0 + 61585452
+504 ???                           	0x03abb82c 0 + 61585452
+505 ???                           	0x03abb82c 0 + 61585452
+506 ???                           	0x03abb82c 0 + 61585452
+507 ???                           	0x03abb82c 0 + 61585452
+508 ???                           	0x03abb82c 0 + 61585452
+509 ???                           	0x03abb82c 0 + 61585452
+510 ???                           	0x03abb82c 0 + 61585452
+
+Thread 1:
+0   libSystem.B.dylib             	0x32cd1974 0x32c9c000 + 219508
+1   libSystem.B.dylib             	0x32da02fc 0x32c9c000 + 1065724
+2   libSystem.B.dylib             	0x32d9fd68 0x32c9c000 + 1064296
+3   libSystem.B.dylib             	0x32d9f788 0x32c9c000 + 1062792
+4   libSystem.B.dylib             	0x32d28970 0x32c9c000 + 575856
+5   libSystem.B.dylib             	0x32d1f2fc 0x32c9c000 + 537340
+
+Thread 2:
+0   libSystem.B.dylib             	0x32c9d3b0 0x32c9c000 + 5040
+1   libSystem.B.dylib             	0x32c9f894 0x32c9c000 + 14484
+2   CoreFoundation                	0x35e8cf7c 0x35e64000 + 167804
+3   CoreFoundation                	0x35e8c780 0x35e64000 + 165760
+4   CoreFoundation                	0x35e8c504 0x35e64000 + 165124
+5   CoreFoundation                	0x35e8c412 0x35e64000 + 164882
+6   WebCore                       	0x369e7d14 0x368cc000 + 1162516
+7   libSystem.B.dylib             	0x32d27b44 0x32c9c000 + 572228
+8   libSystem.B.dylib             	0x32d197a4 0x32c9c000 + 513956
+
+Thread 3:
+0   libSystem.B.dylib             	0x32c9d400 0x32c9c000 + 5120
+1   libSystem.B.dylib             	0x32cd3458 0x32c9c000 + 226392
+2   OsuLegacy                     	0x002d280c 0x4000 + 2942988
+3   OsuLegacy                     	0x0024e99c 0x4000 + 2402716
+4   OsuLegacy                     	0x00224e90 0x4000 + 2231952
+5   OsuLegacy                     	0x002c84e0 0x4000 + 2901216
+6   OsuLegacy                     	0x002d6e70 0x4000 + 2961008
+7   libSystem.B.dylib             	0x32d27b44 0x32c9c000 + 572228
+8   libSystem.B.dylib             	0x32d197a4 0x32c9c000 + 513956
+
+Thread 4:
+0   libSystem.B.dylib             	0x32c9d3b0 0x32c9c000 + 5040
+1   libSystem.B.dylib             	0x32c9f894 0x32c9c000 + 14484
+2   AudioToolbox                  	0x3050c4ac 0x303e6000 + 1205420
+3   AudioToolbox                  	0x303e7da0 0x303e6000 + 7584
+4   libSystem.B.dylib             	0x32d27b44 0x32c9c000 + 572228
+5   libSystem.B.dylib             	0x32d197a4 0x32c9c000 + 513956
+
+Thread 5:
+0   libSystem.B.dylib             	0x32d2654c 0x32c9c000 + 566604
+1   libSystem.B.dylib             	0x32cd2f70 0x32c9c000 + 225136
+2   libSystem.B.dylib             	0x32cd2910 0x32c9c000 + 223504
+3   OsuLegacy                     	0x000191cc 0x4000 + 86476
+4   Foundation                    	0x33fbeb8a 0x33fb3000 + 48010
+5   Foundation                    	0x33fb7b90 0x33fb3000 + 19344
+6   libSystem.B.dylib             	0x32d27b44 0x32c9c000 + 572228
+7   libSystem.B.dylib             	0x32d197a4 0x32c9c000 + 513956
+
+Thread 6:
+0   libSystem.B.dylib             	0x32d2654c 0x32c9c000 + 566604
+1   libSystem.B.dylib             	0x32cd2f70 0x32c9c000 + 225136
+2   libSystem.B.dylib             	0x32cd2910 0x32c9c000 + 223504
+3   CoreMedia                     	0x373e1e50 0x373df000 + 11856
+4   CoreMedia                     	0x373e1d2c 0x373df000 + 11564
+5   MediaToolbox                  	0x341c092c 0x341bc000 + 18732
+6   CoreMedia                     	0x3740c200 0x373df000 + 184832
+7   libSystem.B.dylib             	0x32d27b44 0x32c9c000 + 572228
+8   libSystem.B.dylib             	0x32d197a4 0x32c9c000 + 513956
+
+Thread 7:
+0   libSystem.B.dylib             	0x32d2654c 0x32c9c000 + 566604
+1   libSystem.B.dylib             	0x32cd2f70 0x32c9c000 + 225136
+2   libSystem.B.dylib             	0x32cd2910 0x32c9c000 + 223504
+3   CoreMedia                     	0x373e1e50 0x373df000 + 11856
+4   CoreMedia                     	0x373e1d2c 0x373df000 + 11564
+5   MediaToolbox                  	0x341c092c 0x341bc000 + 18732
+6   CoreMedia                     	0x3740c200 0x373df000 + 184832
+7   libSystem.B.dylib             	0x32d27b44 0x32c9c000 + 572228
+8   libSystem.B.dylib             	0x32d197a4 0x32c9c000 + 513956
+
+Thread 8:
+0   libSystem.B.dylib             	0x32c9d3b0 0x32c9c000 + 5040
+1   libSystem.B.dylib             	0x32c9f894 0x32c9c000 + 14484
+2   MediaToolbox                  	0x341c7d18 0x341bc000 + 48408
+3   CoreMedia                     	0x3740c200 0x373df000 + 184832
+4   libSystem.B.dylib             	0x32d27b44 0x32c9c000 + 572228
+5   libSystem.B.dylib             	0x32d197a4 0x32c9c000 + 513956
+
+Thread 9:
+0   libSystem.B.dylib             	0x32c9d3b0 0x32c9c000 + 5040
+1   libSystem.B.dylib             	0x32c9f894 0x32c9c000 + 14484
+2   CoreFoundation                	0x35e8cf7c 0x35e64000 + 167804
+3   CoreFoundation                	0x35e8c780 0x35e64000 + 165760
+4   CoreFoundation                	0x35e8c504 0x35e64000 + 165124
+5   CoreFoundation                	0x35e8c412 0x35e64000 + 164882
+6   AudioToolbox                  	0x303e8204 0x303e6000 + 8708
+7   AudioToolbox                  	0x304049e0 0x303e6000 + 125408
+8   AudioToolbox                  	0x303e7da0 0x303e6000 + 7584
+9   libSystem.B.dylib             	0x32d27b44 0x32c9c000 + 572228
+10  libSystem.B.dylib             	0x32d197a4 0x32c9c000 + 513956
+
+Thread 0 crashed with ARM Thread State:
+    r0: 0x00fcf870    r1: 0x00f64080      r2: 0x3b345975      r3: 0x41c84a17
+    r4: 0x2fdfd87c    r5: 0x00850950      r6: 0x0084ddb0      r7: 0x2fd010e0
+    r8: 0x45942918    r9: 0x00000000     r10: 0x40e5f1d9     r11: 0x2fd00ed8
+    ip: 0x2fd010d0    sp: 0x2fd00ed8      lr: 0x03abb834      pc: 0x03abb5dc
+  cpsr: 0x600a0010
+
+Binary Images:
+    0x4000 -   0x443fff +OsuLegacy armv6  &lt;55ccde3bf9163bbc8f1978268c6969fd&gt; /var/mobile/Applications/3B29704E-D9E3-4E48-8134-C5FC92907E5E/OsuLegacy.app/OsuLegacy
+  0x754000 -   0x754fff +MobileSubstrate.dylib armv6  &lt;cf227792bbf2307cb4e9231453aa433c&gt; /Library/MobileSubstrate/MobileSubstrate.dylib
+  0x784000 -   0x785fff +SubstrateLoader.dylib armv6  &lt;e6f0c76469b63c05afa34188d067f088&gt; /Library/Frameworks/CydiaSubstrate.framework/Libraries/SubstrateLoader.dylib
+  0x7a9000 -   0x7aafff  dns.so armv6  &lt;88b569311cca4a9593b2d670051860d1&gt; /usr/lib/info/dns.so
+0x2fe00000 - 0x2fe29fff  dyld armv6  &lt;617f6daf4103547c47a8407a2e0b90de&gt; /usr/lib/dyld
+0x30005000 - 0x30129fff  MusicLibrary armv6  &lt;dfa6591b4161a4c9dd2fc1e755a8e05b&gt; /System/Library/PrivateFrameworks/MusicLibrary.framework/MusicLibrary
+0x30180000 - 0x30247fff  libobjc.A.dylib armv6  &lt;429841269f8bcecd4ba3264a8725dad6&gt; /usr/lib/libobjc.A.dylib
+0x30248000 - 0x30356fff  CFNetwork armv6  &lt;d6eeee83216ee9c553134f069f37cbc2&gt; /System/Library/Frameworks/CFNetwork.framework/CFNetwork
+0x30359000 - 0x3037afff  libRIP.A.dylib armv6  &lt;22c6da37f3adf325f99c3a0494e04c02&gt; /System/Library/Frameworks/CoreGraphics.framework/Resources/libRIP.A.dylib
+0x3037b000 - 0x3037efff  libgcc_s.1.dylib armv6  &lt;bed95ed187350ce27d22ed241ef892ea&gt; /usr/lib/libgcc_s.1.dylib
+0x303e6000 - 0x3059cfff  AudioToolbox armv6  &lt;bb65e8ed531fe5923eb8ac00a7c0d87d&gt; /System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+0x305a2000 - 0x306fffff  libGLProgrammability.dylib armv6  &lt;aec6b54ffd532bb607aab4acbab679b6&gt; /System/Library/Frameworks/OpenGLES.framework/libGLProgrammability.dylib
+0x3076a000 - 0x30770fff  MBX2D armv6  &lt;fad4955cab36e0179df6f8f27d365b8f&gt; /System/Library/PrivateFrameworks/MBX2D.framework/MBX2D
+0x30859000 - 0x30866fff  CoreVideo armv6  &lt;7b100fd5fdf98db1cd0f0649e7f6f316&gt; /System/Library/Frameworks/CoreVideo.framework/CoreVideo
+0x3089e000 - 0x308a3fff  CaptiveNetwork armv6  &lt;f41df4b358b77b29ff85e0eaea88ee1d&gt; /System/Library/PrivateFrameworks/CaptiveNetwork.framework/CaptiveNetwork
+0x30966000 - 0x30984fff  VCH263.videodecoder armv6  &lt;7f1ba0e9d6e9aab0fedb7c76f17ff023&gt; /System/Library/VideoDecoders/VCH263.videodecoder
+0x309d7000 - 0x309d8fff  DataMigration armv6  &lt;d2de7c0db77278484236669c2cdccabb&gt; /System/Library/PrivateFrameworks/DataMigration.framework/DataMigration
+0x30adb000 - 0x30b1efff  CoreTelephony armv6  &lt;cabbce0fa7630065dc7e7d3ca3bc616c&gt; /System/Library/Frameworks/CoreTelephony.framework/CoreTelephony
+0x32c77000 - 0x32c95fff  OpenAL armv6  &lt;e86dc71ad650db8a13e4785e9c35a4b9&gt; /System/Library/Frameworks/OpenAL.framework/OpenAL
+0x32c9c000 - 0x32ddafff  libSystem.B.dylib armv6  &lt;70571c1e697e2ae7f7a9b1a499453bb6&gt; /usr/lib/libSystem.B.dylib
+0x32ddb000 - 0x32ea5fff  Celestial armv6  &lt;11172a6ee53bdf067548cd4496bc5fe0&gt; /System/Library/PrivateFrameworks/Celestial.framework/Celestial
+0x32ea6000 - 0x32ee5fff  MBXGLEngine armv6  &lt;9d60c44b1ddc55387a0cb77f90660b37&gt; /System/Library/Frameworks/OpenGLES.framework/MBXGLEngine.bundle/MBXGLEngine
+0x32ee6000 - 0x32f42fff  libGLImage.dylib armv6  &lt;7c1049f20c4e64591c09d3ac00c7d3ab&gt; /System/Library/Frameworks/OpenGLES.framework/libGLImage.dylib
+0x33035000 - 0x33035fff  vecLib armv6  &lt;8f914b3e8a581d49fb21d2c0ff75be03&gt; /System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/vecLib
+0x331fc000 - 0x331fffff  MobileInstallation armv6  &lt;456ed7fe6dd9fcd8e78df425085b1452&gt; /System/Library/PrivateFrameworks/MobileInstallation.framework/MobileInstallation
+0x33201000 - 0x3320cfff  libbz2.1.0.dylib armv6  &lt;6aa8a4ed0906a495d059ace9125f525d&gt; /usr/lib/libbz2.1.0.dylib
+0x33268000 - 0x3326dfff  IOSurface armv6  &lt;ffd66ca04dfe7d382d6961f0df3839ff&gt; /System/Library/PrivateFrameworks/IOSurface.framework/IOSurface
+0x3326e000 - 0x33273fff  libGFXShared.dylib armv6  &lt;bd1c480607cc286288db1ca1aec64180&gt; /System/Library/Frameworks/OpenGLES.framework/libGFXShared.dylib
+0x33274000 - 0x33276fff  IOMobileFramebuffer armv6  &lt;f42bbbf67195a7b98d67ad021bba4784&gt; /System/Library/PrivateFrameworks/IOMobileFramebuffer.framework/IOMobileFramebuffer
+0x3328b000 - 0x3328cfff  CoreSurface armv6  &lt;5e290514380c626e9b0f9f9985b9dc7a&gt; /System/Library/PrivateFrameworks/CoreSurface.framework/CoreSurface
+0x33300000 - 0x33303fff  MP4VH1.videodecoder armv6  &lt;dec1ecfcb16268f65db2f887e797433a&gt; /System/Library/VideoDecoders/MP4VH1.videodecoder
+0x3330c000 - 0x33317fff  MobileWiFi armv6  &lt;c7532e63e083a1dd2a0ef7352b85749d&gt; /System/Library/PrivateFrameworks/MobileWiFi.framework/MobileWiFi
+0x3337a000 - 0x3337efff  ApplePushService armv6  &lt;0560b630d26e261e205fc58942e1885c&gt; /System/Library/PrivateFrameworks/ApplePushService.framework/ApplePushService
+0x3337f000 - 0x3337ffff  Accelerate armv6  &lt;cdde24a7ad004b2b2e600cd4f3ac5eb7&gt; /System/Library/Frameworks/Accelerate.framework/Accelerate
+0x33417000 - 0x33476fff  CoreAudio armv6  &lt;ccc4bace0d6eca79a32ed84d566f72e9&gt; /System/Library/Frameworks/CoreAudio.framework/CoreAudio
+0x33477000 - 0x3348dfff  PersistentConnection armv6  &lt;006723906b8ac250c1681a1821fbe94d&gt; /System/Library/PrivateFrameworks/PersistentConnection.framework/PersistentConnection
+0x334a1000 - 0x334e5fff  AddressBook armv6  &lt;1f30c3370dad27331a491ba4b190813c&gt; /System/Library/Frameworks/AddressBook.framework/AddressBook
+0x334e6000 - 0x33505fff  EAP8021X armv6  &lt;fa56845b5396c3ebb368c2368331643c&gt; /System/Library/PrivateFrameworks/EAP8021X.framework/EAP8021X
+0x33506000 - 0x33509fff  ArtworkCache armv6  &lt;9cf3f86a9d03fd428d82e2417f26ec59&gt; /System/Library/PrivateFrameworks/ArtworkCache.framework/ArtworkCache
+0x3358f000 - 0x335fffff  libsqlite3.dylib armv6  &lt;87b9bb47687902d9120d03d1da9eb9fc&gt; /usr/lib/libsqlite3.dylib
+0x33600000 - 0x33605fff  AssetsLibraryServices armv6  &lt;224b3cf992a01814f91481244e3213eb&gt; /System/Library/PrivateFrameworks/AssetsLibraryServices.framework/AssetsLibraryServices
+0x33620000 - 0x33627fff  libMobileGestalt.dylib armv6  &lt;de9b417e7278742e90b30b1ad45f31fa&gt; /usr/lib/libMobileGestalt.dylib
+0x3362d000 - 0x33671fff  VideoToolbox armv6  &lt;101dbbcd34cc3231a8be3fd6392556aa&gt; /System/Library/PrivateFrameworks/VideoToolbox.framework/VideoToolbox
+0x337c7000 - 0x3381afff  IOKit armv6  &lt;20da5e822f21a8d0a7c5b3e149330efd&gt; /System/Library/Frameworks/IOKit.framework/Versions/A/IOKit
+0x3381b000 - 0x33c97fff  UIKit armv6  &lt;14ec6c926b8bda71b73136f6e1a6ac1b&gt; /System/Library/Frameworks/UIKit.framework/UIKit
+0x33ced000 - 0x33d0bfff  libresolv.9.dylib armv6  &lt;9c94634beea733e754dc115737b6e63c&gt; /usr/lib/libresolv.9.dylib
+0x33e15000 - 0x33f9cfff  CoreGraphics armv6  &lt;9a1d72fa9549d83abc1e735ba37a4dc2&gt; /System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+0x33fb3000 - 0x340d4fff  Foundation armv6  &lt;6bdeb19a1fcb93e2930dadb50416f881&gt; /System/Library/Frameworks/Foundation.framework/Foundation
+0x340d5000 - 0x340e8fff  libmis.dylib armv6  &lt;dba9c086b49bd9540930ff27211570d6&gt; /usr/lib/libmis.dylib
+0x340ea000 - 0x340edfff  libAccessibility.dylib armv6  &lt;74e0f77cc276a9412be268c795fdcbca&gt; /usr/lib/libAccessibility.dylib
+0x341bc000 - 0x34389fff  MediaToolbox armv6  &lt;21ceabd0e5de17ad4e883c85fcd34d51&gt; /System/Library/PrivateFrameworks/MediaToolbox.framework/MediaToolbox
+0x343fb000 - 0x3449afff  ProofReader armv6  &lt;2734920b62f174c17aeeb15f371615ef&gt; /System/Library/PrivateFrameworks/ProofReader.framework/ProofReader
+0x3449b000 - 0x344a7fff  libkxld.dylib armv6  &lt;f74f359de7bbe3ccdc37fa6f332aebf4&gt; /usr/lib/system/libkxld.dylib
+0x346d1000 - 0x346dbfff  AccountSettings armv6  &lt;eca67ab04f724e1fa7c6406c88e75433&gt; /System/Library/PrivateFrameworks/AccountSettings.framework/AccountSettings
+0x346dc000 - 0x347c8fff  QuartzCore armv6  &lt;77cd91ff21fe6c58c309f2c82eb95ca5&gt; /System/Library/Frameworks/QuartzCore.framework/QuartzCore
+0x347f5000 - 0x34801fff  SpringBoardServices armv6  &lt;fd0c472436b3306f5b56118c93c8a423&gt; /System/Library/PrivateFrameworks/SpringBoardServices.framework/SpringBoardServices
+0x3481c000 - 0x34878fff  H264M2.videodecoder armv6  &lt;d03d1e7f4a6d6e32e5d9f6084acdd95e&gt; /System/Library/VideoDecoders/H264M2.videodecoder
+0x34879000 - 0x34884fff  ITSync armv6  &lt;a451205e89373cbdf0832688085e8f72&gt; /System/Library/PrivateFrameworks/ITSync.framework/ITSync
+0x34885000 - 0x348c7fff  ManagedConfiguration armv6  &lt;397723a33c19c3487d304d69580acbfc&gt; /System/Library/PrivateFrameworks/ManagedConfiguration.framework/ManagedConfiguration
+0x348c8000 - 0x348cbfff  CrashReporterSupport armv6  &lt;00bc60f690e6328b64e7a7b718edf45a&gt; /System/Library/PrivateFrameworks/CrashReporterSupport.framework/CrashReporterSupport
+0x348cc000 - 0x349adfff  AudioCodecs armv6  &lt;73477d4964476ead5ba488df5c2a518b&gt; /System/Library/Frameworks/AudioToolbox.framework/AudioCodecs
+0x34b0f000 - 0x34edcfff  libLAPACK.dylib armv6  &lt;0eb734c91165416224b98c943ff6476b&gt; /System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libLAPACK.dylib
+0x34ef3000 - 0x34fcffff  WebKit armv6  &lt;83da207070be989ba81dba3a83d5206a&gt; /System/Library/PrivateFrameworks/WebKit.framework/WebKit
+0x34ff2000 - 0x35001fff  OpenGLES armv6  &lt;37eda5ddcff210dd321157da35a87a5e&gt; /System/Library/Frameworks/OpenGLES.framework/OpenGLES
+0x35074000 - 0x3518bfff  libicucore.A.dylib armv6  &lt;8968ff3f62d7780bb1bd75026a7628d0&gt; /usr/lib/libicucore.A.dylib
+0x3525d000 - 0x3526cfff  GraphicsServices armv6  &lt;af20aba0ec96e7b7c42bb55ac763c784&gt; /System/Library/PrivateFrameworks/GraphicsServices.framework/GraphicsServices
+0x3526d000 - 0x352b0fff  SystemConfiguration armv6  &lt;207f362e707871e74a292cfd1ea7893d&gt; /System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+0x354c4000 - 0x354c7fff  JPEGH1.videodecoder armv6  &lt;4aceaa1dfe7ac562517f650990c263c3&gt; /System/Library/VideoDecoders/JPEGH1.videodecoder
+0x354cb000 - 0x354d1fff  MobileKeyBag armv6  &lt;2d83bf6a43bab972d77a1a6e0f3b03d2&gt; /System/Library/PrivateFrameworks/MobileKeyBag.framework/MobileKeyBag
+0x3564b000 - 0x3569afff  Security armv6  &lt;cf625b4dc7ea928891313444ef64a7cb&gt; /System/Library/Frameworks/Security.framework/Security
+0x357ca000 - 0x35835fff  libstdc++.6.dylib armv6  &lt;eccd1d7183e73587b2c0aa5755a19c39&gt; /usr/lib/libstdc++.6.dylib
+0x35836000 - 0x35850fff  MediaControl armv6  &lt;e28edb7fc22ba1c7ad921bf9b97b19b3&gt; /System/Library/PrivateFrameworks/MediaControl.framework/MediaControl
+0x35851000 - 0x35885fff  AppSupport armv6  &lt;783e14db9585fd063c0c2a755cd121b6&gt; /System/Library/PrivateFrameworks/AppSupport.framework/AppSupport
+0x358fc000 - 0x35936fff  MobileCoreServices armv6  &lt;beb473ce80390554bb4af21554522286&gt; /System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+0x35cdb000 - 0x35d25fff  libCGFreetype.A.dylib armv6  &lt;cfc94cfa17958f2f94c9eff208a7dace&gt; /System/Library/Frameworks/CoreGraphics.framework/Resources/libCGFreetype.A.dylib
+0x35d51000 - 0x35e47fff  libxml2.2.dylib armv6  &lt;9c44d05cc67f1ebabd795903e581724e&gt; /usr/lib/libxml2.2.dylib
+0x35e64000 - 0x35f4ffff  CoreFoundation armv6  &lt;ab0eac0ddd5b4ae1bf8541116e3c0bd1&gt; /System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+0x35f76000 - 0x3606afff  libiconv.2.dylib armv6  &lt;01916d6784f4de8f3746978faae9c5fa&gt; /usr/lib/libiconv.2.dylib
+0x360f0000 - 0x361edfff  JavaScriptCore armv6  &lt;3547c92c1efc0522b087e7f10eba7728&gt; /System/Library/PrivateFrameworks/JavaScriptCore.framework/JavaScriptCore
+0x361ee000 - 0x361fbfff  MobileBluetooth armv6  &lt;2b68516e1321011a4efbee2947d463c6&gt; /System/Library/PrivateFrameworks/MobileBluetooth.framework/MobileBluetooth
+0x361fc000 - 0x36225fff  StoreServices armv6  &lt;4606b36354f613074c37bdd85b2c53ed&gt; /System/Library/PrivateFrameworks/StoreServices.framework/StoreServices
+0x36752000 - 0x36771fff  Bom armv6  &lt;f41bef81e23e2bff59155e5ce46762d3&gt; /System/Library/PrivateFrameworks/Bom.framework/Bom
+0x36772000 - 0x36814fff  AVFoundation armv6  &lt;da9d96f32791f51ecb439c5eaeeff59a&gt; /System/Library/Frameworks/AVFoundation.framework/AVFoundation
+0x36826000 - 0x36830fff  AggregateDictionary armv6  &lt;f7429444c955e4f13c6761d20032ab52&gt; /System/Library/PrivateFrameworks/AggregateDictionary.framework/AggregateDictionary
+0x36849000 - 0x36850fff  liblockdown.dylib armv6  &lt;f470dea180ddf23886df75eb256d3888&gt; /usr/lib/liblockdown.dylib
+0x368cc000 - 0x3711bfff  WebCore armv6  &lt;aa3b6827f051da7a3494c9bee4ebe290&gt; /System/Library/PrivateFrameworks/WebCore.framework/WebCore
+0x3713e000 - 0x3714cfff  libz.1.dylib armv6  &lt;84592e96bae1a661374b0f9a5d03a3a0&gt; /usr/lib/libz.1.dylib
+0x3718e000 - 0x371dcfff  CoreText armv6  &lt;16c9582fdffb598178287c6ce9fd6897&gt; /System/Library/Frameworks/CoreText.framework/CoreText
+0x37378000 - 0x373defff  libBLAS.dylib armv6  &lt;11a3677a08175a30df1b3d66d7e0951a&gt; /System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libBLAS.dylib
+0x373df000 - 0x37436fff  CoreMedia armv6  &lt;cd5e9398c161f129146931e888e1c92e&gt; /System/Library/Frameworks/CoreMedia.framework/CoreMedia
+0x37437000 - 0x3757afff  MediaPlayer armv6  &lt;47513ac46e4142e68d0af6d6f7abab88&gt; /System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+0x3757d000 - 0x375a7fff  PrintKit armv6  &lt;74f9710fa01a33b5bb04c4aeabd6be7d&gt; /System/Library/PrivateFrameworks/PrintKit.framework/PrintKit
+0x375bf000 - 0x375c7fff  IAP armv6  &lt;0e9f5da9eff05f936c2c363ce7d179dd&gt; /System/Library/PrivateFrameworks/IAP.framework/IAP
+0x3777f000 - 0x37840fff  ImageIO armv6  &lt;0c1b6f466667ff345f2399d8142a9d10&gt; /System/Library/Frameworks/ImageIO.framework/ImageIO
+0x378b3000 - 0x3791bfff  libvDSP.dylib armv6  &lt;9d264733fc675943c082bd3b9b567b59&gt; /System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libvDSP.dylib
+0x37a1f000 - 0x37a31fff  libbsm.0.dylib armv6  &lt;51e7bb18da9afa44a33e54e42fbd0707&gt; /usr/lib/libbsm.0.dylib
+</string>
+	<key>displayName</key>
+	<string>OsuLegacy</string>
+	<key>name</key>
+	<string>OsuLegacy</string>
+	<key>os_version</key>
+	<string>iPhone OS 4.2.1 (8C148)</string>
+	<key>system_ID</key>
+	<string></string>
+	<key>version</key>
+	<string>??? (???)</string>
+</dict>
+</plist>

@@ -1,0 +1,841 @@
+checking build system type... x86_64-apple-darwin
+checking host system type... arm-apple-darwin
+checking target system type... arm-apple-darwin
+checking for a BSD-compatible install... /opt/homebrew/bin/ginstall -c
+checking whether sleep supports fractional seconds... yes
+checking filesystem timestamp resolution... 2
+checking whether build environment is sane... yes
+checking for arm-apple-darwin-strip... no
+checking for strip... strip
+configure: WARNING: using cross tools not prefixed with host triplet
+checking for a race-free mkdir -p... /opt/homebrew/bin/gmkdir -p
+checking for gawk... no
+checking for mawk... no
+checking for nawk... no
+checking for awk... awk
+checking whether make sets $(MAKE)... yes
+checking whether make supports nested variables... yes
+checking xargs -n works... yes
+checking whether UID '501' is supported by ustar format... yes
+checking whether GID '20' is supported by ustar format... yes
+checking how to create a ustar tar archive... gnutar
+checking whether to enable maintainer-specific portions of Makefiles... no
+checking whether ln -s works... yes
+checking host platform characteristics... ok
+checking for arm-apple-darwin-gcc... /private/tmp/osu-armv6-mono-cc
+checking for arm-apple-darwin-gcc... (cached) /private/tmp/osu-armv6-mono-cc
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... yes
+checking for suffix of object files... o
+checking whether the compiler supports GNU C... yes
+checking whether /private/tmp/osu-armv6-mono-cc accepts -g... yes
+checking for /private/tmp/osu-armv6-mono-cc option to enable C11 features... none needed
+checking whether /private/tmp/osu-armv6-mono-cc understands -c and -o together... yes
+checking whether make supports the include directive... yes (GNU style)
+checking dependency style of /private/tmp/osu-armv6-mono-cc... gcc3
+checking for arm-apple-darwin-g++... no
+checking for g++... g++
+checking whether the compiler supports GNU C++... yes
+checking whether g++ accepts -g... yes
+checking for g++ option to enable C++11 features... none needed
+checking dependency style of g++... gcc3
+checking dependency style of /private/tmp/osu-armv6-mono-cc... gcc3
+checking for gawk... (cached) awk
+checking for stdio.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for strings.h... yes
+checking for sys/stat.h... yes
+checking for sys/types.h... yes
+checking for unistd.h... yes
+checking for grep that handles long lines and -e... /usr/bin/grep
+checking for egrep... /usr/bin/grep -E
+configure: WARNING: Libtool does not cope well with whitespace in `pwd`
+checking how to print strings... printf
+checking for a sed that does not truncate output... /usr/bin/sed
+checking for fgrep... /usr/bin/grep -F
+checking for ld used by /private/tmp/osu-armv6-mono-cc... /Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/toolchain/common-3.0.sdk/usr/bin/ld
+checking if the linker (/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/toolchain/common-3.0.sdk/usr/bin/ld) is GNU ld... no
+checking for BSD- or MS-compatible name lister (nm)... no
+checking for arm-apple-darwin-dumpbin... no
+checking for arm-apple-darwin-link... no
+checking for dumpbin... no
+checking for link... link -dump
+checking the name lister (nm) interface... BSD nm
+checking the maximum length of command line arguments... sysctl: sysctl fmt -1 1024 1: Operation not permitted
+expr: syntax error
+expr: syntax error
+none
+checking how to convert x86_64-apple-darwin file names to arm-apple-darwin format... func_convert_file_noop
+checking how to convert x86_64-apple-darwin file names to toolchain format... func_convert_file_noop
+checking for /Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/toolchain/common-3.0.sdk/usr/bin/ld option to reload object files... -r
+checking for file... file
+checking for arm-apple-darwin-objdump... objdump
+checking how to recognize dependent libraries... pass_all
+checking for arm-apple-darwin-dlltool... dlltool
+checking how to associate runtime and link libraries... printf %s\n
+checking for arm-apple-darwin-ranlib... no
+checking for ranlib... ranlib
+checking for arm-apple-darwin-ar... no
+checking for ar... ar
+checking for archiver @FILE support... no
+checking for arm-apple-darwin-strip... strip
+checking command to parse nm output from /private/tmp/osu-armv6-mono-cc object... ok
+checking for sysroot... no
+checking for a working dd... /bin/dd
+checking how to truncate binary pipes... /bin/dd bs=4096 count=1
+checking for arm-apple-darwin-mt... no
+checking for mt... no
+checking if : is a manifest tool... no
+checking for arm-apple-darwin-dsymutil... no
+checking for dsymutil... dsymutil
+checking for arm-apple-darwin-nmedit... no
+checking for nmedit... nmedit
+checking for arm-apple-darwin-lipo... no
+checking for lipo... lipo
+checking for arm-apple-darwin-otool... no
+checking for otool... otool
+checking for arm-apple-darwin-otool64... no
+checking for otool64... no
+checking for -single_module linker flag... no
+checking for -no_fixup_chains linker flag... no
+checking for -exported_symbols_list linker flag... yes
+checking for -force_load linker flag... yes
+checking for dlfcn.h... yes
+checking for objdir... .libs
+checking if /private/tmp/osu-armv6-mono-cc supports -fno-rtti -fno-exceptions... yes
+checking for /private/tmp/osu-armv6-mono-cc option to produce PIC... -fno-common -DPIC
+checking if /private/tmp/osu-armv6-mono-cc PIC flag -fno-common -DPIC works... yes
+checking if /private/tmp/osu-armv6-mono-cc static flag -static works... no
+checking if /private/tmp/osu-armv6-mono-cc supports -c -o file.o... yes
+checking if /private/tmp/osu-armv6-mono-cc supports -c -o file.o... (cached) yes
+checking whether the /private/tmp/osu-armv6-mono-cc linker (/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/toolchain/common-3.0.sdk/usr/bin/ld) supports shared libraries... yes
+checking dynamic linker characteristics... darwin dyld
+checking how to hardcode library paths into programs... immediate
+checking whether stripping libraries is possible... yes
+checking if libtool supports shared libraries... yes
+checking whether to build shared libraries... no
+checking whether to build static libraries... yes
+checking how to run the C++ preprocessor... g++ -E
+checking for ld used by g++... /Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/toolchain/common-3.0.sdk/usr/bin/ld
+checking if the linker (/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/toolchain/common-3.0.sdk/usr/bin/ld) is GNU ld... no
+checking whether the g++ linker (/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/toolchain/common-3.0.sdk/usr/bin/ld) supports shared libraries... yes
+checking for g++ option to produce PIC... -fno-common -DPIC
+checking if g++ PIC flag -fno-common -DPIC works... yes
+checking if g++ static flag -static works... no
+checking if g++ supports -c -o file.o... yes
+checking if g++ supports -c -o file.o... (cached) yes
+checking whether the g++ linker (/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/toolchain/common-3.0.sdk/usr/bin/ld) supports shared libraries... yes
+checking dynamic linker characteristics... darwin dyld
+checking how to hardcode library paths into programs... immediate
+checking for bash... /bin/bash
+checking if dolt supports this host... yes, replacing libtool
+checking for ld used by /private/tmp/osu-armv6-mono-cc... (cached) /Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/toolchain/common-3.0.sdk/usr/bin/ld
+checking if the linker (/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/toolchain/common-3.0.sdk/usr/bin/ld) is GNU ld... (cached) no
+checking for ld used by GCC... /Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/toolchain/common-3.0.sdk/usr/bin/ld
+checking if the linker (/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/toolchain/common-3.0.sdk/usr/bin/ld) is GNU ld... no
+checking for shared library run path origin... done
+checking how to run the C preprocessor... /private/tmp/osu-armv6-mono-cc -E
+checking for egrep -e... (cached) /usr/bin/grep -E
+checking for iconv... no, consider installing GNU libiconv
+checking for sys/filio.h... yes
+checking for sys/sockio.h... yes
+checking for netdb.h... yes
+checking for utime.h... yes
+checking for sys/utime.h... no
+checking for semaphore.h... yes
+checking for sys/un.h... yes
+checking for linux/rtc.h... no
+checking for sys/syscall.h... no
+checking for sys/mkdev.h... no
+checking for sys/uio.h... yes
+checking for sys/param.h... yes
+checking for libproc.h... no
+checking for sys/param.h... (cached) yes
+checking for sys/socket.h... yes
+checking for sys/ipc.h... yes
+checking for sys/sem.h... yes
+checking for sys/utsname.h... yes
+checking for alloca.h... yes
+checking for ucontext.h... yes
+checking for pwd.h... yes
+checking for sys/select.h... yes
+checking for netinet/tcp.h... yes
+checking for netinet/in.h... yes
+checking for unistd.h... (cached) yes
+checking for sys/types.h... (cached) yes
+checking for link.h... no
+checking for asm/sigcontext.h... no
+checking for sys/inotify.h... no
+checking for linux/netlink.h... no
+checking for linux/rtnetlink.h... no
+checking for sys/user.h... yes
+checking for zlib.h... no
+checking for elf.h... no
+checking for poll.h... yes
+checking for sys/poll.h... yes
+checking for sys/wait.h... yes
+checking for grp.h... yes
+checking for syslog.h... yes
+checking for wchar.h... yes
+checking for ieeefp.h... no
+checking for isinf... yes
+checking for linux/magic.h... no
+checking size of void *... 4
+checking for -Wdeclaration-after-statement option to gcc... yes
+checking for -Wno-unused-but-set-variable option to gcc... yes
+checking for clang... yes
+checking whether NLS is requested... yes
+checking for msgfmt... /opt/anaconda3/bin/msgfmt
+checking for gmsgfmt... /opt/anaconda3/bin/msgfmt
+checking for xgettext... /opt/anaconda3/bin/xgettext
+checking for msgmerge... /opt/anaconda3/bin/msgmerge
+checking for msgfmt... yes
+checking for pkg-config... /opt/homebrew/bin/pkg-config
+checking for visibility __attribute__... yes
+checking for deprecated __attribute__... yes
+checking whether /private/tmp/osu-armv6-mono-cc supports zero length arrays... yes
+checking for nacl/nacl_dyncode.h... no
+checking for library containing clock_gettime... no
+checking for dlopen... yes
+checking for preceeding underscore in symbols... (cached) no
+checking for dlerror... yes
+checking for execinfo.h... no
+checking for getgrgid_r... no
+checking for getgrnam_r... no
+checking for getpwnam_r... no
+checking for getpwuid_r... no
+checking for getresuid... no
+checking for setresuid... no
+checking for kqueue... no
+checking for backtrace_symbols... no
+checking for mkstemp... no
+checking for mmap... yes
+checking for madvise... no
+checking for getrusage... no
+checking for getpriority... no
+checking for setpriority... no
+checking for dl_iterate_phdr... no
+checking for dladdr... no
+checking for sysconf... no
+checking for sched_setaffinity... no
+checking for sched_getcpu... no
+checking for sched_setaffinity from glibc < 2.3.4... no
+checking if off_t is 64 bits wide... ok
+checking for socket in -lsocket... no
+checking for MSG_NOSIGNAL... no
+checking for IPPROTO_IP... yes
+checking for IPPROTO_IPV6... yes
+checking for IPPROTO_TCP... yes
+checking for SOL_IP... no
+checking for SOL_IPV6... no
+checking for SOL_TCP... no
+checking for IP_PKTINFO... no
+checking for IPV6_PKTINFO... no
+checking for IP_DONTFRAG... no
+checking for IP_DONTFRAGMENT... no
+checking for IP_MTU_DISCOVER... no
+checking for IP_PMTUDISC_DO... no
+checking for struct ip_mreqn... yes
+checking for gethostbyname2_r... no
+checking for gethostbyaddr... no
+checking for gethostbyaddr in -lnsl... no
+checking for inet_pton... yes
+checking for inet_aton... no
+checking size of sockaddr_un.sun_path... (cached) 104
+checking for main in -lpthread... no
+checking for pthread.h... yes
+checking for pthread_np.h... no
+checking for pthread_mutex_timedlock... no
+checking for pthread_getattr_np... no
+checking for pthread_attr_get_np... no
+checking for pthread_kill... no
+checking for PTHREAD_MUTEX_RECURSIVE... ok
+checking for pthread_attr_setstacksize... yes
+checking for pthread_attr_getstack... no
+checking for pthread_attr_getstacksize... yes
+checking for pthread_get_stacksize_np... no
+checking for pthread_get_stackaddr_np... no
+checking for signal.h... yes
+checking for sigaction... yes
+checking for working __thread... disabled
+checking for working sigaltstack... disabled
+checking for library containing sem_init... none required
+checking for library containing shm_open... no
+checking for shm_open... no
+checking for tm_gmtoff in struct tm... yes
+checking for library containing sqrtf... none required
+checking for isfinite... no
+checking for isfinite in math.h... yes
+checking for poll... yes
+checking for signbit... yes
+checking for sys/epoll.h... no
+checking for epoll_ctl... no
+checking for kqueue... (cached) no
+checking for kqueue in sys/event.h... checking for sys/ioctl.h... yes
+checking for net/if.h... no
+checking for ifreq... no
+checking for sockaddr_in.sin_len... yes
+checking for sockaddr_in6.sin6_len... yes
+checking for getifaddrs... no
+checking for if_nametoindex... no
+checking for checklist.h... no
+checking for pathconf.h... no
+checking for fstab.h... yes
+checking for attr/xattr.h... no
+checking for sys/extattr.h... no
+checking for sys/sendfile.h... no
+checking for sys/statvfs.h... no
+checking for sys/statfs.h... no
+checking for sys/vfstab.h... no
+checking for sys/xattr.h... yes
+checking for sys/mman.h... yes
+checking for sys/param.h... (cached) yes
+checking for sys/mount.h... yes
+checking for sys/mount.h... (cached) yes
+checking for confstr... yes
+checking for seekdir... no
+checking for telldir... no
+checking for getdomainname... no
+checking for setdomainname... no
+checking for endgrent... no
+checking for getgrent... no
+checking for fgetgrent... no
+checking for setgrent... no
+checking for setgroups... no
+checking for endpwent... no
+checking for getpwent... no
+checking for fgetpwent... no
+checking for setpwent... no
+checking for getfsstat... no
+checking for lutimes... no
+checking for futimes... no
+checking for mremap... no
+checking for remap_file_pages... no
+checking for posix_fadvise... no
+checking for posix_fallocate... no
+checking for posix_madvise... no
+checking for vsnprintf... yes
+checking for sendfile... no
+checking for gethostid... no
+checking for sethostid... no
+checking for sethostname... no
+checking for statfs... yes
+checking for fstatfs... no
+checking for statvfs... no
+checking for fstatvfs... no
+checking for stime... no
+checking for strerror_r... no
+checking for ttyname_r... no
+checking for psignal... no
+checking for getlogin_r... no
+checking for lockf... no
+checking for swab... no
+checking for setusershell... no
+checking for endusershell... no
+checking for futimens... no
+checking for utimensat... no
+checking for fstatat... no
+checking for mknodat... no
+checking for readlinkat... no
+checking for readv... no
+checking for writev... no
+checking for preadv... no
+checking for pwritev... no
+checking size of size_t... 4
+checking for blksize_t... yes
+checking for blkcnt_t... yes
+checking for suseconds_t... yes
+checking for struct flock... yes
+checking for struct iovec... yes
+checking for struct pollfd... yes
+checking for struct stat... yes
+checking for struct timespec... yes
+checking for struct timeval... yes
+checking for struct timezone... yes
+checking for struct utimbuf... yes
+checking for struct dirent.d_off... no
+checking for struct dirent.d_reclen... yes
+checking for struct dirent.d_type... yes
+checking for struct passwd.pw_gecos... yes
+checking for struct statfs.f_flags... no
+checking for struct stat.st_atim... no
+checking for struct stat.st_mtim... no
+checking for struct stat.st_ctim... no
+checking for lsetxattr... no
+checking for lsetxattr in -lattr... no
+checking for struct kinfo_proc.kp_proc... yes
+checking for sys/time.h... yes
+checking for sys/param.h... (cached) yes
+checking for dirent.h... yes
+checking for CommonCrypto/CommonDigest.h... no
+checking for curses.h... no
+checking for term.h... no
+checking for termios.h... yes
+checking for socklen_t... yes
+checking for array element initializer support... yes
+checking for trunc... yes
+checking for aintl in -lsunmath... no
+checking for round... yes
+checking for rint... no
+checking for execvp... no
+checking if usage of random device is requested... yes
+checking for random device... yes
+checking if inter-process shared handles are requested... yes
+checking if big-arrays are to be enabled... no
+checking if the Mono Debugger is supported on this platform... no
+checking which FPU to use... VFP
+checking for malloc.h... no
+checking that generated files are newer than configure... done
+configure: creating ./config.status
+config.status: creating po/mcs/Makefile.in
+config.status: creating runtime/mono-wrapper
+config.status: creating runtime/monodis-wrapper
+config.status: creating Makefile
+config.status: creating mono-core.spec
+config.status: creating mono-uninstalled.pc
+config.status: creating scripts/mono-find-provides
+config.status: creating scripts/mono-find-requires
+config.status: creating mono/Makefile
+config.status: creating mono/utils/Makefile
+config.status: creating mono/metadata/Makefile
+config.status: creating mono/dis/Makefile
+config.status: creating mono/cil/Makefile
+config.status: creating mono/arch/Makefile
+config.status: creating mono/arch/x86/Makefile
+config.status: creating mono/arch/amd64/Makefile
+config.status: creating mono/arch/ppc/Makefile
+config.status: creating mono/arch/sparc/Makefile
+config.status: creating mono/arch/s390x/Makefile
+config.status: creating mono/arch/arm/Makefile
+config.status: creating mono/arch/ia64/Makefile
+config.status: creating mono/arch/mips/Makefile
+config.status: creating mono/interpreter/Makefile
+config.status: creating mono/tests/Makefile
+config.status: creating mono/tests/tests-config
+config.status: creating mono/tests/assemblyresolve/Makefile
+config.status: creating mono/tests/cas/Makefile
+config.status: creating mono/tests/cas/assembly/Makefile
+config.status: creating mono/tests/cas/demand/Makefile
+config.status: creating mono/tests/cas/inheritance/Makefile
+config.status: creating mono/tests/cas/linkdemand/Makefile
+config.status: creating mono/tests/cas/threads/Makefile
+config.status: creating mono/tests/gc-descriptors/Makefile
+config.status: creating mono/benchmark/Makefile
+config.status: creating mono/monograph/Makefile
+config.status: creating mono/io-layer/Makefile
+config.status: creating mono/mini/Makefile
+config.status: creating mono/profiler/Makefile
+config.status: creating m4/Makefile
+config.status: creating ikvm-native/Makefile
+config.status: creating scripts/Makefile
+config.status: creating man/Makefile
+config.status: creating docs/Makefile
+config.status: creating data/Makefile
+config.status: creating data/net_2_0/Makefile
+config.status: creating data/net_4_0/Makefile
+config.status: creating data/net_4_5/Makefile
+config.status: creating data/net_2_0/Browsers/Makefile
+config.status: creating data/mint.pc
+config.status: creating data/mono-2.pc
+config.status: creating data/monosgen-2.pc
+config.status: creating data/mono.pc
+config.status: creating data/mono-cairo.pc
+config.status: creating data/mono-nunit.pc
+config.status: creating data/mono-options.pc
+config.status: creating data/mono-lineeditor.pc
+config.status: creating data/monodoc.pc
+config.status: creating data/mono.web.pc
+config.status: creating data/dotnet.pc
+config.status: creating data/dotnet35.pc
+config.status: creating data/wcf.pc
+config.status: creating data/cecil.pc
+config.status: creating data/system.web.extensions_1.0.pc
+config.status: creating data/system.web.extensions.design_1.0.pc
+config.status: creating data/system.web.mvc.pc
+config.status: creating data/system.web.mvc2.pc
+config.status: creating data/system.web.mvc3.pc
+config.status: creating data/aspnetwebstack.pc
+config.status: creating data/reactive.pc
+config.status: creating samples/Makefile
+config.status: creating support/Makefile
+config.status: creating data/config
+config.status: creating tools/Makefile
+config.status: creating tools/locale-builder/Makefile
+config.status: creating tools/sgen/Makefile
+config.status: creating runtime/Makefile
+config.status: creating msvc/Makefile
+config.status: creating po/Makefile
+config.status: creating config.h
+config.status: config.h is unchanged
+config.status: executing depfiles commands
+config.status: executing libtool commands
+config.status: executing po-directories commands
+config.status: creating po/mcs/POTFILES
+config.status: creating po/mcs/Makefile
+config.status: executing runtime/etc/mono/1.0/machine.config commands
+config.status: executing runtime/etc/mono/2.0/machine.config commands
+config.status: executing runtime/etc/mono/2.0/web.config commands
+config.status: executing runtime/etc/mono/browscap.ini commands
+config.status: executing runtime/etc/mono/2.0/Browsers/Compat.browser commands
+config.status: executing runtime/etc/mono/4.0/machine.config commands
+config.status: executing runtime/etc/mono/4.0/web.config commands
+config.status: executing runtime/etc/mono/4.5/machine.config commands
+config.status: executing runtime/etc/mono/4.5/web.config commands
+config.status: executing quiet-libtool commands
+=== configuring in eglib (/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-reconstructed-sdk/eglib)
+configure: running /bin/sh ../../../mono-legacy/eglib/configure --disable-option-checking '--prefix=/usr/local'  '--build=x86_64-apple-darwin' '--host=arm-apple-darwin' '--disable-mcs-build' '--with-tls=pthread' '--with-glib=embedded' '--disable-shared' '--with-sigaltstack=no' '--disable-boehm' '--with-sgen=yes' 'CC=/private/tmp/osu-armv6-mono-cc' 'build_alias=x86_64-apple-darwin' 'host_alias=arm-apple-darwin' 'CPPFLAGS_FOR_EGLIB=' 'CFLAGS_FOR_EGLIB=' '--disable-embed-check' '--with-libgc-threads=pthreads' 'CPPFLAGS_FOR_LIBGC=-no-cpp-precomp -D_THREAD_SAFE -DGC_MACOSX_THREADS -DPLATFORM_MACOSX -DUSE_MMAP -DUSE_MUNMAP -DGetCurrentProcess=MonoGetCurrentProcess -DGetCurrentThread=MonoGetCurrentThread -DCreateEvent=MonoCreateEvent -D__ARM_EABI__ -DHAVE_ARMV6=1 -DARM_FPU_VFP=1 -DNO_UNALIGNED_ACCESS -DHAVE_ARMV6 -DTARGET_IOS' 'CFLAGS_FOR_LIBGC= -g -DTARGET_IOS' --cache-file=/dev/null --srcdir=../../../mono-legacy/eglib
+checking build system type... x86_64-apple-darwin
+checking host system type... arm-apple-darwin
+checking target system type... arm-apple-darwin
+checking for a BSD-compatible install... /opt/homebrew/bin/ginstall -c
+checking whether sleep supports fractional seconds... yes
+checking filesystem timestamp resolution... 2
+checking whether build environment is sane... yes
+checking for arm-apple-darwin-strip... no
+checking for strip... strip
+configure: WARNING: using cross tools not prefixed with host triplet
+checking for a race-free mkdir -p... /opt/homebrew/bin/gmkdir -p
+checking for gawk... no
+checking for mawk... no
+checking for nawk... no
+checking for awk... awk
+checking whether make sets $(MAKE)... yes
+checking whether make supports nested variables... yes
+checking xargs -n works... yes
+checking whether UID '501' is supported by ustar format... yes
+checking whether GID '20' is supported by ustar format... yes
+checking how to create a ustar tar archive... gnutar
+checking whether to enable maintainer-specific portions of Makefiles... no
+checking for arm-apple-darwin-gcc... /private/tmp/osu-armv6-mono-cc
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... yes
+checking for suffix of object files... o
+checking whether the compiler supports GNU C... yes
+checking whether /private/tmp/osu-armv6-mono-cc accepts -g... yes
+checking for /private/tmp/osu-armv6-mono-cc option to enable C11 features... none needed
+checking whether /private/tmp/osu-armv6-mono-cc understands -c and -o together... yes
+checking whether make supports the include directive... yes (GNU style)
+checking dependency style of /private/tmp/osu-armv6-mono-cc... gcc3
+configure: WARNING: Libtool does not cope well with whitespace in `pwd`
+checking how to print strings... printf
+checking for a sed that does not truncate output... /usr/bin/sed
+checking for grep that handles long lines and -e... /usr/bin/grep
+checking for egrep... /usr/bin/grep -E
+checking for fgrep... /usr/bin/grep -F
+checking for ld used by /private/tmp/osu-armv6-mono-cc... /Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/toolchain/common-3.0.sdk/usr/bin/ld
+checking if the linker (/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/toolchain/common-3.0.sdk/usr/bin/ld) is GNU ld... no
+checking for BSD- or MS-compatible name lister (nm)... no
+checking for arm-apple-darwin-dumpbin... no
+checking for arm-apple-darwin-link... no
+checking for dumpbin... no
+checking for link... link -dump
+checking the name lister (nm) interface... BSD nm
+checking whether ln -s works... yes
+checking the maximum length of command line arguments... sysctl: sysctl fmt -1 1024 1: Operation not permitted
+expr: syntax error
+expr: syntax error
+none
+checking how to convert x86_64-apple-darwin file names to arm-apple-darwin format... func_convert_file_noop
+checking how to convert x86_64-apple-darwin file names to toolchain format... func_convert_file_noop
+checking for /Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/toolchain/common-3.0.sdk/usr/bin/ld option to reload object files... -r
+checking for file... file
+checking for arm-apple-darwin-objdump... no
+checking for objdump... objdump
+checking how to recognize dependent libraries... pass_all
+checking for arm-apple-darwin-dlltool... no
+checking for dlltool... no
+checking how to associate runtime and link libraries... printf %s\n
+checking for arm-apple-darwin-ranlib... no
+checking for ranlib... ranlib
+checking for arm-apple-darwin-ar... no
+checking for ar... ar
+checking for archiver @FILE support... no
+checking for arm-apple-darwin-strip... strip
+checking command to parse nm output from /private/tmp/osu-armv6-mono-cc object... ok
+checking for sysroot... no
+checking for a working dd... /bin/dd
+checking how to truncate binary pipes... /bin/dd bs=4096 count=1
+checking for arm-apple-darwin-mt... no
+checking for mt... no
+checking if : is a manifest tool... no
+checking for arm-apple-darwin-dsymutil... no
+checking for dsymutil... dsymutil
+checking for arm-apple-darwin-nmedit... no
+checking for nmedit... nmedit
+checking for arm-apple-darwin-lipo... no
+checking for lipo... lipo
+checking for arm-apple-darwin-otool... no
+checking for otool... otool
+checking for arm-apple-darwin-otool64... no
+checking for otool64... no
+checking for -single_module linker flag... no
+checking for -no_fixup_chains linker flag... no
+checking for -exported_symbols_list linker flag... yes
+checking for -force_load linker flag... yes
+checking for stdio.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for strings.h... yes
+checking for sys/stat.h... yes
+checking for sys/types.h... yes
+checking for unistd.h... yes
+checking for dlfcn.h... yes
+checking for objdir... .libs
+checking if /private/tmp/osu-armv6-mono-cc supports -fno-rtti -fno-exceptions... yes
+checking for /private/tmp/osu-armv6-mono-cc option to produce PIC... -fno-common -DPIC
+checking if /private/tmp/osu-armv6-mono-cc PIC flag -fno-common -DPIC works... yes
+checking if /private/tmp/osu-armv6-mono-cc static flag -static works... no
+checking if /private/tmp/osu-armv6-mono-cc supports -c -o file.o... yes
+checking if /private/tmp/osu-armv6-mono-cc supports -c -o file.o... (cached) yes
+checking whether the /private/tmp/osu-armv6-mono-cc linker (/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/toolchain/common-3.0.sdk/usr/bin/ld) supports shared libraries... yes
+checking dynamic linker characteristics... darwin dyld
+checking how to hardcode library paths into programs... immediate
+checking whether stripping libraries is possible... yes
+checking if libtool supports shared libraries... yes
+checking whether to build shared libraries... no
+checking whether to build static libraries... yes
+checking for bash... /bin/bash
+checking if dolt supports this host... yes, replacing libtool
+checking whether byte ordering is bigendian... no
+checking size of int... 4
+checking size of void *... 4
+checking size of long... 4
+checking size of long long... 8
+checking for strlcpy... yes
+checking for stpcpy... no
+checking for strtok_r... no
+checking for rewinddir... no
+checking for vasprintf... no
+checking for ld used by GCC... /Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/toolchain/common-3.0.sdk/usr/bin/ld
+checking if the linker (/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/toolchain/common-3.0.sdk/usr/bin/ld) is GNU ld... no
+checking for shared library run path origin... done
+checking how to run the C preprocessor... /private/tmp/osu-armv6-mono-cc -E
+checking for egrep -e... (cached) /usr/bin/grep -E
+checking for iconv... no, consider installing GNU libiconv
+checking for library containing sqrtf... none required
+checking for library containing nanosleep... none required
+checking for library containing dlopen... none required
+checking for varargs macros... no
+checking for getopt.h... yes
+checking for sys/time.h... yes
+checking for sys/wait.h... yes
+checking for pwd.h... yes
+checking for langinfo.h... yes
+checking for iconv.h... no
+checking for localcharset.h... no
+checking for sys/types.h... (cached) yes
+checking for alloca.h... yes
+checking for pkg-config... /opt/homebrew/bin/pkg-config
+checking that generated files are newer than configure... done
+configure: creating ./config.status
+config.status: creating Makefile
+config.status: creating m4/Makefile
+config.status: creating src/Makefile
+config.status: creating src/eglib-config.h
+config.status: creating test/Makefile
+config.status: creating config.h
+config.status: config.h is unchanged
+config.status: executing depfiles commands
+config.status: executing libtool commands
+=== configuring in libgc (/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-reconstructed-sdk/libgc)
+configure: running /bin/sh ../../../mono-legacy/libgc/configure --disable-option-checking '--prefix=/usr/local'  '--build=x86_64-apple-darwin' '--host=arm-apple-darwin' '--disable-mcs-build' '--with-tls=pthread' '--with-glib=embedded' '--disable-shared' '--with-sigaltstack=no' '--disable-boehm' '--with-sgen=yes' 'CC=/private/tmp/osu-armv6-mono-cc' 'build_alias=x86_64-apple-darwin' 'host_alias=arm-apple-darwin' 'CPPFLAGS_FOR_EGLIB=' 'CFLAGS_FOR_EGLIB=' '--disable-embed-check' '--with-libgc-threads=pthreads' 'CPPFLAGS_FOR_LIBGC=-no-cpp-precomp -D_THREAD_SAFE -DGC_MACOSX_THREADS -DPLATFORM_MACOSX -DUSE_MMAP -DUSE_MUNMAP -DGetCurrentProcess=MonoGetCurrentProcess -DGetCurrentThread=MonoGetCurrentThread -DCreateEvent=MonoCreateEvent -D__ARM_EABI__ -DHAVE_ARMV6=1 -DARM_FPU_VFP=1 -DNO_UNALIGNED_ACCESS -DHAVE_ARMV6 -DTARGET_IOS' 'CFLAGS_FOR_LIBGC= -g -DTARGET_IOS' --cache-file=/dev/null --srcdir=../../../mono-legacy/libgc
+checking for a BSD-compatible install... /opt/homebrew/bin/ginstall -c
+checking whether sleep supports fractional seconds... yes
+checking filesystem timestamp resolution... 2
+checking whether build environment is sane... yes
+checking for arm-apple-darwin-strip... no
+checking for strip... strip
+configure: WARNING: using cross tools not prefixed with host triplet
+checking for a race-free mkdir -p... /opt/homebrew/bin/gmkdir -p
+checking for gawk... no
+checking for mawk... no
+checking for nawk... no
+checking for awk... awk
+checking whether make sets $(MAKE)... yes
+checking whether make supports nested variables... yes
+checking xargs -n works... yes
+checking whether UID '501' is supported by ustar format... yes
+checking whether GID '20' is supported by ustar format... yes
+checking how to create a ustar tar archive... gnutar
+checking build system type... x86_64-apple-darwin
+checking host system type... arm-apple-darwin
+checking for arm-apple-darwin-gcc... /private/tmp/osu-armv6-mono-cc
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... yes
+checking for suffix of object files... o
+checking whether the compiler supports GNU C... yes
+checking whether /private/tmp/osu-armv6-mono-cc accepts -g... yes
+checking for /private/tmp/osu-armv6-mono-cc option to enable C11 features... none needed
+checking whether /private/tmp/osu-armv6-mono-cc understands -c and -o together... yes
+checking whether make supports the include directive... yes (GNU style)
+checking dependency style of /private/tmp/osu-armv6-mono-cc... gcc3
+checking for arm-apple-darwin-g++... no
+checking for arm-apple-darwin-c++... no
+checking for arm-apple-darwin-gpp... no
+checking for arm-apple-darwin-aCC... no
+checking for arm-apple-darwin-CC... no
+checking for arm-apple-darwin-cxx... no
+checking for arm-apple-darwin-cc++... no
+checking for arm-apple-darwin-cl.exe... no
+checking for arm-apple-darwin-FCC... no
+checking for arm-apple-darwin-KCC... no
+checking for arm-apple-darwin-RCC... no
+checking for arm-apple-darwin-xlC_r... no
+checking for arm-apple-darwin-xlC... no
+checking for arm-apple-darwin-clang++... no
+checking for g++... g++
+checking whether the compiler supports GNU C++... yes
+checking whether g++ accepts -g... yes
+checking for g++ option to enable C++11 features... none needed
+checking dependency style of g++... gcc3
+checking dependency style of /private/tmp/osu-armv6-mono-cc... gcc3
+checking for arm-apple-darwin-ar... no
+checking for ar... ar
+checking for arm-apple-darwin-ranlib... no
+checking for ranlib... ranlib
+checking whether to enable maintainer-specific portions of Makefiles... no
+checking for pthread_self in -lpthread... no
+checking for __sync_bool_compare_and_swap... no
+checking for xlc... no
+checking whether to build shared libraries... yes
+checking which machine-dependent code should be used... 
+configure: WARNING: Libtool does not cope well with whitespace in `pwd`
+checking how to print strings... printf
+checking for a sed that does not truncate output... /usr/bin/sed
+checking for grep that handles long lines and -e... /usr/bin/grep
+checking for egrep... /usr/bin/grep -E
+checking for fgrep... /usr/bin/grep -F
+checking for ld used by /private/tmp/osu-armv6-mono-cc... /Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/toolchain/common-3.0.sdk/usr/bin/ld
+checking if the linker (/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/toolchain/common-3.0.sdk/usr/bin/ld) is GNU ld... no
+checking for BSD- or MS-compatible name lister (nm)... no
+checking for arm-apple-darwin-dumpbin... no
+checking for arm-apple-darwin-link... no
+checking for dumpbin... no
+checking for link... link -dump
+checking the name lister (nm) interface... BSD nm
+checking whether ln -s works... yes
+checking the maximum length of command line arguments... sysctl: sysctl fmt -1 1024 1: Operation not permitted
+expr: syntax error
+expr: syntax error
+none
+checking how to convert x86_64-apple-darwin file names to arm-apple-darwin format... func_convert_file_noop
+checking how to convert x86_64-apple-darwin file names to toolchain format... func_convert_file_noop
+checking for /Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/toolchain/common-3.0.sdk/usr/bin/ld option to reload object files... -r
+checking for file... file
+checking for arm-apple-darwin-objdump... no
+checking for objdump... objdump
+checking how to recognize dependent libraries... pass_all
+checking for arm-apple-darwin-dlltool... no
+checking for dlltool... no
+checking how to associate runtime and link libraries... printf %s\n
+checking for arm-apple-darwin-ranlib... ranlib
+checking for arm-apple-darwin-ar... ar
+checking for archiver @FILE support... no
+checking for arm-apple-darwin-strip... strip
+checking command to parse nm output from /private/tmp/osu-armv6-mono-cc object... ok
+checking for sysroot... no
+checking for a working dd... /bin/dd
+checking how to truncate binary pipes... /bin/dd bs=4096 count=1
+checking for arm-apple-darwin-mt... no
+checking for mt... no
+checking if : is a manifest tool... no
+checking for arm-apple-darwin-dsymutil... no
+checking for dsymutil... dsymutil
+checking for arm-apple-darwin-nmedit... no
+checking for nmedit... nmedit
+checking for arm-apple-darwin-lipo... no
+checking for lipo... lipo
+checking for arm-apple-darwin-otool... no
+checking for otool... otool
+checking for arm-apple-darwin-otool64... no
+checking for otool64... no
+checking for -single_module linker flag... no
+checking for -no_fixup_chains linker flag... no
+checking for -exported_symbols_list linker flag... yes
+checking for -force_load linker flag... yes
+checking for stdio.h... yes
+checking for stdlib.h... yes
+checking for string.h... yes
+checking for inttypes.h... yes
+checking for stdint.h... yes
+checking for strings.h... yes
+checking for sys/stat.h... yes
+checking for sys/types.h... yes
+checking for unistd.h... yes
+checking for dlfcn.h... yes
+checking for objdir... .libs
+checking if /private/tmp/osu-armv6-mono-cc supports -fno-rtti -fno-exceptions... yes
+checking for /private/tmp/osu-armv6-mono-cc option to produce PIC... -fno-common -DPIC
+checking if /private/tmp/osu-armv6-mono-cc PIC flag -fno-common -DPIC works... yes
+checking if /private/tmp/osu-armv6-mono-cc static flag -static works... no
+checking if /private/tmp/osu-armv6-mono-cc supports -c -o file.o... yes
+checking if /private/tmp/osu-armv6-mono-cc supports -c -o file.o... (cached) yes
+checking whether the /private/tmp/osu-armv6-mono-cc linker (/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/toolchain/common-3.0.sdk/usr/bin/ld) supports shared libraries... yes
+checking dynamic linker characteristics... darwin dyld
+checking how to hardcode library paths into programs... immediate
+checking whether stripping libraries is possible... yes
+checking if libtool supports shared libraries... yes
+checking whether to build shared libraries... no
+checking whether to build static libraries... yes
+checking how to run the C++ preprocessor... g++ -E
+checking for ld used by g++... /Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/toolchain/common-3.0.sdk/usr/bin/ld
+checking if the linker (/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/toolchain/common-3.0.sdk/usr/bin/ld) is GNU ld... no
+checking whether the g++ linker (/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/toolchain/common-3.0.sdk/usr/bin/ld) supports shared libraries... yes
+checking for g++ option to produce PIC... -fno-common -DPIC
+checking if g++ PIC flag -fno-common -DPIC works... yes
+checking if g++ static flag -static works... no
+checking if g++ supports -c -o file.o... yes
+checking if g++ supports -c -o file.o... (cached) yes
+checking whether the g++ linker (/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/toolchain/common-3.0.sdk/usr/bin/ld) supports shared libraries... yes
+checking dynamic linker characteristics... darwin dyld
+checking how to hardcode library paths into programs... immediate
+checking for bash... /bin/bash
+checking if dolt supports this host... yes, replacing libtool
+checking for sys/dg_sys_info.h... no
+checking for threads package to use... posix
+checking whether Solaris gcc optimization fix is necessary... no
+checking that generated files are newer than configure... done
+configure: creating ./config.status
+config.status: creating Makefile
+config.status: creating m4/Makefile
+config.status: creating include/Makefile
+config.status: creating include/private/Makefile
+config.status: creating doc/Makefile
+config.status: executing depfiles commands
+config.status: executing libtool commands
+config.status: executing default commands
+
+        mcs source:    mcs
+
+   Engine:
+	GC:	       sgen and bundled Boehm GC with typed GC
+	TLS:           pthread
+	SIGALTSTACK:   no
+	Engine:        Building and using the JIT
+	oprofile:      no
+	BigArrays:     no
+	DTrace:        no
+	LLVM Back End: no (dynamically loaded: no)
+
+   Libraries:
+	.NET 2.0/3.5:  no
+	.NET 4.0:      no
+	.NET 4.5:      no
+	MonoDroid:     no
+	MonoTouch:     no
+	JNI support:   IKVM Native
+	libgdiplus:    assumed to be installed
+	zlib:          
+	
+

@@ -1,0 +1,209 @@
+diff --git a/libgc/gcj_mlc.c b/libgc/gcj_mlc.c
+index 8b1da826..722efda8 100644
+--- a/libgc/gcj_mlc.c
++++ b/libgc/gcj_mlc.c
+@@ -13,6 +13,7 @@
+  *
+  */
+ /* Boehm, July 31, 1995 5:02 pm PDT */
++/* Modified for the ARMv6 experiment: declare the existing debug helper. */
+ 
+ #ifdef GC_GCJ_SUPPORT
+ 
+@@ -40,6 +41,8 @@
+ #include "gc_gcj.h"
+ #include "private/dbg_mlc.h"
+ 
++extern void GC_start_debugging(void);
++
+ GC_bool GC_gcj_malloc_initialized = FALSE;
+ 
+ int GC_gcj_kind;	/* Object kind for objects with descriptors     */
+diff --git a/mono/mini/local-propagation.c b/mono/mini/local-propagation.c
+index 7bdb517b..c1dec107 100644
+--- a/mono/mini/local-propagation.c
++++ b/mono/mini/local-propagation.c
+@@ -102,6 +102,9 @@ restart:
+ 				continue;
+ 			}
+ 
++			if (ins->opcode <= MONO_CEE_LAST)
++				g_printerr ("OSU invalid IR opcode=%u method=%s:%s\n", ins->opcode,
++					cfg->method->klass->name, cfg->method->name);
+ 			g_assert (ins->opcode > MONO_CEE_LAST);
+ 
+ 			/* FIXME: Optimize this */
+diff --git a/mono/mini/method-to-ir.c b/mono/mini/method-to-ir.c
+index 12e1de56..ddd79edd 100644
+--- a/mono/mini/method-to-ir.c
++++ b/mono/mini/method-to-ir.c
+@@ -961,6 +961,7 @@ type_from_op (MonoInst *ins, MonoInst *src1, MonoInst *src2) {
+ 			break;
+ 		case STACK_PTR:
+ 		case STACK_MP:
++		case STACK_OBJ: /* Pinning a string with newer C# compilers uses conv.u. */
+ #if SIZEOF_VOID_P == 8
+ 			ins->opcode = OP_LCONV_TO_U;
+ #else
+diff --git a/mono/mini/mini-arm.c b/mono/mini/mini-arm.c
+index dc5a162b..0e485890 100644
+--- a/mono/mini/mini-arm.c
++++ b/mono/mini/mini-arm.c
+@@ -419,7 +419,11 @@ emit_save_lmf (MonoCompile *cfg, guint8 *code, gint32 lmf_offset)
+ #endif
+ 
+ #ifdef TARGET_IOS
+-	if (cfg->method->wrapper_type == MONO_WRAPPER_MANAGED_TO_NATIVE) {
++	/* This sequence expects AOT/GOT-relative TLS-key patching. In JIT mode
++	 * MONO_PATCH_INFO_JIT_TLS_ID resolves to the key value itself; using it
++	 * as a PC-relative address reads arbitrary code bytes as a pthread key.
++	 * Use mono_get_lmf_addr below for JIT wrappers instead. */
++	if (cfg->compile_aot && cfg->method->wrapper_type == MONO_WRAPPER_MANAGED_TO_NATIVE) {
+ 		int lmf_offset;
+ 
+ 		/* Inline mono_get_lmf_addr () */
+@@ -706,7 +710,9 @@ mono_arch_cpu_init (void)
+ #if defined(__ARM_EABI__)
+ 	eabi_supported = TRUE;
+ #endif
+-#if defined(__APPLE__) && defined(MONO_CROSS_COMPILE)
++/* Darwin ARM's ABI uses 4-byte argument alignment even when Clang's
++     * __alignof__(gint64) reports a preferred alignment of 8. */
++#if defined(TARGET_IOS) || (defined(__APPLE__) && defined(MONO_CROSS_COMPILE))
+ 		i8_align = 4;
+ #else
+ 		i8_align = __alignof__ (gint64);
+@@ -3430,6 +3436,17 @@ handle_thunk (MonoDomain *domain, int absolute, guchar *code, const guchar *targ
+ 	g_assert (pdata.found == 1);
+ }
+ 
++static gboolean
++arm_patch_literal (guint32 *code32, guint32 target)
++{
++	/* LDR Rd, [PC, #0] loads the literal at PC+8 for every destination
++	 * register, not just IP/R12 as used by far-call thunks. */
++	if ((code32 [0] & 0xffff0fffU) != 0xe59f0000U)
++		return FALSE;
++	code32 [2] = target;
++	return TRUE;
++}
++
+ static void
+ arm_patch_general (MonoDomain *domain, guchar *code, const guchar *target, MonoCodeManager *dyn_code_mp)
+ {
+@@ -3574,11 +3591,12 @@ arm_patch_general (MonoDomain *domain, guchar *code, const guchar *target, MonoC
+ 			code32 [-1] = (guint32)target;
+ 			return;
+ 		}
+-		if (ins == ccode [0]) {
++		if (arm_patch_literal (code32, (guint32)target)) {
+ 			/* handles both thunk jump code and the far call sequence */
+-			code32 [2] = (guint32)target;
+ 			return;
+ 		}
++		g_printerr ("ARM patch rejected opcode=%08x expected_ldr=%08x address=%p target=%p\n",
++			ins, ccode [0], code, target);
+ 		g_assert_not_reached ();
+ 	}
+ //	g_print ("patched with 0x%08x\n", ins);
+@@ -3602,7 +3620,9 @@ mono_arm_is_rotated_imm8 (guint32 val, gint *rot_amount)
+ {
+ 	guint32 res, i;
+ 	for (i = 0; i < 31; i+= 2) {
+-		res = (val << (32 - i)) | (val >> i);
++		/* A 32-bit shift by 32 is undefined, even though ARM masks shifts.
++		 * Modern clang otherwise reduces callers to a trap at -O2. */
++		res = i ? (val << (32 - i)) | (val >> i) : val;
+ 		if (res & ~0xff)
+ 			continue;
+ 		*rot_amount = i? 32 - i: 0;
+diff --git a/mono/mini/mini.c b/mono/mini/mini.c
+index 5f7cdeb4..6a3e1ffb 100644
+--- a/mono/mini/mini.c
++++ b/mono/mini/mini.c
+@@ -4000,6 +4000,18 @@ if (valgrind_register){
+ #endif
+ 
+ 	mono_arch_patch_code (cfg->method, cfg->domain, cfg->native_code, cfg->patch_info, cfg->dynamic_info ? cfg->dynamic_info->code_mp : NULL, cfg->run_cctors);
++	if (getenv ("OSU_ARM_DIAGNOSTICS")) {
++		char *name = mono_method_full_name (cfg->method, TRUE);
++		int offset, limit = MIN (cfg->code_len, 2048);
++		g_printerr ("OSU JIT %s code=%p bytes=%d\n", name, cfg->native_code, cfg->code_len);
++		if (!strcmp (cfg->method->klass->name, "Program")) {
++			for (offset = 0; offset + 16 <= limit; offset += 16) {
++				guint32 *words = (guint32*)(cfg->native_code + offset);
++				g_printerr ("OSU CODE %p %08x %08x %08x %08x\n", words, words [0], words [1], words [2], words [3]);
++			}
++		}
++		g_free (name);
++	}
+ 
+ 	if (cfg->method->dynamic) {
+ 		if (mono_using_xdebug)
+@@ -4618,6 +4630,29 @@ mini_init_gsctx (MonoGenericContext *context, MonoGenericSharingContext *gsctx)
+ }
+ 
+ #ifndef DISABLE_JIT
++/* Diagnose malformed IR before later passes index opcode metadata. */
++static void
++legacy_check_ir (MonoCompile *cfg, const char *stage)
++{
++    MonoBasicBlock *bb;
++    if (!getenv ("OSU_ARM_DIAGNOSTICS"))
++        return;
++    for (bb = cfg->bb_entry; bb; bb = bb->next_bb) {
++        MonoInst *ins;
++        for (ins = bb->code; ins; ins = ins->next) {
++            if (ins->opcode < MONO_CEE_LAST) {
++                g_printerr ("OSU invalid IR stage=%s method=%s:%s block=%d opcode=%u il=%p dreg=%d sreg1=%d sreg2=%d prev=%u next=%u\n",
++                    stage, cfg->method->klass->name, cfg->method->name,
++                    bb->block_num, ins->opcode, ins->cil_code,
++                    ins->dreg, ins->sreg1, ins->sreg2,
++                    ins->prev ? ins->prev->opcode : 0,
++                    ins->next ? ins->next->opcode : 0);
++                g_assert (ins->opcode >= MONO_CEE_LAST);
++            }
++        }
++    }
++}
++
+ /*
+  * mini_method_compile:
+  * @method: the method to compile
+@@ -5008,6 +5043,7 @@ mini_method_compile (MonoMethod *method, guint32 opts, MonoDomain *domain, gbool
+ 		return cfg;
+ 	}
+ 
++	legacy_check_ir (cfg, "method-to-ir");
+ 	cfg->stat_basic_blocks += cfg->num_bblocks;
+ 
+ 	if (COMPILE_LLVM (cfg)) {
+@@ -5057,6 +5093,8 @@ mini_method_compile (MonoMethod *method, guint32 opts, MonoDomain *domain, gbool
+ 	if (!COMPILE_LLVM (cfg))
+ 		mono_decompose_long_opts (cfg);
+ 
++	legacy_check_ir (cfg, "long-decomposition");
++
+ 	/* Should be done before branch opts */
+ 	if (cfg->opt & (MONO_OPT_CONSPROP | MONO_OPT_COPYPROP))
+ 		mono_local_cprop (cfg);
+@@ -6447,6 +6485,19 @@ SIG_HANDLER_SIGNATURE (mono_sigsegv_signal_handler)
+ 
+ 	GET_CONTEXT;
+ 
++#if defined(TARGET_ARM) && defined(MONO_ARCH_HAVE_SIGCTX_TO_MONOCTX)
++	if (getenv ("OSU_ARM_DIAGNOSTICS")) {
++		MonoContext original;
++		int reg;
++		mono_arch_sigctx_to_monoctx (ctx, &original);
++		g_printerr ("OSU FAULT pc=%p\n", (gpointer)original.pc);
++		for (reg = 0; reg < 16; reg += 4)
++			g_printerr ("OSU REGS r%d=%08x r%d=%08x r%d=%08x r%d=%08x\n",
++				reg, original.regs [reg], reg+1, original.regs [reg+1],
++				reg+2, original.regs [reg+2], reg+3, original.regs [reg+3]);
++	}
++#endif
++
+ #if defined(MONO_ARCH_SOFT_DEBUG_SUPPORTED) && defined(HAVE_SIG_INFO)
+ 	if (mono_arch_is_single_step_event (info, ctx)) {
+ 		mono_debugger_agent_single_step_event (ctx);

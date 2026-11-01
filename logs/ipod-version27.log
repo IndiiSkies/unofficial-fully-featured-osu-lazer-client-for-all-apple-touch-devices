@@ -1,0 +1,1108 @@
+[connected:f7f4c5236445e3e001f9834aa63367fd56cdf871]
+
+========================
+ASL is here to serve you
+> 
+
+Thu Jan  1 01:39:21 unknown lockdownd[21] <Error>: 00792000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+Thu Jan  1 01:39:21 unknown lockdownd[21] <Error>: 00792000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 01:39:21 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:21 unknown lockdownd[21] <Error>: 00792000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+Thu Jan  1 01:39:21 unknown lockdownd[21] <Error>: 00792000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 01:39:21 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:21 unknown lockdownd[21] <Error>: 00792000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+Thu Jan  1 01:39:21 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:21 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #8 from idevicesyslog. Killing connection
+Thu Jan  1 01:39:21 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:21 unknown lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 01:39:22 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:21 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+Thu Jan  1 01:39:22 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:21 unknown lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 01:39:22 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:22 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+Thu Jan  1 01:39:22 unknown lockdownd[21] <Error>: 00486000 handle_connection: Could not receive USB message #8 from idevicesyslog. Killing connection
+Thu Jan  1 01:39:22 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:22 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+Thu Jan  1 01:39:22 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:22 unknown lockdownd[21] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 01:39:22 unknown lockdownd[21] <Error>: 00486000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+Thu Jan  1 01:39:22 unknown lockdownd[21] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 01:39:22 unknown lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #8 from idevicesyslog. Killing connection
+Thu Jan  1 01:39:22 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:22 unknown lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+Thu Jan  1 01:39:23 unknown lockdownd[21] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 01:39:23 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:23 unknown lockdownd[21] <Error>: 00486000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+Thu Jan  1 01:39:23 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:23 unknown lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+Thu Jan  1 01:39:23 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:23 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #5 from remotepairingd. Killing connection
+Thu Jan  1 01:39:24 unknown lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Thu Jan  1 01:39:24 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of messageCould not receive size of message
+Thu Jan  1 01:39:24 unknown lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Thu Jan  1 01:39:24 unknown lockdownd[21] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 01:39:24 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:24 unknown lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Thu Jan  1 01:39:24 unknown lockdownd[21] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 01:39:24 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:24 unknown lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Thu Jan  1 01:39:24 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:24 unknown lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Thu Jan  1 01:39:24 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:24 unknown lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Thu Jan  1 01:39:24 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:24 unknown lockdownd[21] <Error>: 0060c000 handle_connection: Could not receive USB message #15 from Safari. Killing connection
+Thu Jan  1 01:39:24 unknown lockdownd[21] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 01:39:24 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:24 unknown lockdownd[21] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Thu Jan  1 01:39:24 unknown lockdownd[21] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 01:39:24 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:24 unknown lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Thu Jan  1 01:39:24 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:24 unknown lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Thu Jan  1 01:39:24 unknown lockdownd[21] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 01:39:24 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:24 unknown lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Thu Jan  1 01:39:24 unknown lockdownd[21] <Error>: 2ff68000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 01:39:24 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Thu Jan  1 01:39:24 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:24 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:24 unknown lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Thu Jan  1 01:39:25 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:25 unknown lockdownd[21] <Error>: 0068e000 handle_connection: Could not receive USB message #21 from AMPDeviceDiscoveryAgent. Killing connection
+Thu Jan  1 01:39:25 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:25 unknown lockdownd[21] <Error>: 0068e000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Thu Jan  1 01:39:26 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:26 unknown lockdownd[21] <Error>: 0060c000 handle_connection: Could not receive USB message #5 from Safari. Killing connection
+Thu Jan  1 01:39:26 unknown lockdownd[21] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 01:39:26 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:26 unknown lockdownd[21] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Thu Jan  1 01:39:26 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:26 unknown lockdownd[21] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Thu Jan  1 01:39:26 unknown lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Thu Jan  1 01:39:26 unknown lockdownd[21] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 01:39:26 unknown lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Thu Jan  1 01:39:26 unknown lockdownd[21] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 01:39:26 unknown lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Thu Jan  1 01:39:26 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of messageCould not receive size of messageCould not receive size of message
+Thu Jan  1 01:39:26 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:26 unknown lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Thu Jan  1 01:39:26 unknown lockdownd[21] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 01:39:26 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:26 unknown lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Thu Jan  1 01:39:26 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:26 unknown lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Thu Jan  1 01:39:26 unknown lockdownd[21] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 01:39:26 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:26 unknown lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Thu Jan  1 01:39:26 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:26 unknown lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Thu Jan  1 01:39:26 unknown lockdownd[21] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 01:39:26 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:26 unknown lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Thu Jan  1 01:39:26 unknown lockdownd[21] <Error>: 0058a000 spawn_service_agent: Could not look up service in the map
+Thu Jan  1 01:39:26 unknown lockdownd[21] <Error>: 0058a000 spawn_and_handle_checkin: Could not spawn the com.apple.afc2 service agent:InvalidService 
+Thu Jan  1 01:39:27 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:27 unknown lockdownd[21] <Error>: 0058a000 handle_connection: Could not receive USB message #14 from iFunBox. Killing connection
+Thu Jan  1 01:39:27 unknown lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Thu Jan  1 01:39:27 unknown lockdownd[21] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 01:39:27 unknown lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Thu Jan  1 01:39:27 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Thu Jan  1 01:39:27 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of messageCould not receive size of messageCould not receive size of message
+Thu Jan  1 01:39:27 unknown lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Thu Jan  1 01:39:27 unknown lockdownd[21] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 01:39:27 unknown lockdownd[21] <Error>: 2ff68000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 01:39:27 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:27 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Thu Jan  1 01:39:27 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:27 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:27 unknown lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Thu Jan  1 01:39:27 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:27 unknown lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Thu Jan  1 01:39:27 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:27 unknown lockdownd[21] <Error>: 0060c000 handle_connection: Could not receive USB message #5 from Safari. Killing connection
+Thu Jan  1 01:39:27 unknown lockdownd[21] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 01:39:27 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:27 unknown lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Thu Jan  1 01:39:27 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:27 unknown lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Thu Jan  1 01:39:28 unknown lockdownd[21] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 01:39:28 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:28 unknown lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Thu Jan  1 01:39:28 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:28 unknown lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Thu Jan  1 01:39:28 unknown lockdownd[21] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 01:39:28 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:28 unknown lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Thu Jan  1 01:39:29 unknown installd[797] <Notice>: MS:Notice: Injecting: (null) [installd] (550.52)
+Thu Jan  1 01:39:29 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:29 unknown lockdownd[21] <Error>: 0068e000 handle_connection: Could not receive USB message #7 from AMPDeviceDiscoveryAgent. Killing connection
+Thu Jan  1 01:39:29 unknown lockdownd[21] <Error>: 0068e000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 01:39:29 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:29 unknown lockdownd[21] <Error>: 0068e000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Thu Jan  1 01:39:29 unknown lockdownd[21] <Error>: 0068e000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 01:39:29 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:29 unknown lockdownd[21] <Error>: 0068e000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Thu Jan  1 01:39:29 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:29 unknown lockdownd[21] <Error>: 0068e000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Thu Jan  1 01:39:29 unknown lockdownd[21] <Error>: 0068e000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 01:39:29 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:29 unknown lockdownd[21] <Error>: 0068e000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Thu Jan  1 01:39:29 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:29 unknown lockdownd[21] <Error>: 0060c000 handle_connection: Could not receive USB message #5 from Safari. Killing connection
+Thu Jan  1 01:39:29 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:29 unknown lockdownd[21] <Error>: 0068e000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Thu Jan  1 01:39:29 unknown lockdownd[21] <Error>: 0068e000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 01:39:29 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:29 unknown lockdownd[21] <Error>: 0068e000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Thu Jan  1 01:39:29 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:29 unknown lockdownd[21] <Error>: 0068e000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Thu Jan  1 01:39:29 unknown lockdownd[21] <Error>: 0068e000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 01:39:29 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:29 unknown lockdownd[21] <Error>: 0068e000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Thu Jan  1 01:39:30 unknown installd[797] <Error>: 3e1b38b8 check_freshness: sb.st_mtime = 39317 reference_mtime = 22586
+Thu Jan  1 01:39:30 unknown installd[797] <Error>: 3e1b38b8 check_stale_maps: /Applications appears stale
+Thu Jan  1 01:39:30 unknown lockdownd[21] <Error>: 0060c000 spawn_service_agent: Could not look up service in the map
+Thu Jan  1 01:39:30 unknown lockdownd[21] <Error>: 0060c000 spawn_and_handle_checkin: Could not spawn the com.apple.webinspector service agent:InvalidService 
+Thu Jan  1 01:39:30 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:30 unknown lockdownd[21] <Error>: 0060c000 handle_connection: Could not receive USB message #5 from Safari. Killing connection
+Thu Jan  1 01:39:30 unknown lockdownd[21] <Error>: 0068e000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Thu Jan  1 01:39:30 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:30 unknown lockdownd[21] <Error>: 0068e000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 01:39:30 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:30 unknown lockdownd[21] <Error>: 0068e000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Thu Jan  1 01:39:30 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:30 unknown lockdownd[21] <Error>: 0068e000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Thu Jan  1 01:39:30 unknown lockdownd[21] <Error>: 0068e000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 01:39:30 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:30 unknown lockdownd[21] <Error>: 0068e000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Thu Jan  1 01:39:31 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:31 unknown lockdownd[21] <Error>: 0060c000 handle_connection: Could not receive USB message #5 from Safari. Killing connection
+Thu Jan  1 01:39:31 unknown lockdownd[21] <Error>: 0068e000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Thu Jan  1 01:39:31 unknown lockdownd[21] <Error>: 0068e000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 01:39:31 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:31 unknown lockdownd[21] <Error>: 0068e000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Thu Jan  1 01:39:31 unknown lockdownd[21] <Error>: 0068e000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Thu Jan  1 01:39:31 unknown lockdownd[21] <Error>: 0068e000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 01:39:31 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of messageCould not receive size of messageCould not receive size of message
+Thu Jan  1 01:39:31 unknown lockdownd[21] <Error>: 0068e000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Thu Jan  1 01:39:32 unknown lockdownd[21] <Error>: 0060c000 handle_connection: Could not receive USB message #5 from Safari. Killing connection
+Thu Jan  1 01:39:32 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:39:32 unknown SpringBoard[29] <Warning>: Reloading and rendering all application icons.
+Thu Jan  1 01:39:38 unknown UIKitApplication:org.osu.legacy.experimental[0x6b23][785] <Notice>: AudioStreamBasicDescription:  2 ch,  44100 Hz, 'lpcm' (0x00000C2C) 8.24-bit little-endian signed integer, deinterleaved
+Thu Jan  1 01:39:38 unknown kernel[0] <Debug>: punchd[800] Builtin profile: container (sandbox)
+Thu Jan  1 01:39:38 unknown kernel[0] <Debug>: punchd[800] Container: /private/var/mobile/Applications/16545E84-659B-466E-B811-B722F22ED292 [69] (sandbox)
+Thu Jan  1 01:39:38 unknown OsuLegacy[800] <Notice>: MS:Notice: Injecting: org.osu.legacy.experimental [OsuLegacy] (550.52)
+Thu Jan  1 01:39:40 unknown OsuLegacy[800] <Warning>: OSU UI: landscape canvas 480x320, view 320x480
+Thu Jan  1 01:39:40 unknown OsuLegacy[800] <Warning>: OSU boot: initializing embedded Mono after native launch
+Thu Jan  1 01:39:41 unknown OsuLegacy[800] <Warning>: OSU checkpoint: managed entry reached native bundle binding
+Thu Jan  1 01:39:42 unknown OsuLegacy[800] <Warning>: OSU boot: managed callbacks registered
+Thu Jan  1 01:39:42 unknown OsuLegacy[800] <Warning>: OSU boot: managed startup returned to UIKit
+Thu Jan  1 01:39:43 unknown OsuLegacy[800] <Warning>: OSU startup: IntroTriangles requested, 480x320 / 30 fps
+Thu Jan  1 01:39:43 unknown OsuLegacy[800] <Warning>: OSU startup: intro surface presented
+Thu Jan  1 01:39:43 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Thu Jan  1 01:39:43 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : openH264Driver()
+Thu Jan  1 01:39:43 unknown mediaserverd[23] <Notice>: Inside H264DecodeThread : createDecoderThread()
+Thu Jan  1 01:39:43 unknown mediaserverd[23] <Notice>: H264M2VideoDecoder_StartSession() Stream may not be H264LC: 0 or EnableH264OutOfLoopFilter property: 0 is set to false or Resolution is <= 320X240 : 480X320
+Thu Jan  1 01:39:43 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : setH264DriverSession()
+Thu Jan  1 01:39:44 unknown OsuLegacy[800] <Warning>: OSU startup: visible surface and decoder ready; starting from zero
+Thu Jan  1 01:39:44 unknown OsuLegacy[800] <Warning>: OSU startup: triangles video playing; theme=1
+Thu Jan  1 01:39:44 unknown kernel[0] <Debug>: *** AppleM2H264MPDDriver[0x807d8000]::setSessionSettings() called ***
+Thu Jan  1 01:39:44 unknown kernel[0] <Debug>: # AppleM2H264MPDDriver::setSessionSettings():Turning off Post Filtering #
+Thu Jan  1 01:39:44 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is enabled
+Thu Jan  1 01:39:47 unknown OsuLegacy[800] <Warning>: OSU startup: video ended ({
+	    MPMoviePlayerPlaybackDidFinishReasonUserInfoKey = 0;
+	})
+Thu Jan  1 01:39:47 unknown OsuLegacy[800] <Warning>: OSU startup: triangles menu revealed
+Thu Jan  1 01:39:47 unknown mediaserverd[23] <Notice>: Inside H264DecodeThread : destroyDecoderThread()
+Thu Jan  1 01:39:47 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : freeDriverStorage()
+Thu Jan  1 01:39:47 unknown mediaserverd[23] <Notice>: Inside AppleM2H264DriverUserlandInterface : closeH264Driver()
+Thu Jan  1 01:39:47 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Thu Jan  1 01:39:47 unknown OsuLegacy[800] <Warning>: OSU menu: 24 shared-texture triangle layers ready
+Thu Jan  1 01:39:48 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is disabled
+Thu Jan  1 01:39:48 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is disabled
+Thu Jan  1 01:39:48 unknown lockdownd[21] <Error>: 0058a000 handle_connection: Could not receive USB message #4 from iFunBox. Killing connection
+Thu Jan  1 01:39:48 unknown com.apple.mobile.lockdown[21] <Notice>: receive secure message timeout!
+Thu Jan  1 01:39:55 unknown OsuLegacy[800] <Warning>: OSU text x=14 y=8 size=16 rgb=0.96,0.95,1
+Thu Jan  1 01:39:55 unknown OsuLegacy[800] <Warning>: OSU text x=93 y=12 size=10 rgb=0.71,0.67,0.77
+Thu Jan  1 01:39:55 unknown OsuLegacy[800] <Warning>: OSU text x=376 y=8.5 size=13 rgb=0.96,0.95,1
+Thu Jan  1 01:39:55 unknown OsuLegacy[800] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:39:55 unknown OsuLegacy[800] <Warning>: OSU drawing: idle 0.8 calls/s, 711.0 ms/call
+Thu Jan  1 01:39:56 unknown OsuLegacy[800] <Warning>: OSU FFT: 512-point vDSP, 11025 Hz, 32 bands, worker ready
+Thu Jan  1 01:39:56 unknown OsuLegacy[800] <Warning>: OSU effects: first spectrum displayed at 11.892, analysis age 14.3 ms
+Thu Jan  1 01:39:56 unknown OsuLegacy[800] <Warning>: OSU FFT: first window time=11.877 RMS=0.1969 bass=0.0485 cost=35.791 ms
+Thu Jan  1 01:39:57 unknown OsuLegacy[800] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:39:58 unknown OsuLegacy[800] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:39:59 unknown OsuLegacy[800] <Warning>: OSU FFT: 40 windows, avg 5.042 ms, max 63.195 ms (includes PCM read)
+Thu Jan  1 01:40:09 unknown OsuLegacy[800] <Warning>: OSU FFT: 179 windows, avg 1.894 ms, max 63.195 ms (includes PCM read)
+Thu Jan  1 01:40:19 unknown OsuLegacy[800] <Warning>: OSU FFT: 342 windows, avg 1.207 ms, max 63.195 ms (includes PCM read)
+Thu Jan  1 01:40:19 unknown OsuLegacy[800] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:40:20 unknown OsuLegacy[800] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:40:21 unknown OsuLegacy[800] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:40:21 unknown OsuLegacy[800] <Warning>: OSU drawing: idle 0.4 calls/s, 47.5 ms/call
+Thu Jan  1 01:40:22 unknown OsuLegacy[800] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:40:23 unknown OsuLegacy[800] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:40:26 unknown securityd[801] <Notice>: MS:Notice: Injecting: (null) [securityd] (550.52)
+Thu Jan  1 01:40:27 unknown OsuLegacy[800] <Warning>: OSU effects: visible=0 animate=0 suspended=0
+Thu Jan  1 01:40:28 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #9 from ideviceinstaller. Killing connection
+Thu Jan  1 01:40:28 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:40:29 unknown OsuLegacy[800] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:40:29 unknown OsuLegacy[800] <Warning>: OSU FFT: 449 windows, avg 3.155 ms, max 567.791 ms (includes PCM read)
+Thu Jan  1 01:40:30 unknown OsuLegacy[800] <Warning>: OSU effects: visible=0 animate=0 suspended=0
+Thu Jan  1 01:40:30 unknown OsuLegacy[800] <Warning>: OSU drawing: idle 1.0 calls/s, 156.0 ms/call
+Thu Jan  1 01:40:32 unknown OsuLegacy[800] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:40:39 unknown OsuLegacy[800] <Warning>: OSU FFT: 518 windows, avg 5.573 ms, max 788.571 ms (includes PCM read)
+Thu Jan  1 01:40:48 unknown installd[797] <Error>: 2ff68000 verify_signer_identity: TDMTANF bypass enabled
+Thu Jan  1 01:40:48 unknown SpringBoard[29] <Warning>: Killing <SBApplication: 0x3b76b20> org.osu.legacy.experimental finishedLaunchingFrontmost userLaunch statusBarWindowContextId = 1742338467  activate:  deactivate:  for app installation
+Thu Jan  1 01:40:48 unknown com.apple.launchd[1] <Notice>: (UIKitApplication:org.osu.legacy.experimental[0xb51]) Exited: Killed
+Thu Jan  1 01:40:48 unknown SpringBoard[29] <Warning>: Application 'osu legacy' exited abnormally with signal 9: Killed
+Thu Jan  1 01:40:50 unknown SpringBoard[29] <Warning>: Reloading application state for 'org.osu.legacy.experimental' as its modification date has changed
+Thu Jan  1 01:40:50 unknown SpringBoard[29] <Warning>: Reloading and rendering all application icons.
+Thu Jan  1 01:41:12 unknown securityd[807] <Notice>: MS:Notice: Injecting: (null) [securityd] (550.52)
+Thu Jan  1 01:41:13 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #8 from idevicesyslog. Killing connection
+Thu Jan  1 01:41:13 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+> 
+Thu Jan  1 01:41:24 unknown OsuLegacy[812] <Notice>: MS:Notice: Injecting: org.osu.legacy.experimental [OsuLegacy] (550.52)
+Thu Jan  1 01:41:24 unknown kernel[0] <Debug>: punchd[812] Builtin profile: container (sandbox)
+Thu Jan  1 01:41:24 unknown kernel[0] <Debug>: punchd[812] Container: /private/var/mobile/Applications/11627D16-899E-40E1-A6D2-B8EAA989ACD7 [69] (sandbox)
+> 
+Thu Jan  1 01:41:25 unknown OsuLegacy[812] <Warning>: OSU UI: landscape canvas 480x320, view 320x480
+Thu Jan  1 01:41:26 unknown OsuLegacy[812] <Warning>: OSU boot: initializing embedded Mono after native launch
+Thu Jan  1 01:41:26 unknown OsuLegacy[812] <Warning>: OSU checkpoint: managed entry reached native bundle binding
+> 
+Thu Jan  1 01:41:27 unknown OsuLegacy[812] <Warning>: OSU boot: managed callbacks registered
+Thu Jan  1 01:41:27 unknown OsuLegacy[812] <Warning>: OSU boot: managed startup returned to UIKit
+Thu Jan  1 01:41:28 unknown OsuLegacy[812] <Warning>: OSU startup: IntroTriangles requested, 480x320 / 30 fps
+Thu Jan  1 01:41:28 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Thu Jan  1 01:41:28 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : openH264Driver()
+Thu Jan  1 01:41:28 unknown mediaserverd[23] <Notice>: Inside H264DecodeThread : createDecoderThread()
+Thu Jan  1 01:41:28 unknown mediaserverd[23] <Notice>: H264M2VideoDecoder_StartSession() Stream may not be H264LC: 0 or EnableH264OutOfLoopFilter property: 0 is set to false or Resolution is <= 320X240 : 480X320
+Thu Jan  1 01:41:28 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : setH264DriverSession()
+Thu Jan  1 01:41:28 unknown OsuLegacy[812] <Warning>: OSU startup: intro surface presented
+Thu Jan  1 01:41:29 unknown OsuLegacy[812] <Warning>: OSU startup: visible surface and decoder ready; starting from zero
+> 
+Thu Jan  1 01:41:29 unknown OsuLegacy[812] <Warning>: OSU startup: triangles video playing; theme=1
+Thu Jan  1 01:41:29 unknown kernel[0] <Debug>: *** AppleM2H264MPDDriver[0x807d8000]::setSessionSettings() called ***
+Thu Jan  1 01:41:29 unknown kernel[0] <Debug>: # AppleM2H264MPDDriver::setSessionSettings():Turning off Post Filtering #
+Thu Jan  1 01:41:29 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is enabled
+> 
+Thu Jan  1 01:41:32 unknown OsuLegacy[812] <Warning>: OSU startup: video ended ({
+	    MPMoviePlayerPlaybackDidFinishReasonUserInfoKey = 0;
+	})
+Thu Jan  1 01:41:32 unknown mediaserverd[23] <Notice>: Inside H264DecodeThread : destroyDecoderThread()
+Thu Jan  1 01:41:32 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : freeDriverStorage()
+Thu Jan  1 01:41:32 unknown mediaserverd[23] <Notice>: Inside AppleM2H264DriverUserlandInterface : closeH264Driver()
+Thu Jan  1 01:41:32 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Thu Jan  1 01:41:32 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is disabled
+Thu Jan  1 01:41:32 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is disabled
+Thu Jan  1 01:41:32 unknown OsuLegacy[812] <Warning>: OSU startup: triangles menu revealed
+Thu Jan  1 01:41:32 unknown OsuLegacy[812] <Warning>: OSU menu: 24 shared-texture triangle layers ready
+> 
+Thu Jan  1 01:41:40 unknown OsuLegacy[812] <Warning>: OSU text x=14 y=8 size=16 rgb=0.96,0.95,1
+Thu Jan  1 01:41:40 unknown OsuLegacy[812] <Warning>: OSU text x=93 y=12 size=10 rgb=0.71,0.67,0.77
+Thu Jan  1 01:41:40 unknown OsuLegacy[812] <Warning>: OSU text x=147 y=12 size=9 rgb=0.71,0.67,0.77
+Thu Jan  1 01:41:41 unknown OsuLegacy[812] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:41:41 unknown OsuLegacy[812] <Warning>: OSU drawing: idle 0.8 calls/s, 686.5 ms/call
+> 
+Thu Jan  1 01:41:42 unknown OsuLegacy[812] <Warning>: OSU FFT: source menu.m4a, PCM samples 1389824
+Thu Jan  1 01:41:42 unknown OsuLegacy[812] <Warning>: OSU effects: first spectrum displayed at 12.891, analysis age 24.2 ms
+> 
+Thu Jan  1 01:41:44 unknown OsuLegacy[812] <Warning>: OSU FFT: 40 windows, avg 12.892 ms, max 184.956 ms (includes PCM read)
+> 
+Thu Jan  1 01:41:54 unknown OsuLegacy[812] <Warning>: OSU FFT: 196 windows, avg 3.501 ms, max 184.956 ms (includes PCM read)
+> 
+Thu Jan  1 01:42:04 unknown OsuLegacy[812] <Warning>: OSU FFT: 357 windows, avg 2.524 ms, max 184.956 ms (includes PCM read)
+> 
+Thu Jan  1 01:42:15 unknown OsuLegacy[812] <Warning>: OSU FFT: 518 windows, avg 1.888 ms, max 184.956 ms (includes PCM read)
+> 
+Thu Jan  1 01:42:25 unknown OsuLegacy[812] <Warning>: OSU FFT: 668 windows, avg 1.786 ms, max 184.956 ms (includes PCM read)
+> 
+Thu Jan  1 01:42:34 unknown mediaserverd[23] <Error>: 01:42:34.699 <AudioQueueServer> AudioQueueObject::IONodeConnection::_AcquireHardwareCodec: failed ('hwiu')
+Thu Jan  1 01:42:34 unknown OsuLegacy[812] <Warning>: OSU music: playing audio.mp3
+> 
+Thu Jan  1 01:42:53 unknown OsuLegacy[812] <Warning>: OSU drawing: idle 0.1 calls/s, 1794.0 ms/call
+Thu Jan  1 01:42:53 unknown OsuLegacy[812] <Warning>: OSU FFT: 827 windows, avg 1.570 ms, max 184.956 ms (includes PCM read)
+> 
+Thu Jan  1 01:43:03 unknown OsuLegacy[812] <Warning>: OSU FFT: 827 windows, avg 1.570 ms, max 184.956 ms (includes PCM read)
+> 
+Thu Jan  1 01:43:13 unknown OsuLegacy[812] <Warning>: OSU FFT: 827 windows, avg 1.570 ms, max 184.956 ms (includes PCM read)
+> 
+Thu Jan  1 01:43:17 unknown UIKitApplication:org.osu.legacy.experimental[0x13e0][812] <Notice>: AudioStreamBasicDescription:  2 ch,  44100 Hz, 'lpcm' (0x00000C2C) 8.24-bit little-endian signed integer, deinterleaved
+> 
+Thu Jan  1 01:45:08 unknown OsuLegacy[813] <Notice>: MS:Notice: Injecting: org.osu.legacy.experimental [OsuLegacy] (550.52)
+Thu Jan  1 01:45:08 unknown kernel[0] <Debug>: punchd[813] Builtin profile: container (sandbox)
+Thu Jan  1 01:45:08 unknown kernel[0] <Debug>: punchd[813] Container: /private/var/mobile/Applications/11627D16-899E-40E1-A6D2-B8EAA989ACD7 [69] (sandbox)
+> 
+Thu Jan  1 01:45:10 unknown OsuLegacy[813] <Warning>: OSU UI: landscape canvas 480x320, view 320x480
+Thu Jan  1 01:45:10 unknown OsuLegacy[813] <Warning>: OSU boot: initializing embedded Mono after native launch
+Thu Jan  1 01:45:11 unknown OsuLegacy[813] <Warning>: OSU checkpoint: managed entry reached native bundle binding
+> 
+Thu Jan  1 01:45:13 unknown OsuLegacy[813] <Warning>: OSU boot: managed callbacks registered
+Thu Jan  1 01:45:13 unknown OsuLegacy[813] <Warning>: OSU boot: managed startup returned to UIKit
+Thu Jan  1 01:45:13 unknown OsuLegacy[813] <Warning>: OSU startup: IntroTriangles requested, 480x320 / 30 fps
+Thu Jan  1 01:45:13 unknown OsuLegacy[813] <Warning>: OSU startup: menu music play=1
+Thu Jan  1 01:45:13 unknown OsuLegacy[813] <Warning>: OSU startup: triangles menu revealed
+> 
+Thu Jan  1 01:45:14 unknown OsuLegacy[813] <Warning>: OSU menu: 24 shared-texture triangle layers ready
+> 
+Thu Jan  1 01:45:22 unknown OsuLegacy[813] <Warning>: OSU text x=14 y=8 size=16 rgb=0.96,0.95,1
+Thu Jan  1 01:45:22 unknown OsuLegacy[813] <Warning>: OSU text x=93 y=12 size=10 rgb=0.71,0.67,0.77
+Thu Jan  1 01:45:22 unknown OsuLegacy[813] <Warning>: OSU text x=147 y=12 size=9 rgb=0.71,0.67,0.77
+Thu Jan  1 01:45:22 unknown OsuLegacy[813] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:45:22 unknown OsuLegacy[813] <Warning>: OSU drawing: idle 1.0 calls/s, 722.7 ms/call
+Thu Jan  1 01:45:23 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Thu Jan  1 01:45:23 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : openH264Driver()
+Thu Jan  1 01:45:23 unknown mediaserverd[23] <Notice>: Inside H264DecodeThread : createDecoderThread()
+Thu Jan  1 01:45:23 unknown mediaserverd[23] <Notice>: H264M2VideoDecoder_StartSession() Stream may not be H264LC: 0 or EnableH264OutOfLoopFilter property: 0 is set to false or Resolution is <= 320X240 : 480X320
+Thu Jan  1 01:45:23 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : setH264DriverSession()
+Thu Jan  1 01:45:23 unknown kernel[0] <Debug>: *** AppleM2H264MPDDriver[0x807d8000]::setSessionSettings() called ***
+Thu Jan  1 01:45:23 unknown kernel[0] <Debug>: # AppleM2H264MPDDriver::setSessionSettings():Turning off Post Filtering #
+> 
+Thu Jan  1 01:45:23 unknown OsuLegacy[813] <Warning>: OSU FFT: source menu.m4a, PCM samples 1389824
+Thu Jan  1 01:45:23 unknown OsuLegacy[813] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:45:23 unknown OsuLegacy[813] <Warning>: OSU effects: first spectrum displayed at 12.896, analysis age 22.8 ms
+Thu Jan  1 01:45:24 unknown OsuLegacy[813] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:45:25 unknown OsuLegacy[813] <Warning>: OSU effects: visible=0 animate=0 suspended=0
+> 
+Thu Jan  1 01:45:30 unknown OsuLegacy[813] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:45:30 unknown OsuLegacy[813] <Warning>: OSU drawing: idle 1.2 calls/s, 154.3 ms/call
+Thu Jan  1 01:45:31 unknown OsuLegacy[813] <Warning>: OSU effects: visible=0 animate=0 suspended=0
+Thu Jan  1 01:45:34 unknown mediaserverd[23] <Error>: 01:45:34.252 <AudioQueueServer> AudioQueueObject::IONodeConnection::_AcquireHardwareCodec: failed ('hwiu')
+> 
+Thu Jan  1 01:45:34 unknown OsuLegacy[813] <Warning>: OSU music: playing audio.mp3
+> 
+Thu Jan  1 01:45:45 unknown OsuLegacy[813] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+> 
+Thu Jan  1 01:45:51 unknown OsuLegacy[813] <Warning>: OSU effects: visible=0 animate=0 suspended=0
+Thu Jan  1 01:45:52 unknown OsuLegacy[813] <Warning>: OSU FFT: source audio.mp3, PCM samples 0
+Thu Jan  1 01:45:52 unknown OsuLegacy[813] <Warning>: OSU FFT: source audio.mp3, PCM samples 0
+Thu Jan  1 01:45:52 unknown OsuLegacy[813] <Warning>: OSU drawing: idle 0.5 calls/s, 826.1 ms/call
+> 
+Thu Jan  1 01:45:53 unknown OsuLegacy[813] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+> 
+Thu Jan  1 01:45:59 unknown OsuLegacy[813] <Warning>: OSU music: playing audio.mp3
+Thu Jan  1 01:45:59 unknown OsuLegacy[813] <Warning>: OSU FFT: source audio.mp3, PCM samples 0
+> 
+Thu Jan  1 01:46:01 unknown mediaserverd[23] <Error>: 01:46:01.514 <AudioQueueServer> AudioQueueObject::IONodeConnection::_AcquireHardwareCodec: failed ('hwiu')
+Thu Jan  1 01:46:01 unknown OsuLegacy[813] <Warning>: OSU music: playing R4V3-B0Y-S3RL-feat-Krystal.mp3.mp3
+Thu Jan  1 01:46:01 unknown OsuLegacy[813] <Warning>: OSU FFT: source audio.mp3, PCM samples 0
+> 
+Thu Jan  1 01:46:03 unknown OsuLegacy[813] <Warning>: OSU music: playing Call me maybe.mp3
+Thu Jan  1 01:46:03 unknown OsuLegacy[813] <Warning>: OSU FFT: source R4V3-B0Y-S3RL-feat-Krystal.mp3.mp3, PCM samples 0
+> 
+Thu Jan  1 01:46:04 unknown mediaserverd[23] <Error>: 01:46:04.301 <AudioQueueServer> AudioQueueObject::IONodeConnection::_AcquireHardwareCodec: failed ('hwiu')
+Thu Jan  1 01:46:04 unknown OsuLegacy[813] <Warning>: OSU music: playing audio.mp3
+Thu Jan  1 01:46:04 unknown OsuLegacy[813] <Warning>: OSU FFT: source Call me maybe.mp3, PCM samples 0
+> 
+Thu Jan  1 01:46:05 unknown OsuLegacy[813] <Warning>: OSU music: playing menu.m4a
+Thu Jan  1 01:46:05 unknown OsuLegacy[813] <Warning>: OSU FFT: source audio.mp3, PCM samples 0
+Thu Jan  1 01:46:05 unknown OsuLegacy[813] <Warning>: OSU FFT: source menu.m4a, PCM samples 1389824
+Thu Jan  1 01:46:06 unknown OsuLegacy[813] <Warning>: OSU effects: first spectrum displayed at 0.237, analysis age 24.8 ms
+> 
+Thu Jan  1 01:46:06 unknown OsuLegacy[813] <Warning>: OSU FFT: 40 windows, avg 15.813 ms, max 284.275 ms (includes PCM read)
+Thu Jan  1 01:46:08 unknown mediaserverd[23] <Error>: 01:46:07.977 <AudioQueueServer> AudioQueueObject::IONodeConnection::_AcquireHardwareCodec: failed ('hwiu')
+> 
+Thu Jan  1 01:46:08 unknown OsuLegacy[813] <Warning>: OSU music: playing audio.mp3
+> 
+Thu Jan  1 01:46:11 unknown OsuLegacy[813] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:46:12 unknown OsuLegacy[813] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:46:12 unknown OsuLegacy[813] <Warning>: OSU drawing: idle 0.5 calls/s, 38.8 ms/call
+Thu Jan  1 01:46:12 unknown OsuLegacy[813] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+> 
+Thu Jan  1 01:46:14 unknown OsuLegacy[813] <Warning>: OSU effects: visible=0 animate=0 suspended=0
+> 
+Thu Jan  1 01:46:15 unknown OsuLegacy[813] <Warning>: OSU FFT: source audio.mp3, PCM samples 0
+Thu Jan  1 01:46:15 unknown OsuLegacy[813] <Warning>: OSU FFT: source audio.mp3, PCM samples 0
+> 
+Thu Jan  1 01:46:17 unknown OsuLegacy[813] <Warning>: OSU FFT: 55 windows, avg 12.739 ms, max 284.275 ms (includes PCM read)
+Thu Jan  1 01:46:17 unknown OsuLegacy[813] <Warning>: OSU FFT: source audio.mp3, PCM samples 0
+> 
+Thu Jan  1 01:46:20 unknown OsuLegacy[813] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+> 
+Thu Jan  1 01:46:22 unknown OsuLegacy[813] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:46:23 unknown OsuLegacy[813] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+> 
+Thu Jan  1 01:46:27 unknown OsuLegacy[813] <Warning>: OSU FFT: 55 windows, avg 12.739 ms, max 284.275 ms (includes PCM read)
+Thu Jan  1 01:46:27 unknown OsuLegacy[813] <Warning>: OSU FFT: source audio.mp3, PCM samples 544475
+Thu Jan  1 01:46:27 unknown OsuLegacy[813] <Warning>: OSU effects: first spectrum displayed at 19.270, analysis age 24.2 ms
+> 
+Thu Jan  1 01:46:31 unknown OsuLegacy[813] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:46:31 unknown OsuLegacy[813] <Warning>: OSU drawing: idle 0.5 calls/s, 483.2 ms/call
+> 
+Thu Jan  1 01:46:37 unknown OsuLegacy[813] <Warning>: OSU FFT: 181 windows, avg 5.928 ms, max 284.275 ms (includes PCM read)
+> 
+Thu Jan  1 01:46:47 unknown OsuLegacy[813] <Warning>: OSU FFT: 311 windows, avg 3.912 ms, max 284.275 ms (includes PCM read)
+> 
+Thu Jan  1 01:46:52 unknown mediaserverd[23] <Notice>: Inside H264DecodeThread : destroyDecoderThread()
+Thu Jan  1 01:46:52 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : freeDriverStorage()
+Thu Jan  1 01:46:52 unknown mediaserverd[23] <Notice>: Inside AppleM2H264DriverUserlandInterface : closeH264Driver()
+Thu Jan  1 01:46:52 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Thu Jan  1 01:46:53 unknown UIKitApplication:org.osu.legacy.experimental[0x7b3][813] <Notice>: AudioStreamBasicDescription:  2 ch,  44100 Hz, 'lpcm' (0x00000C2C) 8.24-bit little-endian signed integer, deinterleaved
+> 
+Thu Jan  1 01:47:05 unknown kernel[0] <Debug>: punchd[814] Builtin profile: container (sandbox)
+Thu Jan  1 01:47:05 unknown kernel[0] <Debug>: punchd[814] Container: /private/var/mobile/Applications/11627D16-899E-40E1-A6D2-B8EAA989ACD7 [69] (sandbox)
+Thu Jan  1 01:47:05 unknown OsuLegacy[814] <Notice>: MS:Notice: Injecting: org.osu.legacy.experimental [OsuLegacy] (550.52)
+> 
+Thu Jan  1 01:47:07 unknown OsuLegacy[814] <Warning>: OSU UI: landscape canvas 480x320, view 320x480
+Thu Jan  1 01:47:07 unknown OsuLegacy[814] <Warning>: OSU boot: initializing embedded Mono after native launch
+> 
+Thu Jan  1 01:47:08 unknown OsuLegacy[814] <Warning>: OSU checkpoint: managed entry reached native bundle binding
+> 
+Thu Jan  1 01:47:10 unknown OsuLegacy[814] <Warning>: OSU boot: managed callbacks registered
+Thu Jan  1 01:47:10 unknown OsuLegacy[814] <Warning>: OSU boot: managed startup returned to UIKit
+Thu Jan  1 01:47:11 unknown OsuLegacy[814] <Warning>: OSU startup: IntroTriangles requested, 480x320 / 30 fps
+Thu Jan  1 01:47:11 unknown OsuLegacy[814] <Warning>: OSU startup: intro surface presented
+Thu Jan  1 01:47:11 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Thu Jan  1 01:47:11 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : openH264Driver()
+Thu Jan  1 01:47:11 unknown mediaserverd[23] <Notice>: Inside H264DecodeThread : createDecoderThread()
+Thu Jan  1 01:47:11 unknown mediaserverd[23] <Notice>: H264M2VideoDecoder_StartSession() Stream may not be H264LC: 0 or EnableH264OutOfLoopFilter property: 0 is set to false or Resolution is <= 320X240 : 480X320
+Thu Jan  1 01:47:11 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : setH264DriverSession()
+Thu Jan  1 01:47:11 unknown kernel[0] <Debug>: *** AppleM2H264MPDDriver[0x807d8000]::setSessionSettings() called ***
+Thu Jan  1 01:47:11 unknown kernel[0] <Debug>: # AppleM2H264MPDDriver::setSessionSettings():Turning off Post Filtering #
+> 
+Thu Jan  1 01:47:11 unknown OsuLegacy[814] <Warning>: OSU startup: visible surface and decoder ready; starting from zero
+Thu Jan  1 01:47:12 unknown OsuLegacy[814] <Warning>: OSU startup: triangles video playing; theme=1
+Thu Jan  1 01:47:12 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is enabled
+Thu Jan  1 01:47:13 unknown mediaserverd[23] <Notice>: Inside H264DecodeThread : destroyDecoderThread()
+> 
+Thu Jan  1 01:47:13 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : freeDriverStorage()
+Thu Jan  1 01:47:13 unknown mediaserverd[23] <Notice>: Inside AppleM2H264DriverUserlandInterface : closeH264Driver()
+Thu Jan  1 01:47:13 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Thu Jan  1 01:47:13 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is disabled
+Thu Jan  1 01:47:13 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is disabled
+Thu Jan  1 01:47:13 unknown OsuLegacy[814] <Warning>: OSU startup: triangles menu revealed
+Thu Jan  1 01:47:13 unknown OsuLegacy[814] <Warning>: OSU menu: 24 shared-texture triangle layers ready
+> 
+Thu Jan  1 01:47:22 unknown OsuLegacy[814] <Warning>: OSU text x=14 y=8 size=16 rgb=0.96,0.95,1
+Thu Jan  1 01:47:22 unknown OsuLegacy[814] <Warning>: OSU text x=93 y=12 size=10 rgb=0.71,0.67,0.77
+Thu Jan  1 01:47:22 unknown OsuLegacy[814] <Warning>: OSU text x=147 y=12 size=9 rgb=0.71,0.67,0.77
+Thu Jan  1 01:47:22 unknown OsuLegacy[814] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:47:22 unknown OsuLegacy[814] <Warning>: OSU drawing: idle 0.9 calls/s, 709.2 ms/call
+> 
+Thu Jan  1 01:47:23 unknown OsuLegacy[814] <Warning>: OSU FFT: source menu.m4a, PCM samples 1389824
+Thu Jan  1 01:47:23 unknown OsuLegacy[814] <Warning>: OSU effects: first spectrum displayed at 12.851, analysis age 61.6 ms
+Thu Jan  1 01:47:24 unknown OsuLegacy[814] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+> 
+Thu Jan  1 01:47:25 unknown mediaserverd[23] <Error>: 01:47:25.419 <AudioQueueServer> AudioQueueObject::IONodeConnection::_AcquireHardwareCodec: failed ('hwiu')
+Thu Jan  1 01:47:25 unknown OsuLegacy[814] <Warning>: OSU music: playing menu.m4a
+> 
+Thu Jan  1 01:47:26 unknown OsuLegacy[814] <Warning>: OSU music: playing menu.m4a
+> 
+Thu Jan  1 01:47:28 unknown OsuLegacy[814] <Warning>: OSU FFT: 40 windows, avg 4.586 ms, max 43.315 ms (includes PCM read)
+Thu Jan  1 01:47:28 unknown OsuLegacy[814] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+> 
+Thu Jan  1 01:47:33 unknown mediaserverd[23] <Error>: 01:47:33.824 <AudioQueueServer> AudioQueueObject::IONodeConnection::_AcquireHardwareCodec: failed ('hwiu')
+Thu Jan  1 01:47:34 unknown OsuLegacy[814] <Warning>: OSU music: playing menu.m4a
+> 
+Thu Jan  1 01:47:36 unknown OsuLegacy[814] <Warning>: OSU drawing: idle 0.7 calls/s, 48.6 ms/call
+Thu Jan  1 01:47:36 unknown OsuLegacy[814] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+> 
+Thu Jan  1 01:47:38 unknown OsuLegacy[814] <Warning>: OSU FFT: 163 windows, avg 1.925 ms, max 60.855 ms (includes PCM read)
+> 
+Thu Jan  1 01:47:48 unknown OsuLegacy[814] <Warning>: OSU FFT: 279 windows, avg 2.153 ms, max 98.285 ms (includes PCM read)
+> 
+Thu Jan  1 01:47:58 unknown OsuLegacy[814] <Warning>: OSU FFT: 399 windows, avg 1.811 ms, max 98.285 ms (includes PCM read)
+> 
+Thu Jan  1 01:48:08 unknown OsuLegacy[814] <Warning>: OSU FFT: 546 windows, avg 1.809 ms, max 98.285 ms (includes PCM read)
+> 
+Thu Jan  1 01:48:18 unknown OsuLegacy[814] <Warning>: OSU FFT: 688 windows, avg 1.550 ms, max 98.285 ms (includes PCM read)
+> 
+Thu Jan  1 01:48:28 unknown OsuLegacy[814] <Warning>: OSU FFT: 827 windows, avg 1.843 ms, max 116.411 ms (includes PCM read)
+> 
+Thu Jan  1 01:48:49 unknown OsuLegacy[814] <Warning>: OSU FFT: 865 windows, avg 1.810 ms, max 116.411 ms (includes PCM read)
+> 
+Thu Jan  1 01:49:00 unknown OsuLegacy[814] <Warning>: OSU FFT: 1023 windows, avg 1.618 ms, max 116.411 ms (includes PCM read)
+> 
+Thu Jan  1 01:49:10 unknown OsuLegacy[814] <Warning>: OSU FFT: 1136 windows, avg 1.653 ms, max 116.411 ms (includes PCM read)
+> 
+Thu Jan  1 01:49:20 unknown OsuLegacy[814] <Warning>: OSU FFT: 1155 windows, avg 1.700 ms, max 116.411 ms (includes PCM read)
+> 
+Thu Jan  1 01:49:30 unknown OsuLegacy[814] <Warning>: OSU FFT: 1155 windows, avg 1.700 ms, max 116.411 ms (includes PCM read)
+> 
+Thu Jan  1 01:49:40 unknown OsuLegacy[814] <Warning>: OSU FFT: 1155 windows, avg 1.700 ms, max 116.411 ms (includes PCM read)
+> 
+Thu Jan  1 01:49:50 unknown OsuLegacy[814] <Warning>: OSU FFT: 1155 windows, avg 1.700 ms, max 116.411 ms (includes PCM read)
+> 
+Thu Jan  1 01:49:52 unknown UIKitApplication:org.osu.legacy.experimental[0xc2cf][814] <Notice>: AudioStreamBasicDescription:  2 ch,  44100 Hz, 'lpcm' (0x00000C2C) 8.24-bit little-endian signed integer, deinterleaved
+> 
+Thu Jan  1 01:51:07 unknown OsuLegacy[815] <Notice>: MS:Notice: Injecting: org.osu.legacy.experimental [OsuLegacy] (550.52)
+Thu Jan  1 01:51:07 unknown kernel[0] <Debug>: punchd[815] Builtin profile: container (sandbox)
+Thu Jan  1 01:51:07 unknown kernel[0] <Debug>: punchd[815] Container: /private/var/mobile/Applications/11627D16-899E-40E1-A6D2-B8EAA989ACD7 [69] (sandbox)
+> 
+Thu Jan  1 01:51:09 unknown OsuLegacy[815] <Warning>: OSU UI: landscape canvas 480x320, view 320x480
+Thu Jan  1 01:51:09 unknown OsuLegacy[815] <Warning>: OSU boot: initializing embedded Mono after native launch
+> 
+Thu Jan  1 01:51:10 unknown OsuLegacy[815] <Warning>: OSU checkpoint: managed entry reached native bundle binding
+> 
+Thu Jan  1 01:51:12 unknown OsuLegacy[815] <Warning>: OSU boot: managed callbacks registered
+Thu Jan  1 01:51:12 unknown OsuLegacy[815] <Warning>: OSU boot: managed startup returned to UIKit
+Thu Jan  1 01:51:12 unknown OsuLegacy[815] <Warning>: OSU startup: IntroTriangles requested, 480x320 / 30 fps
+Thu Jan  1 01:51:13 unknown OsuLegacy[815] <Warning>: OSU startup: intro surface presented
+Thu Jan  1 01:51:13 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Thu Jan  1 01:51:13 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : openH264Driver()
+Thu Jan  1 01:51:13 unknown mediaserverd[23] <Notice>: Inside H264DecodeThread : createDecoderThread()
+Thu Jan  1 01:51:13 unknown mediaserverd[23] <Notice>: H264M2VideoDecoder_StartSession() Stream may not be H264LC: 0 or EnableH264OutOfLoopFilter property: 0 is set to false or Resolution is <= 320X240 : 480X320
+Thu Jan  1 01:51:13 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : setH264DriverSession()
+> 
+Thu Jan  1 01:51:13 unknown kernel[0] <Debug>: *** AppleM2H264MPDDriver[0x807d8000]::setSessionSettings() called ***
+Thu Jan  1 01:51:13 unknown kernel[0] <Debug>: # AppleM2H264MPDDriver::setSessionSettings():Turning off Post Filtering #
+Thu Jan  1 01:51:13 unknown OsuLegacy[815] <Warning>: OSU startup: visible surface and decoder ready; starting from zero
+Thu Jan  1 01:51:14 unknown OsuLegacy[815] <Warning>: OSU startup: triangles video playing; theme=1
+Thu Jan  1 01:51:14 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is enabled
+Thu Jan  1 01:51:17 unknown OsuLegacy[815] <Warning>: OSU startup: video ended ({
+	    MPMoviePlayerPlaybackDidFinishReasonUserInfoKey = 0;
+	})
+> 
+Thu Jan  1 01:51:17 unknown mediaserverd[23] <Notice>: Inside H264DecodeThread : destroyDecoderThread()
+Thu Jan  1 01:51:17 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : freeDriverStorage()
+Thu Jan  1 01:51:17 unknown mediaserverd[23] <Notice>: Inside AppleM2H264DriverUserlandInterface : closeH264Driver()
+Thu Jan  1 01:51:17 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Thu Jan  1 01:51:17 unknown OsuLegacy[815] <Warning>: OSU startup: triangles menu revealed
+Thu Jan  1 01:51:17 unknown OsuLegacy[815] <Warning>: OSU menu: 24 shared-texture triangle layers ready
+Thu Jan  1 01:51:17 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is disabled
+Thu Jan  1 01:51:17 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is disabled
+> 
+Thu Jan  1 01:51:25 unknown OsuLegacy[815] <Warning>: OSU text x=14 y=8 size=16 rgb=0.96,0.95,1
+Thu Jan  1 01:51:25 unknown OsuLegacy[815] <Warning>: OSU text x=93 y=12 size=10 rgb=0.71,0.67,0.77
+Thu Jan  1 01:51:25 unknown OsuLegacy[815] <Warning>: OSU text x=147 y=12 size=9 rgb=0.71,0.67,0.77
+Thu Jan  1 01:51:25 unknown OsuLegacy[815] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:51:25 unknown OsuLegacy[815] <Warning>: OSU drawing: idle 0.7 calls/s, 737.2 ms/call
+> 
+Thu Jan  1 01:51:26 unknown OsuLegacy[815] <Warning>: OSU FFT: source menu.m4a, PCM samples 1389824
+Thu Jan  1 01:51:26 unknown OsuLegacy[815] <Warning>: OSU effects: first spectrum displayed at 12.662, analysis age 13.1 ms
+> 
+Thu Jan  1 01:51:29 unknown OsuLegacy[815] <Warning>: OSU FFT: 40 windows, avg 4.197 ms, max 62.046 ms (includes PCM read)
+> 
+Thu Jan  1 01:51:35 unknown UIKitApplication:org.osu.legacy.experimental[0x8a7b][815] <Notice>: AudioStreamBasicDescription:  2 ch,  44100 Hz, 'lpcm' (0x00000C2C) 8.24-bit little-endian signed integer, deinterleaved
+> [disconnected:f7f4c5236445e3e001f9834aa63367fd56cdf871]
+[connected:f7f4c5236445e3e001f9834aa63367fd56cdf871]
+
+========================
+ASL is here to serve you
+> 
+Thu Jan  1 01:41:41 unknown OsuLegacy[812] <Warning>: OSU drawing: idle 0.8 calls/s, 686.5 ms/call
+Thu Jan  1 01:41:42 unknown OsuLegacy[812] <Warning>: OSU FFT: source menu.m4a, PCM samples 1389824
+Thu Jan  1 01:41:42 unknown OsuLegacy[812] <Warning>: OSU effects: first spectrum displayed at 12.891, analysis age 24.2 ms
+Thu Jan  1 01:41:44 unknown OsuLegacy[812] <Warning>: OSU FFT: 40 windows, avg 12.892 ms, max 184.956 ms (includes PCM read)
+Thu Jan  1 01:41:54 unknown OsuLegacy[812] <Warning>: OSU FFT: 196 windows, avg 3.501 ms, max 184.956 ms (includes PCM read)
+Thu Jan  1 01:42:04 unknown OsuLegacy[812] <Warning>: OSU FFT: 357 windows, avg 2.524 ms, max 184.956 ms (includes PCM read)
+Thu Jan  1 01:42:15 unknown OsuLegacy[812] <Warning>: OSU FFT: 518 windows, avg 1.888 ms, max 184.956 ms (includes PCM read)
+Thu Jan  1 01:42:25 unknown OsuLegacy[812] <Warning>: OSU FFT: 668 windows, avg 1.786 ms, max 184.956 ms (includes PCM read)
+Thu Jan  1 01:42:34 unknown mediaserverd[23] <Error>: 01:42:34.699 <AudioQueueServer> AudioQueueObject::IONodeConnection::_AcquireHardwareCodec: failed ('hwiu')
+Thu Jan  1 01:42:34 unknown OsuLegacy[812] <Warning>: OSU music: playing audio.mp3
+Thu Jan  1 01:42:53 unknown OsuLegacy[812] <Warning>: OSU drawing: idle 0.1 calls/s, 1794.0 ms/call
+Thu Jan  1 01:42:53 unknown OsuLegacy[812] <Warning>: OSU FFT: 827 windows, avg 1.570 ms, max 184.956 ms (includes PCM read)
+Thu Jan  1 01:43:03 unknown OsuLegacy[812] <Warning>: OSU FFT: 827 windows, avg 1.570 ms, max 184.956 ms (includes PCM read)
+Thu Jan  1 01:43:13 unknown OsuLegacy[812] <Warning>: OSU FFT: 827 windows, avg 1.570 ms, max 184.956 ms (includes PCM read)
+Thu Jan  1 01:43:17 unknown UIKitApplication:org.osu.legacy.experimental[0x13e0][812] <Notice>: AudioStreamBasicDescription:  2 ch,  44100 Hz, 'lpcm' (0x00000C2C) 8.24-bit little-endian signed integer, deinterleaved
+Thu Jan  1 01:45:08 unknown OsuLegacy[813] <Notice>: MS:Notice: Injecting: org.osu.legacy.experimental [OsuLegacy] (550.52)
+Thu Jan  1 01:45:08 unknown kernel[0] <Debug>: punchd[813] Builtin profile: container (sandbox)
+Thu Jan  1 01:45:08 unknown kernel[0] <Debug>: punchd[813] Container: /private/var/mobile/Applications/11627D16-899E-40E1-A6D2-B8EAA989ACD7 [69] (sandbox)
+Thu Jan  1 01:45:10 unknown OsuLegacy[813] <Warning>: OSU UI: landscape canvas 480x320, view 320x480
+Thu Jan  1 01:45:10 unknown OsuLegacy[813] <Warning>: OSU boot: initializing embedded Mono after native launch
+Thu Jan  1 01:45:11 unknown OsuLegacy[813] <Warning>: OSU checkpoint: managed entry reached native bundle binding
+Thu Jan  1 01:45:13 unknown OsuLegacy[813] <Warning>: OSU boot: managed callbacks registered
+Thu Jan  1 01:45:13 unknown OsuLegacy[813] <Warning>: OSU boot: managed startup returned to UIKit
+Thu Jan  1 01:45:13 unknown OsuLegacy[813] <Warning>: OSU startup: IntroTriangles requested, 480x320 / 30 fps
+Thu Jan  1 01:45:13 unknown OsuLegacy[813] <Warning>: OSU startup: menu music play=1
+Thu Jan  1 01:45:13 unknown OsuLegacy[813] <Warning>: OSU startup: triangles menu revealed
+Thu Jan  1 01:45:14 unknown OsuLegacy[813] <Warning>: OSU menu: 24 shared-texture triangle layers ready
+Thu Jan  1 01:45:22 unknown OsuLegacy[813] <Warning>: OSU text x=14 y=8 size=16 rgb=0.96,0.95,1
+Thu Jan  1 01:45:22 unknown OsuLegacy[813] <Warning>: OSU text x=93 y=12 size=10 rgb=0.71,0.67,0.77
+Thu Jan  1 01:45:22 unknown OsuLegacy[813] <Warning>: OSU text x=147 y=12 size=9 rgb=0.71,0.67,0.77
+Thu Jan  1 01:45:22 unknown OsuLegacy[813] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:45:22 unknown OsuLegacy[813] <Warning>: OSU drawing: idle 1.0 calls/s, 722.7 ms/call
+Thu Jan  1 01:45:23 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Thu Jan  1 01:45:23 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : openH264Driver()
+Thu Jan  1 01:45:23 unknown mediaserverd[23] <Notice>: Inside H264DecodeThread : createDecoderThread()
+Thu Jan  1 01:45:23 unknown mediaserverd[23] <Notice>: H264M2VideoDecoder_StartSession() Stream may not be H264LC: 0 or EnableH264OutOfLoopFilter property: 0 is set to false or Resolution is <= 320X240 : 480X320
+Thu Jan  1 01:45:23 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : setH264DriverSession()
+Thu Jan  1 01:45:23 unknown kernel[0] <Debug>: *** AppleM2H264MPDDriver[0x807d8000]::setSessionSettings() called ***
+Thu Jan  1 01:45:23 unknown kernel[0] <Debug>: # AppleM2H264MPDDriver::setSessionSettings():Turning off Post Filtering #
+Thu Jan  1 01:45:23 unknown OsuLegacy[813] <Warning>: OSU FFT: source menu.m4a, PCM samples 1389824
+Thu Jan  1 01:45:23 unknown OsuLegacy[813] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:45:23 unknown OsuLegacy[813] <Warning>: OSU effects: first spectrum displayed at 12.896, analysis age 22.8 ms
+Thu Jan  1 01:45:24 unknown OsuLegacy[813] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:45:25 unknown OsuLegacy[813] <Warning>: OSU effects: visible=0 animate=0 suspended=0
+Thu Jan  1 01:45:30 unknown OsuLegacy[813] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:45:30 unknown OsuLegacy[813] <Warning>: OSU drawing: idle 1.2 calls/s, 154.3 ms/call
+Thu Jan  1 01:45:31 unknown OsuLegacy[813] <Warning>: OSU effects: visible=0 animate=0 suspended=0
+Thu Jan  1 01:45:34 unknown mediaserverd[23] <Error>: 01:45:34.252 <AudioQueueServer> AudioQueueObject::IONodeConnection::_AcquireHardwareCodec: failed ('hwiu')
+Thu Jan  1 01:45:34 unknown OsuLegacy[813] <Warning>: OSU music: playing audio.mp3
+Thu Jan  1 01:45:45 unknown OsuLegacy[813] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:45:51 unknown OsuLegacy[813] <Warning>: OSU effects: visible=0 animate=0 suspended=0
+Thu Jan  1 01:45:52 unknown OsuLegacy[813] <Warning>: OSU FFT: source audio.mp3, PCM samples 0
+Thu Jan  1 01:45:52 unknown OsuLegacy[813] <Warning>: OSU FFT: source audio.mp3, PCM samples 0
+Thu Jan  1 01:45:52 unknown OsuLegacy[813] <Warning>: OSU drawing: idle 0.5 calls/s, 826.1 ms/call
+Thu Jan  1 01:45:53 unknown OsuLegacy[813] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:45:59 unknown OsuLegacy[813] <Warning>: OSU music: playing audio.mp3
+Thu Jan  1 01:45:59 unknown OsuLegacy[813] <Warning>: OSU FFT: source audio.mp3, PCM samples 0
+Thu Jan  1 01:46:01 unknown mediaserverd[23] <Error>: 01:46:01.514 <AudioQueueServer> AudioQueueObject::IONodeConnection::_AcquireHardwareCodec: failed ('hwiu')
+Thu Jan  1 01:46:01 unknown OsuLegacy[813] <Warning>: OSU music: playing R4V3-B0Y-S3RL-feat-Krystal.mp3.mp3
+Thu Jan  1 01:46:01 unknown OsuLegacy[813] <Warning>: OSU FFT: source audio.mp3, PCM samples 0
+Thu Jan  1 01:46:03 unknown OsuLegacy[813] <Warning>: OSU music: playing Call me maybe.mp3
+Thu Jan  1 01:46:03 unknown OsuLegacy[813] <Warning>: OSU FFT: source R4V3-B0Y-S3RL-feat-Krystal.mp3.mp3, PCM samples 0
+Thu Jan  1 01:46:04 unknown mediaserverd[23] <Error>: 01:46:04.301 <AudioQueueServer> AudioQueueObject::IONodeConnection::_AcquireHardwareCodec: failed ('hwiu')
+Thu Jan  1 01:46:04 unknown OsuLegacy[813] <Warning>: OSU music: playing audio.mp3
+Thu Jan  1 01:46:04 unknown OsuLegacy[813] <Warning>: OSU FFT: source Call me maybe.mp3, PCM samples 0
+Thu Jan  1 01:46:05 unknown OsuLegacy[813] <Warning>: OSU music: playing menu.m4a
+Thu Jan  1 01:46:05 unknown OsuLegacy[813] <Warning>: OSU FFT: source audio.mp3, PCM samples 0
+Thu Jan  1 01:46:05 unknown OsuLegacy[813] <Warning>: OSU FFT: source menu.m4a, PCM samples 1389824
+Thu Jan  1 01:46:06 unknown OsuLegacy[813] <Warning>: OSU effects: first spectrum displayed at 0.237, analysis age 24.8 ms
+Thu Jan  1 01:46:06 unknown OsuLegacy[813] <Warning>: OSU FFT: 40 windows, avg 15.813 ms, max 284.275 ms (includes PCM read)
+Thu Jan  1 01:46:08 unknown mediaserverd[23] <Error>: 01:46:07.977 <AudioQueueServer> AudioQueueObject::IONodeConnection::_AcquireHardwareCodec: failed ('hwiu')
+Thu Jan  1 01:46:08 unknown OsuLegacy[813] <Warning>: OSU music: playing audio.mp3
+Thu Jan  1 01:46:11 unknown OsuLegacy[813] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:46:12 unknown OsuLegacy[813] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:46:12 unknown OsuLegacy[813] <Warning>: OSU drawing: idle 0.5 calls/s, 38.8 ms/call
+Thu Jan  1 01:46:12 unknown OsuLegacy[813] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:46:14 unknown OsuLegacy[813] <Warning>: OSU effects: visible=0 animate=0 suspended=0
+Thu Jan  1 01:46:15 unknown OsuLegacy[813] <Warning>: OSU FFT: source audio.mp3, PCM samples 0
+Thu Jan  1 01:46:15 unknown OsuLegacy[813] <Warning>: OSU FFT: source audio.mp3, PCM samples 0
+Thu Jan  1 01:46:17 unknown OsuLegacy[813] <Warning>: OSU FFT: 55 windows, avg 12.739 ms, max 284.275 ms (includes PCM read)
+Thu Jan  1 01:46:17 unknown OsuLegacy[813] <Warning>: OSU FFT: source audio.mp3, PCM samples 0
+Thu Jan  1 01:46:20 unknown OsuLegacy[813] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:46:22 unknown OsuLegacy[813] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:46:23 unknown OsuLegacy[813] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:46:27 unknown OsuLegacy[813] <Warning>: OSU FFT: 55 windows, avg 12.739 ms, max 284.275 ms (includes PCM read)
+Thu Jan  1 01:46:27 unknown OsuLegacy[813] <Warning>: OSU FFT: source audio.mp3, PCM samples 544475
+Thu Jan  1 01:46:27 unknown OsuLegacy[813] <Warning>: OSU effects: first spectrum displayed at 19.270, analysis age 24.2 ms
+Thu Jan  1 01:46:31 unknown OsuLegacy[813] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:46:31 unknown OsuLegacy[813] <Warning>: OSU drawing: idle 0.5 calls/s, 483.2 ms/call
+Thu Jan  1 01:46:37 unknown OsuLegacy[813] <Warning>: OSU FFT: 181 windows, avg 5.928 ms, max 284.275 ms (includes PCM read)
+Thu Jan  1 01:46:47 unknown OsuLegacy[813] <Warning>: OSU FFT: 311 windows, avg 3.912 ms, max 284.275 ms (includes PCM read)
+Thu Jan  1 01:46:52 unknown mediaserverd[23] <Notice>: Inside H264DecodeThread : destroyDecoderThread()
+Thu Jan  1 01:46:52 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : freeDriverStorage()
+Thu Jan  1 01:46:52 unknown mediaserverd[23] <Notice>: Inside AppleM2H264DriverUserlandInterface : closeH264Driver()
+Thu Jan  1 01:46:52 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Thu Jan  1 01:46:53 unknown UIKitApplication:org.osu.legacy.experimental[0x7b3][813] <Notice>: AudioStreamBasicDescription:  2 ch,  44100 Hz, 'lpcm' (0x00000C2C) 8.24-bit little-endian signed integer, deinterleaved
+Thu Jan  1 01:47:05 unknown kernel[0] <Debug>: punchd[814] Builtin profile: container (sandbox)
+Thu Jan  1 01:47:05 unknown kernel[0] <Debug>: punchd[814] Container: /private/var/mobile/Applications/11627D16-899E-40E1-A6D2-B8EAA989ACD7 [69] (sandbox)
+Thu Jan  1 01:47:05 unknown OsuLegacy[814] <Notice>: MS:Notice: Injecting: org.osu.legacy.experimental [OsuLegacy] (550.52)
+Thu Jan  1 01:47:07 unknown OsuLegacy[814] <Warning>: OSU UI: landscape canvas 480x320, view 320x480
+Thu Jan  1 01:47:07 unknown OsuLegacy[814] <Warning>: OSU boot: initializing embedded Mono after native launch
+Thu Jan  1 01:47:08 unknown OsuLegacy[814] <Warning>: OSU checkpoint: managed entry reached native bundle binding
+Thu Jan  1 01:47:10 unknown OsuLegacy[814] <Warning>: OSU boot: managed callbacks registered
+Thu Jan  1 01:47:10 unknown OsuLegacy[814] <Warning>: OSU boot: managed startup returned to UIKit
+Thu Jan  1 01:47:11 unknown OsuLegacy[814] <Warning>: OSU startup: IntroTriangles requested, 480x320 / 30 fps
+Thu Jan  1 01:47:11 unknown OsuLegacy[814] <Warning>: OSU startup: intro surface presented
+Thu Jan  1 01:47:11 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Thu Jan  1 01:47:11 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : openH264Driver()
+Thu Jan  1 01:47:11 unknown mediaserverd[23] <Notice>: Inside H264DecodeThread : createDecoderThread()
+Thu Jan  1 01:47:11 unknown mediaserverd[23] <Notice>: H264M2VideoDecoder_StartSession() Stream may not be H264LC: 0 or EnableH264OutOfLoopFilter property: 0 is set to false or Resolution is <= 320X240 : 480X320
+Thu Jan  1 01:47:11 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : setH264DriverSession()
+Thu Jan  1 01:47:11 unknown kernel[0] <Debug>: *** AppleM2H264MPDDriver[0x807d8000]::setSessionSettings() called ***
+Thu Jan  1 01:47:11 unknown kernel[0] <Debug>: # AppleM2H264MPDDriver::setSessionSettings():Turning off Post Filtering #
+Thu Jan  1 01:47:11 unknown OsuLegacy[814] <Warning>: OSU startup: visible surface and decoder ready; starting from zero
+Thu Jan  1 01:47:12 unknown OsuLegacy[814] <Warning>: OSU startup: triangles video playing; theme=1
+Thu Jan  1 01:47:12 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is enabled
+Thu Jan  1 01:47:13 unknown mediaserverd[23] <Notice>: Inside H264DecodeThread : destroyDecoderThread()
+Thu Jan  1 01:47:13 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : freeDriverStorage()
+Thu Jan  1 01:47:13 unknown mediaserverd[23] <Notice>: Inside AppleM2H264DriverUserlandInterface : closeH264Driver()
+Thu Jan  1 01:47:13 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Thu Jan  1 01:47:13 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is disabled
+Thu Jan  1 01:47:13 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is disabled
+Thu Jan  1 01:47:13 unknown OsuLegacy[814] <Warning>: OSU startup: triangles menu revealed
+Thu Jan  1 01:47:13 unknown OsuLegacy[814] <Warning>: OSU menu: 24 shared-texture triangle layers ready
+Thu Jan  1 01:47:22 unknown OsuLegacy[814] <Warning>: OSU text x=14 y=8 size=16 rgb=0.96,0.95,1
+Thu Jan  1 01:47:22 unknown OsuLegacy[814] <Warning>: OSU text x=93 y=12 size=10 rgb=0.71,0.67,0.77
+Thu Jan  1 01:47:22 unknown OsuLegacy[814] <Warning>: OSU text x=147 y=12 size=9 rgb=0.71,0.67,0.77
+Thu Jan  1 01:47:22 unknown OsuLegacy[814] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:47:22 unknown OsuLegacy[814] <Warning>: OSU drawing: idle 0.9 calls/s, 709.2 ms/call
+Thu Jan  1 01:47:23 unknown OsuLegacy[814] <Warning>: OSU FFT: source menu.m4a, PCM samples 1389824
+Thu Jan  1 01:47:23 unknown OsuLegacy[814] <Warning>: OSU effects: first spectrum displayed at 12.851, analysis age 61.6 ms
+Thu Jan  1 01:47:24 unknown OsuLegacy[814] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:47:25 unknown mediaserverd[23] <Error>: 01:47:25.419 <AudioQueueServer> AudioQueueObject::IONodeConnection::_AcquireHardwareCodec: failed ('hwiu')
+Thu Jan  1 01:47:25 unknown OsuLegacy[814] <Warning>: OSU music: playing menu.m4a
+Thu Jan  1 01:47:26 unknown OsuLegacy[814] <Warning>: OSU music: playing menu.m4a
+Thu Jan  1 01:47:28 unknown OsuLegacy[814] <Warning>: OSU FFT: 40 windows, avg 4.586 ms, max 43.315 ms (includes PCM read)
+Thu Jan  1 01:47:28 unknown OsuLegacy[814] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:47:33 unknown mediaserverd[23] <Error>: 01:47:33.824 <AudioQueueServer> AudioQueueObject::IONodeConnection::_AcquireHardwareCodec: failed ('hwiu')
+Thu Jan  1 01:47:34 unknown OsuLegacy[814] <Warning>: OSU music: playing menu.m4a
+Thu Jan  1 01:47:36 unknown OsuLegacy[814] <Warning>: OSU drawing: idle 0.7 calls/s, 48.6 ms/call
+Thu Jan  1 01:47:36 unknown OsuLegacy[814] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:47:38 unknown OsuLegacy[814] <Warning>: OSU FFT: 163 windows, avg 1.925 ms, max 60.855 ms (includes PCM read)
+Thu Jan  1 01:47:48 unknown OsuLegacy[814] <Warning>: OSU FFT: 279 windows, avg 2.153 ms, max 98.285 ms (includes PCM read)
+Thu Jan  1 01:47:58 unknown OsuLegacy[814] <Warning>: OSU FFT: 399 windows, avg 1.811 ms, max 98.285 ms (includes PCM read)
+Thu Jan  1 01:48:08 unknown OsuLegacy[814] <Warning>: OSU FFT: 546 windows, avg 1.809 ms, max 98.285 ms (includes PCM read)
+Thu Jan  1 01:48:18 unknown OsuLegacy[814] <Warning>: OSU FFT: 688 windows, avg 1.550 ms, max 98.285 ms (includes PCM read)
+Thu Jan  1 01:48:28 unknown OsuLegacy[814] <Warning>: OSU FFT: 827 windows, avg 1.843 ms, max 116.411 ms (includes PCM read)
+Thu Jan  1 01:48:49 unknown OsuLegacy[814] <Warning>: OSU FFT: 865 windows, avg 1.810 ms, max 116.411 ms (includes PCM read)
+Thu Jan  1 01:49:00 unknown OsuLegacy[814] <Warning>: OSU FFT: 1023 windows, avg 1.618 ms, max 116.411 ms (includes PCM read)
+Thu Jan  1 01:49:10 unknown OsuLegacy[814] <Warning>: OSU FFT: 1136 windows, avg 1.653 ms, max 116.411 ms (includes PCM read)
+Thu Jan  1 01:49:20 unknown OsuLegacy[814] <Warning>: OSU FFT: 1155 windows, avg 1.700 ms, max 116.411 ms (includes PCM read)
+Thu Jan  1 01:49:30 unknown OsuLegacy[814] <Warning>: OSU FFT: 1155 windows, avg 1.700 ms, max 116.411 ms (includes PCM read)
+Thu Jan  1 01:49:40 unknown OsuLegacy[814] <Warning>: OSU FFT: 1155 windows, avg 1.700 ms, max 116.411 ms (includes PCM read)
+Thu Jan  1 01:49:50 unknown OsuLegacy[814] <Warning>: OSU FFT: 1155 windows, avg 1.700 ms, max 116.411 ms (includes PCM read)
+Thu Jan  1 01:49:52 unknown UIKitApplication:org.osu.legacy.experimental[0xc2cf][814] <Notice>: AudioStreamBasicDescription:  2 ch,  44100 Hz, 'lpcm' (0x00000C2C) 8.24-bit little-endian signed integer, deinterleaved
+Thu Jan  1 01:51:07 unknown OsuLegacy[815] <Notice>: MS:Notice: Injecting: org.osu.legacy.experimental [OsuLegacy] (550.52)
+Thu Jan  1 01:51:07 unknown kernel[0] <Debug>: punchd[815] Builtin profile: container (sandbox)
+Thu Jan  1 01:51:07 unknown kernel[0] <Debug>: punchd[815] Container: /private/var/mobile/Applications/11627D16-899E-40E1-A6D2-B8EAA989ACD7 [69] (sandbox)
+Thu Jan  1 01:51:09 unknown OsuLegacy[815] <Warning>: OSU UI: landscape canvas 480x320, view 320x480
+Thu Jan  1 01:51:09 unknown OsuLegacy[815] <Warning>: OSU boot: initializing embedded Mono after native launch
+Thu Jan  1 01:51:10 unknown OsuLegacy[815] <Warning>: OSU checkpoint: managed entry reached native bundle binding
+Thu Jan  1 01:51:12 unknown OsuLegacy[815] <Warning>: OSU boot: managed callbacks registered
+Thu Jan  1 01:51:12 unknown OsuLegacy[815] <Warning>: OSU boot: managed startup returned to UIKit
+Thu Jan  1 01:51:12 unknown OsuLegacy[815] <Warning>: OSU startup: IntroTriangles requested, 480x320 / 30 fps
+Thu Jan  1 01:51:13 unknown OsuLegacy[815] <Warning>: OSU startup: intro surface presented
+Thu Jan  1 01:51:13 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Thu Jan  1 01:51:13 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : openH264Driver()
+Thu Jan  1 01:51:13 unknown mediaserverd[23] <Notice>: Inside H264DecodeThread : createDecoderThread()
+Thu Jan  1 01:51:13 unknown mediaserverd[23] <Notice>: H264M2VideoDecoder_StartSession() Stream may not be H264LC: 0 or EnableH264OutOfLoopFilter property: 0 is set to false or Resolution is <= 320X240 : 480X320
+Thu Jan  1 01:51:13 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : setH264DriverSession()
+Thu Jan  1 01:51:13 unknown kernel[0] <Debug>: *** AppleM2H264MPDDriver[0x807d8000]::setSessionSettings() called ***
+Thu Jan  1 01:51:13 unknown kernel[0] <Debug>: # AppleM2H264MPDDriver::setSessionSettings():Turning off Post Filtering #
+Thu Jan  1 01:51:13 unknown OsuLegacy[815] <Warning>: OSU startup: visible surface and decoder ready; starting from zero
+Thu Jan  1 01:51:14 unknown OsuLegacy[815] <Warning>: OSU startup: triangles video playing; theme=1
+Thu Jan  1 01:51:14 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is enabled
+Thu Jan  1 01:51:17 unknown OsuLegacy[815] <Warning>: OSU startup: video ended ({
+	    MPMoviePlayerPlaybackDidFinishReasonUserInfoKey = 0;
+	})
+Thu Jan  1 01:51:17 unknown mediaserverd[23] <Notice>: Inside H264DecodeThread : destroyDecoderThread()
+Thu Jan  1 01:51:17 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : freeDriverStorage()
+Thu Jan  1 01:51:17 unknown mediaserverd[23] <Notice>: Inside AppleM2H264DriverUserlandInterface : closeH264Driver()
+Thu Jan  1 01:51:17 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Thu Jan  1 01:51:17 unknown OsuLegacy[815] <Warning>: OSU startup: triangles menu revealed
+Thu Jan  1 01:51:17 unknown OsuLegacy[815] <Warning>: OSU menu: 24 shared-texture triangle layers ready
+Thu Jan  1 01:51:17 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is disabled
+Thu Jan  1 01:51:17 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is disabled
+Thu Jan  1 01:51:25 unknown OsuLegacy[815] <Warning>: OSU text x=14 y=8 size=16 rgb=0.96,0.95,1
+Thu Jan  1 01:51:25 unknown OsuLegacy[815] <Warning>: OSU text x=93 y=12 size=10 rgb=0.71,0.67,0.77
+Thu Jan  1 01:51:25 unknown OsuLegacy[815] <Warning>: OSU text x=147 y=12 size=9 rgb=0.71,0.67,0.77
+Thu Jan  1 01:51:25 unknown OsuLegacy[815] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:51:25 unknown OsuLegacy[815] <Warning>: OSU drawing: idle 0.7 calls/s, 737.2 ms/call
+Thu Jan  1 01:51:26 unknown OsuLegacy[815] <Warning>: OSU FFT: source menu.m4a, PCM samples 1389824
+Thu Jan  1 01:51:26 unknown OsuLegacy[815] <Warning>: OSU effects: first spectrum displayed at 12.662, analysis age 13.1 ms
+Thu Jan  1 01:51:29 unknown OsuLegacy[815] <Warning>: OSU FFT: 40 windows, avg 4.197 ms, max 62.046 ms (includes PCM read)
+Thu Jan  1 01:51:35 unknown UIKitApplication:org.osu.legacy.experimental[0x8a7b][815] <Notice>: AudioStreamBasicDescription:  2 ch,  44100 Hz, 'lpcm' (0x00000C2C) 8.24-bit little-endian signed integer, deinterleaved
+Thu Jan  1 01:53:37 unknown kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+Thu Jan  1 01:53:37 unknown configd[27] <Debug>: usbeth_handle_pairing_notification:838 Host is not trusted
+Thu Jan  1 01:53:37 unknown /usr/libexec/notification_proxy[795] <Error>: Could not receive size of message: 0 Invalid argument
+Thu Jan  1 01:53:37 unknown /usr/libexec/notification_proxy[795] <Error>: Could not receive message
+Thu Jan  1 01:53:37 unknown /usr/libexec/notification_proxy[793] <Error>: Could not receive size of message: 0 Invalid argument
+Thu Jan  1 01:53:37 unknown /usr/libexec/notification_proxy[793] <Error>: Could not receive message
+Thu Jan  1 01:53:37 unknown /usr/libexec/ptpd[523] <Notice>: PTP interface has been deactivated.
+Thu Jan  1 01:53:38 unknown kernel[0] <Debug>: AppleD1759PMUPowerSource: AppleUSBCableDetect 0
+Thu Jan  1 01:53:38 unknown kernel[0] <Debug>: AppleD1759PMUPowerSource: AppleUSBCableType Detached
+Thu Jan  1 01:53:38 unknown kernel[0] <Debug>: AppleEmbeddedUSBArbitrator::handleUSBCableTypeChange : USB cable detached
+Thu Jan  1 01:53:38 unknown kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBCableDisconnect
+Thu Jan  1 01:53:38 unknown kernel[0] <Debug>: virtual IOReturn AppleUSBDeviceMux::message(UInt32, IOService*, void*) - kMessageInterfaceWasDeActivated
+Thu Jan  1 01:53:38 unknown kernel[0] <Debug>: AppleUSBDeviceMux::reportStats: USB mux statistics: 
+Thu Jan  1 01:53:38 unknown kernel[0] <Debug>: USB mux: 2902 reads / 0 errors, 2030 writes / 0 errors
+Thu Jan  1 01:53:38 unknown kernel[0] <Debug>: USB mux: 0 short packets, 0 dups
+Thu Jan  1 01:53:38 unknown kernel[0] <Debug>: void AppleUSBDeviceMux::asyncWriteComplete(BulkUSBBuffer*, IOReturn, UInt32) Error sending 131 byte packet: 0xe0004050, failing
+Thu Jan  1 01:53:38 unknown kernel[0] <Debug>: AppleEmbeddedUSBArbitrator::enableDeviceClock : enable: 0, index: 0
+Thu Jan  1 01:53:38 unknown kernel[0] <Debug>: AppleS5L8720XUSBPhy::powerDown : _powered: 1
+Thu Jan  1 01:53:39 unknown mDNSResponder[24] <Error>: mDNSPlatformSetDNSConfig: Error: dns_configuration_copy returned NULL
+Thu Jan  1 01:54:37 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from usbmuxd. Killing connection
+Thu Jan  1 01:54:37 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:54:37 unknown lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 01:54:37 unknown lockdownd[21] <Error>: 00486000 handle_connection: Could not receive USB message #3 from usbmuxd. Killing connection
+Thu Jan  1 01:54:37 unknown lockdownd[21] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 01:54:37 unknown lockdownd[21] <Error>: 00486000 handle_connection: Could not receive USB message #3 from usbmuxd. Killing connection
+Thu Jan  1 01:54:37 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of messageCould not receive size of message
+Thu Jan  1 01:54:37 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:54:37 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from usbmuxd. Killing connection
+Thu Jan  1 01:54:37 unknown kernel[0] <Debug>: AppleD1759PMUPowerSource: AppleUSBCableDetect 1
+Thu Jan  1 01:54:37 unknown kernel[0] <Debug>: AppleD1759PMUPowerSource: AppleUSBCableType USBHost
+Thu Jan  1 01:54:37 unknown kernel[0] <Debug>: AppleEmbeddedUSBArbitrator::handleUSBCableTypeChange : Connected to a USB host, entering device mode
+Thu Jan  1 01:54:37 unknown kernel[0] <Debug>: AppleS5L8720XUSBPhy::powerUp : _powered: 0
+Thu Jan  1 01:54:37 unknown kernel[0] <Debug>: AppleEmbeddedUSBArbitrator::enableDeviceClock : enable: 1, index: 0
+Thu Jan  1 01:54:37 unknown kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBReset
+Thu Jan  1 01:54:37 unknown kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBReset
+Thu Jan  1 01:54:37 unknown kernel[0] <Debug>: AppleSynopsysOTGDevice::stallBadSetupRequest request: 80 06 0f00 0000 0005
+Thu Jan  1 01:54:37 unknown kernel[0] <Debug>: AppleSynopsysOTGDevice::stallBadSetupRequest request: 80 06 0f00 0000 0005
+Thu Jan  1 01:54:37 unknown kernel[0] <Debug>: punchd[817] Builtin profile: ptpd (sandbox)
+Thu Jan  1 01:54:37 unknown kernel[0] <Debug>: punchd[816] Builtin profile: ptpd (sandbox)
+Thu Jan  1 01:54:37 unknown securityd[818] <Notice>: MS:Notice: Injecting: (null) [securityd] (550.52)
+Thu Jan  1 01:54:38 unknown ptpd[816] <Notice>: MS:Notice: Injecting: (null) [ptpd] (550.52)
+Thu Jan  1 01:54:39 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:54:39 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #3 from usbmuxd. Killing connection
+Thu Jan  1 01:54:39 unknown lockdownd[21] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 01:54:39 unknown lockdownd[21] <Error>: 00486000 handle_connection: Could not receive USB message #4 from Safari. Killing connection
+Thu Jan  1 01:54:39 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:54:39 unknown mDNSResponder[24] <Error>: mDNSPlatformSetDNSConfig: Error: dns_configuration_copy returned NULL
+Thu Jan  1 01:54:39 unknown lockdownd[21] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 01:54:39 unknown configd[27] <Debug>: usbeth_handle_pairing_notification:838 Host is trusted
+Thu Jan  1 01:54:39 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:54:39 unknown lockdownd[21] <Error>: 0060c000 handle_connection: Could not receive USB message #2 from unknown. Killing connection
+Thu Jan  1 01:54:40 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of messageCould not receive size of messageCould not receive size of message
+Thu Jan  1 01:54:40 unknown lockdownd[21] <Error>: 0068e000 handle_connection: Could not receive USB message #2 from unknown. Killing connection
+Thu Jan  1 01:54:40 unknown lockdownd[21] <Error>: 0068e000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Thu Jan  1 01:54:40 unknown lockdownd[21] <Error>: 0068e000 handle_connection: Could not receive USB message #3 from remotepairingd. Killing connection
+Thu Jan  1 01:54:40 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:54:40 unknown lockdownd[21] <Error>: 0068e000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+Thu Jan  1 01:54:40 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:54:40 unknown lockdownd[21] <Error>: 0068e000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Thu Jan  1 01:54:40 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:54:40 unknown lockdownd[21] <Error>: 0068e000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Thu Jan  1 01:54:40 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:54:40 unknown lockdownd[21] <Error>: 0068e000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+> [disconnected:f7f4c5236445e3e001f9834aa63367fd56cdf871]
+[connected:f7f4c5236445e3e001f9834aa63367fd56cdf871]
+
+========================
+ASL is here to serve you
+> 
+Thu Jan  1 01:54:52 unknown installd[830] <Error>: 3e1b38b8 check_freshness: sb.st_mtime = 39317 reference_mtime = 24049
+Thu Jan  1 01:54:52 unknown installd[830] <Error>: 3e1b38b8 check_stale_maps: /Applications appears stale
+Thu Jan  1 01:54:52 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 01:54:52 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #5 from Safari. Killing connection
+Thu Jan  1 01:54:54 unknown SpringBoard[29] <Warning>: Reloading and rendering all application icons.
+Thu Jan  1 01:54:55 unknown OsuLegacy[829] <Warning>: OSU UI: landscape canvas 480x320, view 320x480
+Thu Jan  1 01:54:56 unknown OsuLegacy[829] <Warning>: OSU boot: initializing embedded Mono after native launch
+Thu Jan  1 01:54:56 unknown OsuLegacy[829] <Warning>: OSU checkpoint: managed entry reached native bundle binding
+Thu Jan  1 01:54:58 unknown OsuLegacy[829] <Warning>: OSU boot: managed callbacks registered
+Thu Jan  1 01:54:58 unknown OsuLegacy[829] <Warning>: OSU boot: managed startup returned to UIKit
+Thu Jan  1 01:54:59 unknown OsuLegacy[829] <Warning>: OSU startup: IntroTriangles requested, 480x320 / 30 fps
+Thu Jan  1 01:54:59 unknown OsuLegacy[829] <Warning>: OSU startup: menu music play=1
+Thu Jan  1 01:54:59 unknown OsuLegacy[829] <Warning>: OSU startup: triangles menu revealed
+Thu Jan  1 01:54:59 unknown OsuLegacy[829] <Warning>: OSU menu: 24 shared-texture triangle layers ready
+Thu Jan  1 01:55:08 unknown OsuLegacy[829] <Warning>: OSU text x=14 y=8 size=16 rgb=0.96,0.95,1
+Thu Jan  1 01:55:08 unknown OsuLegacy[829] <Warning>: OSU text x=93 y=12 size=10 rgb=0.71,0.67,0.77
+Thu Jan  1 01:55:08 unknown OsuLegacy[829] <Warning>: OSU text x=147 y=12 size=9 rgb=0.71,0.67,0.77
+Thu Jan  1 01:55:08 unknown OsuLegacy[829] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:55:08 unknown OsuLegacy[829] <Warning>: OSU drawing: idle 1.2 calls/s, 593.1 ms/call
+Thu Jan  1 01:55:08 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Thu Jan  1 01:55:08 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : openH264Driver()
+Thu Jan  1 01:55:08 unknown mediaserverd[23] <Notice>: Inside H264DecodeThread : createDecoderThread()
+Thu Jan  1 01:55:08 unknown mediaserverd[23] <Notice>: H264M2VideoDecoder_StartSession() Stream may not be H264LC: 0 or EnableH264OutOfLoopFilter property: 0 is set to false or Resolution is <= 320X240 : 480X320
+Thu Jan  1 01:55:08 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : setH264DriverSession()
+Thu Jan  1 01:55:09 unknown OsuLegacy[829] <Warning>: OSU FFT: source menu.m4a, PCM samples 1389824
+Thu Jan  1 01:55:09 unknown OsuLegacy[829] <Warning>: OSU effects: first spectrum displayed at 12.948, analysis age 23.2 ms
+Thu Jan  1 01:55:09 unknown kernel[0] <Debug>: *** AppleM2H264MPDDriver[0x807d8000]::setSessionSettings() called ***
+Thu Jan  1 01:55:09 unknown kernel[0] <Debug>: # AppleM2H264MPDDriver::setSessionSettings():Turning off Post Filtering #
+Thu Jan  1 01:55:09 unknown OsuLegacy[829] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:55:10 unknown com.apple.mobile.lockdown[21] <Notice>: receive secure message timeout!
+Thu Jan  1 01:55:10 unknown lockdownd[21] <Error>: 0060c000 handle_connection: Could not receive USB message #4 from iFunBox. Killing connection
+Thu Jan  1 01:55:13 unknown mediaserverd[23] <Notice>: Inside H264DecodeThread : destroyDecoderThread()
+Thu Jan  1 01:55:13 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : freeDriverStorage()
+Thu Jan  1 01:55:13 unknown mediaserverd[23] <Notice>: Inside AppleM2H264DriverUserlandInterface : closeH264Driver()
+Thu Jan  1 01:55:13 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Thu Jan  1 01:55:13 unknown UIKitApplication:org.osu.legacy.experimental[0x9f5a][829] <Notice>: AudioStreamBasicDescription:  2 ch,  44100 Hz, 'lpcm' (0x00000C2C) 8.24-bit little-endian signed integer, deinterleaved
+Thu Jan  1 01:57:40 unknown /usr/libexec/notification_proxy[826] <Error>: Could not receive size of message: 0 Invalid argument
+Thu Jan  1 01:57:40 unknown /usr/libexec/notification_proxy[826] <Error>: Could not receive message
+Thu Jan  1 01:57:40 unknown /usr/libexec/ptpd[816] <Notice>: PTP interface has been deactivated.
+Thu Jan  1 01:57:40 unknown /usr/libexec/notification_proxy[825] <Error>: Could not receive size of message: 0 Invalid argument
+Thu Jan  1 01:57:40 unknown /usr/libexec/notification_proxy[825] <Error>: Could not receive message
+Thu Jan  1 01:57:40 unknown configd[27] <Debug>: usbeth_handle_pairing_notification:838 Host is not trusted
+Thu Jan  1 01:57:40 unknown kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+Thu Jan  1 01:57:40 unknown kernel[0] <Debug>: AppleD1759PMUPowerSource: AppleUSBCableDetect 0
+Thu Jan  1 01:57:40 unknown kernel[0] <Debug>: AppleD1759PMUPowerSource: AppleUSBCableType Detached
+Thu Jan  1 01:57:40 unknown kernel[0] <Debug>: AppleEmbeddedUSBArbitrator::handleUSBCableTypeChange : USB cable detached
+Thu Jan  1 01:57:40 unknown kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBCableDisconnect
+Thu Jan  1 01:57:40 unknown kernel[0] <Debug>: virtual IOReturn AppleUSBDeviceMux::message(UInt32, IOService*, void*) - kMessageInterfaceWasDeActivated
+Thu Jan  1 01:57:40 unknown kernel[0] <Debug>: AppleUSBDeviceMux::reportStats: USB mux statistics: 
+Thu Jan  1 01:57:40 unknown kernel[0] <Debug>: USB mux: 2114 reads / 0 errors, 1525 writes / 0 errors
+Thu Jan  1 01:57:40 unknown kernel[0] <Debug>: USB mux: 0 short packets, 0 dups
+Thu Jan  1 01:57:40 unknown kernel[0] <Debug>: AppleEmbeddedUSBArbitrator::enableDeviceClock : enable: 0, index: 0
+Thu Jan  1 01:57:40 unknown kernel[0] <Debug>: AppleS5L8720XUSBPhy::powerDown : _powered: 1
+Thu Jan  1 01:57:42 unknown mDNSResponder[24] <Error>: mDNSPlatformSetDNSConfig: Error: dns_configuration_copy returned NULL
+Thu Jan  1 01:59:15 unknown OsuLegacy[833] <Notice>: MS:Notice: Injecting: org.osu.legacy.experimental [OsuLegacy] (550.52)
+Thu Jan  1 01:59:15 unknown kernel[0] <Debug>: punchd[833] Builtin profile: container (sandbox)
+Thu Jan  1 01:59:15 unknown kernel[0] <Debug>: punchd[833] Container: /private/var/mobile/Applications/11627D16-899E-40E1-A6D2-B8EAA989ACD7 [69] (sandbox)
+Thu Jan  1 01:59:17 unknown OsuLegacy[833] <Warning>: OSU UI: landscape canvas 480x320, view 320x480
+Thu Jan  1 01:59:17 unknown OsuLegacy[833] <Warning>: OSU boot: initializing embedded Mono after native launch
+Thu Jan  1 01:59:18 unknown OsuLegacy[833] <Warning>: OSU checkpoint: managed entry reached native bundle binding
+Thu Jan  1 01:59:20 unknown OsuLegacy[833] <Warning>: OSU boot: managed callbacks registered
+Thu Jan  1 01:59:20 unknown OsuLegacy[833] <Warning>: OSU boot: managed startup returned to UIKit
+Thu Jan  1 01:59:20 unknown OsuLegacy[833] <Warning>: OSU startup: IntroTriangles requested, 480x320 / 30 fps
+Thu Jan  1 01:59:20 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Thu Jan  1 01:59:20 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : openH264Driver()
+Thu Jan  1 01:59:20 unknown mediaserverd[23] <Notice>: Inside H264DecodeThread : createDecoderThread()
+Thu Jan  1 01:59:20 unknown mediaserverd[23] <Notice>: H264M2VideoDecoder_StartSession() Stream may not be H264LC: 0 or EnableH264OutOfLoopFilter property: 0 is set to false or Resolution is <= 320X240 : 480X320
+Thu Jan  1 01:59:20 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : setH264DriverSession()
+Thu Jan  1 01:59:21 unknown OsuLegacy[833] <Warning>: OSU startup: intro surface presented
+Thu Jan  1 01:59:21 unknown OsuLegacy[833] <Warning>: OSU startup: visible surface and decoder ready; starting from zero
+Thu Jan  1 01:59:21 unknown kernel[0] <Debug>: *** AppleM2H264MPDDriver[0x807d8000]::setSessionSettings() called ***
+Thu Jan  1 01:59:21 unknown kernel[0] <Debug>: # AppleM2H264MPDDriver::setSessionSettings():Turning off Post Filtering #
+Thu Jan  1 01:59:21 unknown OsuLegacy[833] <Warning>: OSU startup: triangles video playing; theme=1
+Thu Jan  1 01:59:22 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is enabled
+Thu Jan  1 01:59:24 unknown OsuLegacy[833] <Warning>: OSU startup: video ended ({
+	    MPMoviePlayerPlaybackDidFinishReasonUserInfoKey = 0;
+	})
+Thu Jan  1 01:59:24 unknown mediaserverd[23] <Notice>: Inside H264DecodeThread : destroyDecoderThread()
+Thu Jan  1 01:59:24 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : freeDriverStorage()
+Thu Jan  1 01:59:24 unknown mediaserverd[23] <Notice>: Inside AppleM2H264DriverUserlandInterface : closeH264Driver()
+Thu Jan  1 01:59:24 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Thu Jan  1 01:59:24 unknown OsuLegacy[833] <Warning>: OSU startup: triangles menu revealed
+Thu Jan  1 01:59:25 unknown OsuLegacy[833] <Warning>: OSU menu: 24 shared-texture triangle layers ready
+Thu Jan  1 01:59:25 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is disabled
+Thu Jan  1 01:59:25 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is disabled
+Thu Jan  1 01:59:33 unknown OsuLegacy[833] <Warning>: OSU text x=14 y=8 size=16 rgb=0.96,0.95,1
+Thu Jan  1 01:59:33 unknown OsuLegacy[833] <Warning>: OSU text x=93 y=12 size=10 rgb=0.71,0.67,0.77
+Thu Jan  1 01:59:33 unknown OsuLegacy[833] <Warning>: OSU text x=147 y=12 size=9 rgb=0.71,0.67,0.77
+Thu Jan  1 01:59:33 unknown OsuLegacy[833] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:59:33 unknown OsuLegacy[833] <Warning>: OSU drawing: idle 0.7 calls/s, 734.3 ms/call
+Thu Jan  1 01:59:34 unknown OsuLegacy[833] <Warning>: OSU FFT: source menu.m4a, PCM samples 1389824
+Thu Jan  1 01:59:36 unknown UIKitApplication:org.osu.legacy.experimental[0x48d9][833] <Notice>: AudioStreamBasicDescription:  2 ch,  44100 Hz, 'lpcm' (0x00000C2C) 8.24-bit little-endian signed integer, deinterleaved
+Thu Jan  1 01:59:37 unknown OsuLegacy[834] <Notice>: MS:Notice: Injecting: org.osu.legacy.experimental [OsuLegacy] (550.52)
+Thu Jan  1 01:59:37 unknown kernel[0] <Debug>: punchd[834] Builtin profile: container (sandbox)
+Thu Jan  1 01:59:37 unknown kernel[0] <Debug>: punchd[834] Container: /private/var/mobile/Applications/11627D16-899E-40E1-A6D2-B8EAA989ACD7 [69] (sandbox)
+Thu Jan  1 01:59:38 unknown OsuLegacy[834] <Warning>: OSU UI: landscape canvas 480x320, view 320x480
+Thu Jan  1 01:59:39 unknown OsuLegacy[834] <Warning>: OSU boot: initializing embedded Mono after native launch
+Thu Jan  1 01:59:39 unknown OsuLegacy[834] <Warning>: OSU checkpoint: managed entry reached native bundle binding
+Thu Jan  1 01:59:41 unknown OsuLegacy[834] <Warning>: OSU boot: managed callbacks registered
+Thu Jan  1 01:59:41 unknown OsuLegacy[834] <Warning>: OSU boot: managed startup returned to UIKit
+Thu Jan  1 01:59:41 unknown OsuLegacy[834] <Warning>: OSU startup: IntroTriangles requested, 480x320 / 30 fps
+Thu Jan  1 01:59:42 unknown OsuLegacy[834] <Warning>: OSU startup: intro surface presented
+Thu Jan  1 01:59:42 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Thu Jan  1 01:59:42 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : openH264Driver()
+Thu Jan  1 01:59:42 unknown mediaserverd[23] <Notice>: Inside H264DecodeThread : createDecoderThread()
+Thu Jan  1 01:59:42 unknown mediaserverd[23] <Notice>: H264M2VideoDecoder_StartSession() Stream may not be H264LC: 0 or EnableH264OutOfLoopFilter property: 0 is set to false or Resolution is <= 320X240 : 480X320
+Thu Jan  1 01:59:42 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : setH264DriverSession()
+Thu Jan  1 01:59:42 unknown kernel[0] <Debug>: *** AppleM2H264MPDDriver[0x807d8000]::setSessionSettings() called ***
+Thu Jan  1 01:59:42 unknown kernel[0] <Debug>: # AppleM2H264MPDDriver::setSessionSettings():Turning off Post Filtering #
+Thu Jan  1 01:59:42 unknown OsuLegacy[834] <Warning>: OSU startup: visible surface and decoder ready; starting from zero
+Thu Jan  1 01:59:42 unknown OsuLegacy[834] <Warning>: OSU startup: triangles video playing; theme=1
+Thu Jan  1 01:59:43 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is enabled
+Thu Jan  1 01:59:45 unknown OsuLegacy[834] <Warning>: OSU startup: video ended ({
+	    MPMoviePlayerPlaybackDidFinishReasonUserInfoKey = 0;
+	})
+Thu Jan  1 01:59:46 unknown mediaserverd[23] <Notice>: Inside H264DecodeThread : destroyDecoderThread()
+Thu Jan  1 01:59:46 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : freeDriverStorage()
+Thu Jan  1 01:59:46 unknown mediaserverd[23] <Notice>: Inside AppleM2H264DriverUserlandInterface : closeH264Driver()
+Thu Jan  1 01:59:46 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Thu Jan  1 01:59:46 unknown OsuLegacy[834] <Warning>: OSU startup: triangles menu revealed
+Thu Jan  1 01:59:46 unknown OsuLegacy[834] <Warning>: OSU menu: 24 shared-texture triangle layers ready
+Thu Jan  1 01:59:46 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is disabled
+Thu Jan  1 01:59:46 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is disabled
+Thu Jan  1 01:59:53 unknown OsuLegacy[834] <Warning>: OSU text x=14 y=8 size=16 rgb=0.96,0.95,1
+Thu Jan  1 01:59:53 unknown OsuLegacy[834] <Warning>: OSU text x=93 y=12 size=10 rgb=0.71,0.67,0.77
+Thu Jan  1 01:59:54 unknown OsuLegacy[834] <Warning>: OSU text x=147 y=12 size=9 rgb=0.71,0.67,0.77
+Thu Jan  1 01:59:54 unknown OsuLegacy[834] <Warning>: OSU effects: visible=1 animate=1 suspended=0
+Thu Jan  1 01:59:54 unknown OsuLegacy[834] <Warning>: OSU drawing: idle 1.0 calls/s, 552.9 ms/call
+Thu Jan  1 01:59:54 unknown OsuLegacy[834] <Warning>: OSU FFT: source menu.m4a, PCM samples 1389824
+Thu Jan  1 01:59:54 unknown OsuLegacy[834] <Warning>: OSU effects: first spectrum displayed at 11.872, analysis age 14.6 ms
+Thu Jan  1 01:59:57 unknown OsuLegacy[834] <Warning>: OSU FFT: 40 windows, avg 3.699 ms, max 61.452 ms (includes PCM read)
+Thu Jan  1 02:00:07 unknown OsuLegacy[834] <Warning>: OSU FFT: 168 windows, avg 2.478 ms, max 127.825 ms (includes PCM read)
+Thu Jan  1 02:00:10 unknown kernel[0] <Debug>: AppleD1759PMUPowerSource: AppleUSBCableDetect 1
+Thu Jan  1 02:00:10 unknown kernel[0] <Debug>: AppleD1759PMUPowerSource: AppleUSBCableType USBHost
+Thu Jan  1 02:00:10 unknown kernel[0] <Debug>: AppleEmbeddedUSBArbitrator::handleUSBCableTypeChange : Connected to a USB host, entering device mode
+Thu Jan  1 02:00:10 unknown kernel[0] <Debug>: AppleS5L8720XUSBPhy::powerUp : _powered: 0
+Thu Jan  1 02:00:10 unknown kernel[0] <Debug>: AppleEmbeddedUSBArbitrator::enableDeviceClock : enable: 1, index: 0
+Thu Jan  1 02:00:10 unknown kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBReset
+Thu Jan  1 02:00:10 unknown kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBReset
+Thu Jan  1 02:00:10 unknown kernel[0] <Debug>: AppleSynopsysOTGDevice::stallBadSetupRequest request: 80 06 0f00 0000 0005
+Thu Jan  1 02:00:10 unknown kernel[0] <Debug>: AppleSynopsysOTGDevice::stallBadSetupRequest request: 80 06 0f00 0000 0005
+Thu Jan  1 02:00:10 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 02:00:10 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from usbmuxd. Killing connection
+Thu Jan  1 02:00:10 unknown lockdownd[21] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 02:00:10 unknown lockdownd[21] <Error>: 00486000 handle_connection: Could not receive USB message #3 from usbmuxd. Killing connection
+Thu Jan  1 02:00:10 unknown lockdownd[21] <Error>: 00486000 handle_connection: Could not receive USB message #3 from usbmuxd. Killing connection
+Thu Jan  1 02:00:10 unknown lockdownd[21] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 02:00:10 unknown lockdownd[21] <Error>: 00486000 handle_connection: Could not receive USB message #3 from usbmuxd. Killing connection
+Thu Jan  1 02:00:10 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of messageCould not receive size of messageCould not receive size of message
+Thu Jan  1 02:00:11 unknown securityd[836] <Notice>: MS:Notice: Injecting: (null) [securityd] (550.52)
+Thu Jan  1 02:00:11 unknown kernel[0] <Debug>: punchd[838] Builtin profile: ptpd (sandbox)
+Thu Jan  1 02:00:11 unknown kernel[0] <Debug>: punchd[835] Builtin profile: ptpd (sandbox)
+Thu Jan  1 02:00:11 unknown ptpd[835] <Notice>: MS:Notice: Injecting: (null) [ptpd] (550.52)
+Thu Jan  1 02:00:13 unknown mDNSResponder[24] <Error>: mDNSPlatformSetDNSConfig: Error: dns_configuration_copy returned NULL
+Thu Jan  1 02:00:14 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 02:00:14 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #3 from usbmuxd. Killing connection
+Thu Jan  1 02:00:15 unknown configd[27] <Debug>: usbeth_handle_pairing_notification:838 Host is trusted
+Thu Jan  1 02:00:15 unknown lockdownd[21] <Error>: 0058a000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 02:00:15 unknown lockdownd[21] <Error>: 0058a000 handle_connection: Could not receive USB message #4 from Safari. Killing connection
+Thu Jan  1 02:00:15 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 02:00:15 unknown lockdownd[21] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Thu Jan  1 02:00:15 unknown lockdownd[21] <Error>: 0060c000 handle_connection: Could not receive USB message #2 from unknown. Killing connection
+Thu Jan  1 02:00:15 unknown lockdownd[21] <Error>: 0060c000 handle_connection: Could not receive USB message #2 from unknown. Killing connection
+Thu Jan  1 02:00:15 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of messageCould not receive size of messageCould not receive size of message
+Thu Jan  1 02:00:15 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 02:00:15 unknown lockdownd[21] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from remotepairingd. Killing connection
+Thu Jan  1 02:00:15 unknown lockdownd[21] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 02:00:15 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 02:00:15 unknown lockdownd[21] <Error>: 0068e000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Thu Jan  1 02:00:15 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 02:00:15 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 02:00:15 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 02:00:15 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 02:00:15 unknown lockdownd[21] <Error>: 00710000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+Thu Jan  1 02:00:15 unknown lockdownd[21] <Error>: 00710000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Thu Jan  1 02:00:15 unknown lockdownd[21] <Error>: 00710000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 02:00:15 unknown lockdownd[21] <Error>: 00710000 handle_connection: Could not receive USB message #3 from remotepairingd. Killing connection
+Thu Jan  1 02:00:15 unknown lockdownd[21] <Error>: 00710000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 02:00:15 unknown lockdownd[21] <Error>: 00710000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Thu Jan  1 02:00:16 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 02:00:16 unknown lockdownd[21] <Error>: 00710000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Thu Jan  1 02:00:16 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 02:00:16 unknown lockdownd[21] <Error>: 00710000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Thu Jan  1 02:00:16 unknown lockdownd[21] <Error>: 00710000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 02:00:16 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 02:00:16 unknown lockdownd[21] <Error>: 00710000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+Thu Jan  1 02:00:16 unknown lockdownd[21] <Error>: 00710000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 02:00:16 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 02:00:16 unknown lockdownd[21] <Error>: 00710000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Thu Jan  1 02:00:16 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 02:00:16 unknown lockdownd[21] <Error>: 00710000 handle_connection: Could not receive USB message #3 from remotepairingd. Killing connection
+Thu Jan  1 02:00:17 unknown /usr/libexec/ptpd[835] <Notice>: PTP interface has been activated at high speed.
+Thu Jan  1 02:00:17 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 02:00:17 unknown lockdownd[21] <Error>: 00710000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Thu Jan  1 02:00:17 unknown lockdownd[21] <Error>: 00710000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 02:00:17 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 02:00:17 unknown OsuLegacy[834] <Warning>: OSU FFT: 230 windows, avg 9.402 ms, max 1320.036 ms (includes PCM read)
+Thu Jan  1 02:00:17 unknown lockdownd[21] <Error>: 00710000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Thu Jan  1 02:00:17 unknown lockdownd[21] <Error>: 00710000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 02:00:17 unknown lockdownd[21] <Error>: 00710000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Thu Jan  1 02:00:17 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 02:00:17 unknown lockdownd[21] <Error>: 00710000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 02:00:17 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 02:00:17 unknown lockdownd[21] <Error>: 00710000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+Thu Jan  1 02:00:17 unknown lockdownd[21] <Error>: 00710000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 02:00:17 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 02:00:17 unknown lockdownd[21] <Error>: 00710000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Thu Jan  1 02:00:17 unknown lockdownd[21] <Error>: 00710000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 02:00:17 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 02:00:17 unknown lockdownd[21] <Error>: 00710000 handle_connection: Could not receive USB message #3 from remotepairingd. Killing connection
+Thu Jan  1 02:00:17 unknown lockdownd[21] <Error>: 00710000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 02:00:17 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 02:00:17 unknown lockdownd[21] <Error>: 00710000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Thu Jan  1 02:00:17 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 02:00:17 unknown lockdownd[21] <Error>: 00710000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Thu Jan  1 02:00:17 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 02:00:17 unknown lockdownd[21] <Error>: 00710000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Thu Jan  1 02:00:17 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 02:00:17 unknown lockdownd[21] <Error>: 00710000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+Thu Jan  1 02:00:17 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 02:00:17 unknown lockdownd[21] <Error>: 00710000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Thu Jan  1 02:00:17 unknown lockdownd[21] <Error>: 00710000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 02:00:17 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 02:00:17 unknown lockdownd[21] <Error>: 00710000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Thu Jan  1 02:00:17 unknown lockdownd[21] <Error>: 00710000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 02:00:17 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 02:00:17 unknown lockdownd[21] <Error>: 00710000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Thu Jan  1 02:00:18 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of messageCould not receive size of message
+Thu Jan  1 02:00:17 unknown lockdownd[21] <Error>: 00710000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 02:00:17 unknown lockdownd[21] <Error>: 00710000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+Thu Jan  1 02:00:17 unknown lockdownd[21] <Error>: 00710000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 02:00:18 unknown lockdownd[21] <Error>: 00710000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Thu Jan  1 02:00:18 unknown lockdownd[21] <Error>: 00710000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 02:00:18 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 02:00:18 unknown lockdownd[21] <Error>: 00710000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+Thu Jan  1 02:00:18 unknown lockdownd[21] <Error>: 00710000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 02:00:18 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 02:00:18 unknown lockdownd[21] <Error>: 00710000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Thu Jan  1 02:00:18 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 02:00:18 unknown lockdownd[21] <Error>: 00710000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+Thu Jan  1 02:00:18 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 02:00:18 unknown lockdownd[21] <Error>: 00710000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Thu Jan  1 02:00:18 unknown lockdownd[21] <Error>: 00710000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 02:00:18 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 02:00:18 unknown lockdownd[21] <Error>: 00710000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+Thu Jan  1 02:00:18 unknown lockdownd[21] <Error>: 00710000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 02:00:18 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 02:00:18 unknown lockdownd[21] <Error>: 00710000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Thu Jan  1 02:00:18 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 02:00:18 unknown lockdownd[21] <Error>: 00710000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+Thu Jan  1 02:00:18 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 02:00:18 unknown lockdownd[21] <Error>: 00710000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Thu Jan  1 02:00:18 unknown lockdownd[21] <Error>: 00710000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 02:00:18 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 02:00:18 unknown lockdownd[21] <Error>: 00710000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+Thu Jan  1 02:00:18 unknown lockdownd[21] <Error>: 00710000 set_response_error: handle_get_value GetProhibited
+Thu Jan  1 02:00:19 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 02:00:19 unknown lockdownd[21] <Error>: 00710000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+Thu Jan  1 02:00:19 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 02:00:19 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #8 from idevicesyslog. Killing connection
+> [disconnected:f7f4c5236445e3e001f9834aa63367fd56cdf871]

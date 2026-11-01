@@ -1,0 +1,14 @@
+mono-legacy/
+toolchain/cctools-port/
+toolchain/common-3.0-sdk/
+toolchain/common-3.0.sdk/
+toolchain/iPhoneOS4.2.sdk/
+toolchain/*.tar.gz
+toolchain/dotnet-10/
+full-client/**/bin/
+full-client/**/obj/
+build/
+probes/*.o
+probes/*.exe
+probes/native-armv6
+probes/native-lld

@@ -1,0 +1,1736 @@
+[connected:f7f4c5236445e3e001f9834aa63367fd56cdf871]
+
+========================
+ASL is here to serve you
+> 
+
+Wed Dec 31 22:07:12 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT (wrapper managed-to-native) OsuLegacy.Program:legacy_audio_stop () code=0x1f34ac8 bytes=140
+Wed Dec 31 22:07:12 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU CODE 0x1f34ac8 e1a0c00d e92d5ff0 e24dd030 eb837ad2
+Wed Dec 31 22:07:12 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU CODE 0x1f34ad8 e28d1008 e5810004 e590c000 e581c000
+Wed Dec 31 22:07:12 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU CODE 0x1f34ae8 e5801000 e581d00c e581b014 e1a0c00f
+Wed Dec 31 22:07:12 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU CODE 0x1f34af8 e581c010 e3a00000 e3a00000 e3a00000
+Wed Dec 31 22:07:12 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU CODE 0x1f34b08 e5cd0000 e3a00000 e5cd0000 e3a000fc
+Wed Dec 31 22:07:12 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU CODE 0x1f34b18 e2800cc8 e12fff30 e3a000e0 e2800c48
+Wed Dec 31 22:07:12 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU CODE 0x1f34b28 e2800832 e5900000 e3500000 0a000000
+Wed Dec 31 22:07:12 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU CODE 0x1f34b38 eba0b9c0 eaffffff e59dc008 e59de00c
+Wed Dec 31 22:07:12 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT (wrapper managed-to-native) object:__icall_wrapper_mono_thread_get_undeniable_exception () code=0x1f34b58 bytes=136
+Wed Dec 31 22:07:20 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: System.NotSupportedException: Sliders/spinners are not implemented yet (299 objects)
+Wed Dec 31 22:07:20 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>:   at OsuLegacy.Beatmap.Load (System.String path) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:07:20 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>:   at OsuLegacy.Program.StartSong (System.String path) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:08:02 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT OsuLegacy.LazerUi:<DrawMenu>m__6 () code=0x1f34be0 bytes=68
+Wed Dec 31 22:08:20 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT OsuLegacy.LazerUi:<DrawMenu>m__B () code=0x1f34c28 bytes=40
+Wed Dec 31 22:08:25 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: System.NotSupportedException: Sliders/spinners are not implemented yet (299 objects)
+Wed Dec 31 22:08:25 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>:   at OsuLegacy.Beatmap.Load (System.String path) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:08:25 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>:   at OsuLegacy.Program.StartSong (System.String path) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:08:35 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT OsuLegacy.LazerUi:<DrawMenu>m__1 () code=0x1f34c50 bytes=56
+Wed Dec 31 22:08:35 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT OsuLegacy.LazerUi:DrawSettings () code=0x1f34c88 bytes=3372
+Wed Dec 31 22:08:36 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT (wrapper managed-to-native) System.Math:Round (double) code=0x1f359c0 bytes=180
+Wed Dec 31 22:08:36 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT double:ToString () code=0x1f35a78 bytes=64
+Wed Dec 31 22:08:36 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.NumberFormatter:NumberToString (double,System.IFormatProvider) code=0x1f35ad8 bytes=324
+Wed Dec 31 22:08:36 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.NumberFormatter:Init (string,double,int) code=0x1f35c38 bytes=2196
+Wed Dec 31 22:08:36 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.BitConverter:DoubleToInt64Bits (double) code=0x1f36518 bytes=44
+Wed Dec 31 22:08:36 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.NumberFormatter:InitialFloatingPrecision () code=0x1f36548 bytes=216
+Wed Dec 31 22:08:36 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.NumberFormatter:GetTenPowerOf (int) code=0x1f36620 bytes=72
+Wed Dec 31 22:08:36 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT (wrapper managed-to-native) object:__icall_wrapper___emul_ldiv (long,long) code=0x1f36668 bytes=208
+Wed Dec 31 22:08:36 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.NumberFormatter:InitDecHexDigits (ulong) code=0x1f36748 bytes=704
+Wed Dec 31 22:08:36 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT (wrapper managed-to-native) object:__icall_wrapper___emul_ldiv_un (long,long) code=0x1f36a18 bytes=208
+Wed Dec 31 22:08:36 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.NumberFormatter:ToDecHex (int) code=0x1f36ae8 bytes=172
+Wed Dec 31 22:08:36 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.NumberFormatter:FastToDecHex (int) code=0x1f36ba0 bytes=224
+Wed Dec 31 22:08:36 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.NumberFormatter:CountTrailingZeros () code=0x1f36c80 bytes=184
+Wed Dec 31 22:08:36 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.NumberFormatter:CountTrailingZeros (uint) code=0x1f36d48 bytes=236
+Wed Dec 31 22:08:36 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.NumberFormatter:FormatGeneral (int,System.Globalization.NumberFormatInfo) code=0x1f36e38 bytes=548
+Wed Dec 31 22:08:36 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.NumberFormatter:get_IsFloatingSource () code=0x1f37090 bytes=92
+Wed Dec 31 22:08:36 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.NumberFormatter:AppendDigits (int,int) code=0x1f370f0 bytes=1296
+Wed Dec 31 22:08:39 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT OsuLegacy.LazerUi:<DrawSettings>m__11 () code=0x1f37630 bytes=44
+Wed Dec 31 22:16:30 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT OsuLegacy.LazerUi:<Draw>m__0 () code=0x1f37660 bytes=68
+Wed Dec 31 22:16:43 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: System.NotSupportedException: Sliders/spinners are not implemented yet (299 objects)
+Wed Dec 31 22:16:43 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>:   at OsuLegacy.Beatmap.Load (System.String path) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:16:43 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>:   at OsuLegacy.Program.StartSong (System.String path) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:17:11 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT OsuLegacy.LazerUi:<DrawMenu>m__5 () code=0x1f376a8 bytes=68
+Wed Dec 31 22:17:13 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT OsuLegacy.LazerUi:<DrawMenu>m__3 () code=0x1f376f0 bytes=40
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.Collections.Generic.List`1<OsuLegacy.Circle>:get_Count () code=0x1f37718 bytes=36
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.Collections.Generic.List`1<OsuLegacy.Circle>:Sort (System.Comparison`1<OsuLegacy.Circle>) code=0x1f37740 bytes=140
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.Array:SortImpl<OsuLegacy.Circle> (OsuLegacy.Circle[],int,System.Comparison`1<OsuLegacy.Circle>) code=0x1f377d8 bytes=248
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.Array:qsort<OsuLegacy.Circle> (OsuLegacy.Circle[],int,int,System.Comparison`1<OsuLegacy.Circle>) code=0x1f378e0 bytes=1856
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.Array:QSortArrange<OsuLegacy.Circle> (OsuLegacy.Circle[],int,int,System.Comparison`1<OsuLegacy.Circle>) code=0x1f38038 bytes=300
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT OsuLegacy.Beatmap:<Load>m__0 (OsuLegacy.Circle,OsuLegacy.Circle) code=0x1f38168 bytes=96
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT double:CompareTo (double) code=0x1f381d8 bytes=408
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT OsuLegacy.Session:.ctor (OsuLegacy.Beatmap) code=0x1f38380 bytes=856
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT osu.Game.Rulesets.Osu.Scoring.OsuHitWindows:.ctor () code=0x1f38738 bytes=44
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT osu.Game.Rulesets.Osu.Scoring.OsuHitWindows:.cctor () code=0x1f38770 bytes=624
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT osu.Game.Beatmaps.DifficultyRange:.ctor (double,double,double) code=0x1f389e0 bytes=112
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT osu.Game.Rulesets.Scoring.HitWindows:.ctor () code=0x1f38a50 bytes=44
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT osu.Game.Rulesets.Osu.Scoring.OsuHitWindows:SetDifficulty (double) code=0x1f38a80 bytes=528
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT osu.Game.Beatmaps.LegacyDifficulty:DifficultyRange (double,osu.Game.Beatmaps.DifficultyRange) code=0x1f38c90 bytes=344
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT (wrapper managed-to-native) System.Math:Floor (double) code=0x1f38de8 bytes=180
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.Collections.Generic.List`1<OsuLegacy.Circle>:GetEnumerator () code=0x1f38ea0 bytes=176
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.Collections.Generic.List`1/Enumerator<OsuLegacy.Circle>:.ctor (System.Collections.Generic.List`1<OsuLegacy.Circle>) code=0x1f38f60 bytes=108
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.Collections.Generic.List`1/Enumerator<OsuLegacy.Circle>:MoveNext () code=0x1f38fd0 bytes=320
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.Collections.Generic.List`1/Enumerator<OsuLegacy.Circle>:get_Current () code=0x1f39110 bytes=36
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.Collections.Generic.List`1/Enumerator<OsuLegacy.Circle>:Dispose () code=0x1f39138 bytes=28
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT (wrapper managed-to-native) OsuLegacy.Program:legacy_audio_start (string) code=0x1f39158 bytes=192
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU CODE 0x1f39158 e1a0c00d e92d5ff0 e24dd038 e58d000c
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU CODE 0x1f39168 eb83692d e28d1010 e5810004 e590c000
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU CODE 0x1f39178 e581c000 e5801000 e581d00c e581b014
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU CODE 0x1f39188 e1a0c00f e581c010 e3a00000 e3a00000
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU CODE 0x1f39198 e3a00000 e5cd0000 e3a00000 e58d0004
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU CODE 0x1f391a8 e3a00000 e58d0008 e3a00000 e5cd0000
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU CODE 0x1f391b8 e59d000c eb01150b e58d0008 e59d0008
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU CODE 0x1f391c8 e3a01014 e2811cc7 e12fff31 e58d0004
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU CODE 0x1f391d8 e3a000e0 e2800c48 e2800832 e5900000
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU CODE 0x1f391e8 e3500000 0a000000 eba0a812 e59d0008
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU CODE 0x1f391f8 eb011544 e59d0004 eaffffff e59dc010
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU CODE 0x1f39208 e59de014 e58ec000 e28dd048 e8bd9f00
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT (wrapper managed-to-native) OsuLegacy.Program:legacy_audio_time () code=0x1f39218 bytes=176
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU CODE 0x1f39218 e1a0c00d e92d5ff0 e24dd038 eb8368fe
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU CODE 0x1f39228 e28d1010 e5810004 e590c000 e581c000
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU CODE 0x1f39238 e5801000 e581d00c e581b014 e1a0c00f
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU CODE 0x1f39248 e581c010 e3a00000 e3a00000 e3a00000
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU CODE 0x1f39258 e5cd0000 e3a0e098 e28eec36 e28ee832
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU CODE 0x1f39268 ed9e2b00 ed8d2b01 e3a00000 e5cd0000
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU CODE 0x1f39278 e3a00070 e2800cc9 e12fff30 ec410b12
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU CODE 0x1f39288 ed8d2b01 e3a000e0 e2800c48 e2800832
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU CODE 0x1f39298 e5900000 e3500000 0a000000 eba0a7e5
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU CODE 0x1f392a8 ed9d2b01 ec510b12 eaffffff e59dc010
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU CODE 0x1f392b8 e59de014 e58ec000 e28dd048 e8bd9f00
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT OsuLegacy.Session:Advance (double) code=0x1f392c8 bytes=304
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT OsuLegacy.Session:get_FirstPending () code=0x1f39408 bytes=36
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.Collections.Generic.List`1<OsuLegacy.Circle>:get_Item (int) code=0x1f39430 bytes=120
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT OsuLegacy.Program:Text (double,double,string,double) code=0x1f394a8 bytes=188
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU CODE 0x1f394a8 e92d4080 e1a0700d e92d0900 e24dd050
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU CODE 0x1f394b8 e1a0b00d e58b0030 e58b1034 e58b2038
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU CODE 0x1f394c8 e58b303c e59de060 e58be040 e59de064
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU CODE 0x1f394d8 e58be044 e59de068 e58be048 ed9b7b0c
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU CODE 0x1f394e8 ed9b6b0e e59bc040 ed9b5b11 e3a0e0ac
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU CODE 0x1f394f8 e28eec43 e28ee8bb ed9e4b00 e3a0e0b4
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU CODE 0x1f39508 e28eec43 e28ee8bb ed9e3b00 e3a0e0bc
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU CODE 0x1f39518 e28eec43 e28ee8bb ed9e2b00 ed0d7b02
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU CODE 0x1f39528 e51d0008 e51d1004 ed0d6b02 e51d2008
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU CODE 0x1f39538 e51d3004 e58dc000 ed8d5b01 ed8d4b03
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU CODE 0x1f39548 ed8d3b05 ed8d2b07 eb012024 eaffffff
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT OsuLegacy.Session:get_Accuracy () code=0x1f39568 bytes=268
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT double:ToString (string) code=0x1f39678 bytes=56
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT double:ToString (string,System.IFormatProvider) code=0x1f396c0 bytes=76
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.NumberFormatter:NumberToString (string,double,System.IFormatProvider) code=0x1f39718 bytes=392
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.NumberFormatter:NumberToString (string,System.Globalization.NumberFormatInfo) code=0x1f398b8 bytes=428
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.NumberFormatter:FormatFixedPoint (int,System.Globalization.NumberFormatInfo) code=0x1f39a90 bytes=304
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.NumberFormatter:RoundDecimal (int) code=0x1f39c00 bytes=76
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.NumberFormatter:RoundBits (int) code=0x1f39c58 bytes=696
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.NumberFormatter:get_IntegerDigits () code=0x1f39f28 bytes=76
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.NumberFormatter:AppendIntegerString (int) code=0x1f39f78 bytes=164
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.NumberFormatter:Append (string) code=0x1f3a028 bytes=312
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.NumberFormatter:AppendDecimalString (int) code=0x1f3a160 bytes=96
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT OsuLegacy.Session:VisibleEnd (double) code=0x1f3a1c0 bytes=264
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT OsuLegacy.Session:get_Finished () code=0x1f3a2c8 bytes=128
+Wed Dec 31 22:17:19 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT OsuLegacy.Session:Tap (double,double,double) code=0x1f3a348 bytes=560
+Wed Dec 31 22:17:20 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT osu.Game.Rulesets.Osu.Scoring.OsuHitWindows:WindowFor (osu.Game.Rulesets.Scoring.HitResult) code=0x1f3a588 bytes=276
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT osu.Game.Rulesets.Scoring.HitWindows:ResultFor (double) code=0x1f3a6b8 bytes=220
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.Math:Abs (double) code=0x1f3a7a0 bytes=100
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT osu.Game.Rulesets.Osu.Scoring.OsuHitWindows:IsHitResultAllowed (osu.Game.Rulesets.Scoring.HitResult) code=0x1f3a808 bytes=100
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT OsuLegacy.Session:Apply (OsuLegacy.Circle,osu.Game.Rulesets.Scoring.HitResult) code=0x1f3a888 bytes=596
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT OsuLegacy.Session:set_FirstPending (int) code=0x1f3aae8 bytes=44
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.Enum:ToString () code=0x1f3ab18 bytes=80
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.Enum:get_Value () code=0x1f3ab80 bytes=44
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT (wrapper managed-to-native) System.Enum:get_value (System.Enum) code=0x1f3abb8 bytes=188
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.Enum:Format (System.Type,object,string) code=0x1f4d000 bytes=1108
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.Type:get_IsEnum () code=0x1f4d4a8 bytes=68
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT (wrapper remoting-invoke-with-check) object:GetType () code=0x1f4d4f0 bytes=152
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.Enum:GetUnderlyingType (System.Type) code=0x1f4d5a0 bytes=176
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT (wrapper managed-to-native) System.Enum:get_underlying_type (System.Type) code=0x1f4d660 bytes=156
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.Type:op_Inequality (System.Type,System.Type) code=0x1f4d700 bytes=68
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.MonoType:IsDefined (System.Type,bool) code=0x1f4d748 bytes=60
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.MonoCustomAttrs:IsDefined (System.Reflection.ICustomAttributeProvider,System.Type,bool) code=0x1f4d790 bytes=496
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.MonoCustomAttrs:.cctor () code=0x1f4d9c8 bytes=92
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.AttributeUsageAttribute:.ctor (System.AttributeTargets) code=0x1f4da30 bytes=72
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.Attribute:.ctor () code=0x1f4da88 bytes=44
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.MonoCustomAttrs:IsUserCattrProvider (object) code=0x1f4dab8 bytes=552
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT (wrapper managed-to-native) System.MonoCustomAttrs:IsDefinedInternal (System.Reflection.ICustomAttributeProvider,System.Type) code=0x1f4dcf8 bytes=160
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.MonoCustomAttrs:GetPseudoCustomAttributes (System.Reflection.ICustomAttributeProvider,System.Type) code=0x1f4dd98 bytes=1108
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.Type:GetPseudoCustomAttributes () code=0x1f4e220 bytes=380
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.Enum:GetName (System.Type,object) code=0x1f4e3b8 bytes=468
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT (wrapper managed-to-native) System.Enum:ToObject (System.Type,object) code=0x1f4e5b0 bytes=164
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.MonoEnumInfo:.cctor () code=0x1f4e658 bytes=296
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.Collections.Generic.Dictionary`2<System.Type, System.MonoEnumInfo>:.ctor () code=0x1f4e7c0 bytes=60
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.Collections.Generic.Dictionary`2<System.Type, System.MonoEnumInfo>:Init (int,System.Collections.Generic.IEqualityComparer`1<System.Type>) code=0x1f4e808 bytes=312
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.Collections.Generic.EqualityComparer`1<System.Type>:get_Default () code=0x1f4e958 bytes=52
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.Collections.Generic.EqualityComparer`1<System.Type>:.cctor () code=0x1f4e998 bytes=464
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.Collections.Generic.EqualityComparer`1/DefaultComparer<System.Type>:.ctor () code=0x1f4eb88 bytes=44
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.Collections.Generic.EqualityComparer`1<System.Type>:.ctor () code=0x1f4ebc0 bytes=44
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.Collections.Generic.Dictionary`2<System.Type, System.MonoEnumInfo>:InitArrays (int) code=0x1f4ebf0 bytes=416
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.MonoEnumInfo/SByteComparer:.ctor () code=0x1f4ed90 bytes=44
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.MonoEnumInfo/ShortComparer:.ctor () code=0x1f4edc0 bytes=44
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.MonoEnumInfo/IntComparer:.ctor () code=0x1f4edf0 bytes=44
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.MonoEnumInfo/LongComparer:.ctor () code=0x1f4ee20 bytes=44
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.MonoEnumInfo:GetInfo (System.Type,System.MonoEnumInfo&) code=0x1f4ee50 bytes=1120
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.Collections.Generic.Dictionary`2<System.Type, System.MonoEnumInfo>:TryGetValue (System.Type,System.MonoEnumInfo&) code=0x1f4f308 bytes=752
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.Collections.Generic.EqualityComparer`1/DefaultComparer<System.Type>:GetHashCode (System.Type) code=0x1f4f640 bytes=88
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.Type:GetHashCode () code=0x1f4f698 bytes=172
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT intptr:op_Explicit (intptr) code=0x1f4f750 bytes=36
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT (wrapper managed-to-native) System.MonoEnumInfo:get_enum_info (System.Type,System.MonoEnumInfo&) code=0x1f4f778 bytes=136
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.MonoEnumInfo:SortEnums (System.Type,System.Array,System.Array) code=0x1f4f800 bytes=280
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.Array:Sort (System.Array,System.Array,System.Collections.IComparer) code=0x1f4f928 bytes=304
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.Array:SortImpl (System.Array,System.Array,int,int,System.Collections.IComparer) code=0x1f4fa70 bytes=4264
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.Array:qsort (System.Array,System.Array,int,int,System.Collections.IComparer) code=0x1f50c00 bytes=2692
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT (wrapper managed-to-native) System.Array:GetValueImpl (System.Array,int) code=0x1f516a0 bytes=196
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.MonoEnumInfo/IntComparer:Compare (object,object) code=0x1f517b0 bytes=240
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.MonoEnumInfo:.ctor (System.MonoEnumInfo) code=0x1f518a0 bytes=220
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.Collections.Generic.Dictionary`2<System.Type, System.MonoEnumInfo>:set_Item (System.Type,System.MonoEnumInfo) code=0x1f51980 bytes=1392
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.Enum:FindPosition (System.Type,object,System.Array) code=0x1f51f00 bytes=1952
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.Type:GetTypeCode (System.Type) code=0x1f52720 bytes=84
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.Type:GetTypeCodeImpl () code=0x1f52778 bytes=392
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT (wrapper managed-to-native) System.Type:GetTypeCodeInternal (System.Type) code=0x1f52918 bytes=156
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.Array:BinarySearch<int> (int[],int,System.Collections.Generic.IComparer`1<int>) code=0x1f529b8 bytes=124
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.Array:BinarySearch<int> (int[],int,int,int,System.Collections.Generic.IComparer`1<int>) code=0x1f52a40 bytes=744
+Wed Dec 31 22:17:21 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.MonoEnumInfo/IntComparer:Compare (int,int) code=0x1f52d80 bytes=88
+Wed Dec 31 22:17:22 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.Collections.Generic.EqualityComparer`1/DefaultComparer<System.Type>:Equals (System.Type,System.Type) code=0x1f52e20 bytes=108
+Wed Dec 31 22:17:22 unknown UIKitApplication:org.osu.legacy.experimental[0xab6e][512] <Notice>: OSU JIT System.Type:Equals (object) code=0x1f52e90 bytes=152
+Wed Dec 31 22:22:12 unknown mediaremoted[531] <Notice>: MS:Notice: Injecting: (null) [mediaremoted] (550.52)
+Wed Dec 31 22:22:13 unknown mediaremoted[531] <Warning>: BTM: attaching to BTServer
+Wed Dec 31 22:22:13 unknown mediaremoted[531] <Warning>: BTM: posting notification BluetoothAvailabilityChangedNotification
+Wed Dec 31 22:26:09 unknown SpringBoard[29] <Notice>: MultitouchHID(22e670) uilock state: 0 -> 1
+Wed Dec 31 22:26:33 unknown SpringBoard[29] <Notice>: MultitouchHID(22e670) uilock state: 1 -> 0
+Wed Dec 31 22:40:56 unknown securityd[533] <Notice>: MS:Notice: Injecting: (null) [securityd] (550.52)
+Wed Dec 31 22:40:57 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #8 from idevicesyslog. Killing connection
+Wed Dec 31 22:40:57 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 22:40:59 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 22:41:00 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #9 from ideviceinstaller. Killing connection
+Wed Dec 31 22:41:00 unknown installd[540] <Notice>: MS:Notice: Injecting: (null) [installd] (550.52)
+Wed Dec 31 22:41:00 unknown installd[540] <Error>: 3e1b38b8 check_freshness: sb.st_mtime = 39317 reference_mtime = 11188
+Wed Dec 31 22:41:00 unknown installd[540] <Error>: 3e1b38b8 check_stale_maps: /Applications appears stale
+Wed Dec 31 22:41:01 unknown SpringBoard[29] <Warning>: Reloading and rendering all application icons.
+Wed Dec 31 22:41:04 unknown installd[540] <Error>: 2ff68000 verify_signer_identity: TDMTANF bypass enabled
+Wed Dec 31 22:41:04 unknown SpringBoard[29] <Warning>: Killing <SBApplication: 0x3b7d520> org.osu.legacy.experimental  activate:  deactivate:  for app installation
+Wed Dec 31 22:41:04 unknown SpringBoard[29] <Warning>: Reloading application state for 'org.osu.legacy.experimental' as its modification date has changed
+Wed Dec 31 22:41:04 unknown SpringBoard[29] <Warning>: Reloading and rendering all application icons.
+Wed Dec 31 22:44:27 unknown OsuLegacy[542] <Notice>: MS:Notice: Injecting: org.osu.legacy.experimental [OsuLegacy] (550.52)
+Wed Dec 31 22:44:27 unknown kernel[0] <Debug>: punchd[542] Builtin profile: container (sandbox)
+Wed Dec 31 22:44:27 unknown kernel[0] <Debug>: punchd[542] Container: /private/var/mobile/Applications/E2BDCF43-13D3-4F6E-B759-7E7E547702F5 [69] (sandbox)
+Wed Dec 31 22:44:28 unknown OsuLegacy[542] <Warning>: OSU UI: landscape canvas 480x320, view 320x480
+Wed Dec 31 22:44:28 unknown OsuLegacy[542] <Warning>: OSU boot: initializing embedded Mono after native launch
+Wed Dec 31 22:44:29 unknown OsuLegacy[542] <Warning>: OSU checkpoint: managed entry reached native bundle binding
+Wed Dec 31 22:44:29 unknown OsuLegacy[542] <Warning>: OSU boot: managed callbacks registered
+Wed Dec 31 22:44:29 unknown OsuLegacy[542] <Warning>: OSU boot: managed startup returned to UIKit
+Wed Dec 31 22:44:39 unknown OsuLegacy[542] <Warning>: OSU text x=14 y=8 size=16 rgb=0.96,0.95,1
+Wed Dec 31 22:44:39 unknown OsuLegacy[542] <Warning>: OSU text x=93 y=12 size=10 rgb=0.71,0.67,0.77
+Wed Dec 31 22:44:39 unknown OsuLegacy[542] <Warning>: OSU text x=376 y=8.5 size=13 rgb=0.96,0.95,1
+Wed Dec 31 22:44:45 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>: OSU archive: extracted 3 entries, 641855 bytes
+Wed Dec 31 22:45:04 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>: System.ArgumentOutOfRangeException: Argument is out of range.
+Wed Dec 31 22:45:04 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>: Parameter name: index
+Wed Dec 31 22:45:04 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at System.Collections.Generic.List`1[OsuLegacy.PathPoint].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:45:04 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.SliderPath.Position (Double progress) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:45:04 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.SliderPath.Arrow (Double end, Double inward) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:45:04 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.SliderPath.Parse (System.String definition, Double x, Double y, Double expectedLength) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:45:04 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.Beatmap.ApplyTiming () [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:45:04 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.Beatmap.Load (System.String path) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:45:04 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.Program+<StartSong>c__AnonStorey0.<>m__0 () [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:45:09 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>: System.ArgumentOutOfRangeException: Argument is out of range.
+Wed Dec 31 22:45:09 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>: Parameter name: index
+Wed Dec 31 22:45:09 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at System.Collections.Generic.List`1[OsuLegacy.PathPoint].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:45:09 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.SliderPath.Position (Double progress) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:45:09 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.SliderPath.Arrow (Double end, Double inward) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:45:09 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.SliderPath.Parse (System.String definition, Double x, Double y, Double expectedLength) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:45:09 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.Beatmap.ApplyTiming () [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:45:09 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.Beatmap.Load (System.String path) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:45:09 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.Program+<StartSong>c__AnonStorey0.<>m__0 () [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:45:19 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>: System.ArgumentOutOfRangeException: Argument is out of range.
+Wed Dec 31 22:45:19 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>: Parameter name: index
+Wed Dec 31 22:45:19 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at System.Collections.Generic.List`1[OsuLegacy.PathPoint].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:45:19 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.SliderPath.Position (Double progress) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:45:19 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.SliderPath.Arrow (Double end, Double inward) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:45:19 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.SliderPath.Parse (System.String definition, Double x, Double y, Double expectedLength) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:45:19 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.Beatmap.ApplyTiming () [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:45:19 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.Beatmap.Load (System.String path) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:45:19 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.Program+<StartSong>c__AnonStorey0.<>m__0 () [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:47:38 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>: System.ArgumentOutOfRangeException: Argument is out of range.
+Wed Dec 31 22:47:38 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>: Parameter name: index
+Wed Dec 31 22:47:38 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at System.Collections.Generic.List`1[OsuLegacy.PathPoint].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:47:38 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.SliderPath.Position (Double progress) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:47:38 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.SliderPath.Arrow (Double end, Double inward) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:47:38 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.SliderPath.Parse (System.String definition, Double x, Double y, Double expectedLength) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:47:38 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.Beatmap.ApplyTiming () [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:47:38 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.Beatmap.Load (System.String path) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:47:38 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.Program+<StartSong>c__AnonStorey0.<>m__0 () [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:48:29 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>: System.ArgumentOutOfRangeException: Argument is out of range.
+Wed Dec 31 22:48:29 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>: Parameter name: index
+Wed Dec 31 22:48:29 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at System.Collections.Generic.List`1[OsuLegacy.PathPoint].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:48:29 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.SliderPath.Position (Double progress) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:48:29 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.SliderPath.Arrow (Double end, Double inward) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:48:29 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.SliderPath.Parse (System.String definition, Double x, Double y, Double expectedLength) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:48:29 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.Beatmap.ApplyTiming () [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:48:29 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.Beatmap.Load (System.String path) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:48:29 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.Program+<StartSong>c__AnonStorey0.<>m__0 () [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:48:49 unknown securityd[543] <Notice>: MS:Notice: Injecting: (null) [securityd] (550.52)
+> 
+Wed Dec 31 22:48:51 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #8 from idevicesyslog. Killing connection
+Wed Dec 31 22:48:51 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+> 
+Wed Dec 31 22:48:55 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 22:48:55 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #9 from ideviceinstaller. Killing connection
+> 
+Wed Dec 31 22:48:56 unknown installd[550] <Notice>: MS:Notice: Injecting: (null) [installd] (550.52)
+Wed Dec 31 22:48:57 unknown installd[550] <Error>: 3e1b38b8 check_freshness: sb.st_mtime = 39317 reference_mtime = 13264
+Wed Dec 31 22:48:57 unknown installd[550] <Error>: 3e1b38b8 check_stale_maps: /Applications appears stale
+Wed Dec 31 22:48:59 unknown SpringBoard[29] <Warning>: Reloading and rendering all application icons.
+> 
+Wed Dec 31 22:49:05 unknown installd[550] <Error>: 2ff68000 verify_signer_identity: TDMTANF bypass enabled
+Wed Dec 31 22:49:05 unknown SpringBoard[29] <Warning>: Killing <SBApplication: 0x3b7eed0> org.osu.legacy.experimental finishedLaunchingFrontmost userLaunch statusBarWindowContextId = 1428385124  activate:  deactivate:  for app installation
+Wed Dec 31 22:49:05 unknown com.apple.launchd[1] <Notice>: (UIKitApplication:org.osu.legacy.experimental[0x99cc]) Exited: Killed
+Wed Dec 31 22:49:05 unknown SpringBoard[29] <Warning>: Application 'osu legacy' exited abnormally with signal 9: Killed
+Wed Dec 31 22:49:06 unknown SpringBoard[29] <Warning>: Reloading application state for 'org.osu.legacy.experimental' as its modification date has changed
+> 
+Wed Dec 31 22:49:06 unknown SpringBoard[29] <Warning>: Reloading and rendering all application icons.
+> 
+Wed Dec 31 22:49:07 unknown OsuLegacy[552] <Notice>: MS:Notice: Injecting: org.osu.legacy.experimental [OsuLegacy] (550.52)
+Wed Dec 31 22:49:07 unknown kernel[0] <Debug>: punchd[552] Builtin profile: container (sandbox)
+Wed Dec 31 22:49:07 unknown kernel[0] <Debug>: punchd[552] Container: /private/var/mobile/Applications/4DECC22B-EA89-40EF-9124-D65B3BAE3E41 [69] (sandbox)
+Wed Dec 31 22:49:08 unknown OsuLegacy[552] <Warning>: OSU UI: landscape canvas 480x320, view 320x480
+> 
+Wed Dec 31 22:49:08 unknown OsuLegacy[552] <Warning>: OSU boot: initializing embedded Mono after native launch
+Wed Dec 31 22:49:09 unknown OsuLegacy[552] <Warning>: OSU checkpoint: managed entry reached native bundle binding
+Wed Dec 31 22:49:10 unknown OsuLegacy[552] <Warning>: OSU boot: managed callbacks registered
+> 
+Wed Dec 31 22:49:10 unknown OsuLegacy[552] <Warning>: OSU boot: managed startup returned to UIKit
+> 
+Wed Dec 31 22:49:17 unknown OsuLegacy[552] <Warning>: OSU text x=14 y=8 size=16 rgb=0.96,0.95,1
+Wed Dec 31 22:49:17 unknown OsuLegacy[552] <Warning>: OSU text x=93 y=12 size=10 rgb=0.71,0.67,0.77
+Wed Dec 31 22:49:17 unknown OsuLegacy[552] <Warning>: OSU text x=376 y=8.5 size=13 rgb=0.96,0.95,1
+> 
+Wed Dec 31 23:03:47 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:03:47 unknown lockdownd[21] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 23:03:47 unknown lockdownd[21] <Error>: 00486000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:03:47 unknown lockdownd[21] <Error>: 00486000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:03:47 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:03:47 unknown lockdownd[21] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 23:03:47 unknown lockdownd[21] <Error>: 00486000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:03:47 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of messageCould not receive size of messageCould not receive size of message
+Wed Dec 31 23:03:48 unknown securityd[553] <Notice>: MS:Notice: Injecting: (null) [securityd] (550.52)
+> 
+Wed Dec 31 23:04:10 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #4 from iFunBox. Killing connection
+Wed Dec 31 23:04:10 unknown com.apple.mobile.lockdown[21] <Notice>: receive secure message timeout!
+> 
+Wed Dec 31 23:06:55 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:06:55 unknown lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 23:06:55 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:06:55 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:06:55 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:06:55 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:06:55 unknown lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 23:06:55 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:06:55 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of messageCould not receive size of message
+Wed Dec 31 23:06:55 unknown securityd[558] <Notice>: MS:Notice: Injecting: (null) [securityd] (550.52)
+> 
+Wed Dec 31 23:06:56 unknown installd[563] <Notice>: MS:Notice: Injecting: (null) [installd] (550.52)
+Wed Dec 31 23:06:57 unknown installd[563] <Error>: 3e1b38b8 check_freshness: sb.st_mtime = 39317 reference_mtime = 13745
+Wed Dec 31 23:06:57 unknown installd[563] <Error>: 3e1b38b8 check_stale_maps: /Applications appears stale
+Wed Dec 31 23:06:59 unknown SpringBoard[29] <Warning>: Reloading and rendering all application icons.
+> 
+Wed Dec 31 23:06:59 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:06:59 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #5 from iFunBox. Killing connection
+Wed Dec 31 23:07:00 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:00 unknown lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 23:07:00 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+> 
+Wed Dec 31 23:07:00 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:00 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:00 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:00 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:00 unknown lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 23:07:00 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:00 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+> 
+Wed Dec 31 23:07:02 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #5 from iFunBox. Killing connection
+Wed Dec 31 23:07:02 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:02 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:02 unknown lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 23:07:02 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:02 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:02 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:02 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:02 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:02 unknown lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 23:07:02 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:02 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+> 
+Wed Dec 31 23:07:04 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #5 from iFunBox. Killing connection
+Wed Dec 31 23:07:04 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:04 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:04 unknown lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 23:07:04 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:04 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:04 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:04 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:04 unknown lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 23:07:04 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:04 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:04 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+> 
+Wed Dec 31 23:07:05 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:05 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #5 from iFunBox. Killing connection
+Wed Dec 31 23:07:05 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:05 unknown lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 23:07:05 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:05 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:05 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:05 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:05 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+> 
+Wed Dec 31 23:07:05 unknown lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 23:07:05 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:05 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:07 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:07 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #5 from iFunBox. Killing connection
+Wed Dec 31 23:07:07 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:07 unknown lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 23:07:07 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:07 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:07 unknown lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 23:07:07 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of messageCould not receive size of messageCould not receive size of message
+Wed Dec 31 23:07:07 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:07 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+> 
+Wed Dec 31 23:07:08 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:08 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #5 from iFunBox. Killing connection
+Wed Dec 31 23:07:08 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:08 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:08 unknown lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 23:07:08 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:09 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:09 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:09 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:09 unknown lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 23:07:09 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:09 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+> 
+Wed Dec 31 23:07:30 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #4 from iFunBox. Killing connection
+Wed Dec 31 23:07:30 unknown com.apple.mobile.lockdown[21] <Notice>: receive secure message timeout!
+> 
+Wed Dec 31 23:08:16 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:08:16 unknown lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 23:08:16 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:08:16 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:08:16 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:08:16 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:08:16 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:08:16 unknown lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 23:08:16 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:08:16 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:08:16 unknown securityd[571] <Notice>: MS:Notice: Injecting: (null) [securityd] (550.52)
+> 
+Wed Dec 31 23:08:18 unknown installd[576] <Notice>: MS:Notice: Injecting: (null) [installd] (550.52)
+Wed Dec 31 23:08:19 unknown installd[576] <Error>: 3e1b38b8 check_freshness: sb.st_mtime = 39317 reference_mtime = 14818
+Wed Dec 31 23:08:19 unknown installd[576] <Error>: 3e1b38b8 check_stale_maps: /Applications appears stale
+> 
+Wed Dec 31 23:08:20 unknown SpringBoard[29] <Warning>: Reloading and rendering all application icons.
+> [disconnected:f7f4c5236445e3e001f9834aa63367fd56cdf871]
+[connected:f7f4c5236445e3e001f9834aa63367fd56cdf871]
+
+========================
+ASL is here to serve you
+> 
+Wed Dec 31 22:22:13 unknown mediaremoted[531] <Warning>: BTM: posting notification BluetoothAvailabilityChangedNotification
+Wed Dec 31 22:26:09 unknown SpringBoard[29] <Notice>: MultitouchHID(22e670) uilock state: 0 -> 1
+Wed Dec 31 22:26:33 unknown SpringBoard[29] <Notice>: MultitouchHID(22e670) uilock state: 1 -> 0
+Wed Dec 31 22:40:56 unknown securityd[533] <Notice>: MS:Notice: Injecting: (null) [securityd] (550.52)
+Wed Dec 31 22:40:57 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #8 from idevicesyslog. Killing connection
+Wed Dec 31 22:40:57 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 22:40:59 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 22:41:00 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #9 from ideviceinstaller. Killing connection
+Wed Dec 31 22:41:00 unknown installd[540] <Notice>: MS:Notice: Injecting: (null) [installd] (550.52)
+Wed Dec 31 22:41:00 unknown installd[540] <Error>: 3e1b38b8 check_freshness: sb.st_mtime = 39317 reference_mtime = 11188
+Wed Dec 31 22:41:00 unknown installd[540] <Error>: 3e1b38b8 check_stale_maps: /Applications appears stale
+Wed Dec 31 22:41:01 unknown SpringBoard[29] <Warning>: Reloading and rendering all application icons.
+Wed Dec 31 22:41:04 unknown installd[540] <Error>: 2ff68000 verify_signer_identity: TDMTANF bypass enabled
+Wed Dec 31 22:41:04 unknown SpringBoard[29] <Warning>: Killing <SBApplication: 0x3b7d520> org.osu.legacy.experimental  activate:  deactivate:  for app installation
+Wed Dec 31 22:41:04 unknown SpringBoard[29] <Warning>: Reloading application state for 'org.osu.legacy.experimental' as its modification date has changed
+Wed Dec 31 22:41:04 unknown SpringBoard[29] <Warning>: Reloading and rendering all application icons.
+Wed Dec 31 22:44:27 unknown OsuLegacy[542] <Notice>: MS:Notice: Injecting: org.osu.legacy.experimental [OsuLegacy] (550.52)
+Wed Dec 31 22:44:27 unknown kernel[0] <Debug>: punchd[542] Builtin profile: container (sandbox)
+Wed Dec 31 22:44:27 unknown kernel[0] <Debug>: punchd[542] Container: /private/var/mobile/Applications/E2BDCF43-13D3-4F6E-B759-7E7E547702F5 [69] (sandbox)
+Wed Dec 31 22:44:28 unknown OsuLegacy[542] <Warning>: OSU UI: landscape canvas 480x320, view 320x480
+Wed Dec 31 22:44:28 unknown OsuLegacy[542] <Warning>: OSU boot: initializing embedded Mono after native launch
+Wed Dec 31 22:44:29 unknown OsuLegacy[542] <Warning>: OSU checkpoint: managed entry reached native bundle binding
+Wed Dec 31 22:44:29 unknown OsuLegacy[542] <Warning>: OSU boot: managed callbacks registered
+Wed Dec 31 22:44:29 unknown OsuLegacy[542] <Warning>: OSU boot: managed startup returned to UIKit
+Wed Dec 31 22:44:39 unknown OsuLegacy[542] <Warning>: OSU text x=14 y=8 size=16 rgb=0.96,0.95,1
+Wed Dec 31 22:44:39 unknown OsuLegacy[542] <Warning>: OSU text x=93 y=12 size=10 rgb=0.71,0.67,0.77
+Wed Dec 31 22:44:39 unknown OsuLegacy[542] <Warning>: OSU text x=376 y=8.5 size=13 rgb=0.96,0.95,1
+Wed Dec 31 22:44:45 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>: OSU archive: extracted 3 entries, 641855 bytes
+Wed Dec 31 22:45:04 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>: System.ArgumentOutOfRangeException: Argument is out of range.
+Wed Dec 31 22:45:04 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>: Parameter name: index
+Wed Dec 31 22:45:04 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at System.Collections.Generic.List`1[OsuLegacy.PathPoint].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:45:04 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.SliderPath.Position (Double progress) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:45:04 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.SliderPath.Arrow (Double end, Double inward) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:45:04 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.SliderPath.Parse (System.String definition, Double x, Double y, Double expectedLength) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:45:04 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.Beatmap.ApplyTiming () [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:45:04 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.Beatmap.Load (System.String path) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:45:04 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.Program+<StartSong>c__AnonStorey0.<>m__0 () [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:45:09 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>: System.ArgumentOutOfRangeException: Argument is out of range.
+Wed Dec 31 22:45:09 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>: Parameter name: index
+Wed Dec 31 22:45:09 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at System.Collections.Generic.List`1[OsuLegacy.PathPoint].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:45:09 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.SliderPath.Position (Double progress) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:45:09 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.SliderPath.Arrow (Double end, Double inward) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:45:09 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.SliderPath.Parse (System.String definition, Double x, Double y, Double expectedLength) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:45:09 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.Beatmap.ApplyTiming () [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:45:09 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.Beatmap.Load (System.String path) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:45:09 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.Program+<StartSong>c__AnonStorey0.<>m__0 () [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:45:19 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>: System.ArgumentOutOfRangeException: Argument is out of range.
+Wed Dec 31 22:45:19 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>: Parameter name: index
+Wed Dec 31 22:45:19 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at System.Collections.Generic.List`1[OsuLegacy.PathPoint].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:45:19 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.SliderPath.Position (Double progress) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:45:19 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.SliderPath.Arrow (Double end, Double inward) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:45:19 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.SliderPath.Parse (System.String definition, Double x, Double y, Double expectedLength) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:45:19 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.Beatmap.ApplyTiming () [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:45:19 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.Beatmap.Load (System.String path) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:45:19 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.Program+<StartSong>c__AnonStorey0.<>m__0 () [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:47:38 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>: System.ArgumentOutOfRangeException: Argument is out of range.
+Wed Dec 31 22:47:38 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>: Parameter name: index
+Wed Dec 31 22:47:38 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at System.Collections.Generic.List`1[OsuLegacy.PathPoint].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:47:38 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.SliderPath.Position (Double progress) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:47:38 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.SliderPath.Arrow (Double end, Double inward) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:47:38 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.SliderPath.Parse (System.String definition, Double x, Double y, Double expectedLength) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:47:38 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.Beatmap.ApplyTiming () [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:47:38 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.Beatmap.Load (System.String path) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:47:38 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.Program+<StartSong>c__AnonStorey0.<>m__0 () [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:48:29 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>: System.ArgumentOutOfRangeException: Argument is out of range.
+Wed Dec 31 22:48:29 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>: Parameter name: index
+Wed Dec 31 22:48:29 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at System.Collections.Generic.List`1[OsuLegacy.PathPoint].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:48:29 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.SliderPath.Position (Double progress) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:48:29 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.SliderPath.Arrow (Double end, Double inward) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:48:29 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.SliderPath.Parse (System.String definition, Double x, Double y, Double expectedLength) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:48:29 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.Beatmap.ApplyTiming () [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:48:29 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.Beatmap.Load (System.String path) [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:48:29 unknown UIKitApplication:org.osu.legacy.experimental[0x99cc][542] <Notice>:   at OsuLegacy.Program+<StartSong>c__AnonStorey0.<>m__0 () [0x00000] in <filename unknown>:0 
+Wed Dec 31 22:48:49 unknown securityd[543] <Notice>: MS:Notice: Injecting: (null) [securityd] (550.52)
+Wed Dec 31 22:48:51 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #8 from idevicesyslog. Killing connection
+Wed Dec 31 22:48:51 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 22:48:55 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 22:48:55 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #9 from ideviceinstaller. Killing connection
+Wed Dec 31 22:48:56 unknown installd[550] <Notice>: MS:Notice: Injecting: (null) [installd] (550.52)
+Wed Dec 31 22:48:57 unknown installd[550] <Error>: 3e1b38b8 check_freshness: sb.st_mtime = 39317 reference_mtime = 13264
+Wed Dec 31 22:48:57 unknown installd[550] <Error>: 3e1b38b8 check_stale_maps: /Applications appears stale
+Wed Dec 31 22:48:59 unknown SpringBoard[29] <Warning>: Reloading and rendering all application icons.
+Wed Dec 31 22:49:05 unknown installd[550] <Error>: 2ff68000 verify_signer_identity: TDMTANF bypass enabled
+Wed Dec 31 22:49:05 unknown SpringBoard[29] <Warning>: Killing <SBApplication: 0x3b7eed0> org.osu.legacy.experimental finishedLaunchingFrontmost userLaunch statusBarWindowContextId = 1428385124  activate:  deactivate:  for app installation
+Wed Dec 31 22:49:05 unknown com.apple.launchd[1] <Notice>: (UIKitApplication:org.osu.legacy.experimental[0x99cc]) Exited: Killed
+Wed Dec 31 22:49:05 unknown SpringBoard[29] <Warning>: Application 'osu legacy' exited abnormally with signal 9: Killed
+Wed Dec 31 22:49:06 unknown SpringBoard[29] <Warning>: Reloading application state for 'org.osu.legacy.experimental' as its modification date has changed
+Wed Dec 31 22:49:06 unknown SpringBoard[29] <Warning>: Reloading and rendering all application icons.
+Wed Dec 31 22:49:07 unknown OsuLegacy[552] <Notice>: MS:Notice: Injecting: org.osu.legacy.experimental [OsuLegacy] (550.52)
+Wed Dec 31 22:49:07 unknown kernel[0] <Debug>: punchd[552] Builtin profile: container (sandbox)
+Wed Dec 31 22:49:07 unknown kernel[0] <Debug>: punchd[552] Container: /private/var/mobile/Applications/4DECC22B-EA89-40EF-9124-D65B3BAE3E41 [69] (sandbox)
+Wed Dec 31 22:49:08 unknown OsuLegacy[552] <Warning>: OSU UI: landscape canvas 480x320, view 320x480
+Wed Dec 31 22:49:08 unknown OsuLegacy[552] <Warning>: OSU boot: initializing embedded Mono after native launch
+Wed Dec 31 22:49:09 unknown OsuLegacy[552] <Warning>: OSU checkpoint: managed entry reached native bundle binding
+Wed Dec 31 22:49:10 unknown OsuLegacy[552] <Warning>: OSU boot: managed callbacks registered
+Wed Dec 31 22:49:10 unknown OsuLegacy[552] <Warning>: OSU boot: managed startup returned to UIKit
+Wed Dec 31 22:49:17 unknown OsuLegacy[552] <Warning>: OSU text x=14 y=8 size=16 rgb=0.96,0.95,1
+Wed Dec 31 22:49:17 unknown OsuLegacy[552] <Warning>: OSU text x=93 y=12 size=10 rgb=0.71,0.67,0.77
+Wed Dec 31 22:49:17 unknown OsuLegacy[552] <Warning>: OSU text x=376 y=8.5 size=13 rgb=0.96,0.95,1
+Wed Dec 31 23:03:47 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:03:47 unknown lockdownd[21] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 23:03:47 unknown lockdownd[21] <Error>: 00486000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:03:47 unknown lockdownd[21] <Error>: 00486000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:03:47 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:03:47 unknown lockdownd[21] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 23:03:47 unknown lockdownd[21] <Error>: 00486000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:03:47 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of messageCould not receive size of messageCould not receive size of message
+Wed Dec 31 23:03:48 unknown securityd[553] <Notice>: MS:Notice: Injecting: (null) [securityd] (550.52)
+Wed Dec 31 23:04:10 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #4 from iFunBox. Killing connection
+Wed Dec 31 23:04:10 unknown com.apple.mobile.lockdown[21] <Notice>: receive secure message timeout!
+Wed Dec 31 23:06:55 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:06:55 unknown lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 23:06:55 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:06:55 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:06:55 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:06:55 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:06:55 unknown lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 23:06:55 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:06:55 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of messageCould not receive size of message
+Wed Dec 31 23:06:55 unknown securityd[558] <Notice>: MS:Notice: Injecting: (null) [securityd] (550.52)
+Wed Dec 31 23:06:56 unknown installd[563] <Notice>: MS:Notice: Injecting: (null) [installd] (550.52)
+Wed Dec 31 23:06:57 unknown installd[563] <Error>: 3e1b38b8 check_freshness: sb.st_mtime = 39317 reference_mtime = 13745
+Wed Dec 31 23:06:57 unknown installd[563] <Error>: 3e1b38b8 check_stale_maps: /Applications appears stale
+Wed Dec 31 23:06:59 unknown SpringBoard[29] <Warning>: Reloading and rendering all application icons.
+Wed Dec 31 23:06:59 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:06:59 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #5 from iFunBox. Killing connection
+Wed Dec 31 23:07:00 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:00 unknown lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 23:07:00 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:00 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:00 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:00 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:00 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:00 unknown lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 23:07:00 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:00 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:02 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #5 from iFunBox. Killing connection
+Wed Dec 31 23:07:02 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:02 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:02 unknown lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 23:07:02 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:02 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:02 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:02 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:02 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:02 unknown lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 23:07:02 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:02 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:04 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #5 from iFunBox. Killing connection
+Wed Dec 31 23:07:04 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:04 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:04 unknown lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 23:07:04 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:04 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:04 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:04 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:04 unknown lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 23:07:04 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:04 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:04 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:05 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:05 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #5 from iFunBox. Killing connection
+Wed Dec 31 23:07:05 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:05 unknown lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 23:07:05 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:05 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:05 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:05 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:05 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:05 unknown lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 23:07:05 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:05 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:07 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:07 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #5 from iFunBox. Killing connection
+Wed Dec 31 23:07:07 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:07 unknown lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 23:07:07 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:07 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:07 unknown lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 23:07:07 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of messageCould not receive size of messageCould not receive size of message
+Wed Dec 31 23:07:07 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:07 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:08 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:08 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #5 from iFunBox. Killing connection
+Wed Dec 31 23:07:08 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:08 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:08 unknown lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 23:07:08 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:09 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:09 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:09 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:09 unknown lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 23:07:09 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:07:09 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:07:30 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #4 from iFunBox. Killing connection
+Wed Dec 31 23:07:30 unknown com.apple.mobile.lockdown[21] <Notice>: receive secure message timeout!
+Wed Dec 31 23:08:16 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:08:16 unknown lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 23:08:16 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:08:16 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:08:16 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:08:16 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:08:16 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:08:16 unknown lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 23:08:16 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:08:16 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Wed Dec 31 23:08:16 unknown securityd[571] <Notice>: MS:Notice: Injecting: (null) [securityd] (550.52)
+Wed Dec 31 23:08:18 unknown installd[576] <Notice>: MS:Notice: Injecting: (null) [installd] (550.52)
+Wed Dec 31 23:08:19 unknown installd[576] <Error>: 3e1b38b8 check_freshness: sb.st_mtime = 39317 reference_mtime = 14818
+Wed Dec 31 23:08:19 unknown installd[576] <Error>: 3e1b38b8 check_stale_maps: /Applications appears stale
+Wed Dec 31 23:08:20 unknown SpringBoard[29] <Warning>: Reloading and rendering all application icons.
+Wed Dec 31 23:08:33 unknown kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+Wed Dec 31 23:08:33 unknown kernel[0] <Debug>: AppleD1759PMUPowerSource: AppleUSBCableDetect 0
+Wed Dec 31 23:08:33 unknown kernel[0] <Debug>: AppleD1759PMUPowerSource: AppleUSBCableType Detached
+Wed Dec 31 23:08:33 unknown kernel[0] <Debug>: AppleEmbeddedUSBArbitrator::handleUSBCableTypeChange : USB cable detached
+Wed Dec 31 23:08:33 unknown kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBCableDisconnect
+Wed Dec 31 23:08:33 unknown kernel[0] <Debug>: virtual IOReturn AppleUSBDeviceMux::message(UInt32, IOService*, void*) - kMessageInterfaceWasDeActivated
+Wed Dec 31 23:08:33 unknown kernel[0] <Debug>: AppleUSBDeviceMux::reportStats: USB mux statistics: 
+Wed Dec 31 23:08:33 unknown kernel[0] <Debug>: USB mux: 4917 reads / 0 errors, 3425 writes / 0 errors
+Wed Dec 31 23:08:33 unknown kernel[0] <Debug>: USB mux: 0 short packets, 0 dups
+Wed Dec 31 23:08:33 unknown kernel[0] <Debug>: AppleEmbeddedUSBArbitrator::enableDeviceClock : enable: 0, index: 0
+Wed Dec 31 23:08:33 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #4 from iFunBox. Killing connection
+Wed Dec 31 23:08:33 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:08:33 unknown /usr/libexec/notification_proxy[525] <Error>: Could not receive size of message: 0 Invalid argument
+Wed Dec 31 23:08:33 unknown /usr/libexec/notification_proxy[525] <Error>: Could not receive message
+Wed Dec 31 23:08:33 unknown /usr/libexec/notification_proxy[521] <Error>: Could not receive size of message: 0 Invalid argument
+Wed Dec 31 23:08:33 unknown /usr/libexec/notification_proxy[521] <Error>: Could not receive message
+Wed Dec 31 23:08:33 unknown configd[27] <Debug>: usbeth_handle_pairing_notification:838 Host is not trusted
+Wed Dec 31 23:08:33 unknown kernel[0] <Debug>: AppleS5L8720XUSBPhy::powerDown : _powered: 1
+Wed Dec 31 23:08:33 unknown /usr/libexec/ptpd[523] <Notice>: PTP interface has been deactivated.
+Wed Dec 31 23:08:35 unknown mDNSResponder[24] <Error>: mDNSPlatformSetDNSConfig: Error: dns_configuration_copy returned NULL
+Wed Dec 31 23:08:39 unknown kernel[0] <Debug>: AppleD1759PMUPowerSource: AppleUSBCableDetect 1
+Wed Dec 31 23:08:39 unknown kernel[0] <Debug>: AppleD1759PMUPowerSource: AppleUSBCableType USBHost
+Wed Dec 31 23:08:39 unknown kernel[0] <Debug>: AppleEmbeddedUSBArbitrator::handleUSBCableTypeChange : Connected to a USB host, entering device mode
+Wed Dec 31 23:08:39 unknown kernel[0] <Debug>: AppleS5L8720XUSBPhy::powerUp : _powered: 0
+Wed Dec 31 23:08:39 unknown kernel[0] <Debug>: AppleEmbeddedUSBArbitrator::enableDeviceClock : enable: 1, index: 0
+Wed Dec 31 23:08:39 unknown kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBReset
+Wed Dec 31 23:08:39 unknown kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBReset
+Wed Dec 31 23:08:39 unknown kernel[0] <Debug>: AppleSynopsysOTGDevice::stallBadSetupRequest request: 80 06 0f00 0000 0005
+Wed Dec 31 23:08:39 unknown kernel[0] <Debug>: AppleSynopsysOTGDevice::stallBadSetupRequest request: 80 06 0f00 0000 0005
+Wed Dec 31 23:08:39 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from usbmuxd. Killing connection
+Wed Dec 31 23:08:39 unknown lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 23:08:39 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from usbmuxd. Killing connection
+Wed Dec 31 23:08:39 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from usbmuxd. Killing connection
+Wed Dec 31 23:08:39 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of messageCould not receive size of messageCould not receive size of messageCould not receive size of message
+Wed Dec 31 23:08:39 unknown lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 23:08:39 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from usbmuxd. Killing connection
+Wed Dec 31 23:08:39 unknown /usr/libexec/ptpd[523] <Notice>: PTP interface has been activated at high speed.
+Wed Dec 31 23:08:39 unknown securityd[578] <Notice>: MS:Notice: Injecting: (null) [securityd] (550.52)
+Wed Dec 31 23:08:40 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:08:40 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #3 from usbmuxd. Killing connection
+Wed Dec 31 23:08:41 unknown mDNSResponder[24] <Error>: mDNSPlatformSetDNSConfig: Error: dns_configuration_copy returned NULL
+Wed Dec 31 23:08:41 unknown lockdownd[21] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 23:08:41 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 23:08:41 unknown lockdownd[21] <Error>: 00486000 handle_connection: Could not receive USB message #4 from Safari. Killing connection
+Wed Dec 31 23:08:41 unknown configd[27] <Debug>: usbeth_handle_pairing_notification:838 Host is trusted
+
+Wed Dec 31 23:08:41 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:41 iPod-touch lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #8 from idevicesyslog. Killing connection
+
+
+Wed Dec 31 23:08:41 iPod-touch lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Wed Dec 31 23:08:42 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+> 
+Wed Dec 31 23:08:43 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:43 iPod-touch lockdownd[21] <Error>: 00486000 handle_connection: Could not receive USB message #8 from idevicesyslog. Killing connection
+
+
+Wed Dec 31 23:08:43 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:43 iPod-touch lockdownd[21] <Error>: 00486000 handle_connection: Could not receive USB message #2 from unknown. Killing connection
+
+
+Wed Dec 31 23:08:43 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:43 iPod-touch lockdownd[21] <Error>: 00486000 handle_connection: Could not receive USB message #2 from unknown. Killing connection
+
+
+Wed Dec 31 23:08:43 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:43 iPod-touch lockdownd[21] <Error>: 00486000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Wed Dec 31 23:08:43 iPod-touch lockdownd[21] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:43 iPod-touch lockdownd[21] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from remotepairingd. Killing connection
+
+
+Wed Dec 31 23:08:43 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of messageCould not receive size of message
+
+
+Wed Dec 31 23:08:43 iPod-touch lockdownd[21] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Wed Dec 31 23:08:43 iPod-touch lockdownd[21] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Wed Dec 31 23:08:43 iPod-touch lockdownd[21] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:43 iPod-touch lockdownd[21] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Wed Dec 31 23:08:43 iPod-touch lockdownd[21] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Wed Dec 31 23:08:43 iPod-touch lockdownd[21] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Wed Dec 31 23:08:43 iPod-touch lockdownd[21] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:43 iPod-touch lockdownd[21] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from remotepairingd. Killing connection
+
+
+Wed Dec 31 23:08:43 iPod-touch lockdownd[21] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:43 iPod-touch lockdownd[21] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Wed Dec 31 23:08:43 iPod-touch lockdownd[21] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:43 iPod-touch lockdownd[21] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Wed Dec 31 23:08:43 iPod-touch lockdownd[21] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Wed Dec 31 23:08:43 iPod-touch lockdownd[21] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:43 iPod-touch lockdownd[21] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Wed Dec 31 23:08:43 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:43 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:43 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:43 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:43 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:43 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:43 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:43 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of messageCould not receive size of message
+
+
+Wed Dec 31 23:08:43 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:43 iPod-touch lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #8 from idevicesyslog. Killing connection
+
+
+Wed Dec 31 23:08:43 iPod-touch lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from remotepairingd. Killing connection
+
+
+Wed Dec 31 23:08:43 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:44 iPod-touch lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:44 iPod-touch lockdownd[21] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:44 iPod-touch lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Wed Dec 31 23:08:44 iPod-touch lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:44 iPod-touch lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Wed Dec 31 23:08:44 iPod-touch lockdownd[21] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Wed Dec 31 23:08:44 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:44 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:44 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:44 iPod-touch lockdownd[21] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:44 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:44 iPod-touch lockdownd[21] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Wed Dec 31 23:08:44 iPod-touch lockdownd[21] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:44 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:44 iPod-touch lockdownd[21] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from remotepairingd. Killing connection
+
+
+Wed Dec 31 23:08:44 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:44 iPod-touch lockdownd[21] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Wed Dec 31 23:08:44 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:44 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:44 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:44 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:44 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:44 iPod-touch lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Wed Dec 31 23:08:44 iPod-touch lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Wed Dec 31 23:08:44 iPod-touch lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:44 iPod-touch lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Wed Dec 31 23:08:44 iPod-touch lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:44 iPod-touch lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Wed Dec 31 23:08:44 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:44 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:44 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:44 iPod-touch lockdownd[21] <Error>: 0068e000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:44 iPod-touch lockdownd[21] <Error>: 0068e000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Wed Dec 31 23:08:44 iPod-touch lockdownd[21] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Wed Dec 31 23:08:44 iPod-touch lockdownd[21] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:44 iPod-touch lockdownd[21] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Wed Dec 31 23:08:44 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of messageCould not receive size of message
+
+
+Wed Dec 31 23:08:44 iPod-touch lockdownd[21] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Wed Dec 31 23:08:44 iPod-touch lockdownd[21] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:44 iPod-touch lockdownd[21] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Wed Dec 31 23:08:44 iPod-touch lockdownd[21] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Wed Dec 31 23:08:44 iPod-touch lockdownd[21] <Error>: 0068e000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:44 iPod-touch lockdownd[21] <Error>: 0068e000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Wed Dec 31 23:08:44 iPod-touch lockdownd[21] <Error>: 0068e000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Wed Dec 31 23:08:44 iPod-touch lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:45 iPod-touch lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Wed Dec 31 23:08:45 iPod-touch lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:45 iPod-touch lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Wed Dec 31 23:08:45 iPod-touch lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Wed Dec 31 23:08:45 iPod-touch lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:45 iPod-touch lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Wed Dec 31 23:08:45 iPod-touch lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:45 iPod-touch lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Wed Dec 31 23:08:45 iPod-touch lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:45 iPod-touch lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Wed Dec 31 23:08:45 iPod-touch lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:45 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of messageCould not receive size of messageCould not receive size of messageCould not receive size of messageCould not receive size of messageCould not receive size of messageCould not receive size of messageCould not receive size of message
+
+
+Wed Dec 31 23:08:45 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:45 iPod-touch lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Wed Dec 31 23:08:45 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:45 iPod-touch lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Wed Dec 31 23:08:45 iPod-touch lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:45 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:45 iPod-touch lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Wed Dec 31 23:08:45 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:45 iPod-touch lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Wed Dec 31 23:08:45 iPod-touch lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:45 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:45 iPod-touch lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Wed Dec 31 23:08:45 iPod-touch lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:45 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:45 iPod-touch lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Wed Dec 31 23:08:45 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:45 iPod-touch lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Wed Dec 31 23:08:45 iPod-touch lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:45 iPod-touch lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Wed Dec 31 23:08:45 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:45 iPod-touch lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:45 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:45 iPod-touch lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Wed Dec 31 23:08:45 iPod-touch lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:45 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:45 iPod-touch lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Wed Dec 31 23:08:45 iPod-touch lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:45 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:45 iPod-touch lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Wed Dec 31 23:08:45 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:45 iPod-touch lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Wed Dec 31 23:08:45 iPod-touch lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:45 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:45 iPod-touch lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Wed Dec 31 23:08:45 iPod-touch lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:45 iPod-touch lockdownd[21] <Error>: 0068e000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Wed Dec 31 23:08:45 iPod-touch lockdownd[21] <Error>: 0068e000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:46 iPod-touch lockdownd[21] <Error>: 0068e000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Wed Dec 31 23:08:46 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of messageCould not receive size of message
+
+
+Wed Dec 31 23:08:46 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:46 iPod-touch lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Wed Dec 31 23:08:47 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:47 iPod-touch lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #5 from remotepairingd. Killing connection
+
+
+Wed Dec 31 23:08:47 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:47 iPod-touch lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Wed Dec 31 23:08:47 iPod-touch lockdownd[21] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:47 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:47 iPod-touch lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Wed Dec 31 23:08:47 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:47 iPod-touch lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Wed Dec 31 23:08:47 iPod-touch lockdownd[21] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:47 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:47 iPod-touch lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Wed Dec 31 23:08:48 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:48 iPod-touch lockdownd[21] <Error>: 00486000 handle_connection: Could not receive USB message #15 from Safari. Killing connection
+
+
+Wed Dec 31 23:08:48 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:48 iPod-touch lockdownd[21] <Error>: 00486000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Wed Dec 31 23:08:48 iPod-touch lockdownd[21] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:49 iPod-touch lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Wed Dec 31 23:08:49 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:49 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:49 iPod-touch lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Wed Dec 31 23:08:49 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:49 iPod-touch lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Wed Dec 31 23:08:49 iPod-touch lockdownd[21] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:49 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:49 iPod-touch lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Wed Dec 31 23:08:49 iPod-touch lockdownd[21] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:49 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:49 iPod-touch lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Wed Dec 31 23:08:49 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:49 iPod-touch lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Wed Dec 31 23:08:49 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:49 iPod-touch lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Wed Dec 31 23:08:49 iPod-touch lockdownd[21] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:49 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:49 iPod-touch lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Wed Dec 31 23:08:49 iPod-touch lockdownd[21] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:49 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:49 iPod-touch lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Wed Dec 31 23:08:49 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:49 iPod-touch lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Wed Dec 31 23:08:49 iPod-touch lockdownd[21] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:49 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:49 iPod-touch lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Wed Dec 31 23:08:51 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:51 iPod-touch lockdownd[21] <Error>: 0058a000 handle_connection: Could not receive USB message #21 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Wed Dec 31 23:08:51 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:51 iPod-touch lockdownd[21] <Error>: 00486000 handle_connection: Could not receive USB message #5 from Safari. Killing connection
+
+
+Wed Dec 31 23:08:51 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:51 iPod-touch lockdownd[21] <Error>: 00486000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Wed Dec 31 23:08:51 iPod-touch lockdownd[21] <Error>: 2ff68000 spawn_service_agent: Could not look up service in the map
+
+
+Wed Dec 31 23:08:51 iPod-touch lockdownd[21] <Error>: 2ff68000 spawn_and_handle_checkin: Could not spawn the com.apple.afc2 service agent:InvalidService 
+
+
+Wed Dec 31 23:08:51 iPod-touch lockdownd[21] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:51 iPod-touch lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Wed Dec 31 23:08:51 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:51 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:51 iPod-touch lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Wed Dec 31 23:08:51 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:51 iPod-touch lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Wed Dec 31 23:08:51 iPod-touch lockdownd[21] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:51 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:51 iPod-touch lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Wed Dec 31 23:08:51 iPod-touch lockdownd[21] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:51 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:51 iPod-touch lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Wed Dec 31 23:08:51 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:51 iPod-touch lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Wed Dec 31 23:08:51 iPod-touch lockdownd[21] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:51 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:51 iPod-touch lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Wed Dec 31 23:08:52 iPod-touch lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #14 from iFunBox. Killing connection
+
+
+Wed Dec 31 23:08:52 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:52 iPod-touch lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Wed Dec 31 23:08:52 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:52 iPod-touch lockdownd[21] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:52 iPod-touch lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Wed Dec 31 23:08:52 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:52 iPod-touch lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Wed Dec 31 23:08:52 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:52 iPod-touch lockdownd[21] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:52 iPod-touch lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Wed Dec 31 23:08:52 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:53 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:53 iPod-touch lockdownd[21] <Error>: 00486000 handle_connection: Could not receive USB message #5 from Safari. Killing connection
+
+
+Wed Dec 31 23:08:53 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:53 iPod-touch lockdownd[21] <Error>: 00486000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Wed Dec 31 23:08:54 iPod-touch lockdownd[21] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:54 iPod-touch lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Wed Dec 31 23:08:54 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:54 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:54 iPod-touch lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Wed Dec 31 23:08:54 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:54 iPod-touch lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Wed Dec 31 23:08:54 iPod-touch lockdownd[21] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:54 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:54 iPod-touch lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Wed Dec 31 23:08:54 iPod-touch lockdownd[21] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:54 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:54 iPod-touch lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Wed Dec 31 23:08:54 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:54 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:54 iPod-touch lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Wed Dec 31 23:08:54 iPod-touch lockdownd[21] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:54 iPod-touch lockdownd[21] <Error>: 00508000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Wed Dec 31 23:08:55 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:55 iPod-touch lockdownd[21] <Error>: 0058a000 handle_connection: Could not receive USB message #7 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Wed Dec 31 23:08:55 iPod-touch lockdownd[21] <Error>: 0058a000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:55 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:55 iPod-touch lockdownd[21] <Error>: 0058a000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Wed Dec 31 23:08:55 iPod-touch lockdownd[21] <Error>: 0058a000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:55 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:55 iPod-touch lockdownd[21] <Error>: 0058a000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Wed Dec 31 23:08:56 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:56 iPod-touch lockdownd[21] <Error>: 0058a000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Wed Dec 31 23:08:56 iPod-touch lockdownd[21] <Error>: 0058a000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:56 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:56 iPod-touch lockdownd[21] <Error>: 0058a000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Wed Dec 31 23:08:56 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:56 iPod-touch lockdownd[21] <Error>: 00486000 handle_connection: Could not receive USB message #5 from Safari. Killing connection
+
+
+Wed Dec 31 23:08:56 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:56 iPod-touch lockdownd[21] <Error>: 0058a000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Wed Dec 31 23:08:56 iPod-touch lockdownd[21] <Error>: 0058a000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:56 iPod-touch lockdownd[21] <Error>: 0058a000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Wed Dec 31 23:08:56 iPod-touch lockdownd[21] <Error>: 0058a000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Wed Dec 31 23:08:56 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:56 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:56 iPod-touch lockdownd[21] <Error>: 0058a000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:56 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:56 iPod-touch lockdownd[21] <Error>: 0058a000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Wed Dec 31 23:08:57 iPod-touch lockdownd[21] <Error>: 00486000 spawn_service_agent: Could not look up service in the map
+
+
+Wed Dec 31 23:08:57 iPod-touch lockdownd[21] <Error>: 00486000 spawn_and_handle_checkin: Could not spawn the com.apple.webinspector service agent:InvalidService 
+
+
+Wed Dec 31 23:08:57 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:57 iPod-touch lockdownd[21] <Error>: 00486000 handle_connection: Could not receive USB message #5 from Safari. Killing connection
+
+
+Wed Dec 31 23:08:57 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:57 iPod-touch lockdownd[21] <Error>: 0058a000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Wed Dec 31 23:08:57 iPod-touch lockdownd[21] <Error>: 0058a000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:57 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:57 iPod-touch lockdownd[21] <Error>: 0058a000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Wed Dec 31 23:08:57 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:57 iPod-touch lockdownd[21] <Error>: 0058a000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Wed Dec 31 23:08:57 iPod-touch lockdownd[21] <Error>: 0058a000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:57 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:57 iPod-touch lockdownd[21] <Error>: 0058a000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Wed Dec 31 23:08:58 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:58 iPod-touch lockdownd[21] <Error>: 00486000 handle_connection: Could not receive USB message #5 from Safari. Killing connection
+
+
+Wed Dec 31 23:08:58 iPod-touch lockdownd[21] <Error>: 0058a000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Wed Dec 31 23:08:58 iPod-touch lockdownd[21] <Error>: 0058a000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:58 iPod-touch lockdownd[21] <Error>: 0058a000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Wed Dec 31 23:08:58 iPod-touch lockdownd[21] <Error>: 0058a000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Wed Dec 31 23:08:58 iPod-touch lockdownd[21] <Error>: 0058a000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:08:58 iPod-touch lockdownd[21] <Error>: 0058a000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Wed Dec 31 23:08:58 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of messageCould not receive size of messageCould not receive size of messageCould not receive size of message
+
+
+Wed Dec 31 23:08:59 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:08:59 iPod-touch lockdownd[21] <Error>: 00486000 handle_connection: Could not receive USB message #5 from Safari. Killing connection
+
+
+Wed Dec 31 23:09:14 iPod-touch lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #4 from iFunBox. Killing connection
+
+
+Wed Dec 31 23:09:14 iPod-touch com.apple.mobile.lockdown[21] <Notice>: receive secure message timeout!
+
+
+Wed Dec 31 23:09:33 iPod-touch lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Wed Dec 31 23:09:33 iPod-touch lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:09:33 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:09:33 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:09:33 iPod-touch lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Wed Dec 31 23:09:33 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:09:33 iPod-touch lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Wed Dec 31 23:09:33 iPod-touch lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:09:33 iPod-touch lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Wed Dec 31 23:09:33 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:09:33 iPod-touch securityd[588] <Notice>: MS:Notice: Injecting: (null) [securityd] (550.52)
+
+
+Wed Dec 31 23:09:37 iPod-touch lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #5 from iFunBox. Killing connection
+
+
+Wed Dec 31 23:09:37 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:09:37 iPod-touch lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Wed Dec 31 23:09:37 iPod-touch lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:09:37 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:09:37 iPod-touch lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Wed Dec 31 23:09:37 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:09:37 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:09:37 iPod-touch lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Wed Dec 31 23:09:37 iPod-touch lockdownd[21] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+
+
+Wed Dec 31 23:09:37 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:09:37 iPod-touch lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Wed Dec 31 23:09:38 iPod-touch lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Wed Dec 31 23:09:38 iPod-touch com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+
+
+Wed Dec 31 23:09:38 iPod-touch mobile_house_arrest[593] <Error>: Starting service with bag=77e3e0ede6489091ebb7b66299386088860203ae
+
+
+Wed Dec 31 23:09:39 iPod-touch kernel[0] <Debug>: AppleKeyStore:cp_key_store_action(1)
+
+
+Wed Dec 31 23:09:55 iPod-touch UIKitApplication:org.osu.legacy.experimental[0x99e4][552] <Notice>: OSU archive: extracted 5 entries, 2221739 bytes
+
+
+Wed Dec 31 23:09:59 iPod-touch lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #4 from iFunBox. Killing connection
+
+
+Wed Dec 31 23:09:59 iPod-touch com.apple.mobile.lockdown[21] <Notice>: receive secure message timeout!
+
+
+Wed Dec 31 23:13:09 iPod-touch Loopback[594] <Notice>: MS:Notice: Injecting: com.wolf.loopback [Loopback] (550.52)
+
+
+Wed Dec 31 23:13:11 iPod-touch Loopback[594] <Warning>: LoopbackUAC:
+	IOKit USB gadget:
+	AppleSynopsysOTGCore: absent
+	AppleSynopsysOTGDevice: present
+	AppleSynopsysOTGHost: absent
+	IOUSBDeviceController: present
+	IOUSBDeviceInterface: present
+	AppleUSBMike: present
+	AppleCS42L58Audio: present
+	AppleS5L8900XI2SController: absent
+	AppleARMPL192VIC: present
+	name 'usb-otg': absent
+	name 'vic': present
+	DT usb-otg: absent
+	IOUSBDeviceControllerCreate: 0x0 ok
+	  iface0=PTP
+	  iface1=USBAudioControl
+	  iface2=USBAudioStreaming
+	  iface3=IapOverUsbHid
+	  iface4=AppleUSBMux
+	/dev/mem no  /dev/uac0 no
+	kext /Library/Extensions  not loaded
+	uid 501 euid 501
+	/Applications/Loopback.app/Loopback
+	Gadget keeps Apple VID 0x05AC so usbmuxd binds. USBAudioStreaming is capture-only on this stack and is not advertised.
+
+
+Wed Dec 31 23:13:11 iPod-touch configd[27] <Debug>: CaptiveNetworkSupport:UIAllowedNotifyCallback:70 uiallowed: true
+
+
+Wed Dec 31 23:13:13 iPod-touch mediaserverd[23] <Warning>: 23:13:13.852 <SystemSoundServer> WARNING translating CMSession error: -12985 
+
+
+Wed Dec 31 23:13:26 iPod-touch configd[27] <Debug>: CaptiveNetworkSupport:UIAllowedNotifyCallback:70 uiallowed: false
+
+
+Wed Dec 31 23:13:27 iPod-touch OsuLegacy[595] <Notice>: MS:Notice: Injecting: org.osu.legacy.experimental [OsuLegacy] (550.52)
+
+
+Wed Dec 31 23:13:28 iPod-touch kernel[0] <Debug>: punchd[595] Builtin profile: container (sandbox)
+
+
+Wed Dec 31 23:13:28 iPod-touch kernel[0] <Debug>: punchd[595] Container: /private/var/mobile/Applications/4DECC22B-EA89-40EF-9124-D65B3BAE3E41 [69] (sandbox)
+
+
+Wed Dec 31 23:13:28 iPod-touch OsuLegacy[595] <Warning>: OSU UI: landscape canvas 480x320, view 320x480
+
+
+Wed Dec 31 23:13:28 iPod-touch OsuLegacy[595] <Warning>: OSU boot: initializing embedded Mono after native launch
+
+
+Wed Dec 31 23:13:29 iPod-touch OsuLegacy[595] <Warning>: OSU checkpoint: managed entry reached native bundle binding
+
+
+Wed Dec 31 23:13:30 iPod-touch OsuLegacy[595] <Warning>: OSU boot: managed callbacks registered
+
+
+Wed Dec 31 23:13:30 iPod-touch OsuLegacy[595] <Warning>: OSU boot: managed startup returned to UIKit
+
+
+Wed Dec 31 23:13:36 iPod-touch OsuLegacy[595] <Warning>: OSU text x=14 y=8 size=16 rgb=0.96,0.95,1
+
+
+Wed Dec 31 23:13:36 iPod-touch OsuLegacy[595] <Warning>: OSU text x=93 y=12 size=10 rgb=0.71,0.67,0.77
+
+
+Wed Dec 31 23:13:36 iPod-touch OsuLegacy[595] <Warning>: OSU text x=376 y=8.5 size=13 rgb=0.96,0.95,1
+
+[disconnected:f7f4c5236445e3e001f9834aa63367fd56cdf871]

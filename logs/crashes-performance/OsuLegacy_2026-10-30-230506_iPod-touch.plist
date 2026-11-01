@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AutoSubmitted</key>
+	<true/>
+	<key>SysInfoCrashReporterKey</key>
+	<string>025978efb17add2bfb0133704387fc3b1c04bf3d</string>
+	<key>bug_type</key>
+	<string>109</string>
+	<key>description</key>
+	<string>Incident Identifier: 7517DA42-2843-4843-BCCF-F990265B0A8B
+CrashReporter Key:   025978efb17add2bfb0133704387fc3b1c04bf3d
+Hardware Model:      iPod2,1
+Process:         OsuLegacy [1240]
+Path:            /var/mobile/Applications/6C69A9B9-5595-4D16-9BEA-BE5D71837631/OsuLegacy.app/OsuLegacy
+Identifier:      OsuLegacy
+Version:         ??? (???)
+Code Type:       ARM (Native)
+Parent Process:  punchd [1]
+
+Date/Time:       2026-10-30 23:05:06.208 -0400
+OS Version:      iPhone OS 4.2.1 (8C148)
+Report Version:  104
+
+Exception Type:  EXC_BAD_ACCESS (SIGSEGV)
+Exception Codes: KERN_PROTECTION_FAILURE at 0x2fd00ff8
+Highlighted Thread:  0
+
+Error Formulating Crash Report:
+Called memoryAtAddress: 0x3f78000, which is in an unmappable portion of [0x0 -&gt; 0xffffffffffffffff] in PID# 1240.
+0x35f08c69
+0x30186ee8
+0x351cf808
+0x351c8410
+0x351c7af8
+0x351c7b5c
+0x351e0534
+0x351e0214
+0x351da9c8
+0x351daaac
+0x00009300
+0x0000bd7c
+0x0000d10c
+0x0000cea4
+0x32d326a4
+0x0000cc08
+0x32d27b4c
+0x32d197ac
+
+Backtrace not available
+
+Unknown thread crashed with ARM Thread State:
+    r0: 0x040593a0    r1: 0x00000000      r2: 0x001cabd4      r3: 0x41c84ac9
+    r4: 0x2fdfd87c    r5: 0x0083f660      r6: 0x0083b3e0      r7: 0x2fd01088
+    r8: 0x7600c688    r9: 0x00000000     r10: 0x40f7e6d3     r11: 0x2fd010d0
+    ip: 0x000e0cbc    sp: 0x2fd01000      lr: 0x03ac3c50      pc: 0x000e0cbc
+  cpsr: 0x600a0010
+
+Binary images description not available
+
+</string>
+	<key>displayName</key>
+	<string>OsuLegacy</string>
+	<key>name</key>
+	<string>OsuLegacy</string>
+	<key>os_version</key>
+	<string>iPhone OS 4.2.1 (8C148)</string>
+	<key>system_ID</key>
+	<string></string>
+	<key>version</key>
+	<string>??? (???)</string>
+</dict>
+</plist>

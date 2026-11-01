@@ -1,0 +1,619 @@
+[connected:f7f4c5236445e3e001f9834aa63367fd56cdf871]
+
+========================
+ASL is here to serve you
+> 
+
+Wed Dec 31 20:18:48 unknown lockdownd[21] <Error>: 2ff68000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 20:18:48 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 20:18:48 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Wed Dec 31 20:18:48 unknown lockdownd[21] <Error>: 2ff68000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 20:18:48 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 20:18:48 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Wed Dec 31 20:18:48 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 20:18:48 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Wed Dec 31 20:18:48 unknown lockdownd[21] <Error>: 2ff68000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 20:18:48 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 20:18:48 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Wed Dec 31 20:18:49 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 20:18:49 unknown lockdownd[21] <Error>: 0060c000 handle_connection: Could not receive USB message #5 from Safari. Killing connection
+Wed Dec 31 20:18:49 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Wed Dec 31 20:18:49 unknown lockdownd[21] <Error>: 2ff68000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 20:18:49 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Wed Dec 31 20:18:49 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of messageCould not receive size of message
+Wed Dec 31 20:18:49 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 20:18:49 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Wed Dec 31 20:18:49 unknown lockdownd[21] <Error>: 2ff68000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 20:18:49 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 20:18:49 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Wed Dec 31 20:18:49 unknown apsd[142] <Notice>: MS:Notice: Injecting: com.apple.aps.framework [apsd] (550.52)
+Wed Dec 31 20:18:50 unknown kernel[0] <Debug>: punchd[143] Builtin profile: apsd (sandbox)
+Wed Dec 31 20:18:50 unknown kernel[0] <Debug>: punchd[142] Builtin profile: apsd (sandbox)
+Wed Dec 31 20:18:50 unknown lockdownd[21] <Error>: 0060c000 spawn_service_agent: Could not look up service in the map
+Wed Dec 31 20:18:50 unknown lockdownd[21] <Error>: 0060c000 spawn_and_handle_checkin: Could not spawn the com.apple.webinspector service agent:InvalidService 
+Wed Dec 31 20:18:50 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 20:18:50 unknown lockdownd[21] <Error>: 0060c000 handle_connection: Could not receive USB message #5 from Safari. Killing connection
+Wed Dec 31 20:18:50 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Wed Dec 31 20:18:50 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 20:18:50 unknown lockdownd[21] <Error>: 2ff68000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 20:18:50 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Wed Dec 31 20:18:50 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Wed Dec 31 20:18:50 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of messageCould not receive size of message
+Wed Dec 31 20:18:50 unknown lockdownd[21] <Error>: 2ff68000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 20:18:50 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Wed Dec 31 20:18:50 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 20:18:50 unknown lsd[144] <Notice>: MS:Notice: Injecting: (null) [lsd] (550.52)
+Wed Dec 31 20:18:51 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 20:18:51 unknown lockdownd[21] <Error>: 0060c000 handle_connection: Could not receive USB message #5 from Safari. Killing connection
+Wed Dec 31 20:18:51 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 20:18:51 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 20:18:51 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 20:18:51 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 20:18:51 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Wed Dec 31 20:18:51 unknown lockdownd[21] <Error>: 2ff68000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 20:18:51 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Wed Dec 31 20:18:51 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Wed Dec 31 20:18:51 unknown lockdownd[21] <Error>: 2ff68000 set_response_error: handle_get_value GetProhibited
+Wed Dec 31 20:18:51 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Wed Dec 31 20:18:52 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 20:18:52 unknown lockdownd[21] <Error>: 0060c000 handle_connection: Could not receive USB message #5 from Safari. Killing connection
+Wed Dec 31 20:19:02 unknown locationd[146] <Notice>: MS:Notice: Injecting: (null) [locationd] (550.52)
+Wed Dec 31 20:19:03 unknown SpringBoard[29] <Error>: spd:_spd_initialize_communication:112 bootstrap_look_up(): 1102
+Wed Dec 31 20:19:03 unknown SpringBoard[29] <Error>: spd:_libspd_initialize_protocol:151 Initializing communication with spd failed
+Wed Dec 31 20:19:03 unknown SpringBoard[29] <Error>: spd:spd_register_for_notifications:317 Failure to setup spd registration
+Wed Dec 31 20:19:03 unknown misd[30] <Debug>: attached to SpringBoard (0x120e60, port 0x3d17)
+Wed Dec 31 20:19:03 unknown misd[30] <Debug>: detached from SpringBoard (0x120e60, port 0x120ea0)
+Wed Dec 31 20:19:03 unknown misd[30] <Debug>: no clients left; resuming idle timer
+Wed Dec 31 20:19:03 unknown SpringBoard[29] <Warning>: Received notification that wireless modem state changed. Tethering is now OFF.
+Wed Dec 31 20:19:04 unknown SpringBoard[29] <Warning>: spd error: 1
+Wed Dec 31 20:19:04 unknown SpringBoard[29] <Warning>: BTM: posting notification BluetoothAvailabilityChangedNotification
+Wed Dec 31 20:19:04 unknown SCHelper[148] <Notice>: MS:Notice: Injecting: com.apple.SystemConfiguration [SCHelper] (550.52)
+Wed Dec 31 20:19:04 unknown SpringBoard[29] <Warning>: lockdown says the device is: [Activated], state is 3
+Wed Dec 31 20:19:04 unknown itunesstored[150] <Notice>: MS:Notice: Injecting: com.apple.itunesstored [itunesstored] (550.52)
+Wed Dec 31 20:19:05 unknown configd[27] <Debug>: CaptiveNetworkSupport:UIAllowedNotifyCallback:70 uiallowed: false
+Wed Dec 31 20:19:09 unknown SpringBoard[29] <Notice>: MultitouchHID(22e670) uilock state: 0 -> 1
+Wed Dec 31 20:19:31 unknown profiled[80] <Warning>: profiled|Idled.
+Wed Dec 31 20:19:31 unknown profiled[80] <Warning>: profiled|Service stopping.
+Wed Dec 31 20:19:41 unknown SpringBoard[29] <Notice>: MultitouchHID(22e670) uilock state: 1 -> 0
+Wed Dec 31 20:20:03 unknown misd[30] <Debug>: now quitting (60 sec idle)
+Wed Dec 31 20:20:03 unknown misd[30] <Info>: exit: 0
+Wed Dec 31 20:20:31 unknown kernel[0] <Debug>: punchd[152] Builtin profile: container (sandbox)
+Wed Dec 31 20:20:31 unknown kernel[0] <Debug>: punchd[152] Container: /private/var/mobile/Applications/328F14F6-007A-4814-8AEE-4E91F02C937A [69] (sandbox)
+Wed Dec 31 20:20:31 unknown jetpack[152] <Notice>: MS:Notice: Injecting: com.halfbrick.jetpack [jetpack] (550.52)
+Wed Dec 31 20:20:32 unknown jetpack[152] <Warning>: *** __NSAutoreleaseNoPool(): Object 0x54e790 of class NSCFString autoreleased with no pool in place - just leaking
+Wed Dec 31 20:20:32 unknown jetpack[152] <Warning>: *** __NSAutoreleaseNoPool(): Object 0x54fa90 of class NSCFString autoreleased with no pool in place - just leaking
+Wed Dec 31 20:20:33 unknown com.apple.launchd[1] <Notice>: (UIKitApplication:com.halfbrick.jetpack[0xb143]) Exited: Killed
+Wed Dec 31 20:20:33 unknown SpringBoard[29] <Warning>: Application 'Jetpack' exited abnormally with signal 9: Killed
+Wed Dec 31 20:20:34 unknown Asphalt6[153] <Notice>: MS:Notice: Injecting: com.gameloft.Asphalt6 [Asphalt6] (550.52)
+Wed Dec 31 20:20:35 unknown kernel[0] <Debug>: punchd[153] Builtin profile: container (sandbox)
+Wed Dec 31 20:20:35 unknown kernel[0] <Debug>: punchd[153] Container: /private/var/mobile/Applications/E40F8CA4-4906-4ECC-A90D-25430839A3A8 [69] (sandbox)
+Wed Dec 31 20:20:35 unknown Asphalt6[153] <Warning>: didFinishLaunchingWithOptions
+Wed Dec 31 20:20:35 unknown mediaremoted[154] <Notice>: MS:Notice: Injecting: (null) [mediaremoted] (550.52)
+Wed Dec 31 20:20:36 unknown mediaremoted[154] <Warning>: BTM: attaching to BTServer
+Wed Dec 31 20:20:36 unknown mediaremoted[154] <Warning>: BTM: posting notification BluetoothAvailabilityChangedNotification
+Wed Dec 31 20:20:36 unknown mDNSResponder[24] <Error>: mDNSPlatformSetDNSConfig: Error: dns_configuration_copy returned NULL
+Wed Dec 31 20:20:37 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Wed Dec 31 20:20:37 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : openH264Driver()
+Wed Dec 31 20:20:37 unknown mediaserverd[23] <Notice>: Inside H264DecodeThread : createDecoderThread()
+Wed Dec 31 20:20:37 unknown mediaserverd[23] <Notice>: H264M2VideoDecoder_StartSession() Stream may not be H264LC: 1 or EnableH264OutOfLoopFilter property: 0 is set to false or Resolution is <= 320X240 : 480X272
+Wed Dec 31 20:20:37 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : setH264DriverSession()
+Wed Dec 31 20:20:38 unknown kernel[0] <Debug>: *** AppleM2H264MPDDriver[0x807d8000]::setSessionSettings() called ***
+Wed Dec 31 20:20:38 unknown kernel[0] <Debug>: # AppleM2H264MPDDriver::setSessionSettings():Turning off Post Filtering #
+Wed Dec 31 20:20:39 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is enabled
+Wed Dec 31 20:20:45 unknown mediaserverd[23] <Notice>: Inside H264DecodeThread : destroyDecoderThread()
+Wed Dec 31 20:20:45 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : freeDriverStorage()
+Wed Dec 31 20:20:45 unknown mediaserverd[23] <Notice>: Inside AppleM2H264DriverUserlandInterface : closeH264Driver()
+Wed Dec 31 20:20:45 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Wed Dec 31 20:20:46 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is disabled
+Wed Dec 31 20:20:46 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is disabled
+Wed Dec 31 20:20:46 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Wed Dec 31 20:20:46 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : openH264Driver()
+Wed Dec 31 20:20:46 unknown mediaserverd[23] <Notice>: Inside H264DecodeThread : createDecoderThread()
+Wed Dec 31 20:20:46 unknown mediaserverd[23] <Notice>: H264M2VideoDecoder_StartSession() Stream may not be H264LC: 1 or EnableH264OutOfLoopFilter property: 0 is set to false or Resolution is <= 320X240 : 480X272
+Wed Dec 31 20:20:46 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : setH264DriverSession()
+Wed Dec 31 20:20:47 unknown kernel[0] <Debug>: *** AppleM2H264MPDDriver[0x807d8000]::setSessionSettings() called ***
+Wed Dec 31 20:20:47 unknown kernel[0] <Debug>: # AppleM2H264MPDDriver::setSessionSettings():Turning off Post Filtering #
+Wed Dec 31 20:20:48 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is enabled
+Wed Dec 31 20:20:49 unknown mediaserverd[23] <Notice>: Inside H264DecodeThread : destroyDecoderThread()
+Wed Dec 31 20:20:49 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : freeDriverStorage()
+Wed Dec 31 20:20:49 unknown mediaserverd[23] <Notice>: Inside AppleM2H264DriverUserlandInterface : closeH264Driver()
+Wed Dec 31 20:20:49 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Wed Dec 31 20:20:50 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is disabled
+Wed Dec 31 20:20:52 unknown Asphalt6[153] <Warning>: linkToSend=http://ingameads.gameloft.com/redir/iphoneloading.php?game=ASP6&country=US&lg=FR&ver=1.5.0&d=iPod2,1&f=4.2.1&udid=f7f4c5236445e3e001f9834aa63367fd56cdf871&date_r=2026-02-23_17:05:13&g_ver=1.0.0&dt=1
+Wed Dec 31 20:20:52 unknown Asphalt6[153] <Warning>: sending Game information
+Wed Dec 31 20:20:52 unknown Asphalt6[153] <Warning>: done sending Game information
+Wed Dec 31 20:20:53 unknown MobileMusicPlayer[156] <Notice>: MS:Notice: Injecting: com.apple.mobileipod [MobileMusicPlayer] (550.52)
+Wed Dec 31 20:20:57 unknown UIKitApplication:com.apple.mobileipod[0xae4d][156] <Notice>: cfdcb statusError = -42001
+Wed Dec 31 20:21:00 unknown UIKitApplication:com.apple.mobileipod[0xae4d][156] <Notice>: warning: Could not compile statement ALTER TABLE container ADD COLUMN date_modified INTEGER DEFAULT 0;: duplicate column name: date_modified
+Wed Dec 31 20:22:14 unknown Asphalt6[153] <Warning>: user create
+Wed Dec 31 20:22:54 unknown securityd[157] <Notice>: MS:Notice: Injecting: (null) [securityd] (550.52)
+Wed Dec 31 20:22:55 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #8 from ideviceinfo. Killing connection
+Wed Dec 31 20:22:55 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 20:23:06 unknown securityd[159] <Notice>: MS:Notice: Injecting: (null) [securityd] (550.52)
+Wed Dec 31 20:23:08 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #9 from ideviceinstaller. Killing connection
+Wed Dec 31 20:23:08 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 20:23:10 unknown installd[165] <Notice>: MS:Notice: Injecting: (null) [installd] (550.52)
+Wed Dec 31 20:23:21 unknown launchproxy[167] <Notice>: MS:Notice: Injecting: (null) [launchproxy] (550.52)
+Wed Dec 31 20:23:21 unknown launchproxy[167] <Info>: /usr/libexec/sshd-keygen-wrapper: Connection from: 127.0.0.1 on port: 49281
+Wed Dec 31 20:23:24 unknown sshd[169] <Info>: Connection closed by 127.0.0.1
+Wed Dec 31 20:23:25 unknown installd[165] <Error>: 2ff68000 verify_signer_identity: TDMTANF bypass enabled
+Wed Dec 31 20:23:27 unknown SpringBoard[29] <Warning>: Reloading and rendering all application icons.
+Wed Dec 31 20:23:36 unknown securityd[170] <Notice>: MS:Notice: Injecting: (null) [securityd] (550.52)
+Wed Dec 31 20:23:38 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 20:23:38 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #8 from ideviceinstaller. Killing connection
+Wed Dec 31 20:23:48 unknown securityd[175] <Notice>: MS:Notice: Injecting: (null) [securityd] (550.52)
+Wed Dec 31 20:23:50 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 20:23:50 unknown lockdownd[21] <Error>: 2ffea000 handle_connection: Could not receive USB message #8 from idevicedebug. Killing connection
+Wed Dec 31 20:24:36 unknown Asphalt6[153] <Error>: Asphalt6(153,0x3f0c000) malloc: *** error for object 0x8c3c64: pointer being freed was not allocated
+	*** set a breakpoint in malloc_error_break to debug
+Wed Dec 31 20:24:36 unknown UIKitApplication:com.gameloft.Asphalt6[0x4fa][153] <Notice>: Asphalt6(153,0x3f0c000) malloc: *** error for object 0x8c3c64: pointer being freed was not allocated
+Wed Dec 31 20:24:36 unknown UIKitApplication:com.gameloft.Asphalt6[0x4fa][153] <Notice>: *** set a breakpoint in malloc_error_break to debug
+Wed Dec 31 20:24:36 unknown UIKitApplication:com.gameloft.Asphalt6[0x4fa][153] <Notice>: can't load shared library 'libXML.so'
+Wed Dec 31 20:24:36 unknown UIKitApplication:com.gameloft.Asphalt6[0x4fa][153] <Notice>: assert 0 != Singleton failed(172) /Volumes/SSD120GB/Asphalt6/Externals/GLLive_HTML/GLLiveManager/GLLiveState.h [NotifyTrophy]
+Wed Dec 31 20:24:36 unknown UIKitApplication:com.gameloft.Asphalt6[0x4fa][153] <Notice>: [NotifyTrophy] end!
+Wed Dec 31 20:24:36 unknown ReportCrash[178] <Notice>: MS:Notice: Injecting: (null) [ReportCrash] (550.52)
+Wed Dec 31 20:24:37 unknown kernel[0] <Debug>: punchd[180] Builtin profile: container (sandbox)
+Wed Dec 31 20:24:37 unknown kernel[0] <Debug>: punchd[180] Container: /private/var/mobile/Applications/B9E54C2C-8F1A-4020-926A-D083FDEBA0E4 [69] (sandbox)
+Wed Dec 31 20:24:37 unknown OsuLegacy[180] <Notice>: MS:Notice: Injecting: org.osu.legacy.experimental [OsuLegacy] (550.52)
+Wed Dec 31 20:24:38 unknown UIKitApplication:org.osu.legacy.experimental[0xa79b][180] <Notice>: The assembly mscorlib.dll was not found or could not be loaded.
+Wed Dec 31 20:24:38 unknown UIKitApplication:org.osu.legacy.experimental[0xa79b][180] <Notice>: It should have been installed in the `/var/mobile/Applications/B9E54C2C-8F1A-4020-926A-D083FDEBA0E4/OsuLegacy.app/lib/mono/4.5/mscorlib.dll' directory.
+Wed Dec 31 20:24:38 unknown com.apple.launchd[1] <Warning>: (UIKitApplication:org.osu.legacy.experimental[0xa79b]) Exited with exit code: 1
+Wed Dec 31 20:24:38 unknown com.apple.launchd[1] <Warning>: (UIKitApplication:org.osu.legacy.experimental[0xa79b]) Throttling respawn: Will start in 2147483646 seconds
+Wed Dec 31 20:24:38 unknown SpringBoard[29] <Warning>: Application 'osu legacy' exited abnormally with exit status 1
+Wed Dec 31 20:24:40 unknown OsuLegacy[181] <Notice>: MS:Notice: Injecting: org.osu.legacy.experimental [OsuLegacy] (550.52)
+Wed Dec 31 20:24:40 unknown kernel[0] <Debug>: punchd[181] Builtin profile: container (sandbox)
+Wed Dec 31 20:24:40 unknown kernel[0] <Debug>: punchd[181] Container: /private/var/mobile/Applications/B9E54C2C-8F1A-4020-926A-D083FDEBA0E4 [69] (sandbox)
+Wed Dec 31 20:24:40 unknown ReportCrash[178] <Notice>: Formulating crash report for process Asphalt6[153]
+Wed Dec 31 20:24:40 unknown UIKitApplication:org.osu.legacy.experimental[0xcd7e][181] <Notice>: The assembly mscorlib.dll was not found or could not be loaded.
+Wed Dec 31 20:24:40 unknown UIKitApplication:org.osu.legacy.experimental[0xcd7e][181] <Notice>: It should have been installed in the `/var/mobile/Applications/B9E54C2C-8F1A-4020-926A-D083FDEBA0E4/OsuLegacy.app/lib/mono/4.5/mscorlib.dll' directory.
+Wed Dec 31 20:24:40 unknown com.apple.launchd[1] <Warning>: (UIKitApplication:org.osu.legacy.experimental[0xcd7e]) Exited with exit code: 1
+Wed Dec 31 20:24:40 unknown com.apple.launchd[1] <Warning>: (UIKitApplication:org.osu.legacy.experimental[0xcd7e]) Throttling respawn: Will start in 2147483646 seconds
+Wed Dec 31 20:24:40 unknown SpringBoard[29] <Warning>: Application 'osu legacy' exited abnormally with exit status 1
+Wed Dec 31 20:24:41 unknown com.apple.launchd[1] <Warning>: (UIKitApplication:com.gameloft.Asphalt6[0x4fa]) Job appears to have crashed: Abort trap
+Wed Dec 31 20:24:41 unknown SpringBoard[29] <Warning>: Application 'Asphalt 6' exited abnormally with signal 6: Abort trap
+Wed Dec 31 20:24:41 unknown ReportCrash[178] <Error>: Saved crashreport to /var/mobile/Library/Logs/CrashReporter/Asphalt6_1969-12-31-202436_iPod-touch.plist using uid: 0 gid: 0, synthetic_euid: 501 egid: 0
+Wed Dec 31 20:24:48 unknown OsuLegacy[182] <Notice>: MS:Notice: Injecting: org.osu.legacy.experimental [OsuLegacy] (550.52)
+Wed Dec 31 20:24:49 unknown UIKitApplication:org.osu.legacy.experimental[0xe400][182] <Notice>: The assembly mscorlib.dll was not found or could not be loaded.
+Wed Dec 31 20:24:49 unknown UIKitApplication:org.osu.legacy.experimental[0xe400][182] <Notice>: It should have been installed in the `/var/mobile/Applications/B9E54C2C-8F1A-4020-926A-D083FDEBA0E4/OsuLegacy.app/lib/mono/4.5/mscorlib.dll' directory.
+Wed Dec 31 20:24:49 unknown com.apple.launchd[1] <Warning>: (UIKitApplication:org.osu.legacy.experimental[0xe400]) Exited with exit code: 1
+Wed Dec 31 20:24:49 unknown com.apple.launchd[1] <Warning>: (UIKitApplication:org.osu.legacy.experimental[0xe400]) Throttling respawn: Will start in 2147483647 seconds
+Wed Dec 31 20:24:49 unknown SpringBoard[29] <Warning>: Application 'osu legacy' exited abnormally with exit status 1
+Wed Dec 31 20:24:49 unknown kernel[0] <Debug>: punchd[182] Builtin profile: container (sandbox)
+Wed Dec 31 20:24:49 unknown kernel[0] <Debug>: punchd[182] Container: /private/var/mobile/Applications/B9E54C2C-8F1A-4020-926A-D083FDEBA0E4 [69] (sandbox)
+Wed Dec 31 20:25:10 unknown securityd[183] <Notice>: MS:Notice: Injecting: (null) [securityd] (550.52)
+Wed Dec 31 20:25:10 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #9 from idevicecrashreport. Killing connection
+Wed Dec 31 20:25:10 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 20:25:21 unknown securityd[189] <Notice>: MS:Notice: Injecting: (null) [securityd] (550.52)
+Wed Dec 31 20:25:21 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #8 from idevicesyslog. Killing connection
+Wed Dec 31 20:25:21 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 20:25:26 unknown MusicCube[192] <Notice>: MS:Notice: Injecting: Ball.game [MusicCube] (550.52)
+Wed Dec 31 20:25:27 unknown kernel[0] <Debug>: punchd[192] Builtin profile: container (sandbox)
+Wed Dec 31 20:25:27 unknown kernel[0] <Debug>: punchd[192] Container: /private/var/mobile/Applications/9E5D1DD2-CD25-4638-B361-A8B513974523 [69] (sandbox)
+Wed Dec 31 20:25:29 unknown com.apple.launchd[1] <Notice>: (UIKitApplication:Ball.game[0xf0b9]) Exited: Killed
+Wed Dec 31 20:25:29 unknown SpringBoard[29] <Warning>: Application 'King Rupert' exited abnormally with signal 9: Killed
+Wed Dec 31 20:25:32 unknown OsuLegacy[193] <Notice>: MS:Notice: Injecting: org.osu.legacy.experimental [OsuLegacy] (550.52)
+Wed Dec 31 20:25:32 unknown UIKitApplication:org.osu.legacy.experimental[0x259a][193] <Notice>: The assembly mscorlib.dll was not found or could not be loaded.
+Wed Dec 31 20:25:32 unknown UIKitApplication:org.osu.legacy.experimental[0x259a][193] <Notice>: It should have been installed in the `/var/mobile/Applications/B9E54C2C-8F1A-4020-926A-D083FDEBA0E4/OsuLegacy.app/lib/mono/4.5/mscorlib.dll' directory.
+Wed Dec 31 20:25:32 unknown com.apple.launchd[1] <Warning>: (UIKitApplication:org.osu.legacy.experimental[0x259a]) Exited with exit code: 1
+Wed Dec 31 20:25:32 unknown com.apple.launchd[1] <Warning>: (UIKitApplication:org.osu.legacy.experimental[0x259a]) Throttling respawn: Will start in 2147483647 seconds
+Wed Dec 31 20:25:32 unknown SpringBoard[29] <Warning>: Application 'osu legacy' exited abnormally with exit status 1
+Wed Dec 31 20:25:33 unknown kernel[0] <Debug>: punchd[193] Builtin profile: container (sandbox)
+Wed Dec 31 20:25:33 unknown kernel[0] <Debug>: punchd[193] Container: /private/var/mobile/Applications/B9E54C2C-8F1A-4020-926A-D083FDEBA0E4 [69] (sandbox)
+Wed Dec 31 20:25:36 unknown OsuLegacy[194] <Notice>: MS:Notice: Injecting: org.osu.legacy.experimental [OsuLegacy] (550.52)
+Wed Dec 31 20:25:36 unknown UIKitApplication:org.osu.legacy.experimental[0x14c1][194] <Notice>: The assembly mscorlib.dll was not found or could not be loaded.
+Wed Dec 31 20:25:36 unknown UIKitApplication:org.osu.legacy.experimental[0x14c1][194] <Notice>: It should have been installed in the `/var/mobile/Applications/B9E54C2C-8F1A-4020-926A-D083FDEBA0E4/OsuLegacy.app/lib/mono/4.5/mscorlib.dll' directory.
+Wed Dec 31 20:25:36 unknown com.apple.launchd[1] <Warning>: (UIKitApplication:org.osu.legacy.experimental[0x14c1]) Exited with exit code: 1
+Wed Dec 31 20:25:36 unknown com.apple.launchd[1] <Warning>: (UIKitApplication:org.osu.legacy.experimental[0x14c1]) Throttling respawn: Will start in 2147483647 seconds
+Wed Dec 31 20:25:36 unknown SpringBoard[29] <Warning>: Application 'osu legacy' exited abnormally with exit status 1
+Wed Dec 31 20:25:37 unknown kernel[0] <Debug>: punchd[194] Builtin profile: container (sandbox)
+Wed Dec 31 20:25:37 unknown kernel[0] <Debug>: punchd[194] Container: /private/var/mobile/Applications/B9E54C2C-8F1A-4020-926A-D083FDEBA0E4 [69] (sandbox)
+Wed Dec 31 20:26:27 unknown BloonsTD[195] <Notice>: MS:Notice: Injecting: com.yourcompany.BloonsTD [BloonsTD] (550.52)
+Wed Dec 31 20:26:28 unknown kernel[0] <Debug>: punchd[195] Builtin profile: container (sandbox)
+Wed Dec 31 20:26:28 unknown kernel[0] <Debug>: punchd[195] Container: /private/var/mobile/Applications/DD5507FC-8230-4FF5-9565-8D98C4E66900 [69] (sandbox)
+Wed Dec 31 20:26:29 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > MPMusicPlayerController is supported!
+Wed Dec 31 20:26:29 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > using alternate mode of music playback check
+Wed Dec 31 20:26:29 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > user is NOT playing audio
+Wed Dec 31 20:26:29 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > setting audio session category: kAudioSessionCategory_SoloAmbientSound
+Wed Dec 31 20:26:29 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > class sizes:
+Wed Dec 31 20:26:29 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > sprite class: 188
+Wed Dec 31 20:26:29 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > animsprite class: 244
+Wed Dec 31 20:26:29 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > base proj class: 240
+Wed Dec 31 20:26:29 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > base tower class: 252
+Wed Dec 31 20:26:29 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > begun setupVars
+Wed Dec 31 20:26:29 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > CSaveData: Loading save data.
+Wed Dec 31 20:26:29 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > CSaveData: parsing data buffer 7260 bytes long.
+Wed Dec 31 20:26:33 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: AudioStreamBasicDescription:  2 ch,  44100 Hz, 'lpcm' (0x00000C2C) 8.24-bit little-endian signed integer, deinterleaved
+Wed Dec 31 20:26:33 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > Audiofile (pop1) sucessfuly loaded with soundkey 'pop1_1'.
+Wed Dec 31 20:26:33 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > Audiofile (pop2) sucessfuly loaded with soundkey 'pop2_1'.
+Wed Dec 31 20:26:33 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > Audiofile (pop3) sucessfuly loaded with soundkey 'pop3_1'.
+Wed Dec 31 20:26:33 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > Audiofile (pop4) sucessfuly loaded with soundkey 'pop4_1'.
+Wed Dec 31 20:26:33 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > Audiofile (pop1) sucessfuly loaded with soundkey 'pop1_2'.
+Wed Dec 31 20:26:33 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > Audiofile (pop2) sucessfuly loaded with soundkey 'pop2_2'.
+Wed Dec 31 20:26:33 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > Audiofile (pop3) sucessfuly loaded with soundkey 'pop3_2'.
+Wed Dec 31 20:26:33 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > Audiofile (pop4) sucessfuly loaded with soundkey 'pop4_2'.
+Wed Dec 31 20:26:33 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > Audiofile (pop1) sucessfuly loaded with soundkey 'pop1_3'.
+Wed Dec 31 20:26:33 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > Audiofile (pop2) sucessfuly loaded with soundkey 'pop2_3'.
+Wed Dec 31 20:26:33 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > Audiofile (pop3) sucessfuly loaded with soundkey 'pop3_3'.
+Wed Dec 31 20:26:33 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > Audiofile (pop4) sucessfuly loaded with soundkey 'pop4_3'.
+Wed Dec 31 20:26:33 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > Audiofile (pop1) sucessfuly loaded with soundkey 'pop1_4'.
+Wed Dec 31 20:26:33 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > Audiofile (pop2) sucessfuly loaded with soundkey 'pop2_4'.
+Wed Dec 31 20:26:33 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > Audiofile (pop3) sucessfuly loaded with soundkey 'pop3_4'.
+Wed Dec 31 20:26:33 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > Audiofile (pop4) sucessfuly loaded with soundkey 'pop4_4'.
+Wed Dec 31 20:26:33 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > Audiofile (splosion) sucessfuly loaded with soundkey 'explosion'.
+Wed Dec 31 20:26:33 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > entering loading thread
+Wed Dec 31 20:26:33 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > Set Music volume 0.50
+Wed Dec 31 20:26:33 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > waited 0.04000294
+Wed Dec 31 20:26:33 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > waited 0.04000294
+Wed Dec 31 20:26:33 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > waited 0.04000401
+Wed Dec 31 20:26:33 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > exiting loading thread
+Wed Dec 31 20:26:33 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > finished loading
+Wed Dec 31 20:26:33 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > finished setupVars
+Wed Dec 31 20:26:33 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > app became active, first notice
+Wed Dec 31 20:26:33 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > received playback state change notification
+Wed Dec 31 20:26:33 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > pMPController valid
+Wed Dec 31 20:26:33 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > enumNewPlaybackState == MPMusicPlaybackStateStopped
+Wed Dec 31 20:26:33 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 55 : 50000
+Wed Dec 31 20:26:33 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 60 : 2500
+Wed Dec 31 20:26:39 unknown securityd[196] <Notice>: MS:Notice: Injecting: (null) [securityd] (550.52)
+Wed Dec 31 20:26:40 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 20:26:40 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #9 from ideviceinstaller. Killing connection
+Wed Dec 31 20:26:43 unknown installd[202] <Notice>: MS:Notice: Injecting: (null) [installd] (550.52)
+Wed Dec 31 20:26:45 unknown installd[202] <Error>: 3e1b38b8 check_freshness: sb.st_mtime = 39317 reference_mtime = 5006
+Wed Dec 31 20:26:45 unknown installd[202] <Error>: 3e1b38b8 check_stale_maps: /Applications appears stale
+Wed Dec 31 20:26:47 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+> 
+Wed Dec 31 20:26:47 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #8 from idevicesyslog. Killing connection
+> 
+Wed Dec 31 20:26:49 unknown SpringBoard[29] <Warning>: Reloading and rendering all application icons.
+> 
+Wed Dec 31 20:26:53 unknown installd[202] <Error>: 2ff68000 verify_signer_identity: TDMTANF bypass enabled
+Wed Dec 31 20:26:54 unknown SpringBoard[29] <Warning>: Killing <SBApplication: 0x3b45f10> org.osu.legacy.experimental  activate:  deactivate:  for app installation
+Wed Dec 31 20:26:54 unknown SpringBoard[29] <Warning>: Reloading application state for 'org.osu.legacy.experimental' as its modification date has changed
+> 
+Wed Dec 31 20:26:55 unknown SpringBoard[29] <Warning>: Reloading and rendering all application icons.
+> 
+Wed Dec 31 20:27:38 unknown securityd[205] <Notice>: MS:Notice: Injecting: (null) [securityd] (550.52)
+> 
+Wed Dec 31 20:27:39 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 20:27:39 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #9 from ideviceinstaller. Killing connection
+> 
+Wed Dec 31 20:27:44 unknown installd[202] <Error>: 2ff68000 verify_signer_identity: TDMTANF bypass enabled
+Wed Dec 31 20:27:44 unknown SpringBoard[29] <Warning>: Killing <SBApplication: 0x3b551c0> org.osu.legacy.experimental  activate:  deactivate:  for app installation
+> 
+Wed Dec 31 20:27:45 unknown SpringBoard[29] <Warning>: Reloading application state for 'org.osu.legacy.experimental' as its modification date has changed
+Wed Dec 31 20:27:46 unknown SpringBoard[29] <Warning>: Reloading and rendering all application icons.
+> 
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 55 : 6181
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 61 : 3770
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 61 : 3606
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 61 : 4098
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 61 : 3442
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 61 : 2786
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 57 : 2631
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: >> Transitions.mm void CTransitions::DeleteTransition(TRANS_ID)() #438: WARNING: tried to delete a non existant transition.
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: >> Transitions.mm void CTransitions::DeleteTransition(TRANS_ID)() #438: WARNING: tried to delete a non existant transition.
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 58 : 3275
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 41 : 5365
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 57 : 3684
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > clicked play
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 55 : 3818
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 49 : 4285
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 56 : 3571
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > Unlocking 2 packs.
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 51 : 5490
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 39 : 5128
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 41 : 7073
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 44 : 5909
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 51 : 4705
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 54 : 4074
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 54 : 4074
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 50 : 5800
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 48 : 5833
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 51 : 3725
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 53 : 5283
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 57 : 4736
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 56 : 5000
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 58 : 5172
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > deleting resume data
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > CSaveData: 'DeleteValuesContaining(char*)' deleted 21 values).
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > CSaveData: saving data.
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > CSaveData: new save buffer len: 220
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > level select pack: 0 Map: 0, 0
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > setting game state, loading level, current:0, new:0
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: >> AppClass.mm void CApp::LoadMapTexture(UINT)() #1587: ERROR: bad map id
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > loading new map : 0
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > Game starting with difficulty MEDIUM.
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > no resume message, starting from the start.
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > setting up paths
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > new bloon interval: 0.50
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > Set multiple path bloon speed multiplier to 1.00
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 43 : 4883
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 60 : 9500
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_LEFT, TCS_EXPANDING)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_RIGHT, TCS_HIDING)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_LEFT, TCS_EXPANDED)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_LEFT, TCS_MINIMISING)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_RIGHT, TCS_MINIMISING)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 61 : 4262
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_RIGHT, TCS_MINIMISED)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_LEFT, TCS_MINIMISED)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_LEFT, TCS_EXPANDING)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_RIGHT, TCS_HIDING)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_LEFT, TCS_EXPANDED)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_LEFT, TCS_LOCKING)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > got info pointer
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_RIGHT, TCS_HIDDEN)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 60 : 3000
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_LEFT, TCS_LOCKED)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_LEFT, TCS_MINIMISING)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_RIGHT, TCS_MINIMISING)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 61 : 4098
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_RIGHT, TCS_MINIMISED)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_LEFT, TCS_MINIMISED)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > Begin Round 1
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > save round data
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > saving resume round: 0
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > CSaveData: saving data.
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > CSaveData: new save buffer len: 3036
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > new bloon interval: 0.50
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > New fGlobalSpeedMod: 0.0000
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 60 : 3500
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 61 : 3278
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 60 : 3833
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 61 : 3934
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 60 : 4666
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 61 : 3770
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_LEFT, TCS_EXPANDING)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_RIGHT, TCS_HIDING)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 60 : 3833
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_LEFT, TCS_EXPANDED)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_LEFT, TCS_MINIMISING)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_RIGHT, TCS_MINIMISING)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_RIGHT, TCS_MINIMISED)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_LEFT, TCS_MINIMISED)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_LEFT, TCS_EXPANDING)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_RIGHT, TCS_HIDING)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_LEFT, TCS_EXPANDED)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_LEFT, TCS_LOCKING)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > got info pointer
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_RIGHT, TCS_HIDDEN)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 61 : 4098
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_LEFT, TCS_LOCKED)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 60 : 4333
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 61 : 4754
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_LEFT, TCS_MINIMISING)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_RIGHT, TCS_MINIMISING)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_RIGHT, TCS_MINIMISED)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_LEFT, TCS_MINIMISED)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 61 : 3114
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 60 : 3666
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 61 : 3278
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 61 : 4426
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > round pop count: 14
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > game pop count: 14
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > Not reached 1,000,000 pops yet! (28).
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > save round data
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > saving resume round: 1
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > CSaveData: saving data.
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > CSaveData: new save buffer len: 5500
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > CSaveData: saving data.
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > CSaveData: new save buffer len: 5500
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 59 : 4067
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_RIGHT, TCS_EXPANDING)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_LEFT, TCS_HIDING)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_RIGHT, TCS_EXPANDED)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_RIGHT, TCS_LOCKING)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > got info pointer
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_LEFT, TCS_HIDDEN)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_RIGHT, TCS_LOCKED)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 61 : 5573
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 61 : 4262
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > Begin Round 2
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > save round data
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > saving resume round: 1
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > CSaveData: saving data.
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > CSaveData: new save buffer len: 8316
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > new bloon interval: 0.47
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > New fGlobalSpeedMod: 0.0000
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 60 : 4333
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 61 : 4262
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 61 : 4426
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 61 : 4098
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 61 : 4262
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 61 : 4590
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 61 : 4426
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 61 : 3770
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_LEFT, TCS_MINIMISING)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_RIGHT, TCS_MINIMISING)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_RIGHT, TCS_MINIMISED)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_LEFT, TCS_MINIMISED)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 60 : 4333
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 61 : 4098
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 61 : 4754
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 61 : 4426
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 60 : 4666
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 61 : 4754
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 61 : 5081
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_LEFT, TCS_HIDING)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_RIGHT, TCS_HIDING)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_RIGHT, TCS_HIDDEN)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_LEFT, TCS_HIDDEN)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 57 : 5614
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 54 : 6851
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 61 : 7213
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > set action to UMA_PRIORITY
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > setting targetmode LAST_DOWN_PATH.
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > set action to UMA_PRIORITY
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > setting targetmode NEAREST_TO_TOWER.
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 60 : 7000
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > set action to UMA_PRIORITY
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > setting targetmode FARTHEST_FROM_TOWER.
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 61 : 6229
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > set action to UMA_PRIORITY
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > setting targetmode FIRST_DOWN_PATH.
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 56 : 8035
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 51 : 6666
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 50 : 6800
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 60 : 6833
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_LEFT, TCS_MINIMISING)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_RIGHT, TCS_MINIMISING)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_RIGHT, TCS_MINIMISED)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > SetColumnState(TMC_LEFT, TCS_MINIMISED)
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 59 : 4067
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 61 : 3770
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 61 : 3770
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > 61 : 3934
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > round pop count: 30
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > game pop count: 44
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > Not reached 1,000,000 pops yet! (58).
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > save round data
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > saving resume round: 2
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > CSaveData: saving data.
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > CSaveData: new save buffer len: 10428
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > Current round greater than stored round, overwriting value.
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > CSaveData: saving data.
+Wed Dec 31 20:27:54 unknown UIKitApplication:com.yourcompany.BloonsTD[0x3544][195] <Notice>: > CSaveData: new save buffer len: 10428
+> 
+Wed Dec 31 20:27:55 unknown OsuLegacy[211] <Notice>: MS:Notice: Injecting: org.osu.legacy.experimental [OsuLegacy] (550.52)
+Wed Dec 31 20:27:56 unknown kernel[0] <Debug>: punchd[211] Builtin profile: container (sandbox)
+Wed Dec 31 20:27:56 unknown kernel[0] <Debug>: punchd[211] Container: /private/var/mobile/Applications/079F9469-C1CD-4EC3-8694-C238C1CAAE26 [69] (sandbox)
+Wed Dec 31 20:27:56 unknown OsuLegacy[211] <Warning>: Starting Mono v4.0.30128 with bundled profile 4.0
+Wed Dec 31 20:27:56 unknown ReportCrash[212] <Notice>: MS:Notice: Injecting: (null) [ReportCrash] (550.52)
+> 
+Wed Dec 31 20:27:57 unknown ReportCrash[212] <Notice>: Formulating crash report for process OsuLegacy[211]
+Wed Dec 31 20:27:57 unknown com.apple.launchd[1] <Warning>: (UIKitApplication:org.osu.legacy.experimental[0x64cc]) Job appears to have crashed: Trace/BPT trap
+Wed Dec 31 20:27:57 unknown com.apple.launchd[1] <Warning>: (UIKitApplication:org.osu.legacy.experimental[0x64cc]) Throttling respawn: Will start in 2147483645 seconds
+Wed Dec 31 20:27:57 unknown SpringBoard[29] <Warning>: Application 'osu legacy' exited abnormally with signal 5: Trace/BPT trap
+Wed Dec 31 20:27:58 unknown ReportCrash[212] <Error>: Saved crashreport to /var/mobile/Library/Logs/CrashReporter/OsuLegacy_1969-12-31-202756_iPod-touch.plist using uid: 0 gid: 0, synthetic_euid: 501 egid: 0
+> 
+Wed Dec 31 20:28:17 unknown securityd[214] <Notice>: MS:Notice: Injecting: (null) [securityd] (550.52)
+Wed Dec 31 20:28:17 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Wed Dec 31 20:28:17 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #9 from idevicecrashreport. Killing connection
+> 
+Wed Dec 31 20:28:34 unknown Loopback[220] <Notice>: MS:Notice: Injecting: com.wolf.loopback [Loopback] (550.52)
+> 
+Wed Dec 31 20:28:35 unknown Loopback[220] <Warning>: LoopbackUAC:
+	IOKit USB gadget:
+	AppleSynopsysOTGCore: absent
+	AppleSynopsysOTGDevice: present
+	AppleSynopsysOTGHost: absent
+	IOUSBDeviceController: present
+	IOUSBDeviceInterface: present
+	AppleUSBMike: present
+	AppleCS42L58Audio: present
+	AppleS5L8900XI2SController: absent
+	AppleARMPL192VIC: present
+	name 'usb-otg': absent
+	name 'vic': present
+	DT usb-otg: absent
+	IOUSBDeviceControllerCreate: 0x0 ok
+	  iface0=PTP
+	  iface1=USBAudioControl
+	  iface2=USBAudioStreaming
+	  iface3=IapOverUsbHid
+	  iface4=AppleUSBMux
+	/dev/mem no  /dev/uac0 no
+	kext /Library/Extensions  not loaded
+	uid 501 euid 501
+	/Applications/Loopback.app/Loopback
+	Gadget keeps Apple VID 0x05AC so usbmuxd binds. USBAudioStreaming is capture-only on this stack and is not advertised.
+Wed Dec 31 20:28:36 unknown configd[27] <Debug>: CaptiveNetworkSupport:UIAllowedNotifyCallback:70 uiallowed: true
+Wed Dec 31 20:28:39 unknown mediaserverd[23] <Warning>: 20:28:39.595 <SystemSoundServer> WARNING translating CMSession error: -12985 
+> 
+Wed Dec 31 20:29:35 unknown mediaserverd[23] <Warning>: 20:29:35.529 <SystemSoundServer> WARNING translating CMSession error: -12981 
+Wed Dec 31 20:29:35 unknown mediaserverd[23] <Warning>: 20:29:35.555 <SystemSoundServer> WARNING translating CMSession error: -12981 
+Wed Dec 31 20:29:35 unknown mediaserverd[23] <Warning>: 20:29:35.776 <SystemSoundServer> WARNING translating HAL error: 561214578 
+Wed Dec 31 20:29:35 unknown mediaserverd[23] <Warning>: 20:29:35.788 <SystemSoundServer> WARNING translating HAL error: 561214578 
+Wed Dec 31 20:29:35 unknown mediaserverd[23] <Warning>: 20:29:35.800 <SystemSoundServer> WARNING translating HAL error: 561214578 
+Wed Dec 31 20:29:35 unknown mediaserverd[23] <Warning>: 20:29:35.811 <SystemSoundServer> WARNING translating HAL error: 561214578 
+Wed Dec 31 20:29:35 unknown Loopback[220] <Warning>: LoopbackUAC: kextload /Library/Extensions/LoopbackUAC.kext
+Wed Dec 31 20:29:35 unknown Loopback[220] <Warning>: LoopbackUAC: LoopbackUAC.kext not loaded (needs root kextload)
+Wed Dec 31 20:29:35 unknown Loopback[220] <Warning>: LoopbackUAC: OTGDevice: present
+Wed Dec 31 20:29:35 unknown Loopback[220] <Warning>: LoopbackUAC: uid 501 (no SetDescription, no bounce, no commit)
+Wed Dec 31 20:29:35 unknown Loopback[220] <Warning>: LoopbackUAC: trying iface PTP
+Wed Dec 31 20:29:35 unknown Loopback[220] <Warning>: LoopbackUAC: open type 123 ok
+Wed Dec 31 20:29:35 unknown Loopback[220] <Warning>: LoopbackUAC: uc open 0xe00002c5
+Wed Dec 31 20:29:35 unknown Loopback[220] <Warning>: LoopbackUAC: createPipe iso OUT -> 0xe00002bc pipe 0
+Wed Dec 31 20:29:35 unknown Loopback[220] <Warning>: LoopbackUAC: trying iface IapOverUsbHid
+Wed Dec 31 20:29:35 unknown Loopback[220] <Warning>: LoopbackUAC: open type 123 -> 0xe00002c7
+Wed Dec 31 20:29:35 unknown Loopback[220] <Warning>: LoopbackUAC: open type 0 -> 0xe00002c7
+Wed Dec 31 20:29:35 unknown Loopback[220] <Warning>: LoopbackUAC: open type 1 -> 0xe00002c7
+Wed Dec 31 20:29:35 unknown Loopback[220] <Warning>: LoopbackUAC: open type 2 -> 0xe00002c7
+Wed Dec 31 20:29:36 unknown Loopback[220] <Warning>: LoopbackUAC: IOServiceOpen failed last 0xe00002c7
+Wed Dec 31 20:29:36 unknown Loopback[220] <Warning>: LoopbackUAC: no ISO OUT pipe on PTP/HID without a bus reset
+Wed Dec 31 20:29:36 unknown Loopback[220] <Warning>: LoopbackUAC:
+	USB gadget did not start.
+	kextload /Library/Extensions/LoopbackUAC.kext
+	LoopbackUAC.kext not loaded (needs root kextload)
+	OTGDevice: present
+	uid 501 (no SetDescription, no bounce, no commit)
+	trying iface PTP
+	open type 123 ok
+	uc open 0xe00002c5
+	createPipe iso OUT -> 0xe00002bc pipe 0
+	trying iface IapOverUsbHid
+	open type 123 -> 0xe00002c7
+	open type 0 -> 0xe00002c7
+	open type 1 -> 0xe00002c7
+	open type 2 -> 0xe00002c7
+	IOServiceOpen failed last 0xe00002c7
+	no ISO OUT pipe on PTP/HID without a bus reset
+	
+	IOKit USB gadget:
+	AppleSynopsysOTGCore: absent
+	AppleSynopsysOTGDevice: present
+	AppleSynopsysOTGHost: absent
+	IOUSBDeviceController: present
+	IOUSBDeviceInterface: present
+	AppleUSBMike: present
+	AppleCS42L58Audio: present
+	AppleS5L8900XI2SController: absent
+	AppleARMPL192VIC: present
+	name 'usb-otg': absent
+	name 'vic': present
+	DT usb-otg: absent
+	IOUSBDeviceControllerCreate: 0x0 ok
+	  iface0=PTP
+	  iface1=USBAudioControl
+	  iface2=USBAudioStreaming
+	  iface3=IapOverUsbHid
+	  iface4=AppleUSBMux
+	/dev/mem no  /dev/uac0 no
+	kext /Library/Extensions  not loaded
+	uid 501 euid 501
+	/Applications/Loopback.app/Loopback
+	Gadget keeps Apple VID 0x05AC so usbmuxd binds. USBAudioStreaming is capture-only on this stack and is not advertised.
+Wed Dec 31 20:29:38 unknown mediaserverd[23] <Warning>: 20:29:38.337 <SystemSoundServer> WARNING translating CMSession error: -12981 
+> 
+Wed Dec 31 20:29:38 unknown mediaserverd[23] <Warning>: 20:29:38.346 <SystemSoundServer> WARNING translating CMSession error: -12981 
+Wed Dec 31 20:29:38 unknown mediaserverd[23] <Warning>: 20:29:38.388 <SystemSoundServer> WARNING translating HAL error: 561214578 
+Wed Dec 31 20:29:38 unknown mediaserverd[23] <Warning>: 20:29:38.416 <SystemSoundServer> WARNING translating HAL error: 561214578 
+Wed Dec 31 20:29:38 unknown mediaserverd[23] <Warning>: 20:29:38.428 <SystemSoundServer> WARNING translating HAL error: 561214578 
+Wed Dec 31 20:29:38 unknown mediaserverd[23] <Warning>: 20:29:38.439 <SystemSoundServer> WARNING translating HAL error: 561214578 
+Wed Dec 31 20:29:38 unknown Loopback[220] <Warning>: Loopback: USB PCM listening on 3001 (usbmux)
+> 
+Wed Dec 31 20:29:45 unknown mediaserverd[23] <Warning>: 20:29:45.571 <SystemSoundServer> WARNING translating CMSession error: -12981 
+Wed Dec 31 20:29:45 unknown mediaserverd[23] <Warning>: 20:29:45.585 <SystemSoundServer> WARNING translating CMSession error: -12981 
+Wed Dec 31 20:29:45 unknown mediaserverd[23] <Warning>: 20:29:45.647 <SystemSoundServer> WARNING translating HAL error: 561214578 
+Wed Dec 31 20:29:45 unknown mediaserverd[23] <Warning>: 20:29:45.696 <SystemSoundServer> WARNING translating HAL error: 561214578 
+Wed Dec 31 20:29:45 unknown mediaserverd[23] <Warning>: 20:29:45.729 <SystemSoundServer> WARNING translating HAL error: 561214578 
+Wed Dec 31 20:29:45 unknown mediaserverd[23] <Warning>: 20:29:45.744 <SystemSoundServer> WARNING translating HAL error: 561214578 
+Wed Dec 31 20:29:45 unknown Loopback[220] <Warning>: Loopback: USB PCM listening on 3001 (usbmux)
+> 
+Wed Dec 31 20:30:49 unknown configd[27] <Debug>: CaptiveNetworkSupport:UIAllowedNotifyCallback:70 uiallowed: false
+> 
+Wed Dec 31 20:36:26 unknown securityd[222] <Notice>: MS:Notice: Injecting: (null) [securityd] (550.52)
+Wed Dec 31 20:36:26 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #9 from ideviceinstaller. Killing connection
+Wed Dec 31 20:36:26 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+> 
+Wed Dec 31 20:36:27 unknown installd[228] <Notice>: MS:Notice: Injecting: (null) [installd] (550.52)
+Wed Dec 31 20:36:27 unknown installd[228] <Error>: 3e1b38b8 check_freshness: sb.st_mtime = 39317 reference_mtime = 5265
+Wed Dec 31 20:36:27 unknown installd[228] <Error>: 3e1b38b8 check_stale_maps: /Applications appears stale
+> 
+Wed Dec 31 20:36:28 unknown SpringBoard[29] <Warning>: Reloading and rendering all application icons.
+> 
+Wed Dec 31 20:36:31 unknown installd[228] <Error>: 2ff68000 verify_signer_identity: TDMTANF bypass enabled
+Wed Dec 31 20:36:31 unknown SpringBoard[29] <Warning>: Killing <SBApplication: 0x218d00> org.osu.legacy.experimental  activate:  deactivate:  for app installation
+Wed Dec 31 20:36:31 unknown SpringBoard[29] <Warning>: Reloading application state for 'org.osu.legacy.experimental' as its modification date has changed
+Wed Dec 31 20:36:31 unknown SpringBoard[29] <Warning>: Reloading and rendering all application icons.
+> [disconnected:f7f4c5236445e3e001f9834aa63367fd56cdf871]

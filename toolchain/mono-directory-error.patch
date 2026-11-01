@@ -1,0 +1,12 @@
+diff --git a/mono/metadata/file-io.c b/mono/metadata/file-io.c
+--- a/mono/metadata/file-io.c
++++ b/mono/metadata/file-io.c
+@@ -482,7 +482,7 @@ ves_icall_System_IO_MonoIO_FindNext (gpointer handle, gint32 *result_attr, gint32 *err
+ 	WIN32_FIND_DATA data;
+ 	MonoString *result;
+ 
+-	error = ERROR_SUCCESS;
++	*error = ERROR_SUCCESS;
+ 	do {
+ 		if (FindNextFile (ifh->find_handle, &data) == FALSE){
+ 			int e = GetLastError ();

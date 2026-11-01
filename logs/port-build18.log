@@ -1,0 +1,138 @@
+PASS: 4096 ARM immediate encodings, with undefined-behavior sanitizer
+PASS: literal patch for all 16 destination registers; other offsets rejected
+PASS: conv.u translation for all six supported inputs at 32 and 64 bits
+PASS: iOS uses 4-byte argument alignment despite 8-byte preferred alignment
+PASS: 19 core assertions (host only)
+PASS: 50 slider/spinner parsing, geometry, input and scoring checks
+PASS: 17 artwork metadata, selection and fallback checks
+PASS: 19 UI navigation, selection and persistence checks
+clang: warning: argument unused during compilation: '-fuse-ld=/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/toolchain/../build/toolchain/ld64' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-fuse-ld=/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/toolchain/../build/toolchain/ld64' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-fuse-ld=/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/toolchain/../build/toolchain/ld64' [-Wunused-command-line-argument]
+clang: warning: argument unused during compilation: '-fuse-ld=/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/toolchain/../build/toolchain/ld64' [-Wunused-command-line-argument]
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/mono-legacy/support/minizip/unzip.c:171:11: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+  171 | local int unzlocal_getByte(pzlib_filefunc_def,filestream,pi)
+      |           ^
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/mono-legacy/support/minizip/unzip.c:201:11: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+  201 | local int unzlocal_getShort (pzlib_filefunc_def,filestream,pX)
+      |           ^
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/mono-legacy/support/minizip/unzip.c:229:11: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+  229 | local int unzlocal_getLong (pzlib_filefunc_def,filestream,pX)
+      |           ^
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/mono-legacy/support/minizip/unzip.c:303:20: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+  303 | extern int ZEXPORT unzStringFileNameCompare (fileName1,fileName2,iCaseSensitivity)
+      |                    ^
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/mono-legacy/support/minizip/unzip.c:329:13: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+  329 | local uLong unzlocal_SearchCentralDir(pzlib_filefunc_def,filestream)
+      |             ^
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/mono-legacy/support/minizip/unzip.c:395:24: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+  395 | extern unzFile ZEXPORT unzOpen2 (path, pzlib_filefunc_def)
+      |                        ^
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/mono-legacy/support/minizip/unzip.c:498:24: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+  498 | extern unzFile ZEXPORT unzOpen (path)
+      |                        ^
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/mono-legacy/support/minizip/unzip.c:509:20: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+  509 | extern int ZEXPORT unzClose (file)
+      |                    ^
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/mono-legacy/support/minizip/unzip.c:530:20: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+  530 | extern int ZEXPORT unzGetGlobalInfo (file,pglobal_info)
+      |                    ^
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/mono-legacy/support/minizip/unzip.c:573:11: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+  573 | local int unzlocal_GetCurrentFileInfoInternal (file,
+      |           ^
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/mono-legacy/support/minizip/unzip.c:745:20: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+  745 | extern int ZEXPORT unzGetCurrentFileInfo (file,
+      |                    ^
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/mono-legacy/support/minizip/unzip.c:769:20: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+  769 | extern int ZEXPORT unzGoToFirstFile (file)
+      |                    ^
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/mono-legacy/support/minizip/unzip.c:791:20: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+  791 | extern int ZEXPORT unzGoToNextFile (file)
+      |                    ^
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/mono-legacy/support/minizip/unzip.c:825:20: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+  825 | extern int ZEXPORT unzLocateFile (file, szFileName, iCaseSensitivity)
+      |                    ^
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/mono-legacy/support/minizip/unzip.c:904:20: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+  904 | extern int ZEXPORT unzGetFilePos(file, file_pos)
+      |                    ^
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/mono-legacy/support/minizip/unzip.c:922:20: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+  922 | extern int ZEXPORT unzGoToFilePos(file, file_pos)
+      |                    ^
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/mono-legacy/support/minizip/unzip.c:1045:20: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+ 1045 | extern int ZEXPORT unzOpenCurrentFile3 (file, method, level, raw, password)
+      |                    ^
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/mono-legacy/support/minizip/unzip.c:1190:20: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+ 1190 | extern int ZEXPORT unzOpenCurrentFile (file)
+      |                    ^
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/mono-legacy/support/minizip/unzip.c:1196:20: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+ 1196 | extern int ZEXPORT unzOpenCurrentFilePassword (file, password)
+      |                    ^
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/mono-legacy/support/minizip/unzip.c:1203:20: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+ 1203 | extern int ZEXPORT unzOpenCurrentFile2 (file,method,level,raw)
+      |                    ^
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/mono-legacy/support/minizip/unzip.c:1222:20: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+ 1222 | extern int ZEXPORT unzReadCurrentFile  (file, buf, len)
+      |                    ^
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/mono-legacy/support/minizip/unzip.c:1240:46: warning: equality comparison with extraneous parentheses [-Wparentheses-equality]
+ 1240 |     if ((pfile_in_zip_read_info->read_buffer == NULL))
+      |          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/mono-legacy/support/minizip/unzip.c:1240:46: note: remove extraneous parentheses around the comparison to silence this warning
+ 1240 |     if ((pfile_in_zip_read_info->read_buffer == NULL))
+      |         ~                                    ^      ~
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/mono-legacy/support/minizip/unzip.c:1240:46: note: use '=' to turn this equality comparison into an assignment
+ 1240 |     if ((pfile_in_zip_read_info->read_buffer == NULL))
+      |                                              ^~
+      |                                              =
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/mono-legacy/support/minizip/unzip.c:1383:24: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+ 1383 | extern z_off_t ZEXPORT unztell (file)
+      |                        ^
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/mono-legacy/support/minizip/unzip.c:1403:20: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+ 1403 | extern int ZEXPORT unzeof (file)
+      |                    ^
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/mono-legacy/support/minizip/unzip.c:1436:20: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+ 1436 | extern int ZEXPORT unzGetLocalExtrafield (file,buf,len)
+      |                    ^
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/mono-legacy/support/minizip/unzip.c:1487:20: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+ 1487 | extern int ZEXPORT unzCloseCurrentFile (file)
+      |                    ^
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/mono-legacy/support/minizip/unzip.c:1530:20: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+ 1530 | extern int ZEXPORT unzGetGlobalComment (file, szComment, uSizeBuf)
+      |                    ^
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/mono-legacy/support/minizip/unzip.c:1561:22: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+ 1561 | extern uLong ZEXPORT unzGetOffset (file)
+      |                      ^
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/mono-legacy/support/minizip/unzip.c:1577:20: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+ 1577 | extern int ZEXPORT unzSetOffset (file, pos)
+      |                    ^
+29 warnings generated.
+clang: warning: argument unused during compilation: '-fuse-ld=/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/toolchain/../build/toolchain/ld64' [-Wunused-command-line-argument]
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/mono-legacy/support/minizip/ioapi.c:68:18: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+   68 | voidpf ZCALLBACK fopen_file_func (opaque, filename, mode)
+      |                  ^
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/mono-legacy/support/minizip/ioapi.c:90:17: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+   90 | uLong ZCALLBACK fread_file_func (opaque, stream, buf, size)
+      |                 ^
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/mono-legacy/support/minizip/ioapi.c:102:17: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+  102 | uLong ZCALLBACK fwrite_file_func (opaque, stream, buf, size)
+      |                 ^
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/mono-legacy/support/minizip/ioapi.c:113:16: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+  113 | long ZCALLBACK ftell_file_func (opaque, stream)
+      |                ^
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/mono-legacy/support/minizip/ioapi.c:122:16: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+  122 | long ZCALLBACK fseek_file_func (opaque, stream, offset, origin)
+      |                ^
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/mono-legacy/support/minizip/ioapi.c:148:15: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+  148 | int ZCALLBACK fclose_file_func (opaque, stream)
+      |               ^
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/mono-legacy/support/minizip/ioapi.c:157:15: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+  157 | int ZCALLBACK ferror_file_func (opaque, stream)
+      |               ^
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/mono-legacy/support/minizip/ioapi.c:166:6: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+  166 | void fill_fopen_filefunc (pzlib_filefunc_def)
+      |      ^
+8 warnings generated.
+warning: signing with SHA1 will be deprecated soon. Please remove `sha` from the `--digest-algorithm=sha1` code signing flag.
+Signed /Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/port/OsuLegacy.app/OsuLegacy: CodeDirectory 0x20001, SHA-1, 1098 pages
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/port/OsuLegacy.app/OsuLegacy: Mach-O executable arm_v6
+Packaged /Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/port/OsuLegacy-armv6-ios421-experimental.ipa
+Experimental app built: /Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/port/OsuLegacy.app (not device-tested)

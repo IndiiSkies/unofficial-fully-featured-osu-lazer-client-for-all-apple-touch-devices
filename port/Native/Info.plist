@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+  <key>CFBundleIdentifier</key><string>org.osu.legacy.experimental</string>
+  <key>CFBundleName</key><string>Osu!</string>
+  <key>CFBundleDisplayName</key><string>Osu!</string>
+  <key>CFBundleIconFile</key><string>Icon.png</string>
+  <key>UIPrerenderedIcon</key><true/>
+  <key>CFBundleExecutable</key><string>OsuLegacy</string>
+  <key>CFBundlePackageType</key><string>APPL</string>
+  <key>CFBundleVersion</key><string>0.122</string>
+  <key>UIFileSharingEnabled</key><true/>
+  <key>CFBundleDocumentTypes</key><array><dict>
+    <key>CFBundleTypeName</key><string>osu! beatmap archive</string>
+    <key>CFBundleTypeRole</key><string>Viewer</string>
+    <key>LSItemContentTypes</key><array><string>org.ppy.osz</string></array>
+  </dict></array>
+  <key>UTImportedTypeDeclarations</key><array><dict>
+    <key>UTTypeIdentifier</key><string>org.ppy.osz</string>
+    <key>UTTypeDescription</key><string>osu! beatmap archive</string>
+    <key>UTTypeConformsTo</key><array><string>public.zip-archive</string></array>
+    <key>UTTypeTagSpecification</key><dict>
+      <key>public.filename-extension</key><array><string>osz</string></array>
+      <key>public.mime-type</key><string>application/x-osu-beatmap-archive</string>
+    </dict>
+  </dict></array>
+  <key>MinimumOSVersion</key><string>4.2.1</string>
+  <key>UIStatusBarHidden</key><true/>
+  <key>UIDeviceFamily</key><array><integer>1</integer></array>
+  <key>UISupportedInterfaceOrientations</key><array><string>UIInterfaceOrientationPortrait</string></array>
+</dict></plist>

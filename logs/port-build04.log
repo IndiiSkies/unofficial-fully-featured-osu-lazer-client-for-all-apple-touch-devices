@@ -1,0 +1,8 @@
+PASS: 4096 ARM immediate encodings, with undefined-behavior sanitizer
+PASS: 19 core assertions (host only)
+clang: warning: argument unused during compilation: '-fuse-ld=/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/toolchain/../build/toolchain/ld64' [-Wunused-command-line-argument]
+warning: signing with SHA1 will be deprecated soon. Please remove `sha` from the `--digest-algorithm=sha1` code signing flag.
+Signed /Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/port/OsuLegacy.app/OsuLegacy: CodeDirectory 0x20001, SHA-1, 1089 pages
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/port/OsuLegacy.app/OsuLegacy: Mach-O executable arm_v6
+Packaged /Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/port/OsuLegacy-armv6-ios421-experimental.ipa
+Experimental app built: /Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/port/OsuLegacy.app (not device-tested)

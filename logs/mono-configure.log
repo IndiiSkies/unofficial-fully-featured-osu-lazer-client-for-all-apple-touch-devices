@@ -1,0 +1,30 @@
+checking build system type... x86_64-apple-darwin
+checking host system type... arm-apple-darwin
+checking target system type... arm-apple-darwin
+checking for a BSD-compatible install... /opt/homebrew/bin/ginstall -c
+checking whether sleep supports fractional seconds... yes
+checking filesystem timestamp resolution... 2
+checking whether build environment is sane... yes
+checking for arm-apple-darwin-strip... no
+checking for strip... strip
+configure: WARNING: using cross tools not prefixed with host triplet
+checking for a race-free mkdir -p... /opt/homebrew/bin/gmkdir -p
+checking for gawk... no
+checking for mawk... no
+checking for nawk... no
+checking for awk... awk
+checking whether make sets $(MAKE)... yes
+checking whether make supports nested variables... yes
+checking xargs -n works... yes
+checking whether UID '501' is supported by ustar format... yes
+checking whether GID '20' is supported by ustar format... yes
+checking how to create a ustar tar archive... gnutar
+checking whether to enable maintainer-specific portions of Makefiles... no
+checking whether ln -s works... yes
+checking host platform characteristics... ok
+checking for arm-apple-darwin-gcc... clang -target armv6-apple-ios4.2.1
+checking for arm-apple-darwin-gcc... (cached) clang -target armv6-apple-ios4.2.1
+checking whether the C compiler works... no
+configure: error: in '/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-armv6':
+configure: error: C compiler cannot create executables
+See 'config.log' for more details

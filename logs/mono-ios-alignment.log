@@ -1,0 +1,118 @@
+  CC       libmini_static_la-mini-arm.lo
+clang: warning: argument unused during compilation: '-fuse-ld=/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/toolchain/../build/toolchain/ld64' [-Wunused-command-line-argument]
+../../../../mono-legacy/mono/mini/mini-arm.c:1554:9: warning: variable 'locals_size' set but not used [-Wunused-but-set-variable]
+ 1554 |         int i, locals_size;
+      |                ^
+../../../../mono-legacy/mono/mini/mini-arm.c:1622:20: warning: variable 'header' set but not used [-Wunused-but-set-variable]
+ 1622 |         MonoMethodHeader *header;
+      |                           ^
+../../../../mono-legacy/mono/mini/mini-arm.c:3328:6: warning: variable 'count' set but not used [-Wunused-but-set-variable]
+ 3328 |         int count = 0;
+      |             ^
+../../../../mono-legacy/mono/mini/mini-arm.c:3786:9: warning: variable 'soffset' set but not used [-Wunused-but-set-variable]
+ 3786 |                                 int soffset = 0;
+      |                                     ^
+../../../../mono-legacy/mono/mini/mini-arm.c:3788:9: warning: variable 'size' set but not used [-Wunused-but-set-variable]
+ 3788 |                                 int size = 0;
+      |                                     ^
+../../../../mono-legacy/mono/mini/mini-arm.c:3825:12: warning: variable 'last_ins' set but not used [-Wunused-but-set-variable]
+ 3825 |         MonoInst *last_ins = NULL;
+      |                   ^
+../../../../mono-legacy/mono/mini/mini-arm.c:3826:8: warning: variable 'last_offset' set but not used [-Wunused-but-set-variable]
+ 3826 |         guint last_offset = 0;
+      |               ^
+../../../../mono-legacy/mono/mini/mini-arm.c:3827:15: warning: variable 'cpos' set but not used [-Wunused-but-set-variable]
+ 3827 |         int max_len, cpos;
+      |                      ^
+../../../../mono-legacy/mono/mini/mini-arm.c:5546:9: warning: variable 'soffset' set but not used [-Wunused-but-set-variable]
+ 5546 |                                 int soffset = 0;
+      |                                     ^
+../../../../mono-legacy/mono/mini/mini-arm.c:5548:9: warning: variable 'size' set but not used [-Wunused-but-set-variable]
+ 5548 |                                 int size = 0;
+      |                                     ^
+10 warnings generated.
+  CXXLD    libmini-static.la
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11563: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11563: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11599: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11599: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11599: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11599: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11599: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11599: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11599: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11599: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11599: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11599: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11599: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11599: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11599: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11599: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11599: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11599: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11599: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11599: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11599: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11599: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11599: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11599: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11599: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11599: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11599: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11599: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11599: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11599: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11599: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11599: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11599: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11599: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11599: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11599: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11599: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11599: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11599: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11599: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11599: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11599: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11599: test: : integer expression expected
+/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/build/mono-sdk42/mono/mini/../../libtool: line 11599: test: : integer expression expected
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: .libs/libmini-static.a(libmini_static_la-tasklets.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: .libs/libmini-static.a(libmini_static_la-tasklets.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: .libs/libmini-static.a(libmini_static_la-simd-intrinsics.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: .libs/libmini-static.a(libmini_static_la-tasklets.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: .libs/libmini-static.a(libmini_static_la-simd-intrinsics.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: .libs/libmini-static.a(libmini_static_la-tasklets.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: .libs/libmini-static.a(libmini_static_la-simd-intrinsics.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: .libs/libmini-static.a(libmini_static_la-tasklets.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: .libs/libmini-static.a(libmini_static_la-simd-intrinsics.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: .libs/libmini-static.a(libmini_static_la-tasklets.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: .libs/libmini-static.a(libmini_static_la-simd-intrinsics.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: .libs/libmini-static.a(libmini_static_la-tasklets.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: .libs/libmini-static.a(libmini_static_la-simd-intrinsics.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: .libs/libmini-static.a(libmini_static_la-tasklets.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: .libs/libmini-static.a(libmini_static_la-simd-intrinsics.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: .libs/libmini-static.a(libmini_static_la-debug-debugger.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: .libs/libmini-static.a(libmini_static_la-tasklets.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: .libs/libmini-static.a(libmini_static_la-simd-intrinsics.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: .libs/libmini-static.a(libmini_static_la-debug-debugger.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: .libs/libmini-static.a(libmini_static_la-tasklets.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: .libs/libmini-static.a(libmini_static_la-simd-intrinsics.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: .libs/libmini-static.a(libmini_static_la-debug-debugger.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: .libs/libmini-static.a(libmini_static_la-tasklets.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: .libs/libmini-static.a(libmini_static_la-simd-intrinsics.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: .libs/libmini-static.a(libmini_static_la-debug-debugger.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: .libs/libmini-static.a(libmini_static_la-tasklets.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: .libs/libmini-static.a(libmini_static_la-simd-intrinsics.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: .libs/libmini-static.a(libmini_static_la-debug-debugger.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: .libs/libmini-static.a(libmini_static_la-tasklets.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: .libs/libmini-static.a(libmini_static_la-simd-intrinsics.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: .libs/libmini-static.a(libmini_static_la-debug-debugger.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: .libs/libmini-static.a(libmini_static_la-tasklets.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: .libs/libmini-static.a(libmini_static_la-simd-intrinsics.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: .libs/libmini-static.a(libmini_static_la-debug-debugger.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: .libs/libmini-static.a(libmini_static_la-tasklets.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: .libs/libmini-static.a(libmini_static_la-simd-intrinsics.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: .libs/libmini-static.a(libmini_static_la-debug-debugger.o) has no symbols
+  CC       mono_sgen-main-sgen.o
+clang: warning: argument unused during compilation: '-fuse-ld=/Users/jzheng/Documents/ChatGPT/osu!lazer ipod 4.2.1/toolchain/../build/toolchain/ld64' [-Wunused-command-line-argument]
+  CCLD     mono-sgen

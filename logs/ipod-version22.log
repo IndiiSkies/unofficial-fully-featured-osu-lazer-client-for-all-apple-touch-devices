@@ -1,0 +1,493 @@
+[connected:f7f4c5236445e3e001f9834aa63367fd56cdf871]
+
+========================
+ASL is here to serve you
+> 
+
+Thu Jan  1 00:17:02 unknown OsuLegacy[662] <Warning>: OSU drawing: idle 5.2 calls/s, 145.4 ms/call
+Thu Jan  1 00:17:07 unknown OsuLegacy[662] <Warning>: OSU drawing: active 5.4 calls/s, 159.0 ms/call
+Thu Jan  1 00:17:11 unknown UIKitApplication:org.osu.legacy.experimental[0x8079][662] <Notice>: AudioStreamBasicDescription:  2 ch,  44100 Hz, 'lpcm' (0x00000C2C) 8.24-bit little-endian signed integer, deinterleaved
+Thu Jan  1 00:17:11 unknown kernel[0] <Debug>: punchd[663] Builtin profile: container (sandbox)
+Thu Jan  1 00:17:11 unknown kernel[0] <Debug>: punchd[663] Container: /private/var/mobile/Applications/78FBCF5E-6115-4F5F-BC77-197097DBEBF9 [69] (sandbox)
+Thu Jan  1 00:17:12 unknown OsuLegacy[663] <Notice>: MS:Notice: Injecting: org.osu.legacy.experimental [OsuLegacy] (550.52)
+Thu Jan  1 00:17:12 unknown OsuLegacy[663] <Warning>: OSU UI: landscape canvas 480x320, view 320x480
+Thu Jan  1 00:17:13 unknown OsuLegacy[663] <Warning>: OSU boot: initializing embedded Mono after native launch
+Thu Jan  1 00:17:13 unknown OsuLegacy[663] <Warning>: OSU checkpoint: managed entry reached native bundle binding
+Thu Jan  1 00:17:15 unknown OsuLegacy[663] <Warning>: OSU startup: welcome animation started; voice=1 piano=1
+Thu Jan  1 00:17:15 unknown OsuLegacy[663] <Warning>: OSU boot: managed callbacks registered
+Thu Jan  1 00:17:15 unknown OsuLegacy[663] <Warning>: OSU boot: managed startup returned to UIKit
+Thu Jan  1 00:17:17 unknown OsuLegacy[663] <Warning>: OSU startup: menu music play=1
+Thu Jan  1 00:17:17 unknown OsuLegacy[663] <Warning>: OSU startup: menu revealed
+Thu Jan  1 00:17:25 unknown OsuLegacy[663] <Warning>: OSU text x=14 y=8 size=16 rgb=0.96,0.95,1
+Thu Jan  1 00:17:25 unknown OsuLegacy[663] <Warning>: OSU text x=93 y=12 size=10 rgb=0.71,0.67,0.77
+Thu Jan  1 00:17:25 unknown OsuLegacy[663] <Warning>: OSU text x=376 y=8.5 size=13 rgb=0.96,0.95,1
+Thu Jan  1 00:17:27 unknown OsuLegacy[663] <Warning>: OSU drawing: active 1.1 calls/s, 634.0 ms/call
+Thu Jan  1 00:17:28 unknown UIKitApplication:org.osu.legacy.experimental[0x9a01][663] <Notice>: AudioStreamBasicDescription:  2 ch,  44100 Hz, 'lpcm' (0x00000C2C) 8.24-bit little-endian signed integer, deinterleaved
+Thu Jan  1 00:20:45 unknown mDNSResponder[24] <Error>: mDNSPlatformSetDNSConfig: Error: dns_configuration_copy returned NULL
+Thu Jan  1 00:20:48 unknown kernel[0] <Debug>: punchd[664] Builtin profile: container (sandbox)
+Thu Jan  1 00:20:48 unknown kernel[0] <Debug>: punchd[664] Container: /private/var/mobile/Applications/78FBCF5E-6115-4F5F-BC77-197097DBEBF9 [69] (sandbox)
+Thu Jan  1 00:20:48 unknown OsuLegacy[664] <Notice>: MS:Notice: Injecting: org.osu.legacy.experimental [OsuLegacy] (550.52)
+Thu Jan  1 00:20:49 unknown OsuLegacy[664] <Warning>: OSU UI: landscape canvas 480x320, view 320x480
+Thu Jan  1 00:20:49 unknown OsuLegacy[664] <Warning>: OSU boot: initializing embedded Mono after native launch
+Thu Jan  1 00:20:50 unknown OsuLegacy[664] <Warning>: OSU checkpoint: managed entry reached native bundle binding
+Thu Jan  1 00:20:51 unknown OsuLegacy[664] <Warning>: OSU startup: welcome animation started; voice=1 piano=1
+Thu Jan  1 00:20:51 unknown OsuLegacy[664] <Warning>: OSU boot: managed callbacks registered
+Thu Jan  1 00:20:51 unknown OsuLegacy[664] <Warning>: OSU boot: managed startup returned to UIKit
+Thu Jan  1 00:20:53 unknown OsuLegacy[664] <Warning>: OSU startup: menu music play=1
+Thu Jan  1 00:20:53 unknown OsuLegacy[664] <Warning>: OSU startup: menu revealed
+Thu Jan  1 00:21:02 unknown OsuLegacy[664] <Warning>: OSU text x=14 y=8 size=16 rgb=0.96,0.95,1
+Thu Jan  1 00:21:02 unknown OsuLegacy[664] <Warning>: OSU text x=93 y=12 size=10 rgb=0.71,0.67,0.77
+Thu Jan  1 00:21:02 unknown OsuLegacy[664] <Warning>: OSU text x=376 y=8.5 size=13 rgb=0.96,0.95,1
+Thu Jan  1 00:21:04 unknown OsuLegacy[664] <Warning>: OSU drawing: active 1.2 calls/s, 569.4 ms/call
+Thu Jan  1 00:21:09 unknown OsuLegacy[664] <Warning>: OSU drawing: active 4.0 calls/s, 231.4 ms/call
+Thu Jan  1 00:21:14 unknown OsuLegacy[664] <Warning>: OSU drawing: active 3.8 calls/s, 243.9 ms/call
+Thu Jan  1 00:21:17 unknown UIKitApplication:org.osu.legacy.experimental[0x6335][664] <Notice>: AudioStreamBasicDescription:  2 ch,  44100 Hz, 'lpcm' (0x00000C2C) 8.24-bit little-endian signed integer, deinterleaved
+Thu Jan  1 00:21:18 unknown OsuLegacy[665] <Notice>: MS:Notice: Injecting: org.osu.legacy.experimental [OsuLegacy] (550.52)
+Thu Jan  1 00:21:18 unknown kernel[0] <Debug>: punchd[665] Builtin profile: container (sandbox)
+Thu Jan  1 00:21:18 unknown kernel[0] <Debug>: punchd[665] Container: /private/var/mobile/Applications/78FBCF5E-6115-4F5F-BC77-197097DBEBF9 [69] (sandbox)
+Thu Jan  1 00:21:18 unknown OsuLegacy[665] <Warning>: OSU UI: landscape canvas 480x320, view 320x480
+Thu Jan  1 00:21:19 unknown OsuLegacy[665] <Warning>: OSU boot: initializing embedded Mono after native launch
+Thu Jan  1 00:21:19 unknown OsuLegacy[665] <Warning>: OSU checkpoint: managed entry reached native bundle binding
+Thu Jan  1 00:21:21 unknown OsuLegacy[665] <Warning>: OSU startup: welcome animation started; voice=1 piano=1
+Thu Jan  1 00:21:21 unknown OsuLegacy[665] <Warning>: OSU boot: managed callbacks registered
+Thu Jan  1 00:21:21 unknown OsuLegacy[665] <Warning>: OSU boot: managed startup returned to UIKit
+Thu Jan  1 00:21:23 unknown OsuLegacy[665] <Warning>: OSU startup: menu music play=1
+Thu Jan  1 00:21:23 unknown OsuLegacy[665] <Warning>: OSU startup: menu revealed
+Thu Jan  1 00:21:31 unknown OsuLegacy[665] <Warning>: OSU text x=14 y=8 size=16 rgb=0.96,0.95,1
+Thu Jan  1 00:21:31 unknown OsuLegacy[665] <Warning>: OSU text x=93 y=12 size=10 rgb=0.71,0.67,0.77
+Thu Jan  1 00:21:31 unknown OsuLegacy[665] <Warning>: OSU text x=376 y=8.5 size=13 rgb=0.96,0.95,1
+Thu Jan  1 00:21:33 unknown OsuLegacy[665] <Warning>: OSU drawing: active 1.2 calls/s, 590.5 ms/call
+Thu Jan  1 00:21:39 unknown UIKitApplication:org.osu.legacy.experimental[0x5af1][665] <Notice>: AudioStreamBasicDescription:  2 ch,  44100 Hz, 'lpcm' (0x00000C2C) 8.24-bit little-endian signed integer, deinterleaved
+Thu Jan  1 00:21:39 unknown OsuLegacy[666] <Notice>: MS:Notice: Injecting: org.osu.legacy.experimental [OsuLegacy] (550.52)
+Thu Jan  1 00:21:39 unknown kernel[0] <Debug>: punchd[666] Builtin profile: container (sandbox)
+Thu Jan  1 00:21:39 unknown kernel[0] <Debug>: punchd[666] Container: /private/var/mobile/Applications/78FBCF5E-6115-4F5F-BC77-197097DBEBF9 [69] (sandbox)
+Thu Jan  1 00:21:40 unknown OsuLegacy[666] <Warning>: OSU UI: landscape canvas 480x320, view 320x480
+Thu Jan  1 00:21:40 unknown OsuLegacy[666] <Warning>: OSU boot: initializing embedded Mono after native launch
+Thu Jan  1 00:21:41 unknown OsuLegacy[666] <Warning>: OSU checkpoint: managed entry reached native bundle binding
+Thu Jan  1 00:21:42 unknown OsuLegacy[666] <Warning>: OSU startup: welcome animation started; voice=1 piano=1
+Thu Jan  1 00:21:42 unknown OsuLegacy[666] <Warning>: OSU boot: managed callbacks registered
+Thu Jan  1 00:21:42 unknown OsuLegacy[666] <Warning>: OSU boot: managed startup returned to UIKit
+Thu Jan  1 00:21:42 unknown OsuLegacy[666] <Warning>: OSU startup: menu music play=1
+Thu Jan  1 00:21:42 unknown OsuLegacy[666] <Warning>: OSU startup: menu revealed
+Thu Jan  1 00:21:50 unknown OsuLegacy[666] <Warning>: OSU text x=14 y=8 size=16 rgb=0.96,0.95,1
+Thu Jan  1 00:21:50 unknown OsuLegacy[666] <Warning>: OSU text x=93 y=12 size=10 rgb=0.71,0.67,0.77
+Thu Jan  1 00:21:50 unknown OsuLegacy[666] <Warning>: OSU text x=376 y=8.5 size=13 rgb=0.96,0.95,1
+Thu Jan  1 00:21:52 unknown OsuLegacy[666] <Warning>: OSU drawing: active 1.1 calls/s, 709.0 ms/call
+Thu Jan  1 00:21:57 unknown OsuLegacy[666] <Warning>: OSU drawing: active 3.9 calls/s, 239.0 ms/call
+Thu Jan  1 00:22:02 unknown OsuLegacy[666] <Warning>: OSU drawing: active 9.3 calls/s, 91.6 ms/call
+Thu Jan  1 00:22:07 unknown OsuLegacy[666] <Warning>: OSU drawing: active 7.3 calls/s, 123.3 ms/call
+Thu Jan  1 00:22:12 unknown UIKitApplication:org.osu.legacy.experimental[0x23b][666] <Notice>: AudioStreamBasicDescription:  2 ch,  44100 Hz, 'lpcm' (0x00000C2C) 8.24-bit little-endian signed integer, deinterleaved
+Thu Jan  1 00:22:23 unknown OsuLegacy[667] <Notice>: MS:Notice: Injecting: org.osu.legacy.experimental [OsuLegacy] (550.52)
+Thu Jan  1 00:22:24 unknown OsuLegacy[667] <Warning>: OSU UI: landscape canvas 480x320, view 320x480
+Thu Jan  1 00:22:24 unknown kernel[0] <Debug>: punchd[667] Builtin profile: container (sandbox)
+Thu Jan  1 00:22:24 unknown kernel[0] <Debug>: punchd[667] Container: /private/var/mobile/Applications/78FBCF5E-6115-4F5F-BC77-197097DBEBF9 [69] (sandbox)
+Thu Jan  1 00:22:25 unknown OsuLegacy[667] <Warning>: OSU boot: initializing embedded Mono after native launch
+Thu Jan  1 00:22:25 unknown OsuLegacy[667] <Warning>: OSU checkpoint: managed entry reached native bundle binding
+Thu Jan  1 00:22:26 unknown OsuLegacy[667] <Warning>: OSU startup: welcome animation started; voice=1 piano=1
+Thu Jan  1 00:22:26 unknown OsuLegacy[667] <Warning>: OSU boot: managed callbacks registered
+Thu Jan  1 00:22:26 unknown OsuLegacy[667] <Warning>: OSU boot: managed startup returned to UIKit
+Thu Jan  1 00:22:29 unknown OsuLegacy[667] <Warning>: OSU startup: menu music play=1
+Thu Jan  1 00:22:29 unknown OsuLegacy[667] <Warning>: OSU startup: menu revealed
+Thu Jan  1 00:22:37 unknown OsuLegacy[667] <Warning>: OSU text x=14 y=8 size=16 rgb=0.96,0.95,1
+Thu Jan  1 00:22:37 unknown OsuLegacy[667] <Warning>: OSU text x=93 y=12 size=10 rgb=0.71,0.67,0.77
+Thu Jan  1 00:22:37 unknown OsuLegacy[667] <Warning>: OSU text x=376 y=8.5 size=13 rgb=0.96,0.95,1
+Thu Jan  1 00:22:39 unknown OsuLegacy[667] <Warning>: OSU drawing: active 1.2 calls/s, 589.5 ms/call
+Thu Jan  1 00:22:44 unknown OsuLegacy[667] <Warning>: OSU drawing: active 4.1 calls/s, 225.9 ms/call
+Thu Jan  1 00:22:49 unknown OsuLegacy[667] <Warning>: OSU drawing: active 7.6 calls/s, 114.6 ms/call
+Thu Jan  1 00:22:54 unknown OsuLegacy[667] <Warning>: OSU drawing: active 17.0 calls/s, 44.5 ms/call
+Thu Jan  1 00:22:59 unknown OsuLegacy[667] <Warning>: OSU drawing: active 17.3 calls/s, 44.4 ms/call
+Thu Jan  1 00:23:10 unknown OsuLegacy[667] <Warning>: OSU drawing: active 3.5 calls/s, 275.8 ms/call
+Thu Jan  1 00:23:16 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.7 calls/s, 165.4 ms/call
+Thu Jan  1 00:23:21 unknown OsuLegacy[667] <Warning>: OSU drawing: idle 2.2 calls/s, 209.9 ms/call
+Thu Jan  1 00:23:30 unknown OsuLegacy[667] <Warning>: OSU drawing: active 1.1 calls/s, 811.6 ms/call
+Thu Jan  1 00:23:35 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.8 calls/s, 164.2 ms/call
+Thu Jan  1 00:23:40 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.9 calls/s, 161.5 ms/call
+Thu Jan  1 00:23:45 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.8 calls/s, 163.0 ms/call
+Thu Jan  1 00:23:50 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.8 calls/s, 163.4 ms/call
+Thu Jan  1 00:23:55 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.8 calls/s, 162.6 ms/call
+Thu Jan  1 00:24:00 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.8 calls/s, 162.5 ms/call
+Thu Jan  1 00:24:05 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.8 calls/s, 162.1 ms/call
+Thu Jan  1 00:24:11 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.8 calls/s, 164.2 ms/call
+Thu Jan  1 00:24:16 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.8 calls/s, 162.7 ms/call
+Thu Jan  1 00:24:21 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.8 calls/s, 164.0 ms/call
+Thu Jan  1 00:24:26 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.8 calls/s, 161.9 ms/call
+Thu Jan  1 00:24:31 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.8 calls/s, 162.6 ms/call
+Thu Jan  1 00:24:36 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.8 calls/s, 162.0 ms/call
+Thu Jan  1 00:24:41 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.8 calls/s, 162.2 ms/call
+Thu Jan  1 00:24:47 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.8 calls/s, 163.5 ms/call
+Thu Jan  1 00:24:52 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.9 calls/s, 162.1 ms/call
+Thu Jan  1 00:24:57 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.8 calls/s, 161.9 ms/call
+Thu Jan  1 00:25:02 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.8 calls/s, 162.6 ms/call
+Thu Jan  1 00:25:07 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.8 calls/s, 163.0 ms/call
+Thu Jan  1 00:25:12 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.8 calls/s, 162.2 ms/call
+Thu Jan  1 00:25:17 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.8 calls/s, 163.3 ms/call
+Thu Jan  1 00:25:22 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.8 calls/s, 163.1 ms/call
+Thu Jan  1 00:25:28 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.8 calls/s, 162.5 ms/call
+Thu Jan  1 00:25:33 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.8 calls/s, 162.7 ms/call
+Thu Jan  1 00:25:38 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.8 calls/s, 162.9 ms/call
+Thu Jan  1 00:25:43 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.9 calls/s, 161.3 ms/call
+Thu Jan  1 00:25:48 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.8 calls/s, 163.0 ms/call
+Thu Jan  1 00:25:53 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.8 calls/s, 162.6 ms/call
+Thu Jan  1 00:25:58 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.8 calls/s, 162.5 ms/call
+Thu Jan  1 00:26:03 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.8 calls/s, 164.4 ms/call
+Thu Jan  1 00:26:09 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.8 calls/s, 162.3 ms/call
+Thu Jan  1 00:26:14 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.8 calls/s, 162.5 ms/call
+Thu Jan  1 00:26:19 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.8 calls/s, 163.4 ms/call
+Thu Jan  1 00:26:24 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.9 calls/s, 162.0 ms/call
+Thu Jan  1 00:26:29 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.9 calls/s, 162.0 ms/call
+Thu Jan  1 00:26:34 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.8 calls/s, 162.3 ms/call
+Thu Jan  1 00:26:39 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.8 calls/s, 163.2 ms/call
+Thu Jan  1 00:26:44 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.8 calls/s, 162.1 ms/call
+Thu Jan  1 00:26:50 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.8 calls/s, 162.7 ms/call
+Thu Jan  1 00:26:55 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.8 calls/s, 163.2 ms/call
+Thu Jan  1 00:27:00 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.9 calls/s, 160.5 ms/call
+Thu Jan  1 00:27:05 unknown OsuLegacy[667] <Warning>: OSU drawing: active 5.8 calls/s, 162.1 ms/call
+Thu Jan  1 00:27:09 unknown securityd[668] <Notice>: MS:Notice: Injecting: (null) [securityd] (550.52)
+Thu Jan  1 00:27:10 unknown OsuLegacy[667] <Warning>: OSU drawing: active 4.7 calls/s, 198.4 ms/call
+Thu Jan  1 00:27:11 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 00:27:11 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #9 from ideviceinstaller. Killing connection
+Thu Jan  1 00:27:13 unknown installd[674] <Notice>: MS:Notice: Injecting: (null) [installd] (550.52)
+Thu Jan  1 00:27:14 unknown installd[674] <Error>: 3e1b38b8 check_freshness: sb.st_mtime = 39317 reference_mtime = 18594
+Thu Jan  1 00:27:14 unknown installd[674] <Error>: 3e1b38b8 check_stale_maps: /Applications appears stale
+Thu Jan  1 00:27:15 unknown OsuLegacy[667] <Warning>: OSU drawing: active 3.6 calls/s, 256.0 ms/call
+Thu Jan  1 00:27:17 unknown SpringBoard[29] <Warning>: Reloading and rendering all application icons.
+Thu Jan  1 00:27:21 unknown OsuLegacy[667] <Warning>: OSU drawing: active 3.5 calls/s, 271.9 ms/call
+Thu Jan  1 00:27:26 unknown OsuLegacy[667] <Warning>: OSU drawing: active 4.2 calls/s, 224.6 ms/call
+Thu Jan  1 00:27:27 unknown installd[674] <Error>: 2ff68000 verify_signer_identity: TDMTANF bypass enabled
+Thu Jan  1 00:27:27 unknown SpringBoard[29] <Warning>: Killing <SBApplication: 0x2c5500> org.osu.legacy.experimental finishedLaunchingFrontmost userLaunch statusBarWindowContextId = 1493470400  activate:  deactivate:  for app installation
+Thu Jan  1 00:27:27 unknown com.apple.launchd[1] <Notice>: (UIKitApplication:org.osu.legacy.experimental[0xf8c1]) Exited: Killed
+Thu Jan  1 00:27:27 unknown SpringBoard[29] <Warning>: Application 'osu legacy' exited abnormally with signal 9: Killed
+Thu Jan  1 00:27:28 unknown SpringBoard[29] <Warning>: Reloading application state for 'org.osu.legacy.experimental' as its modification date has changed
+Thu Jan  1 00:27:29 unknown SpringBoard[29] <Warning>: Reloading and rendering all application icons.
+Thu Jan  1 00:27:34 unknown securityd[676] <Notice>: MS:Notice: Injecting: (null) [securityd] (550.52)
+Thu Jan  1 00:27:34 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #8 from idevicesyslog. Killing connection
+Thu Jan  1 00:27:34 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 00:27:45 unknown OsuLegacy[679] <Notice>: MS:Notice: Injecting: org.osu.legacy.experimental [OsuLegacy] (550.52)
+Thu Jan  1 00:27:45 unknown kernel[0] <Debug>: punchd[679] Builtin profile: container (sandbox)
+Thu Jan  1 00:27:45 unknown kernel[0] <Debug>: punchd[679] Container: /private/var/mobile/Applications/FF6F42E4-2EF9-4A89-B6E2-AC3004F6137F [69] (sandbox)
+Thu Jan  1 00:27:46 unknown OsuLegacy[679] <Warning>: OSU UI: landscape canvas 480x320, view 320x480
+Thu Jan  1 00:27:46 unknown OsuLegacy[679] <Warning>: OSU boot: initializing embedded Mono after native launch
+Thu Jan  1 00:27:47 unknown OsuLegacy[679] <Warning>: OSU checkpoint: managed entry reached native bundle binding
+Thu Jan  1 00:27:49 unknown OsuLegacy[679] <Warning>: OSU startup: IntroTriangles requested, 480x320 / 30 fps
+Thu Jan  1 00:27:49 unknown mDNSResponder[24] <Error>: mDNSPlatformSetDNSConfig: Error: dns_configuration_copy returned NULL
+Thu Jan  1 00:27:49 unknown OsuLegacy[679] <Warning>: OSU boot: managed callbacks registered
+Thu Jan  1 00:27:49 unknown OsuLegacy[679] <Warning>: OSU boot: managed startup returned to UIKit
+Thu Jan  1 00:27:49 unknown OsuLegacy[679] <Warning>: OSU startup: triangles video playing; theme=1
+Thu Jan  1 00:27:57 unknown OsuLegacy[679] <Warning>: OSU text x=14 y=8 size=16 rgb=0.96,0.95,1
+Thu Jan  1 00:27:57 unknown OsuLegacy[679] <Warning>: OSU text x=93 y=12 size=10 rgb=0.71,0.67,0.77
+Thu Jan  1 00:27:57 unknown OsuLegacy[679] <Warning>: OSU text x=376 y=8.5 size=13 rgb=0.96,0.95,1
+Thu Jan  1 00:27:59 unknown OsuLegacy[679] <Warning>: OSU drawing: active 0.7 calls/s, 1048.5 ms/call
+Thu Jan  1 00:28:00 unknown OsuLegacy[679] <Warning>: OSU startup: triangles menu revealed
+Thu Jan  1 00:28:05 unknown UIKitApplication:org.osu.legacy.experimental[0x5bd][679] <Notice>: AudioStreamBasicDescription:  2 ch,  44100 Hz, 'lpcm' (0x00000C2C) 8.24-bit little-endian signed integer, deinterleaved
+Thu Jan  1 00:28:06 unknown kernel[0] <Debug>: punchd[680] Builtin profile: container (sandbox)
+Thu Jan  1 00:28:06 unknown kernel[0] <Debug>: punchd[680] Container: /private/var/mobile/Applications/FF6F42E4-2EF9-4A89-B6E2-AC3004F6137F [69] (sandbox)
+Thu Jan  1 00:28:07 unknown OsuLegacy[680] <Notice>: MS:Notice: Injecting: org.osu.legacy.experimental [OsuLegacy] (550.52)
+Thu Jan  1 00:28:07 unknown OsuLegacy[680] <Warning>: OSU UI: landscape canvas 480x320, view 320x480
+Thu Jan  1 00:28:08 unknown OsuLegacy[680] <Warning>: OSU boot: initializing embedded Mono after native launch
+Thu Jan  1 00:28:08 unknown OsuLegacy[680] <Warning>: OSU checkpoint: managed entry reached native bundle binding
+Thu Jan  1 00:28:10 unknown OsuLegacy[680] <Warning>: OSU startup: IntroTriangles requested, 480x320 / 30 fps
+Thu Jan  1 00:28:10 unknown OsuLegacy[680] <Warning>: OSU boot: managed callbacks registered
+Thu Jan  1 00:28:10 unknown OsuLegacy[680] <Warning>: OSU boot: managed startup returned to UIKit
+Thu Jan  1 00:28:10 unknown OsuLegacy[680] <Warning>: OSU startup: triangles video playing; theme=1
+Thu Jan  1 00:28:10 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Thu Jan  1 00:28:10 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : openH264Driver()
+Thu Jan  1 00:28:10 unknown mediaserverd[23] <Notice>: Inside H264DecodeThread : createDecoderThread()
+Thu Jan  1 00:28:10 unknown mediaserverd[23] <Notice>: H264M2VideoDecoder_StartSession() Stream may not be H264LC: 0 or EnableH264OutOfLoopFilter property: 0 is set to false or Resolution is <= 320X240 : 480X320
+Thu Jan  1 00:28:10 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : setH264DriverSession()
+Thu Jan  1 00:28:10 unknown kernel[0] <Debug>: *** AppleM2H264MPDDriver[0x807d8000]::setSessionSettings() called ***
+Thu Jan  1 00:28:10 unknown kernel[0] <Debug>: # AppleM2H264MPDDriver::setSessionSettings():Turning off Post Filtering #
+Thu Jan  1 00:28:11 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is enabled
+Thu Jan  1 00:28:13 unknown OsuLegacy[680] <Warning>: OSU drawing: idle 2.9 calls/s, 11.4 ms/call
+Thu Jan  1 00:28:13 unknown OsuLegacy[680] <Warning>: OSU startup: video ended ({
+	    MPMoviePlayerPlaybackDidFinishReasonUserInfoKey = 0;
+	})
+Thu Jan  1 00:28:13 unknown OsuLegacy[680] <Warning>: OSU startup: triangles menu revealed
+Thu Jan  1 00:28:13 unknown mediaserverd[23] <Notice>: Inside H264DecodeThread : destroyDecoderThread()
+Thu Jan  1 00:28:13 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : freeDriverStorage()
+Thu Jan  1 00:28:13 unknown mediaserverd[23] <Notice>: Inside AppleM2H264DriverUserlandInterface : closeH264Driver()
+Thu Jan  1 00:28:13 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Thu Jan  1 00:28:14 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is disabled
+Thu Jan  1 00:28:14 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is disabled
+Thu Jan  1 00:28:21 unknown OsuLegacy[680] <Warning>: OSU text x=14 y=8 size=16 rgb=0.96,0.95,1
+Thu Jan  1 00:28:21 unknown OsuLegacy[680] <Warning>: OSU text x=93 y=12 size=10 rgb=0.71,0.67,0.77
+Thu Jan  1 00:28:21 unknown OsuLegacy[680] <Warning>: OSU text x=376 y=8.5 size=13 rgb=0.96,0.95,1
+Thu Jan  1 00:28:25 unknown OsuLegacy[680] <Warning>: OSU drawing: active 0.8 calls/s, 1174.1 ms/call
+Thu Jan  1 00:28:30 unknown OsuLegacy[680] <Warning>: OSU drawing: active 5.2 calls/s, 175.4 ms/call
+Thu Jan  1 00:28:35 unknown OsuLegacy[680] <Warning>: OSU drawing: active 4.2 calls/s, 219.6 ms/call
+Thu Jan  1 00:28:40 unknown OsuLegacy[680] <Warning>: OSU drawing: active 6.3 calls/s, 143.1 ms/call
+Thu Jan  1 00:28:52 unknown OsuLegacy[680] <Warning>: OSU drawing: active 2.0 calls/s, 487.7 ms/call
+Thu Jan  1 00:28:57 unknown OsuLegacy[680] <Warning>: OSU drawing: active 5.7 calls/s, 161.3 ms/call
+Thu Jan  1 00:29:02 unknown OsuLegacy[680] <Warning>: OSU drawing: active 5.8 calls/s, 160.5 ms/call
+Thu Jan  1 00:29:07 unknown OsuLegacy[680] <Warning>: OSU drawing: idle 2.3 calls/s, 294.1 ms/call
+Thu Jan  1 00:29:13 unknown OsuLegacy[680] <Warning>: OSU drawing: idle 3.8 calls/s, 146.1 ms/call
+Thu Jan  1 00:29:22 unknown OsuLegacy[680] <Warning>: OSU drawing: idle 1.1 calls/s, 746.0 ms/call
+Thu Jan  1 00:29:27 unknown OsuLegacy[680] <Warning>: OSU drawing: idle 4.3 calls/s, 117.9 ms/call
+Thu Jan  1 00:29:33 unknown OsuLegacy[680] <Warning>: OSU drawing: idle 2.9 calls/s, 129.1 ms/call
+Thu Jan  1 00:29:49 unknown OsuLegacy[680] <Warning>: OSU drawing: idle 0.6 calls/s, 1375.7 ms/call
+Thu Jan  1 00:29:54 unknown OsuLegacy[680] <Warning>: OSU drawing: active 10.4 calls/s, 71.8 ms/call
+Thu Jan  1 00:29:57 unknown mediaserverd[23] <Error>: 00:29:57.036 <AudioQueueServer> AudioQueueObject::IONodeConnection::_AcquireHardwareCodec: failed ('hwiu')
+Thu Jan  1 00:29:59 unknown OsuLegacy[680] <Warning>: OSU drawing: active 18.5 calls/s, 35.6 ms/call
+Thu Jan  1 00:30:04 unknown OsuLegacy[680] <Warning>: OSU drawing: active 20.3 calls/s, 33.3 ms/call
+Thu Jan  1 00:30:10 unknown OsuLegacy[680] <Warning>: OSU drawing: active 22.5 calls/s, 31.7 ms/call
+Thu Jan  1 00:30:15 unknown OsuLegacy[680] <Warning>: OSU drawing: active 19.6 calls/s, 37.0 ms/call
+Thu Jan  1 00:30:20 unknown OsuLegacy[680] <Warning>: OSU drawing: active 19.3 calls/s, 36.6 ms/call
+Thu Jan  1 00:30:25 unknown OsuLegacy[680] <Warning>: OSU drawing: active 18.3 calls/s, 40.0 ms/call
+Thu Jan  1 00:30:30 unknown OsuLegacy[680] <Warning>: OSU drawing: active 17.7 calls/s, 42.7 ms/call
+Thu Jan  1 00:30:35 unknown OsuLegacy[680] <Warning>: OSU drawing: active 18.0 calls/s, 40.7 ms/call
+Thu Jan  1 00:30:40 unknown OsuLegacy[680] <Warning>: OSU drawing: active 17.8 calls/s, 42.9 ms/call
+Thu Jan  1 00:30:45 unknown OsuLegacy[680] <Warning>: OSU drawing: active 21.3 calls/s, 29.6 ms/call
+Thu Jan  1 00:30:47 unknown OsuLegacy[680] <Warning>: OSU startup: menu music play=1
+Thu Jan  1 00:30:50 unknown OsuLegacy[680] <Warning>: OSU drawing: active 16.5 calls/s, 26.8 ms/call
+Thu Jan  1 00:30:55 unknown OsuLegacy[680] <Warning>: OSU drawing: active 5.8 calls/s, 162.9 ms/call
+Thu Jan  1 00:31:00 unknown OsuLegacy[680] <Warning>: OSU drawing: active 5.3 calls/s, 147.2 ms/call
+Thu Jan  1 00:31:05 unknown OsuLegacy[680] <Warning>: OSU drawing: idle 2.2 calls/s, 23.1 ms/call
+Thu Jan  1 00:31:10 unknown OsuLegacy[680] <Warning>: OSU drawing: active 5.0 calls/s, 130.8 ms/call
+Thu Jan  1 00:31:15 unknown OsuLegacy[680] <Warning>: OSU drawing: idle 3.9 calls/s, 107.0 ms/call
+Thu Jan  1 00:31:21 unknown OsuLegacy[680] <Warning>: OSU drawing: active 4.9 calls/s, 144.1 ms/call
+Thu Jan  1 00:31:26 unknown OsuLegacy[680] <Warning>: OSU drawing: active 5.3 calls/s, 175.3 ms/call
+Thu Jan  1 00:31:28 unknown securityd[681] <Notice>: MS:Notice: Injecting: (null) [securityd] (550.52)
+Thu Jan  1 00:31:31 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 00:31:31 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #9 from ideviceinstaller. Killing connection
+Thu Jan  1 00:31:31 unknown OsuLegacy[680] <Warning>: OSU drawing: active 3.8 calls/s, 246.9 ms/call
+Thu Jan  1 00:31:33 unknown installd[687] <Notice>: MS:Notice: Injecting: (null) [installd] (550.52)
+Thu Jan  1 00:31:34 unknown installd[687] <Error>: 3e1b38b8 check_freshness: sb.st_mtime = 39317 reference_mtime = 19648
+Thu Jan  1 00:31:34 unknown installd[687] <Error>: 3e1b38b8 check_stale_maps: /Applications appears stale
+Thu Jan  1 00:31:36 unknown OsuLegacy[680] <Warning>: OSU drawing: active 3.8 calls/s, 246.6 ms/call
+Thu Jan  1 00:31:37 unknown SpringBoard[29] <Warning>: Reloading and rendering all application icons.
+Thu Jan  1 00:31:41 unknown OsuLegacy[680] <Warning>: OSU drawing: idle 3.6 calls/s, 253.1 ms/call
+Thu Jan  1 00:31:45 unknown installd[687] <Error>: 2ff68000 verify_signer_identity: TDMTANF bypass enabled
+Thu Jan  1 00:31:45 unknown SpringBoard[29] <Warning>: Killing <SBApplication: 0x3b526c0> org.osu.legacy.experimental finishedLaunchingFrontmost userLaunch statusBarWindowContextId = -1874655826  activate:  deactivate:  for app installation
+Thu Jan  1 00:31:45 unknown com.apple.launchd[1] <Notice>: (UIKitApplication:org.osu.legacy.experimental[0x60d0]) Exited: Killed
+Thu Jan  1 00:31:45 unknown SpringBoard[29] <Warning>: Application 'osu legacy' exited abnormally with signal 9: Killed
+Thu Jan  1 00:31:46 unknown SpringBoard[29] <Warning>: Reloading application state for 'org.osu.legacy.experimental' as its modification date has changed
+Thu Jan  1 00:31:46 unknown SpringBoard[29] <Warning>: Reloading and rendering all application icons.
+Thu Jan  1 00:32:07 unknown securityd[689] <Notice>: MS:Notice: Injecting: (null) [securityd] (550.52)
+> 
+Thu Jan  1 00:32:08 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 00:32:08 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #8 from idevicesyslog. Killing connection
+Thu Jan  1 00:32:14 unknown OsuLegacy[694] <Notice>: MS:Notice: Injecting: org.osu.legacy.experimental [OsuLegacy] (550.52)
+> 
+Thu Jan  1 00:32:14 unknown kernel[0] <Debug>: punchd[694] Builtin profile: container (sandbox)
+Thu Jan  1 00:32:14 unknown kernel[0] <Debug>: punchd[694] Container: /private/var/mobile/Applications/65C87478-292C-49FC-BE05-E12E01BA66C7 [69] (sandbox)
+Thu Jan  1 00:32:15 unknown OsuLegacy[694] <Warning>: OSU UI: landscape canvas 480x320, view 320x480
+Thu Jan  1 00:32:15 unknown OsuLegacy[694] <Warning>: OSU boot: initializing embedded Mono after native launch
+> 
+Thu Jan  1 00:32:16 unknown OsuLegacy[694] <Warning>: OSU checkpoint: managed entry reached native bundle binding
+> 
+Thu Jan  1 00:32:17 unknown OsuLegacy[694] <Warning>: OSU boot: managed callbacks registered
+Thu Jan  1 00:32:17 unknown OsuLegacy[694] <Warning>: OSU boot: managed startup returned to UIKit
+Thu Jan  1 00:32:17 unknown OsuLegacy[694] <Warning>: OSU startup: IntroTriangles requested, 480x320 / 30 fps
+Thu Jan  1 00:32:18 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Thu Jan  1 00:32:18 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : openH264Driver()
+Thu Jan  1 00:32:18 unknown mediaserverd[23] <Notice>: Inside H264DecodeThread : createDecoderThread()
+Thu Jan  1 00:32:18 unknown mediaserverd[23] <Notice>: H264M2VideoDecoder_StartSession() Stream may not be H264LC: 0 or EnableH264OutOfLoopFilter property: 0 is set to false or Resolution is <= 320X240 : 480X320
+Thu Jan  1 00:32:18 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : setH264DriverSession()
+Thu Jan  1 00:32:18 unknown OsuLegacy[694] <Warning>: OSU startup: intro surface presented
+Thu Jan  1 00:32:18 unknown kernel[0] <Debug>: *** AppleM2H264MPDDriver[0x807d8000]::setSessionSettings() called ***
+Thu Jan  1 00:32:18 unknown kernel[0] <Debug>: # AppleM2H264MPDDriver::setSessionSettings():Turning off Post Filtering #
+> 
+Thu Jan  1 00:32:18 unknown OsuLegacy[694] <Warning>: OSU startup: visible surface and decoder ready; starting from zero
+Thu Jan  1 00:32:19 unknown OsuLegacy[694] <Warning>: OSU startup: triangles video playing; theme=1
+Thu Jan  1 00:32:19 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is enabled
+Thu Jan  1 00:32:20 unknown OsuLegacy[694] <Warning>: OSU drawing: idle 2.7 calls/s, 16.3 ms/call
+> 
+Thu Jan  1 00:32:22 unknown OsuLegacy[694] <Warning>: OSU startup: video ended ({
+	    MPMoviePlayerPlaybackDidFinishReasonUserInfoKey = 0;
+	})
+Thu Jan  1 00:32:22 unknown mediaserverd[23] <Notice>: Inside H264DecodeThread : destroyDecoderThread()
+Thu Jan  1 00:32:22 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : freeDriverStorage()
+Thu Jan  1 00:32:22 unknown mediaserverd[23] <Notice>: Inside AppleM2H264DriverUserlandInterface : closeH264Driver()
+Thu Jan  1 00:32:22 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Thu Jan  1 00:32:22 unknown OsuLegacy[694] <Warning>: OSU startup: triangles menu revealed
+Thu Jan  1 00:32:22 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is disabled
+Thu Jan  1 00:32:22 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is disabled
+> 
+Thu Jan  1 00:32:30 unknown OsuLegacy[694] <Warning>: OSU text x=14 y=8 size=16 rgb=0.96,0.95,1
+Thu Jan  1 00:32:30 unknown OsuLegacy[694] <Warning>: OSU text x=93 y=12 size=10 rgb=0.71,0.67,0.77
+Thu Jan  1 00:32:30 unknown OsuLegacy[694] <Warning>: OSU text x=376 y=8.5 size=13 rgb=0.96,0.95,1
+> 
+Thu Jan  1 00:32:34 unknown OsuLegacy[694] <Warning>: OSU drawing: active 0.7 calls/s, 1153.0 ms/call
+> 
+Thu Jan  1 00:32:39 unknown OsuLegacy[694] <Warning>: OSU drawing: active 4.0 calls/s, 235.6 ms/call
+> 
+Thu Jan  1 00:32:44 unknown OsuLegacy[694] <Warning>: OSU drawing: active 4.1 calls/s, 230.1 ms/call
+> 
+Thu Jan  1 00:32:49 unknown OsuLegacy[694] <Warning>: OSU drawing: active 4.2 calls/s, 220.5 ms/call
+> 
+Thu Jan  1 00:33:01 unknown OsuLegacy[694] <Warning>: OSU drawing: active 2.4 calls/s, 405.8 ms/call
+> 
+Thu Jan  1 00:33:06 unknown OsuLegacy[694] <Warning>: OSU drawing: active 5.9 calls/s, 157.6 ms/call
+> 
+Thu Jan  1 00:33:11 unknown OsuLegacy[694] <Warning>: OSU drawing: active 6.1 calls/s, 155.0 ms/call
+> 
+Thu Jan  1 00:33:17 unknown OsuLegacy[694] <Warning>: OSU drawing: active 6.1 calls/s, 155.3 ms/call
+> 
+Thu Jan  1 00:33:22 unknown OsuLegacy[694] <Warning>: OSU drawing: active 6.0 calls/s, 156.1 ms/call
+> 
+Thu Jan  1 00:33:27 unknown OsuLegacy[694] <Warning>: OSU drawing: active 6.0 calls/s, 158.0 ms/call
+> 
+Thu Jan  1 00:33:32 unknown OsuLegacy[694] <Warning>: OSU drawing: active 5.8 calls/s, 162.1 ms/call
+> 
+Thu Jan  1 00:33:37 unknown UIKitApplication:org.osu.legacy.experimental[0xa36b][694] <Notice>: AudioStreamBasicDescription:  2 ch,  44100 Hz, 'lpcm' (0x00000C2C) 8.24-bit little-endian signed integer, deinterleaved
+> 
+Thu Jan  1 00:33:38 unknown OsuLegacy[695] <Notice>: MS:Notice: Injecting: org.osu.legacy.experimental [OsuLegacy] (550.52)
+Thu Jan  1 00:33:38 unknown kernel[0] <Debug>: punchd[695] Builtin profile: container (sandbox)
+Thu Jan  1 00:33:38 unknown kernel[0] <Debug>: punchd[695] Container: /private/var/mobile/Applications/65C87478-292C-49FC-BE05-E12E01BA66C7 [69] (sandbox)
+Thu Jan  1 00:33:39 unknown OsuLegacy[695] <Warning>: OSU UI: landscape canvas 480x320, view 320x480
+Thu Jan  1 00:33:39 unknown OsuLegacy[695] <Warning>: OSU boot: initializing embedded Mono after native launch
+> 
+Thu Jan  1 00:33:40 unknown OsuLegacy[695] <Warning>: OSU checkpoint: managed entry reached native bundle binding
+> 
+Thu Jan  1 00:33:41 unknown OsuLegacy[695] <Warning>: OSU boot: managed callbacks registered
+Thu Jan  1 00:33:41 unknown OsuLegacy[695] <Warning>: OSU boot: managed startup returned to UIKit
+Thu Jan  1 00:33:41 unknown OsuLegacy[695] <Warning>: OSU startup: IntroTriangles requested, 480x320 / 30 fps
+Thu Jan  1 00:33:42 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Thu Jan  1 00:33:42 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : openH264Driver()
+Thu Jan  1 00:33:42 unknown mediaserverd[23] <Notice>: Inside H264DecodeThread : createDecoderThread()
+Thu Jan  1 00:33:42 unknown mediaserverd[23] <Notice>: H264M2VideoDecoder_StartSession() Stream may not be H264LC: 0 or EnableH264OutOfLoopFilter property: 0 is set to false or Resolution is <= 320X240 : 480X320
+Thu Jan  1 00:33:42 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : setH264DriverSession()
+Thu Jan  1 00:33:42 unknown OsuLegacy[695] <Warning>: OSU startup: intro surface presented
+> 
+Thu Jan  1 00:33:42 unknown OsuLegacy[695] <Warning>: OSU startup: visible surface and decoder ready; starting from zero
+Thu Jan  1 00:33:42 unknown kernel[0] <Debug>: *** AppleM2H264MPDDriver[0x807d8000]::setSessionSettings() called ***
+Thu Jan  1 00:33:42 unknown kernel[0] <Debug>: # AppleM2H264MPDDriver::setSessionSettings():Turning off Post Filtering #
+Thu Jan  1 00:33:42 unknown OsuLegacy[695] <Warning>: OSU startup: triangles video playing; theme=1
+Thu Jan  1 00:33:43 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is enabled
+> 
+Thu Jan  1 00:33:44 unknown OsuLegacy[695] <Warning>: OSU drawing: idle 2.9 calls/s, 13.4 ms/call
+Thu Jan  1 00:33:44 unknown mediaserverd[23] <Notice>: Inside H264DecodeThread : destroyDecoderThread()
+Thu Jan  1 00:33:44 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : freeDriverStorage()
+Thu Jan  1 00:33:44 unknown mediaserverd[23] <Notice>: Inside AppleM2H264DriverUserlandInterface : closeH264Driver()
+Thu Jan  1 00:33:44 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Thu Jan  1 00:33:44 unknown OsuLegacy[695] <Warning>: OSU startup: triangles menu revealed
+Thu Jan  1 00:33:44 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is disabled
+Thu Jan  1 00:33:44 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is disabled
+> 
+Thu Jan  1 00:33:52 unknown OsuLegacy[695] <Warning>: OSU text x=14 y=8 size=16 rgb=0.96,0.95,1
+Thu Jan  1 00:33:53 unknown OsuLegacy[695] <Warning>: OSU text x=93 y=12 size=10 rgb=0.71,0.67,0.77
+Thu Jan  1 00:33:53 unknown OsuLegacy[695] <Warning>: OSU text x=376 y=8.5 size=13 rgb=0.96,0.95,1
+> 
+Thu Jan  1 00:33:57 unknown OsuLegacy[695] <Warning>: OSU drawing: active 0.7 calls/s, 1268.4 ms/call
+> 
+Thu Jan  1 00:34:01 unknown UIKitApplication:org.osu.legacy.experimental[0xaf3c][695] <Notice>: AudioStreamBasicDescription:  2 ch,  44100 Hz, 'lpcm' (0x00000C2C) 8.24-bit little-endian signed integer, deinterleaved
+Thu Jan  1 00:34:02 unknown OsuLegacy[696] <Notice>: MS:Notice: Injecting: org.osu.legacy.experimental [OsuLegacy] (550.52)
+Thu Jan  1 00:34:02 unknown kernel[0] <Debug>: punchd[696] Builtin profile: container (sandbox)
+Thu Jan  1 00:34:02 unknown kernel[0] <Debug>: punchd[696] Container: /private/var/mobile/Applications/65C87478-292C-49FC-BE05-E12E01BA66C7 [69] (sandbox)
+> 
+Thu Jan  1 00:34:02 unknown OsuLegacy[696] <Warning>: OSU UI: landscape canvas 480x320, view 320x480
+Thu Jan  1 00:34:03 unknown OsuLegacy[696] <Warning>: OSU boot: initializing embedded Mono after native launch
+Thu Jan  1 00:34:03 unknown OsuLegacy[696] <Warning>: OSU checkpoint: managed entry reached native bundle binding
+> 
+Thu Jan  1 00:34:04 unknown OsuLegacy[696] <Warning>: OSU boot: managed callbacks registered
+Thu Jan  1 00:34:04 unknown OsuLegacy[696] <Warning>: OSU boot: managed startup returned to UIKit
+Thu Jan  1 00:34:05 unknown OsuLegacy[696] <Warning>: OSU startup: IntroTriangles requested, 480x320 / 30 fps
+Thu Jan  1 00:34:05 unknown OsuLegacy[696] <Warning>: OSU startup: intro surface presented
+Thu Jan  1 00:34:05 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Thu Jan  1 00:34:05 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : openH264Driver()
+Thu Jan  1 00:34:05 unknown mediaserverd[23] <Notice>: Inside H264DecodeThread : createDecoderThread()
+Thu Jan  1 00:34:05 unknown mediaserverd[23] <Notice>: H264M2VideoDecoder_StartSession() Stream may not be H264LC: 0 or EnableH264OutOfLoopFilter property: 0 is set to false or Resolution is <= 320X240 : 480X320
+Thu Jan  1 00:34:05 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : setH264DriverSession()
+Thu Jan  1 00:34:05 unknown kernel[0] <Debug>: *** AppleM2H264MPDDriver[0x807d8000]::setSessionSettings() called ***
+Thu Jan  1 00:34:05 unknown kernel[0] <Debug>: # AppleM2H264MPDDriver::setSessionSettings():Turning off Post Filtering #
+Thu Jan  1 00:34:06 unknown OsuLegacy[696] <Warning>: OSU startup: visible surface and decoder ready; starting from zero
+> 
+Thu Jan  1 00:34:06 unknown OsuLegacy[696] <Warning>: OSU startup: triangles video playing; theme=1
+Thu Jan  1 00:34:06 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is enabled
+> 
+Thu Jan  1 00:34:08 unknown OsuLegacy[696] <Warning>: OSU drawing: idle 3.5 calls/s, 8.6 ms/call
+> 
+Thu Jan  1 00:34:09 unknown OsuLegacy[696] <Warning>: OSU startup: video ended ({
+	    MPMoviePlayerPlaybackDidFinishReasonUserInfoKey = 0;
+	})
+Thu Jan  1 00:34:09 unknown mediaserverd[23] <Notice>: Inside H264DecodeThread : destroyDecoderThread()
+Thu Jan  1 00:34:09 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : freeDriverStorage()
+Thu Jan  1 00:34:09 unknown mediaserverd[23] <Notice>: Inside AppleM2H264DriverUserlandInterface : closeH264Driver()
+Thu Jan  1 00:34:09 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Thu Jan  1 00:34:09 unknown OsuLegacy[696] <Warning>: OSU startup: triangles menu revealed
+Thu Jan  1 00:34:09 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is disabled
+Thu Jan  1 00:34:09 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is disabled
+> 
+Thu Jan  1 00:34:19 unknown OsuLegacy[696] <Warning>: OSU text x=14 y=8 size=16 rgb=0.96,0.95,1
+Thu Jan  1 00:34:19 unknown OsuLegacy[696] <Warning>: OSU text x=93 y=12 size=10 rgb=0.71,0.67,0.77
+Thu Jan  1 00:34:19 unknown OsuLegacy[696] <Warning>: OSU text x=376 y=8.5 size=13 rgb=0.96,0.95,1
+> 
+Thu Jan  1 00:34:22 unknown OsuLegacy[696] <Warning>: OSU drawing: active 0.7 calls/s, 1283.8 ms/call
+> 
+Thu Jan  1 00:34:27 unknown OsuLegacy[696] <Warning>: OSU drawing: active 4.0 calls/s, 229.4 ms/call
+> 
+Thu Jan  1 00:34:33 unknown OsuLegacy[696] <Warning>: OSU drawing: active 4.1 calls/s, 233.4 ms/call
+> 
+Thu Jan  1 00:34:37 unknown UIKitApplication:org.osu.legacy.experimental[0xefac][696] <Notice>: AudioStreamBasicDescription:  2 ch,  44100 Hz, 'lpcm' (0x00000C2C) 8.24-bit little-endian signed integer, deinterleaved
+Thu Jan  1 00:34:38 unknown kernel[0] <Debug>: punchd[697] Builtin profile: container (sandbox)
+Thu Jan  1 00:34:38 unknown kernel[0] <Debug>: punchd[697] Container: /private/var/mobile/Applications/65C87478-292C-49FC-BE05-E12E01BA66C7 [69] (sandbox)
+Thu Jan  1 00:34:38 unknown OsuLegacy[697] <Notice>: MS:Notice: Injecting: org.osu.legacy.experimental [OsuLegacy] (550.52)
+> 
+Thu Jan  1 00:34:39 unknown OsuLegacy[697] <Warning>: OSU UI: landscape canvas 480x320, view 320x480
+> 
+Thu Jan  1 00:34:40 unknown OsuLegacy[697] <Warning>: OSU boot: initializing embedded Mono after native launch
+Thu Jan  1 00:34:40 unknown OsuLegacy[697] <Warning>: OSU checkpoint: managed entry reached native bundle binding
+> 
+Thu Jan  1 00:34:41 unknown OsuLegacy[697] <Warning>: OSU boot: managed callbacks registered
+Thu Jan  1 00:34:41 unknown OsuLegacy[697] <Warning>: OSU boot: managed startup returned to UIKit
+Thu Jan  1 00:34:42 unknown OsuLegacy[697] <Warning>: OSU startup: IntroTriangles requested, 480x320 / 30 fps
+Thu Jan  1 00:34:42 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Thu Jan  1 00:34:42 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : openH264Driver()
+Thu Jan  1 00:34:42 unknown mediaserverd[23] <Notice>: Inside H264DecodeThread : createDecoderThread()
+Thu Jan  1 00:34:42 unknown mediaserverd[23] <Notice>: H264M2VideoDecoder_StartSession() Stream may not be H264LC: 0 or EnableH264OutOfLoopFilter property: 0 is set to false or Resolution is <= 320X240 : 480X320
+Thu Jan  1 00:34:42 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : setH264DriverSession()
+Thu Jan  1 00:34:42 unknown OsuLegacy[697] <Warning>: OSU startup: intro surface presented
+> 
+Thu Jan  1 00:34:42 unknown kernel[0] <Debug>: *** AppleM2H264MPDDriver[0x807d8000]::setSessionSettings() called ***
+Thu Jan  1 00:34:42 unknown kernel[0] <Debug>: # AppleM2H264MPDDriver::setSessionSettings():Turning off Post Filtering #
+Thu Jan  1 00:34:42 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is enabled
+Thu Jan  1 00:34:42 unknown OsuLegacy[697] <Warning>: OSU startup: visible surface and decoder ready; starting from zero
+Thu Jan  1 00:34:43 unknown OsuLegacy[697] <Warning>: OSU startup: triangles video playing; theme=1
+> 
+Thu Jan  1 00:34:44 unknown OsuLegacy[697] <Warning>: OSU drawing: idle 3.3 calls/s, 11.5 ms/call
+> 
+Thu Jan  1 00:34:46 unknown OsuLegacy[697] <Warning>: OSU startup: video ended ({
+	    MPMoviePlayerPlaybackDidFinishReasonUserInfoKey = 0;
+	})
+Thu Jan  1 00:34:46 unknown OsuLegacy[697] <Warning>: OSU startup: triangles menu revealed
+Thu Jan  1 00:34:46 unknown mediaserverd[23] <Notice>: Inside H264DecodeThread : destroyDecoderThread()
+Thu Jan  1 00:34:46 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : freeDriverStorage()
+Thu Jan  1 00:34:46 unknown mediaserverd[23] <Notice>: Inside AppleM2H264DriverUserlandInterface : closeH264Driver()
+Thu Jan  1 00:34:46 unknown mediaserverd[23] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Thu Jan  1 00:34:46 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is disabled
+Thu Jan  1 00:34:46 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is disabled
+> 
+Thu Jan  1 00:34:54 unknown OsuLegacy[697] <Warning>: OSU text x=14 y=8 size=16 rgb=0.96,0.95,1
+Thu Jan  1 00:34:54 unknown OsuLegacy[697] <Warning>: OSU text x=93 y=12 size=10 rgb=0.71,0.67,0.77
+Thu Jan  1 00:34:54 unknown OsuLegacy[697] <Warning>: OSU text x=376 y=8.5 size=13 rgb=0.96,0.95,1
+> 
+Thu Jan  1 00:34:58 unknown OsuLegacy[697] <Warning>: OSU drawing: active 0.7 calls/s, 1175.4 ms/call
+> 
+Thu Jan  1 00:35:03 unknown OsuLegacy[697] <Warning>: OSU drawing: active 4.0 calls/s, 223.3 ms/call
+> 
+Thu Jan  1 00:35:08 unknown OsuLegacy[697] <Warning>: OSU drawing: active 14.3 calls/s, 56.5 ms/call
+> 
+Thu Jan  1 00:35:13 unknown OsuLegacy[697] <Warning>: OSU drawing: active 17.2 calls/s, 45.3 ms/call
+> 
+Thu Jan  1 00:35:18 unknown OsuLegacy[697] <Warning>: OSU drawing: active 9.7 calls/s, 87.8 ms/call
+> 
+Thu Jan  1 00:35:30 unknown OsuLegacy[697] <Warning>: OSU drawing: active 4.1 calls/s, 229.3 ms/call
+> 
+Thu Jan  1 00:35:35 unknown OsuLegacy[697] <Warning>: OSU drawing: active 5.6 calls/s, 162.8 ms/call
+> 
+Thu Jan  1 00:35:39 unknown securityd[698] <Notice>: MS:Notice: Injecting: (null) [securityd] (550.52)
+> 
+Thu Jan  1 00:35:40 unknown OsuLegacy[697] <Warning>: OSU drawing: idle 3.0 calls/s, 244.1 ms/call
+> 
+Thu Jan  1 00:35:41 unknown com.apple.mobile.lockdown[21] <Notice>: Could not receive size of message
+Thu Jan  1 00:35:41 unknown lockdownd[21] <Error>: 2ff68000 handle_connection: Could not receive USB message #9 from ideviceinstaller. Killing connection
+> 
+Thu Jan  1 00:35:44 unknown installd[704] <Error>: 3e1b38b8 check_freshness: sb.st_mtime = 39317 reference_mtime = 19906
+Thu Jan  1 00:35:45 unknown installd[704] <Error>: 3e1b38b8 check_stale_maps: /Applications appears stale
+> 
+Thu Jan  1 00:35:51 unknown SpringBoard[29] <Warning>: Reloading and rendering all application icons.
+> 
+Thu Jan  1 00:36:11 unknown installd[704] <Error>: 2ff68000 verify_signer_identity: TDMTANF bypass enabled
+Thu Jan  1 00:36:11 unknown SpringBoard[29] <Warning>: Killing <SBApplication: 0x3b07db0> org.osu.legacy.experimental finishedLaunchingFrontmost userLaunch statusBarWindowContextId = 1885233169  activate:  deactivate:  for app installation
+Thu Jan  1 00:36:12 unknown com.apple.launchd[1] <Notice>: (UIKitApplication:org.osu.legacy.experimental[0x2443]) Exited: Killed
+Thu Jan  1 00:36:12 unknown SpringBoard[29] <Warning>: Application 'osu legacy' exited abnormally with signal 9: Killed
+> [disconnected:f7f4c5236445e3e001f9834aa63367fd56cdf871]

@@ -1,0 +1,1740 @@
+[connected:f7f4c5236445e3e001f9834aa63367fd56cdf871]
+
+========================
+ASL is here to serve you
+> 
+
+Sat Oct 31 22:51:36 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 232.6 ms
+Sat Oct 31 22:51:36 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 152.9 ms
+Sat Oct 31 22:51:36 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 177.6 ms
+Sat Oct 31 22:51:37 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 159.2 ms
+Sat Oct 31 22:51:37 unknown OsuLegacy[608] <Warning>: OSU drawing: idle 3.7 calls/s, 175.2 ms/call
+Sat Oct 31 22:51:37 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 170.2 ms
+Sat Oct 31 22:51:37 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 159.8 ms
+Sat Oct 31 22:51:39 unknown OsuLegacy[608] <Warning>: OSU frame: 3.5 fps, build 165.42 ms, present 2.63 ms, 82.6 draws/frame, 13858 vertices/frame
+Sat Oct 31 22:51:39 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 202.0 ms
+Sat Oct 31 22:51:39 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 189.4 ms
+Sat Oct 31 22:51:39 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 202.5 ms
+Sat Oct 31 22:51:40 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 200.0 ms
+Sat Oct 31 22:51:40 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 219.6 ms
+Sat Oct 31 22:51:40 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 218.0 ms
+Sat Oct 31 22:51:41 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 195.2 ms
+Sat Oct 31 22:51:41 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 172.0 ms
+Sat Oct 31 22:51:41 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 181.1 ms
+Sat Oct 31 22:51:41 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 153.6 ms
+Sat Oct 31 22:51:42 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 160.8 ms
+Sat Oct 31 22:51:42 unknown OsuLegacy[608] <Warning>: OSU stall: artwork cover-2634357.jpg 226x58 136.9 ms
+Sat Oct 31 22:51:42 unknown OsuLegacy[608] <Warning>: OSU stall: artwork cover-2607650.jpg 226x58 125.5 ms
+Sat Oct 31 22:51:42 unknown OsuLegacy[608] <Warning>: OSU drawing: idle 3.2 calls/s, 197.0 ms/call
+Sat Oct 31 22:51:42 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 519.7 ms
+Sat Oct 31 22:51:43 unknown OsuLegacy[608] <Warning>: OSU stall: artwork cover-2576654.jpg 226x58 122.7 ms
+Sat Oct 31 22:51:43 unknown OsuLegacy[608] <Warning>: OSU stall: artwork cover-2639354.jpg 226x58 111.7 ms
+Sat Oct 31 22:51:43 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 478.1 ms
+Sat Oct 31 22:51:43 unknown OsuLegacy[608] <Warning>: OSU stall: artwork cover-2593846.jpg 226x58 110.1 ms
+Sat Oct 31 22:51:44 unknown OsuLegacy[608] <Warning>: OSU stall: artwork cover-2616260.jpg 226x58 124.3 ms
+Sat Oct 31 22:51:44 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 494.2 ms
+Sat Oct 31 22:51:44 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 226.4 ms
+Sat Oct 31 22:51:44 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 183.0 ms
+Sat Oct 31 22:51:45 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 154.9 ms
+Sat Oct 31 22:51:45 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 152.5 ms
+Sat Oct 31 22:51:45 unknown OsuLegacy[608] <Warning>: OSU stall: artwork cover-2459261.jpg 226x58 104.1 ms
+Sat Oct 31 22:51:46 unknown OsuLegacy[608] <Warning>: OSU stall: artwork cover-2637835.jpg 226x58 106.5 ms
+Sat Oct 31 22:51:46 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 456.6 ms
+Sat Oct 31 22:51:46 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 220.4 ms
+Sat Oct 31 22:51:46 unknown OsuLegacy[608] <Warning>: OSU GPU cache: 14 uploads, 0 evictions, 42.7 ms upload work, 5370 KiB cached
+Sat Oct 31 22:51:46 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 222.1 ms
+Sat Oct 31 22:51:47 unknown OsuLegacy[608] <Warning>: OSU stall: artwork cover-2598606.jpg 226x58 112.1 ms
+Sat Oct 31 22:51:48 unknown OsuLegacy[608] <Warning>: OSU stall: artwork cover-2388201.jpg 226x58 112.6 ms
+Sat Oct 31 22:51:48 unknown OsuLegacy[608] <Warning>: OSU drawing: idle 2.8 calls/s, 244.9 ms/call
+Sat Oct 31 22:51:48 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 441.0 ms
+Sat Oct 31 22:51:48 unknown OsuLegacy[608] <Warning>: OSU frame: 3.2 fps, build 217.70 ms, present 2.17 ms, 84.6 draws/frame, 14138 vertices/frame
+Sat Oct 31 22:51:48 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 158.4 ms
+Sat Oct 31 22:51:50 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 173.3 ms
+Sat Oct 31 22:51:51 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 154.7 ms
+Sat Oct 31 22:51:51 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 158.4 ms
+Sat Oct 31 22:51:52 unknown OsuLegacy[608] <Warning>: OSU GPU cache: 4 uploads, 0 evictions, 11.2 ms upload work, 5506 KiB cached
+Sat Oct 31 22:51:52 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 175.5 ms
+Sat Oct 31 22:51:53 unknown OsuLegacy[608] <Warning>: OSU drawing: idle 3.9 calls/s, 146.2 ms/call
+Sat Oct 31 22:51:53 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 212.6 ms
+Sat Oct 31 22:51:53 unknown OsuLegacy[608] <Warning>: OSU stall: artwork cover-2534669.jpg 226x58 109.0 ms
+Sat Oct 31 22:51:53 unknown OsuLegacy[608] <Warning>: OSU stall: artwork cover-2631691.jpg 226x58 115.5 ms
+Sat Oct 31 22:51:53 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 477.6 ms
+Sat Oct 31 22:51:53 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 189.6 ms
+Sat Oct 31 22:51:54 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 165.0 ms
+Sat Oct 31 22:51:54 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 155.9 ms
+Sat Oct 31 22:51:54 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 150.3 ms
+Sat Oct 31 22:51:55 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 176.5 ms
+Sat Oct 31 22:51:55 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 170.4 ms
+Sat Oct 31 22:51:56 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 215.4 ms
+Sat Oct 31 22:51:56 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 168.0 ms
+Sat Oct 31 22:51:56 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 178.8 ms
+Sat Oct 31 22:51:56 unknown OsuLegacy[608] <Warning>: OSU frame: 3.7 fps, build 161.00 ms, present 2.37 ms, 74.5 draws/frame, 12430 vertices/frame
+Sat Oct 31 22:51:57 unknown OsuLegacy[608] <Warning>: OSU GPU cache: 5 uploads, 0 evictions, 11.9 ms upload work, 5646 KiB cached
+Sat Oct 31 22:51:57 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 188.1 ms
+Sat Oct 31 22:51:57 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 225.1 ms
+Sat Oct 31 22:51:57 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 199.3 ms
+Sat Oct 31 22:51:57 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 150.7 ms
+Sat Oct 31 22:51:58 unknown OsuLegacy[608] <Warning>: OSU drawing: idle 4.0 calls/s, 179.2 ms/call
+Sat Oct 31 22:51:58 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 160.3 ms
+Sat Oct 31 22:51:58 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 217.2 ms
+Sat Oct 31 22:51:59 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 228.7 ms
+Sat Oct 31 22:51:59 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 245.7 ms
+Sat Oct 31 22:51:59 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 251.8 ms
+Sat Oct 31 22:51:59 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 248.0 ms
+Sat Oct 31 22:52:00 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 171.1 ms
+Sat Oct 31 22:52:00 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 182.9 ms
+Sat Oct 31 22:52:00 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 154.6 ms
+Sat Oct 31 22:52:00 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 199.0 ms
+Sat Oct 31 22:52:00 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 178.6 ms
+Sat Oct 31 22:52:01 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 246.0 ms
+Sat Oct 31 22:52:01 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 221.4 ms
+Sat Oct 31 22:52:01 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 244.0 ms
+Sat Oct 31 22:52:02 unknown OsuLegacy[608] <Warning>: OSU stall: artwork cover-1240230.jpg 226x58 125.6 ms
+Sat Oct 31 22:52:02 unknown OsuLegacy[608] <Warning>: OSU GPU cache: 4 uploads, 0 evictions, 11.3 ms upload work, 5722 KiB cached
+Sat Oct 31 22:52:02 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 433.7 ms
+Sat Oct 31 22:52:02 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 167.3 ms
+Sat Oct 31 22:52:02 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 203.4 ms
+Sat Oct 31 22:52:02 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 171.3 ms
+Sat Oct 31 22:52:03 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 202.3 ms
+Sat Oct 31 22:52:03 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 180.0 ms
+Sat Oct 31 22:52:03 unknown OsuLegacy[608] <Warning>: OSU drawing: idle 3.8 calls/s, 213.0 ms/call
+Sat Oct 31 22:52:03 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 164.1 ms
+Sat Oct 31 22:52:03 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 167.9 ms
+Sat Oct 31 22:52:04 unknown OsuLegacy[608] <Warning>: OSU frame: 4.1 fps, build 192.65 ms, present 2.73 ms, 74.3 draws/frame, 13576 vertices/frame
+Sat Oct 31 22:52:04 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 203.1 ms
+Sat Oct 31 22:52:04 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 192.5 ms
+Sat Oct 31 22:52:04 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 152.2 ms
+Sat Oct 31 22:52:04 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 181.5 ms
+Sat Oct 31 22:52:05 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 192.0 ms
+Sat Oct 31 22:52:05 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 170.9 ms
+Sat Oct 31 22:52:05 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 163.6 ms
+Sat Oct 31 22:52:05 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 174.9 ms
+Sat Oct 31 22:52:06 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 161.8 ms
+Sat Oct 31 22:52:06 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 187.2 ms
+Sat Oct 31 22:52:06 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 230.0 ms
+Sat Oct 31 22:52:07 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 172.3 ms
+Sat Oct 31 22:52:07 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 248.4 ms
+Sat Oct 31 22:52:07 unknown OsuLegacy[608] <Warning>: OSU stall: artwork cover-2534930.jpg 226x58 112.8 ms
+Sat Oct 31 22:52:07 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 289.1 ms
+Sat Oct 31 22:52:08 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 209.9 ms
+Sat Oct 31 22:52:08 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 174.4 ms
+Sat Oct 31 22:52:09 unknown OsuLegacy[608] <Warning>: OSU drawing: idle 3.9 calls/s, 182.3 ms/call
+Sat Oct 31 22:52:09 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 169.2 ms
+Sat Oct 31 22:52:10 unknown OsuLegacy[608] <Warning>: OSU stall: artwork cover-2398569.jpg 226x58 106.3 ms
+Sat Oct 31 22:52:10 unknown OsuLegacy[608] <Warning>: OSU stall: artwork cover-2626706.jpg 226x58 107.9 ms
+Sat Oct 31 22:52:10 unknown OsuLegacy[608] <Warning>: OSU stall: artwork cover-2605082.jpg 226x58 126.2 ms
+Sat Oct 31 22:52:10 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 567.5 ms
+Sat Oct 31 22:52:10 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 261.8 ms
+Sat Oct 31 22:52:11 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 255.6 ms
+Sat Oct 31 22:52:11 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 207.5 ms
+Sat Oct 31 22:52:12 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 201.9 ms
+Sat Oct 31 22:52:12 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 233.2 ms
+Sat Oct 31 22:52:12 unknown OsuLegacy[608] <Warning>: OSU GPU cache: 5 uploads, 0 evictions, 21.8 ms upload work, 5982 KiB cached
+Sat Oct 31 22:52:12 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 212.5 ms
+Sat Oct 31 22:52:13 unknown OsuLegacy[608] <Warning>: OSU frame: 3.2 fps, build 196.46 ms, present 2.76 ms, 75.8 draws/frame, 13388 vertices/frame
+Sat Oct 31 22:52:13 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 219.4 ms
+Sat Oct 31 22:52:13 unknown OsuLegacy[608] <Warning>: OSU stall: artwork cover-2633249.jpg 226x58 105.3 ms
+Sat Oct 31 22:52:13 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 341.1 ms
+Sat Oct 31 22:52:13 unknown OsuLegacy[608] <Warning>: OSU scene: home
+Sat Oct 31 22:52:13 unknown OsuLegacy[608] <Warning>: OSU FFT: 3574 windows, avg 26.572 ms, max 3024.631 ms
+Sat Oct 31 22:52:13 unknown OsuLegacy[608] <Warning>: OSU GPU effects: 24.60 ms/frame, one presentation with cached UI
+Sat Oct 31 22:52:14 unknown OsuLegacy[608] <Warning>: OSU drawing: idle 2.7 calls/s, 212.4 ms/call
+Sat Oct 31 22:52:14 unknown OsuLegacy[608] <Warning>: OSU scene: play
+Sat Oct 31 22:52:17 unknown OsuLegacy[608] <Warning>: OSU GPU cache: 1 uploads, 0 evictions, 5.2 ms upload work, 6046 KiB cached
+Sat Oct 31 22:52:19 unknown OsuLegacy[608] <Warning>: OSU GPU effects: 24.38 ms/frame, one presentation with cached UI
+Sat Oct 31 22:52:19 unknown OsuLegacy[608] <Warning>: OSU frame: 32.9 fps, build 14.98 ms, present 12.56 ms, 10.0 draws/frame, 5000 vertices/frame
+Sat Oct 31 22:52:20 unknown OsuLegacy[608] <Warning>: OSU drawing: idle 4.1 calls/s, 50.2 ms/call
+Sat Oct 31 22:52:21 unknown OsuLegacy[608] <Warning>: OSU scene: home
+Sat Oct 31 22:52:23 unknown OsuLegacy[608] <Warning>: OSU FFT: 3761 windows, avg 26.674 ms, max 3024.631 ms
+Sat Oct 31 22:52:24 unknown OsuLegacy[608] <Warning>: OSU GPU effects: 22.57 ms/frame, one presentation with cached UI
+Sat Oct 31 22:52:26 unknown OsuLegacy[608] <Warning>: OSU frame: 39.7 fps, build 14.88 ms, present 8.19 ms, 5.7 draws/frame, 3619 vertices/frame
+Sat Oct 31 22:52:28 unknown OsuLegacy[608] <Warning>: OSU drawing: idle 3.6 calls/s, 36.1 ms/call
+Sat Oct 31 22:52:29 unknown OsuLegacy[608] <Warning>: OSU scene: play
+Sat Oct 31 22:52:30 unknown OsuLegacy[608] <Warning>: OSU scene: songs
+Sat Oct 31 22:52:30 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 171.9 ms
+Sat Oct 31 22:52:30 unknown OsuLegacy[608] <Warning>: OSU stall: artwork maxresdefault.jpg 480x320 483.8 ms
+Sat Oct 31 22:52:30 unknown OsuLegacy[608] <Warning>: OSU stall: artwork maxresdefault.jpg 169x82 175.7 ms
+Sat Oct 31 22:52:31 unknown OsuLegacy[608] <Warning>: OSU stall: artwork Uma otima BG para um otimo (KK) mapa.jpg 44x36 136.3 ms
+Sat Oct 31 22:52:31 unknown OsuLegacy[608] <Warning>: OSU stall: artwork girl-smoking-near-window-artwork-p5-1920x1080.jpg 44x36 225.4 ms
+Sat Oct 31 22:52:34 unknown SpringBoard[469] <Warning>: Received memory warning. Level=1
+Sat Oct 31 22:52:35 unknown OsuLegacy[608] <Warning>: OSU stall: artwork Win11WallpaperBlur.png 44x36 3281.1 ms
+Sat Oct 31 22:52:35 unknown OsuLegacy[608] <Warning>: OSU stall: GPU scene 3 build 3856.8 ms present 1.2 ms
+Sat Oct 31 22:52:35 unknown OsuLegacy[608] <Warning>: OSU GPU cache: 8 uploads, 12 evictions, 81.1 ms upload work, 6102 KiB cached
+Sat Oct 31 22:52:35 unknown OsuLegacy[608] <Warning>: OSU drawing: idle 4.0 calls/s, 236.6 ms/call
+Sat Oct 31 22:52:35 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 4904.6 ms
+Sat Oct 31 22:52:35 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 228.1 ms
+Sat Oct 31 22:52:36 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 234.5 ms
+Sat Oct 31 22:52:36 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 224.4 ms
+Sat Oct 31 22:52:37 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 252.6 ms
+Sat Oct 31 22:52:37 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 226.9 ms
+Sat Oct 31 22:52:38 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 231.5 ms
+Sat Oct 31 22:52:38 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 229.8 ms
+Sat Oct 31 22:52:40 unknown OsuLegacy[608] <Warning>: OSU drawing: idle 2.7 calls/s, 138.6 ms/call
+Sat Oct 31 22:52:41 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 234.9 ms
+Sat Oct 31 22:52:42 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 224.9 ms
+Sat Oct 31 22:52:42 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 226.7 ms
+Sat Oct 31 22:52:44 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 247.9 ms
+Sat Oct 31 22:52:44 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 226.5 ms
+Sat Oct 31 22:52:45 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 246.2 ms
+Sat Oct 31 22:52:45 unknown OsuLegacy[608] <Warning>: OSU drawing: idle 1.8 calls/s, 174.4 ms/call
+Sat Oct 31 22:52:45 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 258.9 ms
+Sat Oct 31 22:52:46 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 235.7 ms
+Sat Oct 31 22:52:47 unknown OsuLegacy[608] <Warning>: OSU frame: 1.7 fps, build 298.76 ms, present 2.22 ms, 66.7 draws/frame, 7418 vertices/frame
+Sat Oct 31 22:52:48 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 251.5 ms
+Sat Oct 31 22:52:49 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 228.1 ms
+Sat Oct 31 22:52:49 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 244.2 ms
+Sat Oct 31 22:52:51 unknown OsuLegacy[608] <Warning>: OSU drawing: idle 2.2 calls/s, 111.6 ms/call
+Sat Oct 31 22:52:51 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 228.9 ms
+Sat Oct 31 22:52:51 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 259.5 ms
+Sat Oct 31 22:52:53 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 228.8 ms
+Sat Oct 31 22:52:55 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 242.6 ms
+Sat Oct 31 22:52:56 unknown OsuLegacy[608] <Warning>: OSU drawing: idle 1.9 calls/s, 140.2 ms/call
+Sat Oct 31 22:52:56 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 242.3 ms
+Sat Oct 31 22:52:56 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 243.1 ms
+Sat Oct 31 22:52:57 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 227.9 ms
+Sat Oct 31 22:53:00 unknown OsuLegacy[608] <Warning>: OSU FFmpeg: Apple decoder unavailable, decoding audio.ogg
+Sat Oct 31 22:53:00 unknown UIKitApplication:org.osu.legacy.experimental[0x1d34][608] <Notice>: [ogg @ 0x12dce00] Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+Sat Oct 31 22:53:00 unknown UIKitApplication:org.osu.legacy.experimental[0x1d34][608] <Notice>: Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Sat Oct 31 22:53:03 unknown OsuLegacy[608] <Warning>: OSU drawing: idle 1.5 calls/s, 83.8 ms/call
+Sat Oct 31 22:53:05 unknown OsuLegacy[608] <Warning>: OSU frame: 1.7 fps, build 106.55 ms, present 1.99 ms, 68.0 draws/frame, 7540 vertices/frame
+Sat Oct 31 22:53:13 unknown OsuLegacy[608] <Warning>: OSU drawing: idle 1.0 calls/s, 47.8 ms/call
+Sat Oct 31 22:53:13 unknown OsuLegacy[608] <Warning>: OSU FFmpeg: cached audio.ogg
+Sat Oct 31 22:53:14 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 238.4 ms
+Sat Oct 31 22:53:14 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 232.5 ms
+Sat Oct 31 22:53:15 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 251.8 ms
+Sat Oct 31 22:53:15 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 226.7 ms
+Sat Oct 31 22:53:17 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 236.9 ms
+Sat Oct 31 22:53:18 unknown OsuLegacy[608] <Warning>: OSU drawing: idle 1.9 calls/s, 161.7 ms/call
+Sat Oct 31 22:53:18 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 246.7 ms
+Sat Oct 31 22:53:18 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 237.0 ms
+Sat Oct 31 22:53:23 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 225.9 ms
+Sat Oct 31 22:53:25 unknown OsuLegacy[608] <Warning>: OSU drawing: idle 1.4 calls/s, 83.1 ms/call
+Sat Oct 31 22:53:25 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 224.4 ms
+Sat Oct 31 22:53:26 unknown OsuLegacy[608] <Warning>: OSU frame: 1.4 fps, build 106.22 ms, present 2.19 ms, 68.0 draws/frame, 7533 vertices/frame
+Sat Oct 31 22:53:26 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 250.8 ms
+Sat Oct 31 22:53:28 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 234.8 ms
+Sat Oct 31 22:53:30 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 230.4 ms
+Sat Oct 31 22:53:30 unknown OsuLegacy[608] <Warning>: OSU drawing: idle 1.9 calls/s, 137.9 ms/call
+Sat Oct 31 22:53:30 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 256.5 ms
+Sat Oct 31 22:53:31 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 233.7 ms
+Sat Oct 31 22:53:31 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 242.0 ms
+Sat Oct 31 22:53:32 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 229.3 ms
+Sat Oct 31 22:53:32 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 237.9 ms
+Sat Oct 31 22:53:33 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 229.0 ms
+Sat Oct 31 22:53:33 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 311.8 ms
+Sat Oct 31 22:53:34 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 251.8 ms
+Sat Oct 31 22:53:34 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 234.5 ms
+Sat Oct 31 22:53:36 unknown OsuLegacy[608] <Warning>: OSU drawing: idle 2.3 calls/s, 176.6 ms/call
+Sat Oct 31 22:53:37 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 229.9 ms
+Sat Oct 31 22:53:39 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 238.2 ms
+Sat Oct 31 22:53:40 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 232.4 ms
+Sat Oct 31 22:53:42 unknown OsuLegacy[608] <Warning>: OSU frame: 1.9 fps, build 139.83 ms, present 1.86 ms, 68.0 draws/frame, 7494 vertices/frame
+Sat Oct 31 22:53:42 unknown OsuLegacy[608] <Warning>: OSU drawing: idle 1.7 calls/s, 126.4 ms/call
+Sat Oct 31 22:53:42 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 312.3 ms
+Sat Oct 31 22:53:42 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 233.9 ms
+Sat Oct 31 22:53:42 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 251.0 ms
+Sat Oct 31 22:53:44 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 241.7 ms
+Sat Oct 31 22:53:45 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 241.7 ms
+Sat Oct 31 22:53:47 unknown OsuLegacy[608] <Warning>: OSU drawing: idle 1.9 calls/s, 142.0 ms/call
+Sat Oct 31 22:53:47 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 263.5 ms
+Sat Oct 31 22:53:49 unknown UIKitApplication:org.osu.legacy.experimental[0x1d34][608] <Notice>: OSU archive: extracted 11 entries, 3585362 bytes
+Sat Oct 31 22:53:49 unknown OsuLegacy[608] <Warning>: OSU FFmpeg: Apple decoder unavailable, decoding audio.ogg
+Sat Oct 31 22:53:55 unknown OsuLegacy[608] <Warning>: OSU drawing: idle 1.3 calls/s, 45.6 ms/call
+Sat Oct 31 22:54:05 unknown OsuLegacy[608] <Warning>: OSU frame: 1.3 fps, build 76.59 ms, present 2.21 ms, 68.0 draws/frame, 7561 vertices/frame
+Sat Oct 31 22:54:05 unknown OsuLegacy[608] <Warning>: OSU drawing: idle 1.0 calls/s, 50.8 ms/call
+Sat Oct 31 22:54:10 unknown securityd[609] <Notice>: MS:Notice: Injecting: (null) [securityd] (550.52)
+Sat Oct 31 22:54:11 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Sat Oct 31 22:54:11 unknown lockdownd[18] <Error>: 2ff68000 handle_connection: Could not receive USB message #9 from ideviceinstaller. Killing connection
+Sat Oct 31 22:54:13 unknown installd[615] <Notice>: MS:Notice: Injecting: (null) [installd] (550.52)
+Sat Oct 31 22:54:15 unknown OsuLegacy[608] <Warning>: OSU drawing: idle 1.0 calls/s, 55.3 ms/call
+Sat Oct 31 22:54:15 unknown OsuLegacy[608] <Warning>: OSU FFmpeg: cached audio.ogg
+Sat Oct 31 22:54:16 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 268.1 ms
+Sat Oct 31 22:54:16 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 288.4 ms
+Sat Oct 31 22:54:17 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 285.2 ms
+Sat Oct 31 22:54:19 unknown SpringBoard[469] <Warning>: Received memory warning. Level=1
+Sat Oct 31 22:54:19 unknown OsuLegacy[608] <Warning>: Received memory warning. Level=1
+Sat Oct 31 22:54:20 unknown OsuLegacy[608] <Warning>: OSU stall: artwork maxresdefault.jpg 480x320 473.5 ms
+Sat Oct 31 22:54:21 unknown OsuLegacy[608] <Warning>: OSU stall: artwork maxresdefault.jpg 169x82 244.3 ms
+Sat Oct 31 22:54:21 unknown OsuLegacy[608] <Warning>: OSU stall: artwork Uma otima BG para um otimo (KK) mapa.jpg 44x36 108.9 ms
+Sat Oct 31 22:54:22 unknown OsuLegacy[608] <Warning>: OSU stall: artwork girl-smoking-near-window-artwork-p5-1920x1080.jpg 44x36 268.5 ms
+Sat Oct 31 22:54:22 unknown OsuLegacy[608] <Warning>: OSU stall: artwork maxresdefault.jpg 44x36 206.6 ms
+Sat Oct 31 22:54:23 unknown SpringBoard[469] <Warning>: Received memory warning. Level=1
+Sat Oct 31 22:54:24 unknown securityd[617] <Notice>: MS:Notice: Injecting: (null) [securityd] (550.52)
+> 
+Sat Oct 31 22:54:25 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Sat Oct 31 22:54:25 unknown lockdownd[18] <Error>: 2ff68000 handle_connection: Could not receive USB message #8 from idevicesyslog. Killing connection
+> 
+Sat Oct 31 22:54:26 unknown OsuLegacy[608] <Warning>: OSU stall: artwork Win11WallpaperBlur.png 44x36 4538.0 ms
+Sat Oct 31 22:54:27 unknown OsuLegacy[608] <Warning>: OSU stall: GPU scene 3 build 5367.1 ms present 12.3 ms
+Sat Oct 31 22:54:27 unknown OsuLegacy[608] <Warning>: OSU GPU cache: 22 uploads, 0 evictions, 132.1 ms upload work, 1953 KiB cached
+Sat Oct 31 22:54:27 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 6914.9 ms
+Sat Oct 31 22:54:27 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 235.5 ms
+> 
+Sat Oct 31 22:54:29 unknown OsuLegacy[608] <Warning>: OSU drawing: idle 0.7 calls/s, 816.7 ms/call
+> 
+Sat Oct 31 22:54:31 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 264.3 ms
+Sat Oct 31 22:54:32 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 280.0 ms
+> 
+Sat Oct 31 22:54:34 unknown OsuLegacy[608] <Warning>: OSU frame: 1.0 fps, build 314.69 ms, present 2.39 ms, 68.0 draws/frame, 7540 vertices/frame
+Sat Oct 31 22:54:34 unknown OsuLegacy[608] <Warning>: OSU drawing: idle 1.8 calls/s, 86.8 ms/call
+Sat Oct 31 22:54:36 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 218.6 ms
+> 
+Sat Oct 31 22:54:38 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 230.0 ms
+Sat Oct 31 22:54:38 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 318.3 ms
+> 
+Sat Oct 31 22:54:39 unknown OsuLegacy[608] <Warning>: OSU stall: main frame 340.0 ms
+Sat Oct 31 22:54:39 unknown installd[615] <Error>: 2ff68000 verify_signer_identity: TDMTANF bypass enabled
+Sat Oct 31 22:54:39 unknown SpringBoard[469] <Warning>: Killing <SBApplication: 0x2f6430> org.osu.legacy.experimental finishedLaunchingFrontmost userLaunch statusBarWindowContextId = 612410137  activate:  deactivate:  for app installation
+Sat Oct 31 22:54:40 unknown com.apple.launchd[1] <Notice>: (UIKitApplication:org.osu.legacy.experimental[0x1d34]) Exited: Killed
+Sat Oct 31 22:54:40 unknown SpringBoard[469] <Warning>: Application 'Osu!' exited abnormally with signal 9: Killed
+Sat Oct 31 22:54:43 unknown SpringBoard[469] <Warning>: Reloading application state for 'org.osu.legacy.experimental' as its modification date has changed
+> 
+Sat Oct 31 22:54:43 unknown SpringBoard[469] <Warning>: Reloading and rendering all application icons.
+> 
+Sat Oct 31 22:56:20 unknown configd[24] <Info>: hostname (prefs) = iPod-touch
+> 
+Sat Oct 31 22:58:06 unknown OsuLegacy[620] <Notice>: MS:Notice: Injecting: org.osu.legacy.experimental [OsuLegacy] (550.52)
+Sat Oct 31 22:58:06 unknown kernel[0] <Debug>: punchd[620] Builtin profile: container (sandbox)
+Sat Oct 31 22:58:06 unknown kernel[0] <Debug>: punchd[620] Container: /private/var/mobile/Applications/1F160E85-9299-4345-9308-96656767FEF8 [69] (sandbox)
+> 
+Sat Oct 31 22:58:08 unknown OsuLegacy[620] <Warning>: OSU GPU: PowerVR MBXLite with VGPLite / OpenGL ES-CM 1.1 (76), shared ES 1.1 surfaces
+Sat Oct 31 22:58:08 unknown OsuLegacy[620] <Warning>: OSU GPU cache: 2 uploads, 0 evictions, 43.5 ms upload work, 640 KiB cached
+Sat Oct 31 22:58:09 unknown OsuLegacy[620] <Warning>: OSU boot: initializing embedded Mono after native launch
+> 
+Sat Oct 31 22:58:10 unknown OsuLegacy[620] <Warning>: OSU checkpoint: managed entry reached native bundle binding
+> 
+Sat Oct 31 22:58:12 unknown OsuLegacy[620] <Warning>: OSU sounds: OpenAL ready, 20 voices, effects gain 0.800
+Sat Oct 31 22:58:12 unknown OsuLegacy[620] <Warning>: OSU sounds: loaded button-default-select.wav buffer 2420, 72352 PCM bytes
+Sat Oct 31 22:58:12 unknown OsuLegacy[620] <Warning>: OSU sounds: loaded notification-default.wav buffer 2421, 15600 PCM bytes
+Sat Oct 31 22:58:12 unknown OsuLegacy[620] <Warning>: OSU sounds: loaded notification-error.wav buffer 2422, 15592 PCM bytes
+Sat Oct 31 22:58:12 unknown OsuLegacy[620] <Warning>: OSU boot: managed callbacks registered
+Sat Oct 31 22:58:12 unknown OsuLegacy[620] <Warning>: OSU boot: managed startup returned to UIKit
+Sat Oct 31 22:58:13 unknown OsuLegacy[620] <Warning>: OSU startup: IntroTriangles requested, 480x320 / 30 fps
+> 
+Sat Oct 31 22:58:13 unknown OsuLegacy[620] <Warning>: OSU scene: intro
+Sat Oct 31 22:58:14 unknown OsuLegacy[620] <Warning>: OSU stall: artwork wallpaper-03-008.jpg 480x320 140.1 ms
+Sat Oct 31 22:58:14 unknown OsuLegacy[620] <Warning>: OSU GPU cache: 3 uploads, 0 evictions, 58.9 ms upload work, 2048 KiB cached
+Sat Oct 31 22:58:14 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 725.9 ms
+Sat Oct 31 22:58:14 unknown mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Sat Oct 31 22:58:14 unknown mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : openH264Driver()
+Sat Oct 31 22:58:14 unknown mediaserverd[20] <Notice>: Inside H264DecodeThread : createDecoderThread()
+Sat Oct 31 22:58:14 unknown mediaserverd[20] <Notice>: H264M2VideoDecoder_StartSession() Stream may not be H264LC: 0 or EnableH264OutOfLoopFilter property: 0 is set to false or Resolution is <= 320X240 : 480X320
+Sat Oct 31 22:58:14 unknown mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : setH264DriverSession()
+Sat Oct 31 22:58:14 unknown OsuLegacy[620] <Warning>: OSU startup: intro surface presented
+> 
+Sat Oct 31 22:58:15 unknown OsuLegacy[620] <Warning>: OSU startup: visible surface and decoder ready; starting from zero
+Sat Oct 31 22:58:15 unknown kernel[0] <Debug>: *** AppleM2H264MPDDriver[0x807d8000]::setSessionSettings() called ***
+Sat Oct 31 22:58:15 unknown kernel[0] <Debug>: # AppleM2H264MPDDriver::setSessionSettings():Turning off Post Filtering #
+Sat Oct 31 22:58:15 unknown OsuLegacy[620] <Warning>: OSU startup: triangles video playing; theme=1
+> 
+Sat Oct 31 22:58:16 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is enabled
+> 
+Sat Oct 31 22:58:18 unknown OsuLegacy[620] <Warning>: OSU startup: video ended ({
+	    MPMoviePlayerPlaybackDidFinishReasonUserInfoKey = 0;
+	})
+Sat Oct 31 22:58:18 unknown mediaserverd[20] <Notice>: Inside H264DecodeThread : destroyDecoderThread()
+Sat Oct 31 22:58:18 unknown mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : freeDriverStorage()
+Sat Oct 31 22:58:18 unknown mediaserverd[20] <Notice>: Inside AppleM2H264DriverUserlandInterface : closeH264Driver()
+Sat Oct 31 22:58:18 unknown mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Sat Oct 31 22:58:18 unknown OsuLegacy[620] <Warning>: OSU startup: waiting for menu frame
+Sat Oct 31 22:58:18 unknown OsuLegacy[620] <Warning>: OSU scene: home
+Sat Oct 31 22:58:19 unknown OsuLegacy[620] <Warning>: OSU startup: triangles menu revealed
+Sat Oct 31 22:58:19 unknown OsuLegacy[620] <Warning>: OSU stall: background poll 288.9 ms
+Sat Oct 31 22:58:19 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 306.8 ms
+Sat Oct 31 22:58:19 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is disabled
+Sat Oct 31 22:58:19 unknown OsuLegacy[620] <Warning>: OSU FFT: source menu.m4a, cached windows, setup 29.41 ms
+Sat Oct 31 22:58:19 unknown OsuLegacy[620] <Warning>: OSU stall: GPU scene 0 build 3.4 ms present 117.5 ms
+Sat Oct 31 22:58:19 unknown OsuLegacy[620] <Warning>: OSU GPU effects: first spectrum at 4.059, age 167.5 ms
+> 
+Sat Oct 31 22:58:19 unknown OsuLegacy[620] <Warning>: OSU GPU effects: 24.96 ms/frame, one presentation with cached UI
+Sat Oct 31 22:58:20 unknown OsuLegacy[620] <Warning>: OSU FFT: 40 windows, avg 0.925 ms, max 18.432 ms
+> 
+Sat Oct 31 22:58:20 unknown OsuLegacy[620] <Warning>: OSU sounds: play buffer 2420 source 2400 state 0x1012 gain 0.600 x 1.000 error 0x0
+> 
+Sat Oct 31 22:58:22 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 1453.9 ms
+> 
+Sat Oct 31 22:58:23 unknown OsuLegacy[620] <Warning>: OSU sounds: play buffer 2420 source 2401 state 0x1012 gain 0.600 x 1.000 error 0x0
+Sat Oct 31 22:58:23 unknown OsuLegacy[620] <Warning>: OSU scene: play
+Sat Oct 31 22:58:24 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 0.6 calls/s, 332.7 ms/call
+Sat Oct 31 22:58:24 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 158.6 ms
+Sat Oct 31 22:58:24 unknown OsuLegacy[620] <Warning>: OSU GPU cache: 18 uploads, 0 evictions, 57.0 ms upload work, 2545 KiB cached
+Sat Oct 31 22:58:24 unknown OsuLegacy[620] <Warning>: OSU sounds: play buffer 2420 source 2402 state 0x1012 gain 0.600 x 1.000 error 0x0
+> 
+Sat Oct 31 22:58:24 unknown OsuLegacy[620] <Warning>: OSU scene: songs
+Sat Oct 31 22:58:25 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 290.4 ms
+Sat Oct 31 22:58:25 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 342.7 ms
+Sat Oct 31 22:58:29 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 3.5 calls/s, 66.5 ms/call
+> 
+Sat Oct 31 22:58:30 unknown OsuLegacy[620] <Warning>: OSU GPU cache: 6 uploads, 0 evictions, 34.8 ms upload work, 2945 KiB cached
+> 
+Sat Oct 31 22:58:42 unknown OsuLegacy[620] <Warning>: OSU GPU cache: 4 uploads, 0 evictions, 61.8 ms upload work, 3338 KiB cached
+Sat Oct 31 22:58:42 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 10046.4 ms
+> 
+Sat Oct 31 22:58:44 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 0.7 calls/s, 1049.9 ms/call
+> 
+Sat Oct 31 22:58:46 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 156.0 ms
+Sat Oct 31 22:58:47 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 157.2 ms
+Sat Oct 31 22:58:47 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 177.7 ms
+> 
+Sat Oct 31 22:58:48 unknown OsuLegacy[620] <Warning>: OSU frame: 1.3 fps, build 421.86 ms, present 2.20 ms, 55.2 draws/frame, 6946 vertices/frame
+Sat Oct 31 22:58:48 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 223.3 ms
+Sat Oct 31 22:58:48 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 205.6 ms
+> 
+Sat Oct 31 22:58:49 unknown OsuLegacy[620] <Warning>: OSU stall: artwork BG.jpg 480x320 411.8 ms
+Sat Oct 31 22:58:49 unknown OsuLegacy[620] <Warning>: OSU stall: artwork BG.jpg 169x82 145.1 ms
+Sat Oct 31 22:58:49 unknown mediaserverd[20] <Error>: 22:58:49.901 <AudioQueueServer> AudioQueueObject::IONodeConnection::_AcquireHardwareCodec: failed ('hwiu')
+Sat Oct 31 22:58:49 unknown OsuLegacy[620] <Warning>: OSU stall: music prepare Feel The Melody Xin.mp3 218.8 ms
+Sat Oct 31 22:58:50 unknown OsuLegacy[620] <Warning>: OSU music: playing Feel The Melody Xin.mp3
+Sat Oct 31 22:58:50 unknown OsuLegacy[620] <Warning>: OSU shared music: selected Feel The Melody Xin.mp3 at 32.76 sec
+> 
+Sat Oct 31 22:58:51 unknown OsuLegacy[620] <Warning>: OSU stall: artwork bg.jpg 44x36 753.1 ms
+Sat Oct 31 22:58:51 unknown OsuLegacy[620] <Warning>: OSU stall: GPU scene 3 build 816.0 ms present 3.4 ms
+Sat Oct 31 22:58:51 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 1.9 calls/s, 315.2 ms/call
+Sat Oct 31 22:58:51 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 2651.4 ms
+Sat Oct 31 22:58:52 unknown OsuLegacy[620] <Warning>: OSU stall: artwork Snails-Pegboard-Nerds-Deep-In-The-Night-Art-1000x600.jpg 44x36 352.4 ms
+> 
+Sat Oct 31 22:58:52 unknown OsuLegacy[620] <Warning>: OSU stall: GPU scene 3 build 392.3 ms present 1.2 ms
+Sat Oct 31 22:58:52 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 651.0 ms
+> 
+Sat Oct 31 22:58:57 unknown OsuLegacy[620] <Warning>: OSU stall: artwork just_a_little_light_moon_city_anime_clouds_hd-wallpaper-ghlP.jpg 44x36 5402.7 ms
+Sat Oct 31 22:58:57 unknown OsuLegacy[620] <Warning>: OSU stall: GPU scene 3 build 5450.3 ms present 1.2 ms
+Sat Oct 31 22:58:57 unknown OsuLegacy[620] <Warning>: OSU GPU cache: 5 uploads, 0 evictions, 53.8 ms upload work, 4538 KiB cached
+Sat Oct 31 22:58:57 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 5694.7 ms
+Sat Oct 31 22:58:58 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 272.7 ms
+> 
+Sat Oct 31 22:58:58 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 228.2 ms
+Sat Oct 31 22:58:59 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 243.9 ms
+Sat Oct 31 22:58:59 unknown OsuLegacy[620] <Warning>: OSU stall: artwork nicebg5.jpg 44x36 318.8 ms
+> 
+Sat Oct 31 22:59:00 unknown OsuLegacy[620] <Warning>: OSU stall: GPU scene 3 build 366.8 ms present 1.3 ms
+Sat Oct 31 22:59:00 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 383.5 ms
+Sat Oct 31 22:59:00 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 1.1 calls/s, 746.4 ms/call
+Sat Oct 31 22:59:00 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 235.2 ms
+Sat Oct 31 22:59:01 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 217.4 ms
+> 
+Sat Oct 31 22:59:02 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 257.9 ms
+Sat Oct 31 22:59:02 unknown OsuLegacy[620] <Warning>: OSU frame: 2.1 fps, build 373.11 ms, present 3.10 ms, 43.3 draws/frame, 4669 vertices/frame
+Sat Oct 31 22:59:02 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 218.3 ms
+> 
+Sat Oct 31 22:59:03 unknown OsuLegacy[620] <Warning>: OSU stall: background poll 105.3 ms
+Sat Oct 31 22:59:08 unknown OsuLegacy[620] <Warning>: OSU stall: artwork just_a_little_light_moon_city_anime_clouds_hd-wallpaper-ghlP.jpg 480x320 5246.0 ms
+> 
+Sat Oct 31 22:59:12 unknown OsuLegacy[620] <Warning>: OSU FFmpeg: Apple decoder unavailable, decoding audio.ogg
+> 
+Sat Oct 31 22:59:13 unknown OsuLegacy[620] <Warning>: OSU stall: artwork just_a_little_light_moon_city_anime_clouds_hd-wallpaper-ghlP.jpg 169x82 5173.8 ms
+Sat Oct 31 22:59:14 unknown OsuLegacy[620] <Warning>: OSU stall: music prepare Say It (Illenium remix).mp3 194.6 ms
+Sat Oct 31 22:59:14 unknown OsuLegacy[620] <Warning>: OSU music: playing Say It (Illenium remix).mp3
+Sat Oct 31 22:59:14 unknown OsuLegacy[620] <Warning>: OSU shared music: selected Say It (Illenium remix).mp3 at 89.73 sec
+> 
+Sat Oct 31 22:59:15 unknown OsuLegacy[620] <Warning>: OSU GPU cache: 3 uploads, 0 evictions, 50.4 ms upload work, 5706 KiB cached
+Sat Oct 31 22:59:15 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 12074.8 ms
+Sat Oct 31 22:59:15 unknown kernel[0] <Debug>: Assertion failed in "/SourceCache/AppleAMC/AppleAMC-162/Source/AppleAMC_R2/AppleAMCDriver_r2.cpp" at line 1445
+Sat Oct 31 22:59:15 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 329.6 ms
+Sat Oct 31 22:59:17 unknown UIKitApplication:org.osu.legacy.experimental[0x65a4][620] <Notice>: OSU difficulty: mode 0, 1.65 stars
+> 
+Sat Oct 31 22:59:17 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 0.6 calls/s, 1327.0 ms/call
+> 
+Sat Oct 31 22:59:19 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 221.5 ms
+Sat Oct 31 22:59:20 unknown OsuLegacy[620] <Warning>: OSU GPU cache: 1 uploads, 0 evictions, 2.7 ms upload work, 5722 KiB cached
+Sat Oct 31 22:59:22 unknown UIKitApplication:org.osu.legacy.experimental[0x65a4][620] <Notice>: OSU difficulty: mode 0, 4.17 stars
+> 
+Sat Oct 31 22:59:24 unknown OsuLegacy[620] <Warning>: OSU frame: 1.3 fps, build 448.76 ms, present 1.59 ms, 46.3 draws/frame, 4729 vertices/frame
+> 
+Sat Oct 31 22:59:26 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 1.2 calls/s, 59.9 ms/call
+> 
+Sat Oct 31 22:59:30 unknown OsuLegacy[620] <Warning>: OSU frame: 4.8 fps, build 17.48 ms, present 1.96 ms, 32.7 draws/frame, 2682 vertices/frame
+> 
+Sat Oct 31 22:59:33 unknown OsuLegacy[620] <Warning>: OSU stall: artwork nicebg5.jpg 480x320 630.5 ms
+Sat Oct 31 22:59:33 unknown OsuLegacy[620] <Warning>: OSU stall: artwork nicebg5.jpg 169x82 171.8 ms
+Sat Oct 31 22:59:33 unknown mediaserverd[20] <Error>: 22:59:33.767 <AudioQueueServer> AudioQueueObject::IONodeConnection::_AcquireHardwareCodec: failed ('hwiu')
+Sat Oct 31 22:59:33 unknown OsuLegacy[620] <Warning>: OSU stall: music prepare audio.mp3 132.2 ms
+Sat Oct 31 22:59:33 unknown OsuLegacy[620] <Warning>: OSU music: playing audio.mp3
+Sat Oct 31 22:59:34 unknown OsuLegacy[620] <Warning>: OSU shared music: selected audio.mp3 at 0.00 sec
+Sat Oct 31 22:59:34 unknown OsuLegacy[620] <Warning>: OSU stall: artwork Odo.jpg 44x36 227.5 ms
+> 
+Sat Oct 31 22:59:34 unknown OsuLegacy[620] <Warning>: OSU stall: GPU scene 3 build 365.7 ms present 1.2 ms
+Sat Oct 31 22:59:34 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 1899.3 ms
+> 
+Sat Oct 31 22:59:36 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 1.0 calls/s, 222.8 ms/call
+Sat Oct 31 22:59:36 unknown UIKitApplication:org.osu.legacy.experimental[0x65a4][620] <Notice>: OSU difficulty: mode 0, 4.97 stars
+Sat Oct 31 22:59:36 unknown OsuLegacy[620] <Warning>: OSU GPU cache: 3 uploads, 12 evictions, 75.6 ms upload work, 5321 KiB cached
+> 
+Sat Oct 31 22:59:39 unknown OsuLegacy[620] <Warning>: OSU frame: 3.5 fps, build 79.85 ms, present 2.38 ms, 37.7 draws/frame, 3487 vertices/frame
+> 
+Sat Oct 31 22:59:44 unknown OsuLegacy[620] <Warning>: OSU stall: artwork Odo.jpg 480x320 399.6 ms
+Sat Oct 31 22:59:44 unknown OsuLegacy[620] <Warning>: OSU stall: artwork Odo.jpg 169x82 215.8 ms
+Sat Oct 31 22:59:45 unknown OsuLegacy[620] <Warning>: OSU stall: music prepare audio.mp3 268.2 ms
+Sat Oct 31 22:59:45 unknown OsuLegacy[620] <Warning>: OSU music: playing audio.mp3
+> 
+Sat Oct 31 22:59:45 unknown OsuLegacy[620] <Warning>: OSU shared music: selected audio.mp3 at 71.28 sec
+Sat Oct 31 22:59:45 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 1.0 calls/s, 214.9 ms/call
+Sat Oct 31 22:59:45 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 1812.9 ms
+Sat Oct 31 22:59:46 unknown OsuLegacy[620] <Warning>: OSU FFmpeg: cached audio.ogg
+Sat Oct 31 22:59:46 unknown OsuLegacy[620] <Warning>: OSU GPU cache: 2 uploads, 2 evictions, 47.1 ms upload work, 5321 KiB cached
+Sat Oct 31 22:59:46 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 238.6 ms
+Sat Oct 31 22:59:46 unknown OsuLegacy[620] <Warning>: OSU sounds: play buffer 2420 source 2403 state 0x1012 gain 0.600 x 1.000 error 0x0
+Sat Oct 31 22:59:49 unknown com.apple.SpringBoard[469] <Notice>: CoreAnimation: timed out fence 500
+> 
+Sat Oct 31 22:59:49 unknown sandboxd[621] <Notice>: MS:Notice: Injecting: (null) [sandboxd] (550.52)
+Sat Oct 31 22:59:50 unknown sandboxd[621] <Notice>: OsuLegacy(620) deny file-read-metadata /private/var/mobile/Library/Caches
+Sat Oct 31 22:59:50 unknown sandboxd[621] <Notice>: OsuLegacy(620) deny file-write-data /private/var/mobile/Library/Caches/com.apple.keyboards/store.db
+Sat Oct 31 22:59:50 unknown sandboxd[621] <Notice>: OsuLegacy(620) deny file-read-metadata /private/var/mobile/Library/Caches
+Sat Oct 31 22:59:50 unknown com.apple.SpringBoard[469] <Notice>: CoreAnimation: timed out fence 500
+Sat Oct 31 22:59:51 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 363.8 ms
+> 
+Sat Oct 31 22:59:52 unknown OsuLegacy[620] <Warning>: OSU frame: 2.3 fps, build 99.64 ms, present 1.91 ms, 44.1 draws/frame, 4261 vertices/frame
+> 
+Sat Oct 31 22:59:52 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 223.5 ms
+Sat Oct 31 22:59:53 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 227.6 ms
+Sat Oct 31 22:59:53 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 1.4 calls/s, 134.0 ms/call
+Sat Oct 31 22:59:53 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 339.6 ms
+> 
+Sat Oct 31 22:59:54 unknown UIKitApplication:org.osu.legacy.experimental[0x65a4][620] <Notice>: OSU difficulty: mode 0, 2.60 stars
+Sat Oct 31 22:59:54 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 236.7 ms
+> 
+Sat Oct 31 22:59:54 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 239.1 ms
+> 
+Sat Oct 31 22:59:57 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 246.2 ms
+> 
+Sat Oct 31 22:59:59 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 1.7 calls/s, 133.1 ms/call
+Sat Oct 31 22:59:59 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 278.0 ms
+> 
+Sat Oct 31 23:00:00 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 264.8 ms
+Sat Oct 31 23:00:01 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 228.5 ms
+Sat Oct 31 23:00:01 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 284.4 ms
+> 
+Sat Oct 31 23:00:02 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 219.3 ms
+Sat Oct 31 23:00:03 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 256.3 ms
+> 
+Sat Oct 31 23:00:04 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 2.2 calls/s, 157.5 ms/call
+> 
+Sat Oct 31 23:00:05 unknown OsuLegacy[620] <Warning>: OSU stall: artwork 1921.jpg 480x320 841.9 ms
+Sat Oct 31 23:00:05 unknown OsuLegacy[620] <Warning>: OSU stall: artwork 1921.jpg 169x82 395.2 ms
+Sat Oct 31 23:00:05 unknown OsuLegacy[620] <Warning>: OSU stall: music prepare bed658617de1fdc311a67f730e9c0f7d9e663d91da23d7b18b86e4a75178e799.wav 100.5 ms
+Sat Oct 31 23:00:05 unknown OsuLegacy[620] <Warning>: OSU music: playing bed658617de1fdc311a67f730e9c0f7d9e663d91da23d7b18b86e4a75178e799.wav
+Sat Oct 31 23:00:05 unknown OsuLegacy[620] <Warning>: OSU shared music: selected bed658617de1fdc311a67f730e9c0f7d9e663d91da23d7b18b86e4a75178e799.wav at 55.69 sec
+> 
+Sat Oct 31 23:00:06 unknown OsuLegacy[620] <Warning>: OSU stall: artwork 1921.jpg 44x36 332.3 ms
+Sat Oct 31 23:00:06 unknown OsuLegacy[620] <Warning>: OSU stall: GPU scene 3 build 403.2 ms present 2.0 ms
+Sat Oct 31 23:00:06 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 2140.2 ms
+> 
+Sat Oct 31 23:00:07 unknown UIKitApplication:org.osu.legacy.experimental[0x65a4][620] <Notice>: OSU difficulty: mode 0, 1.52 stars
+Sat Oct 31 23:00:07 unknown OsuLegacy[620] <Warning>: OSU GPU cache: 3 uploads, 4 evictions, 52.1 ms upload work, 5305 KiB cached
+Sat Oct 31 23:00:07 unknown OsuLegacy[620] <Warning>: OSU frame: 1.9 fps, build 192.01 ms, present 1.93 ms, 69.2 draws/frame, 7886 vertices/frame
+> 
+Sat Oct 31 23:00:10 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 1.7 calls/s, 245.1 ms/call
+> 
+Sat Oct 31 23:00:11 unknown UIKitApplication:org.osu.legacy.experimental[0x65a4][620] <Notice>: OSU difficulty: mode 0, 4.08 stars
+> 
+Sat Oct 31 23:00:12 unknown OsuLegacy[620] <Warning>: OSU frame: 7.9 fps, build 12.12 ms, present 4.23 ms, 30.4 draws/frame, 2370 vertices/frame
+> 
+Sat Oct 31 23:00:15 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 2.8 calls/s, 31.4 ms/call
+Sat Oct 31 23:00:15 unknown UIKitApplication:org.osu.legacy.experimental[0x65a4][620] <Notice>: OSU difficulty: mode 0, 2.96 stars
+> 
+Sat Oct 31 23:00:19 unknown OsuLegacy[620] <Warning>: OSU frame: 4.8 fps, build 17.13 ms, present 3.76 ms, 38.2 draws/frame, 3496 vertices/frame
+> 
+Sat Oct 31 23:00:20 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 2.1 calls/s, 32.8 ms/call
+> 
+Sat Oct 31 23:00:25 unknown UIKitApplication:org.osu.legacy.experimental[0x65a4][620] <Notice>: OSU difficulty: mode 0, 6.07 stars
+Sat Oct 31 23:00:26 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 2.3 calls/s, 31.0 ms/call
+Sat Oct 31 23:00:26 unknown OsuLegacy[620] <Warning>: OSU sounds: play buffer 2420 source 2404 state 0x1012 gain 0.600 x 1.000 error 0x0
+> 
+Sat Oct 31 23:00:26 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 167.7 ms
+Sat Oct 31 23:00:26 unknown UIKitApplication:org.osu.legacy.experimental[0x65a4][620] <Notice>: OSU song load: loading screen presented; preparing 25-ji, Nightcord de. x Hatsune Miku - Bad Apple!! feat. SEKAI (Dailycare) [Master].osu
+Sat Oct 31 23:00:26 unknown OsuLegacy[620] <Warning>: OSU sounds: loaded button-default-select.wav buffer 2423, 72352 PCM bytes
+Sat Oct 31 23:00:26 unknown OsuLegacy[620] <Warning>: OSU sounds: loaded notification-default.wav buffer 2424, 15600 PCM bytes
+Sat Oct 31 23:00:26 unknown OsuLegacy[620] <Warning>: OSU sounds: loaded notification-error.wav buffer 2425, 15592 PCM bytes
+Sat Oct 31 23:00:26 unknown OsuLegacy[620] <Warning>: OSU stall: background poll 108.4 ms
+Sat Oct 31 23:00:26 unknown OsuLegacy[620] <Warning>: OSU FFT: 105 windows, avg 0.695 ms, max 18.432 ms
+Sat Oct 31 23:00:26 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 159.1 ms
+> 
+Sat Oct 31 23:00:27 unknown SpringBoard[469] <Warning>: Received memory warning. Level=1
+Sat Oct 31 23:00:27 unknown OsuLegacy[620] <Warning>: OSU FFT: source bed658617de1fdc311a67f730e9c0f7d9e663d91da23d7b18b86e4a75178e799.wav, streamed windows, setup 708.77 ms
+Sat Oct 31 23:00:27 unknown OsuLegacy[620] <Warning>: OSU stall: artwork 1921.jpg 120x24 644.5 ms
+Sat Oct 31 23:00:27 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 1082.6 ms
+Sat Oct 31 23:00:28 unknown OsuLegacy[620] <Warning>: OSU GPU cache: 6 uploads, 0 evictions, 70.2 ms upload work, 6025 KiB cached
+Sat Oct 31 23:00:28 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 347.3 ms
+Sat Oct 31 23:00:28 unknown OsuLegacy[620] <Warning>: OSU GPU effects: first spectrum at 78.519, age 124.9 ms
+> 
+Sat Oct 31 23:00:29 unknown OsuLegacy[620] <Warning>: OSU frame: 3.0 fps, build 77.62 ms, present 2.01 ms, 48.8 draws/frame, 6918 vertices/frame
+Sat Oct 31 23:00:29 unknown UIKitApplication:org.osu.legacy.experimental[0x65a4][620] <Notice>: OSU song load: parsed 558 objects at 3072 ms
+> 
+Sat Oct 31 23:00:30 unknown UIKitApplication:org.osu.legacy.experimental[0x65a4][620] <Notice>: OSU song load: audio ready at 3237 ms
+> 
+Sat Oct 31 23:00:31 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 10.1 calls/s, 72.1 ms/call
+> 
+Sat Oct 31 23:00:34 unknown OsuLegacy[620] <Warning>: OSU frame: 20.0 fps, build 43.10 ms, present 1.68 ms, 40.0 draws/frame, 7942 vertices/frame
+Sat Oct 31 23:00:34 unknown OsuLegacy[620] <Warning>: OSU FFmpeg: Apple decoder unavailable, decoding soft-sliderslide.wav
+Sat Oct 31 23:00:35 unknown OsuLegacy[620] <Warning>: OSU FFmpeg: failed soft-sliderslide.wav: Invalid data found when processing input
+Sat Oct 31 23:00:35 unknown OsuLegacy[620] <Warning>: OSU sounds: using fallback for soft-sliderslide.wav (decoder 0)
+> 
+Sat Oct 31 23:00:36 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 19.7 calls/s, 46.2 ms/call
+Sat Oct 31 23:00:36 unknown OsuLegacy[620] <Warning>: OSU FFT: 115 windows, avg 30.573 ms, max 3198.335 ms
+> 
+Sat Oct 31 23:00:38 unknown OsuLegacy[620] <Warning>: OSU GPU cache: 1 uploads, 0 evictions, 1.2 ms upload work, 6026 KiB cached
+Sat Oct 31 23:00:39 unknown OsuLegacy[620] <Warning>: OSU frame: 19.4 fps, build 44.14 ms, present 2.06 ms, 40.2 draws/frame, 7881 vertices/frame
+Sat Oct 31 23:00:41 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 20.0 calls/s, 45.4 ms/call
+> 
+Sat Oct 31 23:00:44 unknown OsuLegacy[620] <Warning>: OSU frame: 19.4 fps, build 44.63 ms, present 1.40 ms, 40.2 draws/frame, 8036 vertices/frame
+Sat Oct 31 23:00:44 unknown UIKitApplication:org.osu.legacy.experimental[0x65a4][620] <Notice>: OSU song load: hitsounds ready at 18069 ms
+Sat Oct 31 23:00:45 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 346.4 ms
+> 
+Sat Oct 31 23:00:45 unknown SpringBoard[469] <Warning>: Received memory warning. Level=1
+Sat Oct 31 23:00:45 unknown OsuLegacy[620] <Warning>: OSU stall: artwork 1921.jpg 118x24 365.6 ms
+Sat Oct 31 23:00:46 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 14.5 calls/s, 62.8 ms/call
+Sat Oct 31 23:00:46 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 933.1 ms
+Sat Oct 31 23:00:46 unknown UIKitApplication:org.osu.legacy.experimental[0x65a4][620] <Notice>: OSU song load: resources ready; warming gameplay at 0 ms
+Sat Oct 31 23:00:46 unknown OsuLegacy[620] <Warning>: OSU scene: osu gameplay
+> 
+Sat Oct 31 23:00:47 unknown OsuLegacy[620] <Warning>: OSU stall: GPU scene 100 build 937.8 ms present 1.2 ms
+Sat Oct 31 23:00:47 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 1021.2 ms
+> 
+Sat Oct 31 23:00:47 unknown UIKitApplication:org.osu.legacy.experimental[0x65a4][620] <Notice>: OSU song load: two gameplay frames presented; clock released
+Sat Oct 31 23:00:48 unknown OsuLegacy[620] <Warning>: OSU GPU cache: 10 uploads, 2 evictions, 70.1 ms upload work, 6090 KiB cached
+> 
+Sat Oct 31 23:00:51 unknown OsuLegacy[620] <Warning>: OSU drawing: active 39.8 calls/s, 23.6 ms/call
+Sat Oct 31 23:00:51 unknown OsuLegacy[620] <Warning>: OSU frame: 40.9 fps, build 21.87 ms, present 1.44 ms, 20.0 draws/frame, 5280 vertices/frame
+> 
+Sat Oct 31 23:00:56 unknown OsuLegacy[620] <Warning>: OSU drawing: active 52.2 calls/s, 18.3 ms/call
+Sat Oct 31 23:00:56 unknown OsuLegacy[620] <Warning>: OSU frame: 51.7 fps, build 17.04 ms, present 1.36 ms, 20.0 draws/frame, 5280 vertices/frame
+> 
+Sat Oct 31 23:01:00 unknown OsuLegacy[620] <Warning>: OSU stall: GPU scene 100 build 227.4 ms present 6.4 ms
+Sat Oct 31 23:01:00 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 241.9 ms
+Sat Oct 31 23:01:01 unknown OsuLegacy[620] <Warning>: OSU sounds: play buffer 2426 source 2405 state 0x1012 gain 0.500 x 1.000 error 0x0
+Sat Oct 31 23:01:01 unknown OsuLegacy[620] <Warning>: OSU sounds: play buffer 2435 source 2406 state 0x1012 gain 0.500 x 1.000 error 0x0
+Sat Oct 31 23:01:01 unknown OsuLegacy[620] <Warning>: OSU stall: GPU scene 100 build 506.2 ms present 1.6 ms
+Sat Oct 31 23:01:01 unknown OsuLegacy[620] <Warning>: OSU frame: 38.3 fps, build 22.29 ms, present 2.33 ms, 20.1 draws/frame, 5539 vertices/frame
+Sat Oct 31 23:01:01 unknown OsuLegacy[620] <Warning>: OSU drawing: active 38.0 calls/s, 24.9 ms/call
+Sat Oct 31 23:01:01 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 534.1 ms
+Sat Oct 31 23:01:01 unknown OsuLegacy[620] <Warning>: OSU sounds: play buffer 2440 source 2407 state 0x1012 gain 0.600 x 1.000 error 0x0
+> 
+Sat Oct 31 23:01:03 unknown OsuLegacy[620] <Warning>: OSU GPU cache: 2 uploads, 3 evictions, 21.0 ms upload work, 5314 KiB cached
+> 
+Sat Oct 31 23:01:06 unknown OsuLegacy[620] <Warning>: OSU frame: 23.4 fps, build 38.45 ms, present 2.16 ms, 28.6 draws/frame, 21899 vertices/frame
+Sat Oct 31 23:01:06 unknown OsuLegacy[620] <Warning>: OSU drawing: active 23.4 calls/s, 40.9 ms/call
+> 
+Sat Oct 31 23:01:11 unknown OsuLegacy[620] <Warning>: OSU frame: 24.0 fps, build 37.71 ms, present 2.14 ms, 29.1 draws/frame, 22683 vertices/frame
+Sat Oct 31 23:01:11 unknown OsuLegacy[620] <Warning>: OSU drawing: active 24.1 calls/s, 39.9 ms/call
+> 
+Sat Oct 31 23:01:16 unknown OsuLegacy[620] <Warning>: OSU frame: 26.1 fps, build 34.81 ms, present 2.02 ms, 27.1 draws/frame, 19838 vertices/frame
+Sat Oct 31 23:01:16 unknown OsuLegacy[620] <Warning>: OSU drawing: active 26.1 calls/s, 37.0 ms/call
+> 
+Sat Oct 31 23:01:21 unknown OsuLegacy[620] <Warning>: OSU frame: 28.4 fps, build 31.55 ms, present 2.20 ms, 26.1 draws/frame, 17055 vertices/frame
+Sat Oct 31 23:01:21 unknown OsuLegacy[620] <Warning>: OSU drawing: active 28.5 calls/s, 33.8 ms/call
+Sat Oct 31 23:01:22 unknown SpringBoard[469] <Warning>: Received memory warning. Level=1
+Sat Oct 31 23:01:23 unknown OsuLegacy[620] <Warning>: OSU stall: GPU scene 100 build 507.3 ms present 2.0 ms
+> 
+Sat Oct 31 23:01:23 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 518.5 ms
+> 
+Sat Oct 31 23:01:26 unknown OsuLegacy[620] <Warning>: OSU frame: 25.3 fps, build 35.82 ms, present 2.09 ms, 25.6 draws/frame, 16718 vertices/frame
+Sat Oct 31 23:01:26 unknown OsuLegacy[620] <Warning>: OSU drawing: active 25.3 calls/s, 38.1 ms/call
+> 
+Sat Oct 31 23:01:31 unknown OsuLegacy[620] <Warning>: OSU frame: 26.0 fps, build 34.59 ms, present 2.31 ms, 26.7 draws/frame, 19793 vertices/frame
+Sat Oct 31 23:01:31 unknown OsuLegacy[620] <Warning>: OSU drawing: active 26.0 calls/s, 37.0 ms/call
+> 
+Sat Oct 31 23:01:36 unknown OsuLegacy[620] <Warning>: OSU frame: 26.2 fps, build 34.52 ms, present 2.01 ms, 27.1 draws/frame, 19831 vertices/frame
+Sat Oct 31 23:01:36 unknown OsuLegacy[620] <Warning>: OSU drawing: active 26.2 calls/s, 36.6 ms/call
+> 
+Sat Oct 31 23:01:41 unknown OsuLegacy[620] <Warning>: OSU frame: 26.7 fps, build 33.91 ms, present 2.02 ms, 26.7 draws/frame, 19114 vertices/frame
+Sat Oct 31 23:01:41 unknown OsuLegacy[620] <Warning>: OSU drawing: active 26.8 calls/s, 36.1 ms/call
+> 
+Sat Oct 31 23:01:46 unknown OsuLegacy[620] <Warning>: OSU frame: 26.4 fps, build 34.33 ms, present 1.94 ms, 26.9 draws/frame, 20100 vertices/frame
+Sat Oct 31 23:01:46 unknown OsuLegacy[620] <Warning>: OSU drawing: active 26.4 calls/s, 36.4 ms/call
+> 
+Sat Oct 31 23:01:51 unknown OsuLegacy[620] <Warning>: OSU frame: 26.2 fps, build 34.34 ms, present 2.06 ms, 26.7 draws/frame, 19666 vertices/frame
+Sat Oct 31 23:01:51 unknown OsuLegacy[620] <Warning>: OSU drawing: active 26.2 calls/s, 36.5 ms/call
+> 
+Sat Oct 31 23:01:56 unknown OsuLegacy[620] <Warning>: OSU frame: 25.5 fps, build 35.50 ms, present 2.09 ms, 27.1 draws/frame, 20560 vertices/frame
+Sat Oct 31 23:01:56 unknown OsuLegacy[620] <Warning>: OSU drawing: active 25.6 calls/s, 37.7 ms/call
+> 
+Sat Oct 31 23:02:01 unknown OsuLegacy[620] <Warning>: OSU frame: 25.9 fps, build 34.91 ms, present 2.19 ms, 27.2 draws/frame, 19999 vertices/frame
+Sat Oct 31 23:02:01 unknown OsuLegacy[620] <Warning>: OSU drawing: active 25.9 calls/s, 37.2 ms/call
+> 
+Sat Oct 31 23:02:06 unknown OsuLegacy[620] <Warning>: OSU frame: 25.2 fps, build 35.86 ms, present 2.19 ms, 27.7 draws/frame, 20765 vertices/frame
+Sat Oct 31 23:02:06 unknown OsuLegacy[620] <Warning>: OSU drawing: active 25.2 calls/s, 38.2 ms/call
+> 
+Sat Oct 31 23:02:11 unknown OsuLegacy[620] <Warning>: OSU frame: 25.3 fps, build 35.65 ms, present 2.19 ms, 28.0 draws/frame, 20472 vertices/frame
+Sat Oct 31 23:02:11 unknown OsuLegacy[620] <Warning>: OSU drawing: active 25.4 calls/s, 37.9 ms/call
+> 
+Sat Oct 31 23:02:16 unknown SpringBoard[469] <Warning>: Received memory warning. Level=1
+Sat Oct 31 23:02:16 unknown OsuLegacy[620] <Warning>: Received memory warning. Level=1
+Sat Oct 31 23:02:17 unknown SpringBoard[469] <Warning>: Received memory warning. Level=1
+Sat Oct 31 23:02:17 unknown OsuLegacy[620] <Warning>: OSU stall: artwork 1921.jpg 480x320 602.4 ms
+> 
+Sat Oct 31 23:02:18 unknown OsuLegacy[620] <Warning>: OSU stall: GPU scene 100 build 1516.6 ms present 1.8 ms
+Sat Oct 31 23:02:18 unknown OsuLegacy[620] <Warning>: OSU frame: 21.9 fps, build 40.33 ms, present 2.11 ms, 25.1 draws/frame, 15185 vertices/frame
+Sat Oct 31 23:02:18 unknown OsuLegacy[620] <Warning>: OSU drawing: active 21.8 calls/s, 42.6 ms/call
+Sat Oct 31 23:02:18 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 1558.2 ms
+Sat Oct 31 23:02:18 unknown OsuLegacy[620] <Warning>: OSU GPU cache: 12 uploads, 0 evictions, 131.5 ms upload work, 2756 KiB cached
+> 
+Sat Oct 31 23:02:23 unknown OsuLegacy[620] <Warning>: OSU frame: 34.0 fps, build 25.67 ms, present 1.81 ms, 25.1 draws/frame, 15194 vertices/frame
+Sat Oct 31 23:02:23 unknown OsuLegacy[620] <Warning>: OSU drawing: active 34.1 calls/s, 27.6 ms/call
+> 
+Sat Oct 31 23:02:28 unknown OsuLegacy[620] <Warning>: OSU frame: 29.8 fps, build 29.97 ms, present 2.17 ms, 26.8 draws/frame, 19545 vertices/frame
+Sat Oct 31 23:02:28 unknown OsuLegacy[620] <Warning>: OSU drawing: active 29.8 calls/s, 32.2 ms/call
+> 
+Sat Oct 31 23:02:33 unknown OsuLegacy[620] <Warning>: OSU frame: 30.2 fps, build 29.66 ms, present 2.04 ms, 26.8 draws/frame, 19323 vertices/frame
+Sat Oct 31 23:02:33 unknown OsuLegacy[620] <Warning>: OSU drawing: active 30.2 calls/s, 31.8 ms/call
+> 
+Sat Oct 31 23:02:38 unknown OsuLegacy[620] <Warning>: OSU frame: 33.7 fps, build 26.45 ms, present 1.83 ms, 25.5 draws/frame, 16085 vertices/frame
+Sat Oct 31 23:02:38 unknown OsuLegacy[620] <Warning>: OSU drawing: active 33.8 calls/s, 28.3 ms/call
+> 
+Sat Oct 31 23:02:43 unknown OsuLegacy[620] <Warning>: OSU frame: 29.9 fps, build 29.65 ms, present 2.29 ms, 27.2 draws/frame, 19814 vertices/frame
+Sat Oct 31 23:02:43 unknown OsuLegacy[620] <Warning>: OSU drawing: active 29.8 calls/s, 32.1 ms/call
+> 
+Sat Oct 31 23:02:48 unknown OsuLegacy[620] <Warning>: OSU frame: 28.9 fps, build 30.96 ms, present 2.14 ms, 27.4 draws/frame, 20500 vertices/frame
+Sat Oct 31 23:02:48 unknown OsuLegacy[620] <Warning>: OSU drawing: active 28.9 calls/s, 33.2 ms/call
+> 
+Sat Oct 31 23:02:53 unknown OsuLegacy[620] <Warning>: OSU frame: 30.8 fps, build 28.89 ms, present 2.09 ms, 25.5 draws/frame, 19386 vertices/frame
+Sat Oct 31 23:02:53 unknown OsuLegacy[620] <Warning>: OSU drawing: active 31.1 calls/s, 30.8 ms/call
+Sat Oct 31 23:02:53 unknown OsuLegacy[620] <Warning>: OSU GPU cache: 1 uploads, 0 evictions, 16.1 ms upload work, 3012 KiB cached
+Sat Oct 31 23:02:53 unknown UIKitApplication:org.osu.legacy.experimental[0x65a4][620] <Notice>: OSU results: SS, score 173560, accuracy 100.00%, combo 871/871
+Sat Oct 31 23:02:53 unknown OsuLegacy[620] <Warning>: OSU scene: results
+Sat Oct 31 23:02:54 unknown SpringBoard[469] <Warning>: Received memory warning. Level=1
+Sat Oct 31 23:02:54 unknown OsuLegacy[620] <Warning>: OSU stall: artwork 1921.jpg 37x43 331.1 ms
+Sat Oct 31 23:02:54 unknown OsuLegacy[620] <Warning>: OSU stall: GPU scene 8 build 685.4 ms present 1.3 ms
+> 
+Sat Oct 31 23:02:54 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 732.6 ms
+> 
+Sat Oct 31 23:02:57 unknown OsuLegacy[620] <Warning>: OSU startup: menu music play=1
+Sat Oct 31 23:02:57 unknown OsuLegacy[620] <Warning>: OSU scene: songs
+Sat Oct 31 23:02:57 unknown OsuLegacy[620] <Warning>: OSU stall: artwork wallpaper-03-008.jpg 480x320 150.2 ms
+Sat Oct 31 23:02:57 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 234.3 ms
+Sat Oct 31 23:02:57 unknown SpringBoard[469] <Warning>: Received memory warning. Level=1
+> 
+Sat Oct 31 23:02:58 unknown OsuLegacy[620] <Warning>: OSU stall: artwork 1921.jpg 169x82 1190.8 ms
+Sat Oct 31 23:02:59 unknown SpringBoard[469] <Warning>: Received memory warning. Level=1
+Sat Oct 31 23:02:59 unknown OsuLegacy[620] <Warning>: OSU stall: artwork 1921.jpg 44x36 358.3 ms
+Sat Oct 31 23:02:59 unknown OsuLegacy[620] <Warning>: OSU stall: GPU scene 3 build 393.8 ms present 10.6 ms
+Sat Oct 31 23:02:59 unknown OsuLegacy[620] <Warning>: OSU GPU cache: 13 uploads, 0 evictions, 111.5 ms upload work, 4480 KiB cached
+Sat Oct 31 23:02:59 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 21.1 calls/s, 45.2 ms/call
+Sat Oct 31 23:02:59 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 2142.9 ms
+Sat Oct 31 23:03:00 unknown OsuLegacy[620] <Warning>: OSU scene: play
+> 
+Sat Oct 31 23:03:00 unknown OsuLegacy[620] <Warning>: OSU stall: artwork wallpaper-03-009.jpg 480x320 154.0 ms
+Sat Oct 31 23:03:00 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 321.3 ms
+Sat Oct 31 23:03:00 unknown OsuLegacy[620] <Warning>: OSU FFT: 133 windows, avg 29.426 ms, max 3198.335 ms
+Sat Oct 31 23:03:00 unknown OsuLegacy[620] <Warning>: OSU GPU effects: 22.69 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:03:02 unknown OsuLegacy[620] <Warning>: OSU scene: music
+Sat Oct 31 23:03:02 unknown SpringBoard[469] <Warning>: Received memory warning. Level=1
+Sat Oct 31 23:03:03 unknown OsuLegacy[620] <Warning>: OSU stall: artwork 1921.jpg 464x72 688.1 ms
+Sat Oct 31 23:03:03 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 1126.8 ms
+> 
+Sat Oct 31 23:03:04 unknown OsuLegacy[620] <Warning>: OSU scene: play
+Sat Oct 31 23:03:04 unknown OsuLegacy[620] <Warning>: OSU GPU cache: 9 uploads, 2 evictions, 80.5 ms upload work, 5121 KiB cached
+Sat Oct 31 23:03:05 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 2.9 calls/s, 123.9 ms/call
+Sat Oct 31 23:03:06 unknown OsuLegacy[620] <Warning>: OSU GPU effects: 22.78 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:03:07 unknown OsuLegacy[620] <Warning>: OSU scene: home
+> 
+Sat Oct 31 23:03:07 unknown OsuLegacy[620] <Warning>: OSU scene: beatmap listing
+> 
+Sat Oct 31 23:03:09 unknown SpringBoard[469] <Warning>: Received memory warning. Level=1
+Sat Oct 31 23:03:09 unknown OsuLegacy[620] <Warning>: Received memory warning. Level=1
+Sat Oct 31 23:03:10 unknown OsuLegacy[620] <Warning>: OSU stall: artwork wallpaper-03-009.jpg 480x320 112.2 ms
+Sat Oct 31 23:03:10 unknown OsuLegacy[620] <Warning>: OSU GPU cache: 16 uploads, 0 evictions, 105.4 ms upload work, 1872 KiB cached
+> 
+Sat Oct 31 23:03:11 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 7.3 calls/s, 66.2 ms/call
+Sat Oct 31 23:03:11 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 839.8 ms
+> 
+Sat Oct 31 23:03:12 unknown OsuLegacy[620] <Warning>: OSU stall: artwork cover-2528348.jpg 226x58 111.3 ms
+Sat Oct 31 23:03:12 unknown OsuLegacy[620] <Warning>: OSU stall: artwork cover-2641775.jpg 226x58 103.9 ms
+Sat Oct 31 23:03:12 unknown OsuLegacy[620] <Warning>: OSU stall: artwork cover-2608888.jpg 226x58 114.2 ms
+Sat Oct 31 23:03:13 unknown OsuLegacy[620] <Warning>: OSU stall: artwork cover-1014706.jpg 226x58 125.3 ms
+Sat Oct 31 23:03:13 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 888.0 ms
+Sat Oct 31 23:03:13 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 163.7 ms
+Sat Oct 31 23:03:13 unknown SpringBoard[469] <Warning>: Received memory warning. Level=1
+> 
+Sat Oct 31 23:03:13 unknown OsuLegacy[620] <Warning>: Received memory warning. Level=1
+Sat Oct 31 23:03:14 unknown OsuLegacy[620] <Warning>: OSU stall: background poll 708.2 ms
+Sat Oct 31 23:03:14 unknown OsuLegacy[620] <Warning>: OSU stall: artwork wallpaper-03-009.jpg 480x320 116.8 ms
+> 
+Sat Oct 31 23:03:15 unknown OsuLegacy[620] <Warning>: OSU stall: artwork cover-2528348.jpg 226x58 116.1 ms
+Sat Oct 31 23:03:15 unknown OsuLegacy[620] <Warning>: OSU stall: artwork cover-2641775.jpg 226x58 114.9 ms
+Sat Oct 31 23:03:16 unknown OsuLegacy[620] <Warning>: OSU stall: artwork cover-2608888.jpg 226x58 151.6 ms
+Sat Oct 31 23:03:16 unknown OsuLegacy[620] <Warning>: OSU stall: artwork cover-1014706.jpg 226x58 137.4 ms
+Sat Oct 31 23:03:16 unknown OsuLegacy[620] <Warning>: OSU GPU cache: 27 uploads, 0 evictions, 163.7 ms upload work, 2264 KiB cached
+Sat Oct 31 23:03:16 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 2346.6 ms
+> 
+Sat Oct 31 23:03:16 unknown OsuLegacy[620] <Warning>: OSU stall: artwork cover-2500615.jpg 226x58 132.1 ms
+Sat Oct 31 23:03:16 unknown OsuLegacy[620] <Warning>: OSU stall: artwork cover-2616917.jpg 226x58 186.6 ms
+Sat Oct 31 23:03:17 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 473.2 ms
+Sat Oct 31 23:03:17 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 1.6 calls/s, 366.4 ms/call
+Sat Oct 31 23:03:17 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 163.8 ms
+> 
+Sat Oct 31 23:03:18 unknown OsuLegacy[620] <Warning>: OSU stall: artwork cover-2637051.jpg 226x58 122.9 ms
+Sat Oct 31 23:03:18 unknown OsuLegacy[620] <Warning>: OSU stall: artwork cover-2620352.jpg 226x58 115.6 ms
+Sat Oct 31 23:03:18 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 506.9 ms
+Sat Oct 31 23:03:18 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 172.8 ms
+Sat Oct 31 23:03:18 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 195.6 ms
+Sat Oct 31 23:03:18 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 182.8 ms
+> 
+Sat Oct 31 23:03:19 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 191.3 ms
+Sat Oct 31 23:03:19 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 223.2 ms
+Sat Oct 31 23:03:19 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 166.5 ms
+Sat Oct 31 23:03:19 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 232.6 ms
+> 
+Sat Oct 31 23:03:20 unknown OsuLegacy[620] <Warning>: OSU frame: 2.4 fps, build 238.72 ms, present 2.50 ms, 69.9 draws/frame, 11636 vertices/frame
+Sat Oct 31 23:03:20 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 178.7 ms
+Sat Oct 31 23:03:21 unknown OsuLegacy[620] <Warning>: OSU stall: artwork cover-2598366.jpg 226x58 130.6 ms
+Sat Oct 31 23:03:21 unknown OsuLegacy[620] <Warning>: OSU stall: artwork cover-2560063.jpg 226x58 193.5 ms
+> 
+Sat Oct 31 23:03:21 unknown OsuLegacy[620] <Warning>: OSU GPU cache: 11 uploads, 0 evictions, 34.7 ms upload work, 2668 KiB cached
+Sat Oct 31 23:03:21 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 568.4 ms
+Sat Oct 31 23:03:21 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 160.7 ms
+Sat Oct 31 23:03:21 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 193.8 ms
+Sat Oct 31 23:03:22 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 232.9 ms
+Sat Oct 31 23:03:22 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 154.1 ms
+Sat Oct 31 23:03:23 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 4.1 calls/s, 197.4 ms/call
+> 
+Sat Oct 31 23:03:23 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 208.2 ms
+Sat Oct 31 23:03:23 unknown OsuLegacy[620] <Warning>: OSU stall: artwork cover-2589195.jpg 226x58 121.1 ms
+Sat Oct 31 23:03:23 unknown OsuLegacy[620] <Warning>: OSU stall: artwork cover-2573502.jpg 226x58 145.8 ms
+Sat Oct 31 23:03:23 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 487.3 ms
+> 
+Sat Oct 31 23:03:24 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 197.7 ms
+Sat Oct 31 23:03:24 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 152.7 ms
+Sat Oct 31 23:03:24 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 158.6 ms
+> 
+Sat Oct 31 23:03:25 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 166.6 ms
+Sat Oct 31 23:03:26 unknown OsuLegacy[620] <Warning>: OSU GPU cache: 3 uploads, 0 evictions, 12.2 ms upload work, 2800 KiB cached
+Sat Oct 31 23:03:26 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 174.6 ms
+Sat Oct 31 23:03:28 unknown OsuLegacy[620] <Warning>: OSU stall: background poll 248.0 ms
+> 
+Sat Oct 31 23:03:28 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 3.9 calls/s, 153.4 ms/call
+Sat Oct 31 23:03:28 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 400.6 ms
+Sat Oct 31 23:03:28 unknown OsuLegacy[620] <Warning>: OSU frame: 3.6 fps, build 165.28 ms, present 2.54 ms, 80.1 draws/frame, 13716 vertices/frame
+> 
+Sat Oct 31 23:03:30 unknown OsuLegacy[620] <Warning>: OSU stall: artwork cover-2634357.jpg 226x58 118.5 ms
+Sat Oct 31 23:03:30 unknown OsuLegacy[620] <Warning>: OSU stall: artwork cover-2607650.jpg 226x58 119.7 ms
+Sat Oct 31 23:03:30 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 455.0 ms
+> 
+Sat Oct 31 23:03:31 unknown OsuLegacy[620] <Warning>: OSU GPU cache: 4 uploads, 0 evictions, 17.3 ms upload work, 2936 KiB cached
+Sat Oct 31 23:03:31 unknown OsuLegacy[620] <Warning>: OSU stall: artwork cover-2576654.jpg 226x58 137.8 ms
+Sat Oct 31 23:03:32 unknown OsuLegacy[620] <Warning>: OSU stall: artwork cover-2639354.jpg 226x58 120.7 ms
+Sat Oct 31 23:03:32 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 475.2 ms
+Sat Oct 31 23:03:32 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 191.0 ms
+Sat Oct 31 23:03:32 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 192.8 ms
+> 
+Sat Oct 31 23:03:32 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 194.8 ms
+Sat Oct 31 23:03:33 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 208.3 ms
+Sat Oct 31 23:03:33 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 3.0 calls/s, 189.9 ms/call
+Sat Oct 31 23:03:33 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 220.8 ms
+Sat Oct 31 23:03:33 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 167.3 ms
+Sat Oct 31 23:03:33 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 163.1 ms
+> 
+Sat Oct 31 23:03:33 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 187.4 ms
+Sat Oct 31 23:03:34 unknown OsuLegacy[620] <Warning>: OSU stall: artwork cover-2593846.jpg 226x58 115.7 ms
+Sat Oct 31 23:03:34 unknown OsuLegacy[620] <Warning>: OSU stall: artwork cover-2616260.jpg 226x58 106.6 ms
+Sat Oct 31 23:03:34 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 467.1 ms
+Sat Oct 31 23:03:34 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 190.4 ms
+> 
+Sat Oct 31 23:03:35 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 173.2 ms
+Sat Oct 31 23:03:35 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 155.2 ms
+> 
+Sat Oct 31 23:03:37 unknown OsuLegacy[620] <Warning>: OSU GPU cache: 7 uploads, 0 evictions, 20.9 ms upload work, 3204 KiB cached
+> 
+Sat Oct 31 23:03:38 unknown OsuLegacy[620] <Warning>: OSU frame: 3.2 fps, build 174.24 ms, present 1.82 ms, 82.2 draws/frame, 13466 vertices/frame
+Sat Oct 31 23:03:38 unknown OsuLegacy[620] <Warning>: OSU stall: artwork cover-2459261.jpg 226x58 117.8 ms
+Sat Oct 31 23:03:38 unknown OsuLegacy[620] <Warning>: OSU stall: artwork cover-2637835.jpg 226x58 119.1 ms
+Sat Oct 31 23:03:38 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 3.1 calls/s, 179.7 ms/call
+Sat Oct 31 23:03:38 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 448.2 ms
+> 
+Sat Oct 31 23:03:40 unknown OsuLegacy[620] <Warning>: OSU stall: artwork cover-2598606.jpg 226x58 131.8 ms
+Sat Oct 31 23:03:40 unknown OsuLegacy[620] <Warning>: OSU stall: artwork cover-2388201.jpg 226x58 146.6 ms
+Sat Oct 31 23:03:40 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 502.9 ms
+Sat Oct 31 23:03:40 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 187.8 ms
+Sat Oct 31 23:03:40 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 218.4 ms
+> 
+Sat Oct 31 23:03:41 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 179.4 ms
+Sat Oct 31 23:03:41 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 167.3 ms
+Sat Oct 31 23:03:41 unknown OsuLegacy[620] <Warning>: OSU scene: home
+Sat Oct 31 23:03:41 unknown OsuLegacy[620] <Warning>: OSU FFT: 235 windows, avg 18.482 ms, max 3198.335 ms
+Sat Oct 31 23:03:41 unknown OsuLegacy[620] <Warning>: OSU GPU effects: 23.04 ms/frame, one presentation with cached UI
+Sat Oct 31 23:03:42 unknown OsuLegacy[620] <Warning>: OSU GPU cache: 12 uploads, 0 evictions, 44.6 ms upload work, 3744 KiB cached
+> 
+Sat Oct 31 23:03:42 unknown OsuLegacy[620] <Warning>: OSU scene: play
+> 
+Sat Oct 31 23:03:43 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 5.6 calls/s, 96.5 ms/call
+> 
+Sat Oct 31 23:03:46 unknown OsuLegacy[620] <Warning>: OSU GPU effects: 23.20 ms/frame, one presentation with cached UI
+Sat Oct 31 23:03:47 unknown OsuLegacy[620] <Warning>: OSU GPU cache: 4 uploads, 0 evictions, 7.6 ms upload work, 3760 KiB cached
+Sat Oct 31 23:03:47 unknown OsuLegacy[620] <Warning>: OSU stall: music prepare audio.mp3 143.6 ms
+Sat Oct 31 23:03:47 unknown OsuLegacy[620] <Warning>: OSU music: playing audio.mp3
+Sat Oct 31 23:03:47 unknown OsuLegacy[620] <Warning>: OSU stall: background poll 269.7 ms
+> 
+Sat Oct 31 23:03:47 unknown OsuLegacy[620] <Warning>: OSU stall: artwork wallpaper-03-010.jpg 480x320 143.5 ms
+Sat Oct 31 23:03:47 unknown OsuLegacy[620] <Warning>: OSU FFT: source audio.mp3, streamed windows, setup 176.61 ms
+Sat Oct 31 23:03:47 unknown OsuLegacy[620] <Warning>: OSU frame: 30.7 fps, build 11.67 ms, present 15.24 ms, 10.0 draws/frame, 4508 vertices/frame
+Sat Oct 31 23:03:47 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 537.0 ms
+Sat Oct 31 23:03:48 unknown OsuLegacy[620] <Warning>: OSU GPU effects: first spectrum at 0.404, age 28.2 ms
+Sat Oct 31 23:03:48 unknown OsuLegacy[620] <Warning>: OSU scene: home
+Sat Oct 31 23:03:49 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 5.4 calls/s, 49.1 ms/call
+> 
+Sat Oct 31 23:03:51 unknown OsuLegacy[620] <Warning>: OSU FFT: 517 windows, avg 10.090 ms, max 3198.335 ms
+Sat Oct 31 23:03:51 unknown OsuLegacy[620] <Warning>: OSU GPU effects: 22.35 ms/frame, one presentation with cached UI
+Sat Oct 31 23:03:51 unknown OsuLegacy[620] <Warning>: OSU scene: music
+Sat Oct 31 23:03:51 unknown SpringBoard[469] <Warning>: Received memory warning. Level=1
+> 
+Sat Oct 31 23:04:00 unknown configd[24] <Notice>: jetsam: kernel memory event (91), free: 368, active: 1440, inactive: 843, purgeable: 0, wired: 9305
+Sat Oct 31 23:04:00 unknown SpringBoard[469] <Warning>: Received memory warning. Level=2
+Sat Oct 31 23:04:01 unknown SpringBoard[469] <Warning>: Memory level is urgent (9%) and there are no background apps to ask to exit.
+> 
+Sat Oct 31 23:04:22 unknown SpringBoard[469] <Warning>: Received memory warning. Level=1
+Sat Oct 31 23:04:23 unknown OsuLegacy[620] <Warning>: OSU GPU cache: 5 uploads, 1 evictions, 197.8 ms upload work, 6129 KiB cached
+Sat Oct 31 23:04:23 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 31709.0 ms
+Sat Oct 31 23:04:23 unknown OsuLegacy[620] <Warning>: Received memory warning. Level=1
+> 
+Sat Oct 31 23:04:24 unknown com.apple.SpringBoard[469] <Notice>: CoreAnimation: timed out fence 500
+Sat Oct 31 23:04:25 unknown com.apple.SpringBoard[469] <Notice>: CoreAnimation: timed out fence 500
+> 
+Sat Oct 31 23:04:25 unknown OsuLegacy[620] <Warning>: OSU stall: artwork wallpaper-03-010.jpg 480x320 212.5 ms
+Sat Oct 31 23:04:26 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 1141.3 ms
+> 
+Sat Oct 31 23:04:28 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 0.3 calls/s, 3308.3 ms/call
+Sat Oct 31 23:04:28 unknown OsuLegacy[620] <Warning>: OSU GPU cache: 11 uploads, 0 evictions, 147.9 ms upload work, 2952 KiB cached
+> 
+Sat Oct 31 23:04:29 unknown OsuLegacy[620] <Warning>: OSU stall: background poll 102.7 ms
+Sat Oct 31 23:04:30 unknown OsuLegacy[620] <Warning>: OSU FFmpeg: Apple decoder unavailable, decoding audio.ogg
+> 
+Sat Oct 31 23:04:30 unknown OsuLegacy[620] <Warning>: OSU frame: 0.8 fps, build 1126.47 ms, present 2.18 ms, 50.8 draws/frame, 6898 vertices/frame
+Sat Oct 31 23:04:31 unknown UIKitApplication:org.osu.legacy.experimental[0x65a4][620] <Notice>: [ogg @ 0x1443e00] 
+Sat Oct 31 23:04:31 unknown UIKitApplication:org.osu.legacy.experimental[0x65a4][620] <Notice>: Could not find codec parameters for stream 1 (Video: mjpeg, none): unspecified size
+Sat Oct 31 23:04:31 unknown UIKitApplication:org.osu.legacy.experimental[0x65a4][620] <Notice>: Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+Sat Oct 31 23:04:31 unknown mediaserverd[20] <Error>: 23:04:31.511 <AudioQueueServer> AudioQueueObject::IONodeConnection::_AcquireHardwareCodec: failed ('hwiu')
+Sat Oct 31 23:04:31 unknown OsuLegacy[620] <Warning>: OSU stall: music prepare audio.mp3 176.9 ms
+Sat Oct 31 23:04:31 unknown OsuLegacy[620] <Warning>: OSU music: playing audio.mp3
+Sat Oct 31 23:04:31 unknown OsuLegacy[620] <Warning>: OSU stall: artwork wallpaper-03-011.jpg 480x320 145.3 ms
+> 
+Sat Oct 31 23:04:32 unknown OsuLegacy[620] <Warning>: OSU stall: artwork 222.jpg 464x72 443.0 ms
+Sat Oct 31 23:04:32 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 743.4 ms
+Sat Oct 31 23:04:33 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 6.4 calls/s, 63.7 ms/call
+> 
+Sat Oct 31 23:04:33 unknown OsuLegacy[620] <Warning>: OSU GPU cache: 2 uploads, 0 evictions, 63.2 ms upload work, 4232 KiB cached
+> 
+Sat Oct 31 23:04:35 unknown OsuLegacy[620] <Warning>: OSU stall: music prepare audio.mp3 135.6 ms
+Sat Oct 31 23:04:35 unknown OsuLegacy[620] <Warning>: OSU music: playing audio.mp3
+Sat Oct 31 23:04:35 unknown OsuLegacy[620] <Warning>: OSU stall: artwork wallpaper-03-012.jpg 480x320 129.4 ms
+Sat Oct 31 23:04:35 unknown OsuLegacy[620] <Warning>: OSU stall: artwork BG.jpg 464x72 374.3 ms
+Sat Oct 31 23:04:35 unknown SpringBoard[469] <Warning>: Received memory warning. Level=1
+Sat Oct 31 23:04:35 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 635.7 ms
+Sat Oct 31 23:04:35 unknown OsuLegacy[620] <Warning>: Received memory warning. Level=1
+Sat Oct 31 23:04:35 unknown mediaserverd[20] <Error>: 23:04:35.858 <AudioQueueServer> AudioQueueObject::IONodeConnection::_AcquireHardwareCodec: failed ('hwiu')
+Sat Oct 31 23:04:35 unknown OsuLegacy[620] <Warning>: OSU stall: music prepare audio.mp3 111.1 ms
+Sat Oct 31 23:04:35 unknown OsuLegacy[620] <Warning>: OSU music: playing audio.mp3
+> 
+Sat Oct 31 23:04:36 unknown OsuLegacy[620] <Warning>: OSU stall: artwork wallpaper-03-013.jpg 480x320 123.8 ms
+Sat Oct 31 23:04:36 unknown OsuLegacy[620] <Warning>: OSU stall: artwork 69256-girl-group-aespa.jpg 464x72 477.6 ms
+> 
+Sat Oct 31 23:04:37 unknown OsuLegacy[620] <Warning>: OSU frame: 6.6 fps, build 103.75 ms, present 2.19 ms, 51.2 draws/frame, 7022 vertices/frame
+Sat Oct 31 23:04:37 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 1411.8 ms
+Sat Oct 31 23:04:38 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 7.8 calls/s, 94.0 ms/call
+> 
+Sat Oct 31 23:04:38 unknown OsuLegacy[620] <Warning>: OSU GPU cache: 13 uploads, 0 evictions, 204.7 ms upload work, 2184 KiB cached
+> 
+Sat Oct 31 23:04:42 unknown OsuLegacy[620] <Warning>: OSU frame: 8.0 fps, build 35.90 ms, present 1.26 ms, 47.0 draws/frame, 6726 vertices/frame
+Sat Oct 31 23:04:43 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 7.8 calls/s, 38.5 ms/call
+> 
+Sat Oct 31 23:04:48 unknown OsuLegacy[620] <Warning>: OSU frame: 11.1 fps, build 42.47 ms, present 1.42 ms, 47.7 draws/frame, 6763 vertices/frame
+Sat Oct 31 23:04:48 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 11.1 calls/s, 44.9 ms/call
+> 
+Sat Oct 31 23:04:53 unknown OsuLegacy[620] <Warning>: OSU frame: 6.6 fps, build 38.40 ms, present 1.31 ms, 49.2 draws/frame, 6849 vertices/frame
+Sat Oct 31 23:04:53 unknown OsuLegacy[620] <Warning>: OSU stall: background poll 150.9 ms
+Sat Oct 31 23:04:53 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 7.5 calls/s, 41.2 ms/call
+Sat Oct 31 23:04:53 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 201.8 ms
+Sat Oct 31 23:04:53 unknown OsuLegacy[620] <Warning>: OSU FFmpeg: cached audio.ogg
+> 
+Sat Oct 31 23:04:58 unknown OsuLegacy[620] <Warning>: OSU frame: 10.4 fps, build 39.99 ms, present 1.46 ms, 51.2 draws/frame, 7009 vertices/frame
+Sat Oct 31 23:04:58 unknown OsuLegacy[620] <Warning>: OSU scene: home
+Sat Oct 31 23:04:58 unknown OsuLegacy[620] <Warning>: OSU GPU cache: 8 uploads, 0 evictions, 23.3 ms upload work, 2528 KiB cached
+Sat Oct 31 23:04:58 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 9.9 calls/s, 43.1 ms/call
+Sat Oct 31 23:04:58 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 163.1 ms
+Sat Oct 31 23:04:58 unknown OsuLegacy[620] <Warning>: OSU FFT: 519 windows, avg 10.063 ms, max 3198.335 ms
+Sat Oct 31 23:04:58 unknown OsuLegacy[620] <Warning>: OSU GPU effects: 7.19 ms/frame, one presentation with cached UI
+Sat Oct 31 23:04:58 unknown OsuLegacy[620] <Warning>: OSU FFT: source audio.mp3, streamed windows, setup 79.84 ms
+> 
+Sat Oct 31 23:04:59 unknown OsuLegacy[620] <Warning>: OSU GPU effects: first spectrum at 23.772, age 140.2 ms
+Sat Oct 31 23:05:00 unknown OsuLegacy[620] <Warning>: OSU scene: music
+Sat Oct 31 23:05:04 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 3.4 calls/s, 30.1 ms/call
+> 
+Sat Oct 31 23:05:04 unknown OsuLegacy[620] <Warning>: OSU scene: home
+Sat Oct 31 23:05:04 unknown OsuLegacy[620] <Warning>: OSU GPU effects: 23.94 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:05:06 unknown OsuLegacy[620] <Warning>: OSU scene: music
+> 
+Sat Oct 31 23:05:07 unknown SpringBoard[469] <Warning>: Received memory warning. Level=1
+Sat Oct 31 23:05:07 unknown OsuLegacy[620] <Warning>: Received memory warning. Level=1
+Sat Oct 31 23:05:07 unknown OsuLegacy[620] <Warning>: OSU stall: artwork wallpaper-03-013.jpg 480x320 147.7 ms
+Sat Oct 31 23:05:08 unknown OsuLegacy[620] <Warning>: OSU stall: artwork 69256-girl-group-aespa.jpg 464x72 461.4 ms
+Sat Oct 31 23:05:09 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 1330.8 ms
+> 
+Sat Oct 31 23:05:09 unknown OsuLegacy[620] <Warning>: OSU scene: home
+Sat Oct 31 23:05:09 unknown OsuLegacy[620] <Warning>: OSU GPU cache: 20 uploads, 0 evictions, 131.5 ms upload work, 2528 KiB cached
+Sat Oct 31 23:05:09 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 3.5 calls/s, 115.0 ms/call
+Sat Oct 31 23:05:09 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 182.1 ms
+Sat Oct 31 23:05:09 unknown OsuLegacy[620] <Warning>: OSU FFT: 556 windows, avg 14.384 ms, max 3198.335 ms
+Sat Oct 31 23:05:09 unknown OsuLegacy[620] <Warning>: OSU GPU effects: 24.16 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:05:11 unknown SpringBoard[469] <Warning>: Received memory warning. Level=1
+Sat Oct 31 23:05:11 unknown OsuLegacy[620] <Warning>: Received memory warning. Level=1
+Sat Oct 31 23:05:12 unknown OsuLegacy[620] <Warning>: OSU UI: landscape canvas 480x320, view 320x480
+Sat Oct 31 23:05:12 unknown OsuLegacy[620] <Warning>: OSU stall: artwork wallpaper-03-013.jpg 480x320 112.8 ms
+Sat Oct 31 23:05:15 unknown SpringBoard[469] <Warning>: Received memory warning. Level=1
+> 
+Sat Oct 31 23:05:15 unknown OsuLegacy[620] <Warning>: Received memory warning. Level=1
+Sat Oct 31 23:05:15 unknown OsuLegacy[620] <Warning>: OSU stall: artwork wallpaper-03-013.jpg 480x320 133.1 ms
+> 
+Sat Oct 31 23:05:17 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 29.2 calls/s, 20.0 ms/call
+> 
+Sat Oct 31 23:05:19 unknown OsuLegacy[620] <Warning>: OSU FFT: 668 windows, avg 24.496 ms, max 3198.335 ms
+> 
+Sat Oct 31 23:05:22 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 60.0 calls/s, 2.1 ms/call
+> 
+Sat Oct 31 23:05:27 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 59.5 calls/s, 2.2 ms/call
+> 
+Sat Oct 31 23:05:29 unknown OsuLegacy[620] <Warning>: OSU FFT: 885 windows, avg 29.159 ms, max 3198.335 ms
+> 
+Sat Oct 31 23:05:32 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 59.4 calls/s, 2.4 ms/call
+> 
+Sat Oct 31 23:05:37 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 59.6 calls/s, 2.1 ms/call
+> 
+Sat Oct 31 23:05:39 unknown OsuLegacy[620] <Warning>: OSU FFT: 1096 windows, avg 32.306 ms, max 3198.335 ms
+> 
+Sat Oct 31 23:05:42 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 58.5 calls/s, 2.2 ms/call
+> 
+Sat Oct 31 23:05:43 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 392.1 ms
+> 
+Sat Oct 31 23:05:47 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 54.7 calls/s, 2.1 ms/call
+> 
+Sat Oct 31 23:05:49 unknown OsuLegacy[620] <Warning>: OSU FFT: 1331 windows, avg 33.659 ms, max 3198.335 ms
+> 
+Sat Oct 31 23:05:52 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 59.8 calls/s, 2.2 ms/call
+> 
+Sat Oct 31 23:05:57 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 59.8 calls/s, 2.2 ms/call
+> 
+Sat Oct 31 23:05:59 unknown OsuLegacy[620] <Warning>: OSU FFT: 1545 windows, avg 35.211 ms, max 3198.335 ms
+> 
+Sat Oct 31 23:06:02 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 59.8 calls/s, 2.2 ms/call
+> 
+Sat Oct 31 23:06:07 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 60.0 calls/s, 2.0 ms/call
+> 
+Sat Oct 31 23:06:09 unknown OsuLegacy[620] <Warning>: OSU FFT: 1742 windows, avg 36.903 ms, max 3198.335 ms
+> 
+Sat Oct 31 23:06:12 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 59.8 calls/s, 2.2 ms/call
+> 
+Sat Oct 31 23:06:17 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 59.4 calls/s, 2.2 ms/call
+> 
+Sat Oct 31 23:06:19 unknown OsuLegacy[620] <Warning>: OSU FFT: 1943 windows, avg 38.072 ms, max 3198.335 ms
+> 
+Sat Oct 31 23:06:22 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 59.8 calls/s, 2.1 ms/call
+> 
+Sat Oct 31 23:06:27 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 59.4 calls/s, 2.0 ms/call
+> 
+Sat Oct 31 23:06:29 unknown OsuLegacy[620] <Warning>: OSU FFT: 2160 windows, avg 38.757 ms, max 3198.335 ms
+> 
+Sat Oct 31 23:06:32 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 59.8 calls/s, 2.2 ms/call
+> 
+Sat Oct 31 23:06:37 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 60.0 calls/s, 2.2 ms/call
+> 
+Sat Oct 31 23:06:39 unknown OsuLegacy[620] <Warning>: OSU FFT: 2360 windows, avg 39.530 ms, max 3198.335 ms
+> 
+Sat Oct 31 23:06:42 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 59.8 calls/s, 2.3 ms/call
+> 
+Sat Oct 31 23:06:47 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 59.8 calls/s, 2.2 ms/call
+> 
+Sat Oct 31 23:06:49 unknown OsuLegacy[620] <Warning>: OSU FFT: 2578 windows, avg 39.911 ms, max 3198.335 ms
+> 
+Sat Oct 31 23:06:52 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 59.9 calls/s, 2.0 ms/call
+> 
+Sat Oct 31 23:06:57 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 59.9 calls/s, 2.2 ms/call
+> 
+Sat Oct 31 23:06:59 unknown OsuLegacy[620] <Warning>: OSU FFT: 2770 windows, avg 40.679 ms, max 3198.335 ms
+> 
+Sat Oct 31 23:07:02 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 59.6 calls/s, 2.3 ms/call
+> 
+Sat Oct 31 23:07:04 unknown OsuLegacy[620] <Warning>: OSU FFmpeg: Apple decoder unavailable, decoding audio.ogg
+> 
+Sat Oct 31 23:07:07 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 59.8 calls/s, 2.2 ms/call
+> 
+Sat Oct 31 23:07:09 unknown OsuLegacy[620] <Warning>: OSU FFT: 2980 windows, avg 41.067 ms, max 3198.335 ms
+> 
+Sat Oct 31 23:07:11 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 156.7 ms
+> 
+Sat Oct 31 23:07:12 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 57.2 calls/s, 2.1 ms/call
+> 
+Sat Oct 31 23:07:17 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 59.8 calls/s, 2.2 ms/call
+> 
+Sat Oct 31 23:07:19 unknown OsuLegacy[620] <Warning>: OSU FFT: 3175 windows, avg 41.561 ms, max 3198.335 ms
+> 
+Sat Oct 31 23:07:22 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 59.8 calls/s, 2.1 ms/call
+> 
+Sat Oct 31 23:07:27 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 59.8 calls/s, 2.2 ms/call
+> 
+Sat Oct 31 23:07:29 unknown OsuLegacy[620] <Warning>: OSU FFT: 3388 windows, avg 41.807 ms, max 3198.335 ms
+> 
+Sat Oct 31 23:07:32 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 59.6 calls/s, 2.1 ms/call
+> 
+Sat Oct 31 23:07:37 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 59.6 calls/s, 2.2 ms/call
+> 
+Sat Oct 31 23:07:39 unknown OsuLegacy[620] <Warning>: OSU FFT: 3587 windows, avg 42.152 ms, max 3198.335 ms
+> 
+Sat Oct 31 23:07:42 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 59.6 calls/s, 2.2 ms/call
+> 
+Sat Oct 31 23:07:47 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 59.4 calls/s, 2.2 ms/call
+> 
+Sat Oct 31 23:07:49 unknown OsuLegacy[620] <Warning>: OSU FFT: 3789 windows, avg 42.493 ms, max 3198.335 ms
+> 
+Sat Oct 31 23:07:51 unknown OsuLegacy[620] <Warning>: OSU stall: music prepare audio.mp3 130.3 ms
+Sat Oct 31 23:07:51 unknown OsuLegacy[620] <Warning>: OSU music: playing audio.mp3
+Sat Oct 31 23:07:51 unknown OsuLegacy[620] <Warning>: OSU stall: artwork wallpaper-03-014.jpg 480x320 157.7 ms
+Sat Oct 31 23:07:51 unknown OsuLegacy[620] <Warning>: OSU FFT: source audio.mp3, streamed windows, setup 31.31 ms
+Sat Oct 31 23:07:51 unknown OsuLegacy[620] <Warning>: OSU GPU effects: first spectrum at 0.332, age 24.5 ms
+> 
+Sat Oct 31 23:07:52 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 53.8 calls/s, 4.0 ms/call
+> 
+Sat Oct 31 23:07:57 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 60.0 calls/s, 2.2 ms/call
+> 
+Sat Oct 31 23:07:59 unknown OsuLegacy[620] <Warning>: OSU FFT: 4154 windows, avg 40.510 ms, max 3198.335 ms
+> 
+Sat Oct 31 23:08:02 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 59.2 calls/s, 2.4 ms/call
+> 
+Sat Oct 31 23:08:07 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 59.0 calls/s, 2.7 ms/call
+> 
+Sat Oct 31 23:08:09 unknown OsuLegacy[620] <Warning>: OSU FFT: 4529 windows, avg 38.916 ms, max 3198.335 ms
+> 
+Sat Oct 31 23:08:12 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 59.2 calls/s, 2.2 ms/call
+> 
+Sat Oct 31 23:08:17 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 60.0 calls/s, 2.1 ms/call
+> 
+Sat Oct 31 23:08:19 unknown OsuLegacy[620] <Warning>: OSU FFT: 4902 windows, avg 37.587 ms, max 3198.335 ms
+> 
+Sat Oct 31 23:08:22 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 59.6 calls/s, 2.3 ms/call
+> 
+Sat Oct 31 23:08:27 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 59.8 calls/s, 2.2 ms/call
+> 
+Sat Oct 31 23:08:29 unknown OsuLegacy[620] <Warning>: OSU FFT: 5289 windows, avg 36.321 ms, max 3198.335 ms
+> 
+Sat Oct 31 23:08:32 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 59.4 calls/s, 2.5 ms/call
+> 
+Sat Oct 31 23:08:37 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 59.8 calls/s, 2.2 ms/call
+> 
+Sat Oct 31 23:08:39 unknown OsuLegacy[620] <Warning>: OSU FFT: 5668 windows, avg 35.244 ms, max 3198.335 ms
+> 
+Sat Oct 31 23:08:42 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 59.6 calls/s, 2.4 ms/call
+> 
+Sat Oct 31 23:08:47 unknown OsuLegacy[620] <Warning>: OSU drawing: idle 58.8 calls/s, 2.5 ms/call
+> 
+Sat Oct 31 23:08:48 unknown OsuLegacy[620] <Warning>: OSU stall: background poll 105.2 ms
+Sat Oct 31 23:08:48 unknown OsuLegacy[620] <Warning>: OSU stall: main frame 203.9 ms
+> 
+Sat Oct 31 23:08:52 unknown kernel[0] <Debug>: punchd[623] Builtin profile: container (sandbox)
+Sat Oct 31 23:08:52 unknown kernel[0] <Debug>: punchd[623] Container: /private/var/mobile/Applications/1F160E85-9299-4345-9308-96656767FEF8 [69] (sandbox)
+Sat Oct 31 23:08:52 unknown OsuLegacy[623] <Notice>: MS:Notice: Injecting: org.osu.legacy.experimental [OsuLegacy] (550.52)
+> 
+Sat Oct 31 23:08:55 unknown OsuLegacy[623] <Warning>: OSU GPU: PowerVR MBXLite with VGPLite / OpenGL ES-CM 1.1 (76), shared ES 1.1 surfaces
+Sat Oct 31 23:08:55 unknown OsuLegacy[623] <Warning>: OSU GPU cache: 2 uploads, 0 evictions, 45.0 ms upload work, 640 KiB cached
+Sat Oct 31 23:08:55 unknown OsuLegacy[623] <Warning>: OSU boot: initializing embedded Mono after native launch
+> 
+Sat Oct 31 23:08:56 unknown OsuLegacy[623] <Warning>: OSU checkpoint: managed entry reached native bundle binding
+> 
+Sat Oct 31 23:08:59 unknown OsuLegacy[623] <Warning>: OSU sounds: OpenAL ready, 20 voices, effects gain 0.800
+Sat Oct 31 23:08:59 unknown OsuLegacy[623] <Warning>: OSU sounds: loaded button-default-select.wav buffer 2420, 72352 PCM bytes
+Sat Oct 31 23:08:59 unknown OsuLegacy[623] <Warning>: OSU sounds: loaded notification-default.wav buffer 2421, 15600 PCM bytes
+Sat Oct 31 23:08:59 unknown OsuLegacy[623] <Warning>: OSU sounds: loaded notification-error.wav buffer 2422, 15592 PCM bytes
+Sat Oct 31 23:08:59 unknown OsuLegacy[623] <Warning>: OSU boot: managed callbacks registered
+Sat Oct 31 23:08:59 unknown OsuLegacy[623] <Warning>: OSU boot: managed startup returned to UIKit
+Sat Oct 31 23:09:00 unknown OsuLegacy[623] <Warning>: OSU startup: IntroTriangles requested, 480x320 / 30 fps
+> 
+Sat Oct 31 23:09:00 unknown OsuLegacy[623] <Warning>: OSU scene: intro
+Sat Oct 31 23:09:00 unknown OsuLegacy[623] <Warning>: OSU stall: artwork wallpaper-04-007.jpg 480x320 119.4 ms
+Sat Oct 31 23:09:01 unknown OsuLegacy[623] <Warning>: OSU GPU cache: 3 uploads, 0 evictions, 60.2 ms upload work, 2048 KiB cached
+Sat Oct 31 23:09:01 unknown OsuLegacy[623] <Warning>: OSU stall: main frame 727.5 ms
+Sat Oct 31 23:09:01 unknown mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Sat Oct 31 23:09:01 unknown mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : openH264Driver()
+Sat Oct 31 23:09:01 unknown mediaserverd[20] <Notice>: Inside H264DecodeThread : createDecoderThread()
+Sat Oct 31 23:09:01 unknown mediaserverd[20] <Notice>: H264M2VideoDecoder_StartSession() Stream may not be H264LC: 0 or EnableH264OutOfLoopFilter property: 0 is set to false or Resolution is <= 320X240 : 480X320
+Sat Oct 31 23:09:01 unknown mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : setH264DriverSession()
+Sat Oct 31 23:09:01 unknown kernel[0] <Debug>: *** AppleM2H264MPDDriver[0x807d8000]::setSessionSettings() called ***
+Sat Oct 31 23:09:01 unknown kernel[0] <Debug>: # AppleM2H264MPDDriver::setSessionSettings():Turning off Post Filtering #
+> 
+Sat Oct 31 23:09:01 unknown OsuLegacy[623] <Warning>: OSU startup: intro surface presented
+Sat Oct 31 23:09:01 unknown OsuLegacy[623] <Warning>: OSU startup: visible surface and decoder ready; starting from zero
+Sat Oct 31 23:09:02 unknown OsuLegacy[623] <Warning>: OSU startup: triangles video playing; theme=1
+Sat Oct 31 23:09:02 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is enabled
+> 
+Sat Oct 31 23:09:05 unknown OsuLegacy[623] <Warning>: OSU startup: video ended ({
+	    MPMoviePlayerPlaybackDidFinishReasonUserInfoKey = 0;
+	})
+Sat Oct 31 23:09:05 unknown mediaserverd[20] <Notice>: Inside H264DecodeThread : destroyDecoderThread()
+Sat Oct 31 23:09:05 unknown mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : freeDriverStorage()
+Sat Oct 31 23:09:05 unknown mediaserverd[20] <Notice>: Inside AppleM2H264DriverUserlandInterface : closeH264Driver()
+Sat Oct 31 23:09:05 unknown mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Sat Oct 31 23:09:05 unknown OsuLegacy[623] <Warning>: OSU startup: waiting for menu frame
+Sat Oct 31 23:09:05 unknown OsuLegacy[623] <Warning>: OSU FFT: source menu.m4a, cached windows, setup 1.78 ms
+Sat Oct 31 23:09:05 unknown OsuLegacy[623] <Warning>: OSU scene: home
+Sat Oct 31 23:09:05 unknown OsuLegacy[623] <Warning>: OSU startup: triangles menu revealed
+Sat Oct 31 23:09:06 unknown OsuLegacy[623] <Warning>: OSU stall: background poll 315.2 ms
+Sat Oct 31 23:09:06 unknown OsuLegacy[623] <Warning>: OSU stall: main frame 333.4 ms
+Sat Oct 31 23:09:06 unknown OsuLegacy[623] <Warning>: OSU GPU effects: first spectrum at 3.889, age 31.9 ms
+> 
+Sat Oct 31 23:09:06 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is disabled
+Sat Oct 31 23:09:07 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 25.91 ms/frame, one presentation with cached UI
+Sat Oct 31 23:09:07 unknown OsuLegacy[623] <Warning>: OSU FFT: 40 windows, avg 2.339 ms, max 29.680 ms
+Sat Oct 31 23:09:10 unknown OsuLegacy[623] <Warning>: OSU stall: background poll 135.3 ms
+> 
+Sat Oct 31 23:09:10 unknown OsuLegacy[623] <Warning>: OSU stall: main frame 172.4 ms
+Sat Oct 31 23:09:10 unknown OsuLegacy[623] <Warning>: OSU frame: 35.0 fps, build 6.28 ms, present 16.52 ms, 5.6 draws/frame, 4455 vertices/frame
+Sat Oct 31 23:09:11 unknown OsuLegacy[623] <Warning>: OSU GPU cache: 1 uploads, 0 evictions, 1.4 ms upload work, 2049 KiB cached
+> 
+Sat Oct 31 23:09:11 unknown OsuLegacy[623] <Warning>: OSU drawing: idle 0.6 calls/s, 164.3 ms/call
+> 
+Sat Oct 31 23:09:12 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.77 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:09:15 unknown OsuLegacy[623] <Warning>: OSU frame: 42.7 fps, build 6.29 ms, present 14.22 ms, 5.7 draws/frame, 3949 vertices/frame
+> 
+Sat Oct 31 23:09:16 unknown OsuLegacy[623] <Warning>: OSU drawing: idle 2.4 calls/s, 19.6 ms/call
+Sat Oct 31 23:09:17 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.47 ms/frame, one presentation with cached UI
+Sat Oct 31 23:09:17 unknown OsuLegacy[623] <Warning>: OSU FFT: 443 windows, avg 0.607 ms, max 29.680 ms
+> 
+Sat Oct 31 23:09:20 unknown OsuLegacy[623] <Warning>: OSU frame: 43.9 fps, build 5.79 ms, present 14.50 ms, 5.6 draws/frame, 3888 vertices/frame
+> 
+Sat Oct 31 23:09:22 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.83 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:09:25 unknown OsuLegacy[623] <Warning>: OSU frame: 43.4 fps, build 5.57 ms, present 15.52 ms, 5.7 draws/frame, 4104 vertices/frame
+> 
+Sat Oct 31 23:09:27 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.89 ms/frame, one presentation with cached UI
+Sat Oct 31 23:09:27 unknown OsuLegacy[623] <Warning>: OSU FFT: 876 windows, avg 0.532 ms, max 33.016 ms
+> 
+Sat Oct 31 23:09:30 unknown OsuLegacy[623] <Warning>: OSU frame: 44.5 fps, build 5.13 ms, present 15.15 ms, 5.5 draws/frame, 3941 vertices/frame
+> 
+Sat Oct 31 23:09:32 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.70 ms/frame, one presentation with cached UI
+Sat Oct 31 23:09:33 unknown OsuLegacy[623] <Warning>: OSU drawing: idle 0.6 calls/s, 18.1 ms/call
+> 
+Sat Oct 31 23:09:35 unknown OsuLegacy[623] <Warning>: OSU frame: 42.8 fps, build 6.37 ms, present 13.99 ms, 5.6 draws/frame, 4289 vertices/frame
+> 
+Sat Oct 31 23:09:37 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.58 ms/frame, one presentation with cached UI
+Sat Oct 31 23:09:37 unknown OsuLegacy[623] <Warning>: OSU FFT: 1277 windows, avg 0.526 ms, max 33.016 ms
+> 
+Sat Oct 31 23:09:40 unknown OsuLegacy[623] <Warning>: OSU frame: 44.8 fps, build 5.11 ms, present 14.98 ms, 5.2 draws/frame, 3885 vertices/frame
+> 
+Sat Oct 31 23:09:42 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.72 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:09:44 unknown OsuLegacy[623] <Warning>: OSU drawing: idle 1.3 calls/s, 17.3 ms/call
+> 
+Sat Oct 31 23:09:45 unknown OsuLegacy[623] <Warning>: OSU frame: 45.5 fps, build 5.55 ms, present 14.18 ms, 5.7 draws/frame, 3828 vertices/frame
+> 
+Sat Oct 31 23:09:47 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.29 ms/frame, one presentation with cached UI
+Sat Oct 31 23:09:47 unknown OsuLegacy[623] <Warning>: OSU FFT: 1717 windows, avg 0.622 ms, max 152.111 ms
+> 
+Sat Oct 31 23:09:50 unknown OsuLegacy[623] <Warning>: OSU frame: 44.7 fps, build 5.88 ms, present 14.39 ms, 5.7 draws/frame, 4242 vertices/frame
+> 
+Sat Oct 31 23:09:52 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.38 ms/frame, one presentation with cached UI
+Sat Oct 31 23:09:52 unknown OsuLegacy[623] <Warning>: OSU drawing: idle 1.2 calls/s, 18.2 ms/call
+> 
+Sat Oct 31 23:09:55 unknown OsuLegacy[623] <Warning>: OSU frame: 44.0 fps, build 6.18 ms, present 14.30 ms, 5.6 draws/frame, 4148 vertices/frame
+> 
+Sat Oct 31 23:09:57 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.35 ms/frame, one presentation with cached UI
+Sat Oct 31 23:09:57 unknown OsuLegacy[623] <Warning>: OSU FFT: 2143 windows, avg 0.597 ms, max 152.111 ms
+> 
+Sat Oct 31 23:10:00 unknown OsuLegacy[623] <Warning>: OSU frame: 45.2 fps, build 5.60 ms, present 14.37 ms, 5.7 draws/frame, 3823 vertices/frame
+> 
+Sat Oct 31 23:10:02 unknown OsuLegacy[623] <Warning>: OSU drawing: idle 1.1 calls/s, 21.5 ms/call
+Sat Oct 31 23:10:02 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.20 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:10:05 unknown OsuLegacy[623] <Warning>: OSU frame: 45.5 fps, build 5.42 ms, present 14.49 ms, 5.5 draws/frame, 4036 vertices/frame
+> 
+Sat Oct 31 23:10:07 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.74 ms/frame, one presentation with cached UI
+Sat Oct 31 23:10:07 unknown OsuLegacy[623] <Warning>: OSU FFT: 2587 windows, avg 0.612 ms, max 152.111 ms
+> 
+Sat Oct 31 23:10:10 unknown OsuLegacy[623] <Warning>: OSU frame: 45.4 fps, build 5.07 ms, present 14.59 ms, 5.2 draws/frame, 3947 vertices/frame
+> 
+Sat Oct 31 23:10:12 unknown OsuLegacy[623] <Warning>: OSU drawing: idle 1.0 calls/s, 19.8 ms/call
+Sat Oct 31 23:10:12 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.08 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:10:13 unknown OsuLegacy[623] <Warning>: OSU FFmpeg: Apple decoder unavailable, decoding 557a0l.ogg
+> 
+Sat Oct 31 23:10:15 unknown OsuLegacy[623] <Warning>: OSU frame: 43.9 fps, build 5.57 ms, present 14.92 ms, 5.2 draws/frame, 4312 vertices/frame
+> 
+Sat Oct 31 23:10:17 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.43 ms/frame, one presentation with cached UI
+Sat Oct 31 23:10:17 unknown OsuLegacy[623] <Warning>: OSU FFT: 3019 windows, avg 0.588 ms, max 152.111 ms
+> 
+Sat Oct 31 23:10:20 unknown OsuLegacy[623] <Warning>: OSU frame: 46.6 fps, build 4.70 ms, present 14.61 ms, 5.4 draws/frame, 3585 vertices/frame
+> 
+Sat Oct 31 23:10:22 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.30 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:10:25 unknown OsuLegacy[623] <Warning>: OSU frame: 44.4 fps, build 5.16 ms, present 14.62 ms, 5.3 draws/frame, 4144 vertices/frame
+> 
+Sat Oct 31 23:10:27 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.01 ms/frame, one presentation with cached UI
+Sat Oct 31 23:10:27 unknown OsuLegacy[623] <Warning>: OSU FFT: 3468 windows, avg 0.578 ms, max 152.111 ms
+> 
+Sat Oct 31 23:10:30 unknown OsuLegacy[623] <Warning>: OSU frame: 45.5 fps, build 5.15 ms, present 14.83 ms, 5.4 draws/frame, 4197 vertices/frame
+> 
+Sat Oct 31 23:10:32 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.26 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:10:35 unknown OsuLegacy[623] <Warning>: OSU frame: 45.4 fps, build 5.28 ms, present 14.70 ms, 5.7 draws/frame, 3864 vertices/frame
+> 
+Sat Oct 31 23:10:37 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.98 ms/frame, one presentation with cached UI
+Sat Oct 31 23:10:37 unknown OsuLegacy[623] <Warning>: OSU FFT: 3915 windows, avg 0.566 ms, max 152.111 ms
+> 
+Sat Oct 31 23:10:41 unknown OsuLegacy[623] <Warning>: OSU frame: 45.6 fps, build 5.24 ms, present 14.70 ms, 5.6 draws/frame, 3901 vertices/frame
+> 
+Sat Oct 31 23:10:42 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.01 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:10:46 unknown OsuLegacy[623] <Warning>: OSU frame: 45.1 fps, build 5.37 ms, present 14.68 ms, 5.6 draws/frame, 4241 vertices/frame
+> 
+Sat Oct 31 23:10:47 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.09 ms/frame, one presentation with cached UI
+Sat Oct 31 23:10:47 unknown OsuLegacy[623] <Warning>: OSU FFT: 4361 windows, avg 0.567 ms, max 152.111 ms
+> 
+Sat Oct 31 23:10:51 unknown OsuLegacy[623] <Warning>: OSU frame: 45.0 fps, build 5.30 ms, present 14.77 ms, 5.6 draws/frame, 4086 vertices/frame
+> 
+Sat Oct 31 23:10:52 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.34 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:10:56 unknown OsuLegacy[623] <Warning>: OSU frame: 45.4 fps, build 5.25 ms, present 14.82 ms, 5.6 draws/frame, 3931 vertices/frame
+> 
+Sat Oct 31 23:10:57 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.97 ms/frame, one presentation with cached UI
+Sat Oct 31 23:10:57 unknown OsuLegacy[623] <Warning>: OSU FFT: 4804 windows, avg 0.567 ms, max 152.111 ms
+> 
+Sat Oct 31 23:10:59 unknown OsuLegacy[623] <Warning>: OSU FFmpeg: cached 557a0l.ogg
+> 
+Sat Oct 31 23:11:01 unknown OsuLegacy[623] <Warning>: OSU frame: 45.0 fps, build 5.25 ms, present 14.89 ms, 5.7 draws/frame, 3694 vertices/frame
+> 
+Sat Oct 31 23:11:02 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.35 ms/frame, one presentation with cached UI
+Sat Oct 31 23:11:03 unknown OsuLegacy[623] <Warning>: OSU drawing: idle 0.2 calls/s, 18.2 ms/call
+> 
+Sat Oct 31 23:11:06 unknown OsuLegacy[623] <Warning>: OSU frame: 44.3 fps, build 6.08 ms, present 14.24 ms, 5.5 draws/frame, 4441 vertices/frame
+> 
+Sat Oct 31 23:11:07 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.70 ms/frame, one presentation with cached UI
+Sat Oct 31 23:11:07 unknown OsuLegacy[623] <Warning>: OSU FFT: 5233 windows, avg 0.566 ms, max 152.111 ms
+Sat Oct 31 23:11:08 unknown OsuLegacy[623] <Warning>: OSU stall: music prepare audio.mp3 165.6 ms
+Sat Oct 31 23:11:08 unknown OsuLegacy[623] <Warning>: OSU music: playing audio.mp3
+Sat Oct 31 23:11:08 unknown OsuLegacy[623] <Warning>: OSU stall: background poll 334.4 ms
+Sat Oct 31 23:11:08 unknown OsuLegacy[623] <Warning>: OSU FFT: source audio.mp3, streamed windows, setup 15.70 ms
+> 
+Sat Oct 31 23:11:08 unknown OsuLegacy[623] <Warning>: OSU stall: artwork wallpaper-04-008.jpg 480x320 156.6 ms
+Sat Oct 31 23:11:08 unknown OsuLegacy[623] <Warning>: OSU drawing: idle 2.0 calls/s, 39.4 ms/call
+Sat Oct 31 23:11:08 unknown OsuLegacy[623] <Warning>: OSU stall: main frame 622.5 ms
+Sat Oct 31 23:11:09 unknown OsuLegacy[623] <Warning>: OSU GPU effects: first spectrum at 0.429, age 34.8 ms
+> 
+Sat Oct 31 23:11:11 unknown OsuLegacy[623] <Warning>: OSU frame: 38.9 fps, build 6.97 ms, present 14.36 ms, 5.4 draws/frame, 4325 vertices/frame
+Sat Oct 31 23:11:11 unknown OsuLegacy[623] <Warning>: OSU GPU cache: 1 uploads, 0 evictions, 35.3 ms upload work, 3073 KiB cached
+> 
+Sat Oct 31 23:11:12 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.43 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:11:14 unknown OsuLegacy[623] <Warning>: OSU FFmpeg: Apple decoder unavailable, decoding audio.ogg
+> 
+Sat Oct 31 23:11:16 unknown OsuLegacy[623] <Warning>: OSU frame: 46.7 fps, build 4.80 ms, present 14.15 ms, 5.5 draws/frame, 3355 vertices/frame
+> 
+Sat Oct 31 23:11:17 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.24 ms/frame, one presentation with cached UI
+Sat Oct 31 23:11:17 unknown OsuLegacy[623] <Warning>: OSU FFT: 5426 windows, avg 1.911 ms, max 156.089 ms
+> 
+Sat Oct 31 23:11:21 unknown OsuLegacy[623] <Warning>: OSU frame: 45.5 fps, build 5.44 ms, present 14.43 ms, 5.7 draws/frame, 4027 vertices/frame
+> 
+Sat Oct 31 23:11:22 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.01 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:11:26 unknown OsuLegacy[623] <Warning>: OSU frame: 44.6 fps, build 4.88 ms, present 15.01 ms, 5.0 draws/frame, 4545 vertices/frame
+> 
+Sat Oct 31 23:11:27 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.00 ms/frame, one presentation with cached UI
+Sat Oct 31 23:11:27 unknown OsuLegacy[623] <Warning>: OSU FFT: 5616 windows, avg 3.402 ms, max 156.089 ms
+> 
+Sat Oct 31 23:11:31 unknown OsuLegacy[623] <Warning>: OSU frame: 45.9 fps, build 5.15 ms, present 14.59 ms, 5.5 draws/frame, 3866 vertices/frame
+> 
+Sat Oct 31 23:11:32 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.87 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:11:36 unknown OsuLegacy[623] <Warning>: OSU frame: 45.8 fps, build 5.16 ms, present 14.72 ms, 5.7 draws/frame, 3702 vertices/frame
+> 
+Sat Oct 31 23:11:37 unknown OsuLegacy[623] <Warning>: OSU FFT: 5799 windows, avg 4.792 ms, max 156.089 ms
+Sat Oct 31 23:11:37 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.02 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:11:41 unknown OsuLegacy[623] <Warning>: OSU frame: 45.7 fps, build 5.28 ms, present 14.58 ms, 5.7 draws/frame, 3878 vertices/frame
+> 
+Sat Oct 31 23:11:42 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.13 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:11:46 unknown OsuLegacy[623] <Warning>: OSU frame: 45.0 fps, build 6.13 ms, present 14.18 ms, 5.7 draws/frame, 4798 vertices/frame
+> 
+Sat Oct 31 23:11:47 unknown OsuLegacy[623] <Warning>: OSU FFT: 6007 windows, avg 6.060 ms, max 156.089 ms
+Sat Oct 31 23:11:47 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.31 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:11:51 unknown OsuLegacy[623] <Warning>: OSU frame: 45.5 fps, build 5.58 ms, present 14.34 ms, 5.8 draws/frame, 3772 vertices/frame
+> 
+Sat Oct 31 23:11:52 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.93 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:11:56 unknown OsuLegacy[623] <Warning>: OSU frame: 45.6 fps, build 5.27 ms, present 14.56 ms, 5.8 draws/frame, 3654 vertices/frame
+> 
+Sat Oct 31 23:11:57 unknown OsuLegacy[623] <Warning>: OSU FFT: 6239 windows, avg 7.197 ms, max 156.089 ms
+Sat Oct 31 23:11:57 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.94 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:12:01 unknown OsuLegacy[623] <Warning>: OSU frame: 44.6 fps, build 5.72 ms, present 14.37 ms, 5.6 draws/frame, 4267 vertices/frame
+> 
+Sat Oct 31 23:12:02 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.20 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:12:06 unknown OsuLegacy[623] <Warning>: OSU frame: 45.1 fps, build 5.63 ms, present 14.38 ms, 5.6 draws/frame, 4361 vertices/frame
+> 
+Sat Oct 31 23:12:07 unknown OsuLegacy[623] <Warning>: OSU FFT: 6463 windows, avg 8.279 ms, max 156.089 ms
+Sat Oct 31 23:12:07 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.22 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:12:11 unknown OsuLegacy[623] <Warning>: OSU frame: 45.8 fps, build 5.03 ms, present 14.85 ms, 5.6 draws/frame, 3656 vertices/frame
+> 
+Sat Oct 31 23:12:12 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.12 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:12:16 unknown OsuLegacy[623] <Warning>: OSU frame: 45.0 fps, build 5.58 ms, present 14.71 ms, 5.7 draws/frame, 4206 vertices/frame
+> 
+Sat Oct 31 23:12:17 unknown OsuLegacy[623] <Warning>: OSU FFT: 6705 windows, avg 9.272 ms, max 156.089 ms
+Sat Oct 31 23:12:17 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.19 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:12:21 unknown OsuLegacy[623] <Warning>: OSU frame: 45.5 fps, build 5.32 ms, present 14.74 ms, 5.6 draws/frame, 3938 vertices/frame
+> 
+Sat Oct 31 23:12:22 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.24 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:12:26 unknown OsuLegacy[623] <Warning>: OSU frame: 44.8 fps, build 5.09 ms, present 14.88 ms, 5.4 draws/frame, 3969 vertices/frame
+> 
+Sat Oct 31 23:12:27 unknown OsuLegacy[623] <Warning>: OSU FFT: 6947 windows, avg 10.194 ms, max 156.089 ms
+Sat Oct 31 23:12:27 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.99 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:12:31 unknown OsuLegacy[623] <Warning>: OSU frame: 45.2 fps, build 5.42 ms, present 14.63 ms, 5.5 draws/frame, 4274 vertices/frame
+> 
+Sat Oct 31 23:12:33 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.20 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:12:36 unknown OsuLegacy[623] <Warning>: OSU frame: 46.5 fps, build 4.81 ms, present 14.74 ms, 5.3 draws/frame, 3806 vertices/frame
+> 
+Sat Oct 31 23:12:37 unknown OsuLegacy[623] <Warning>: OSU FFT: 7190 windows, avg 11.025 ms, max 156.089 ms
+Sat Oct 31 23:12:38 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.62 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:12:41 unknown OsuLegacy[623] <Warning>: OSU frame: 45.6 fps, build 5.21 ms, present 14.68 ms, 5.6 draws/frame, 3941 vertices/frame
+> 
+Sat Oct 31 23:12:43 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.97 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:12:46 unknown OsuLegacy[623] <Warning>: OSU frame: 45.1 fps, build 5.68 ms, present 14.52 ms, 5.6 draws/frame, 4186 vertices/frame
+> 
+Sat Oct 31 23:12:47 unknown OsuLegacy[623] <Warning>: OSU FFT: 7423 windows, avg 11.805 ms, max 156.089 ms
+Sat Oct 31 23:12:48 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.27 ms/frame, one presentation with cached UI
+Sat Oct 31 23:12:51 unknown OsuLegacy[623] <Warning>: OSU frame: 45.5 fps, build 5.37 ms, present 14.64 ms, 5.6 draws/frame, 4080 vertices/frame
+> 
+Sat Oct 31 23:12:53 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.16 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:12:56 unknown OsuLegacy[623] <Warning>: OSU frame: 45.2 fps, build 5.29 ms, present 14.50 ms, 5.5 draws/frame, 4052 vertices/frame
+> 
+Sat Oct 31 23:12:57 unknown OsuLegacy[623] <Warning>: OSU FFT: 7659 windows, avg 12.521 ms, max 156.089 ms
+Sat Oct 31 23:12:58 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.87 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:13:01 unknown OsuLegacy[623] <Warning>: OSU frame: 45.8 fps, build 5.16 ms, present 14.74 ms, 5.6 draws/frame, 3857 vertices/frame
+> 
+Sat Oct 31 23:13:03 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.18 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:13:06 unknown OsuLegacy[623] <Warning>: OSU frame: 45.3 fps, build 5.23 ms, present 14.83 ms, 5.4 draws/frame, 4112 vertices/frame
+> 
+Sat Oct 31 23:13:07 unknown OsuLegacy[623] <Warning>: OSU FFT: 7901 windows, avg 13.197 ms, max 156.089 ms
+Sat Oct 31 23:13:08 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.96 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:13:11 unknown OsuLegacy[623] <Warning>: OSU frame: 45.9 fps, build 5.04 ms, present 14.72 ms, 5.4 draws/frame, 3997 vertices/frame
+> 
+Sat Oct 31 23:13:13 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.93 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:13:15 unknown OsuLegacy[623] <Warning>: OSU stall: music prepare audio.mp3 167.9 ms
+Sat Oct 31 23:13:15 unknown OsuLegacy[623] <Warning>: OSU music: playing audio.mp3
+Sat Oct 31 23:13:15 unknown OsuLegacy[623] <Warning>: OSU stall: background poll 262.0 ms
+Sat Oct 31 23:13:15 unknown OsuLegacy[623] <Warning>: OSU stall: artwork wallpaper-04-009.jpg 480x320 124.7 ms
+Sat Oct 31 23:13:15 unknown OsuLegacy[623] <Warning>: OSU stall: main frame 461.3 ms
+Sat Oct 31 23:13:15 unknown OsuLegacy[623] <Warning>: OSU FFT: source audio.mp3, streamed windows, setup 257.47 ms
+Sat Oct 31 23:13:15 unknown OsuLegacy[623] <Warning>: OSU GPU effects: first spectrum at 0.368, age 61.6 ms
+> 
+Sat Oct 31 23:13:16 unknown OsuLegacy[623] <Warning>: OSU frame: 42.3 fps, build 5.69 ms, present 14.18 ms, 5.3 draws/frame, 4015 vertices/frame
+Sat Oct 31 23:13:16 unknown OsuLegacy[623] <Warning>: OSU GPU cache: 1 uploads, 0 evictions, 42.1 ms upload work, 4097 KiB cached
+> 
+Sat Oct 31 23:13:17 unknown OsuLegacy[623] <Warning>: OSU FFT: 8127 windows, avg 13.808 ms, max 156.089 ms
+Sat Oct 31 23:13:18 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 18.90 ms/frame, one presentation with cached UI
+Sat Oct 31 23:13:21 unknown OsuLegacy[623] <Warning>: OSU frame: 46.6 fps, build 4.93 ms, present 14.30 ms, 5.3 draws/frame, 3895 vertices/frame
+> 
+Sat Oct 31 23:13:23 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.77 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:13:26 unknown OsuLegacy[623] <Warning>: OSU frame: 44.9 fps, build 5.26 ms, present 14.63 ms, 5.4 draws/frame, 4080 vertices/frame
+> 
+Sat Oct 31 23:13:27 unknown OsuLegacy[623] <Warning>: OSU FFT: 8317 windows, avg 14.510 ms, max 156.089 ms
+Sat Oct 31 23:13:28 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.87 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:13:31 unknown OsuLegacy[623] <Warning>: OSU frame: 45.8 fps, build 5.08 ms, present 14.68 ms, 5.4 draws/frame, 3966 vertices/frame
+> 
+Sat Oct 31 23:13:33 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.92 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:13:36 unknown OsuLegacy[623] <Warning>: OSU frame: 45.7 fps, build 5.22 ms, present 14.65 ms, 5.4 draws/frame, 4148 vertices/frame
+> 
+Sat Oct 31 23:13:37 unknown OsuLegacy[623] <Warning>: OSU FFT: 8506 windows, avg 15.202 ms, max 156.089 ms
+Sat Oct 31 23:13:38 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.81 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:13:41 unknown OsuLegacy[623] <Warning>: OSU frame: 45.9 fps, build 4.99 ms, present 14.70 ms, 5.4 draws/frame, 3773 vertices/frame
+> 
+Sat Oct 31 23:13:43 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.00 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:13:46 unknown OsuLegacy[623] <Warning>: OSU frame: 45.5 fps, build 5.34 ms, present 14.73 ms, 5.4 draws/frame, 4380 vertices/frame
+> 
+Sat Oct 31 23:13:47 unknown OsuLegacy[623] <Warning>: OSU FFT: 8690 windows, avg 15.824 ms, max 156.089 ms
+Sat Oct 31 23:13:48 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.01 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:13:51 unknown OsuLegacy[623] <Warning>: OSU FFmpeg: cached audio.ogg
+Sat Oct 31 23:13:51 unknown OsuLegacy[623] <Warning>: OSU frame: 45.8 fps, build 4.89 ms, present 14.79 ms, 5.4 draws/frame, 3618 vertices/frame
+> 
+Sat Oct 31 23:13:53 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.91 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:13:56 unknown OsuLegacy[623] <Warning>: OSU frame: 44.7 fps, build 5.53 ms, present 14.26 ms, 5.4 draws/frame, 4160 vertices/frame
+> 
+Sat Oct 31 23:13:57 unknown OsuLegacy[623] <Warning>: OSU FFT: 8880 windows, avg 16.468 ms, max 179.962 ms
+Sat Oct 31 23:13:58 unknown OsuLegacy[623] <Warning>: OSU drawing: idle 0.1 calls/s, 40.8 ms/call
+Sat Oct 31 23:13:58 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.80 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:14:01 unknown OsuLegacy[623] <Warning>: OSU frame: 44.5 fps, build 5.79 ms, present 14.42 ms, 5.6 draws/frame, 4098 vertices/frame
+> 
+Sat Oct 31 23:14:03 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.40 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:14:06 unknown OsuLegacy[623] <Warning>: OSU frame: 45.2 fps, build 5.78 ms, present 14.30 ms, 5.7 draws/frame, 3903 vertices/frame
+> 
+Sat Oct 31 23:14:07 unknown OsuLegacy[623] <Warning>: OSU FFT: 9107 windows, avg 16.991 ms, max 179.962 ms
+Sat Oct 31 23:14:08 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.90 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:14:11 unknown OsuLegacy[623] <Warning>: OSU frame: 45.8 fps, build 5.26 ms, present 14.33 ms, 5.5 draws/frame, 4038 vertices/frame
+> 
+Sat Oct 31 23:14:13 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.97 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:14:16 unknown OsuLegacy[623] <Warning>: OSU frame: 44.8 fps, build 6.10 ms, present 14.27 ms, 5.6 draws/frame, 4151 vertices/frame
+> 
+Sat Oct 31 23:14:17 unknown OsuLegacy[623] <Warning>: OSU FFT: 9343 windows, avg 17.523 ms, max 179.962 ms
+Sat Oct 31 23:14:18 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.00 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:14:21 unknown OsuLegacy[623] <Warning>: OSU frame: 45.7 fps, build 5.54 ms, present 14.20 ms, 5.6 draws/frame, 3915 vertices/frame
+> 
+Sat Oct 31 23:14:22 unknown OsuLegacy[623] <Warning>: OSU drawing: idle 0.4 calls/s, 24.8 ms/call
+Sat Oct 31 23:14:23 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.19 ms/frame, one presentation with cached UI
+Sat Oct 31 23:14:26 unknown OsuLegacy[623] <Warning>: OSU frame: 44.3 fps, build 5.91 ms, present 14.67 ms, 5.5 draws/frame, 4095 vertices/frame
+> 
+Sat Oct 31 23:14:27 unknown OsuLegacy[623] <Warning>: OSU FFT: 9576 windows, avg 17.983 ms, max 179.962 ms
+Sat Oct 31 23:14:28 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.25 ms/frame, one presentation with cached UI
+Sat Oct 31 23:14:31 unknown OsuLegacy[623] <Warning>: OSU frame: 44.9 fps, build 5.27 ms, present 14.34 ms, 5.4 draws/frame, 4088 vertices/frame
+> 
+Sat Oct 31 23:14:33 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.96 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:14:36 unknown OsuLegacy[623] <Warning>: OSU frame: 46.2 fps, build 4.77 ms, present 14.36 ms, 5.2 draws/frame, 3950 vertices/frame
+> 
+Sat Oct 31 23:14:37 unknown OsuLegacy[623] <Warning>: OSU FFT: 9813 windows, avg 18.416 ms, max 179.962 ms
+Sat Oct 31 23:14:38 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.36 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:14:41 unknown OsuLegacy[623] <Warning>: OSU frame: 45.4 fps, build 5.32 ms, present 14.55 ms, 5.6 draws/frame, 3702 vertices/frame
+Sat Oct 31 23:14:42 unknown OsuLegacy[623] <Warning>: OSU drawing: idle 0.5 calls/s, 20.9 ms/call
+Sat Oct 31 23:14:43 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.20 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:14:46 unknown OsuLegacy[623] <Warning>: OSU frame: 44.8 fps, build 5.85 ms, present 14.31 ms, 5.5 draws/frame, 4519 vertices/frame
+> 
+Sat Oct 31 23:14:48 unknown OsuLegacy[623] <Warning>: OSU FFT: 10047 windows, avg 18.865 ms, max 179.962 ms
+Sat Oct 31 23:14:48 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.31 ms/frame, one presentation with cached UI
+Sat Oct 31 23:14:48 unknown OsuLegacy[623] <Warning>: OSU FFmpeg: Apple decoder unavailable, decoding fireflies.ogg
+> 
+Sat Oct 31 23:14:51 unknown OsuLegacy[623] <Warning>: OSU sounds: play buffer 2420 source 2400 state 0x1012 gain 0.600 x 1.000 error 0x0
+> 
+Sat Oct 31 23:14:52 unknown OsuLegacy[623] <Warning>: OSU frame: 35.7 fps, build 10.65 ms, present 14.69 ms, 5.8 draws/frame, 3896 vertices/frame
+Sat Oct 31 23:14:52 unknown OsuLegacy[623] <Warning>: OSU GPU cache: 9 uploads, 0 evictions, 29.6 ms upload work, 4561 KiB cached
+Sat Oct 31 23:14:52 unknown OsuLegacy[623] <Warning>: OSU stall: main frame 1143.4 ms
+Sat Oct 31 23:14:53 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.37 ms/frame, one presentation with cached UI
+Sat Oct 31 23:14:57 unknown OsuLegacy[623] <Warning>: OSU drawing: idle 0.6 calls/s, 154.6 ms/call
+> 
+Sat Oct 31 23:14:57 unknown OsuLegacy[623] <Warning>: OSU frame: 36.3 fps, build 8.56 ms, present 15.81 ms, 7.6 draws/frame, 3990 vertices/frame
+Sat Oct 31 23:14:57 unknown OsuLegacy[623] <Warning>: OSU GPU cache: 4 uploads, 0 evictions, 5.0 ms upload work, 4577 KiB cached
+Sat Oct 31 23:14:58 unknown OsuLegacy[623] <Warning>: OSU FFT: 10246 windows, avg 19.184 ms, max 194.734 ms
+Sat Oct 31 23:14:58 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 23.41 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:15:02 unknown OsuLegacy[623] <Warning>: OSU frame: 42.4 fps, build 9.54 ms, present 11.86 ms, 5.7 draws/frame, 4115 vertices/frame
+Sat Oct 31 23:15:03 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.20 ms/frame, one presentation with cached UI
+Sat Oct 31 23:15:07 unknown OsuLegacy[623] <Warning>: OSU frame: 45.5 fps, build 6.28 ms, present 13.83 ms, 5.4 draws/frame, 4300 vertices/frame
+> 
+Sat Oct 31 23:15:08 unknown OsuLegacy[623] <Warning>: OSU FFT: 10460 windows, avg 19.622 ms, max 194.734 ms
+Sat Oct 31 23:15:08 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.18 ms/frame, one presentation with cached UI
+Sat Oct 31 23:15:12 unknown OsuLegacy[623] <Warning>: OSU frame: 45.7 fps, build 6.44 ms, present 13.41 ms, 5.5 draws/frame, 3849 vertices/frame
+> 
+Sat Oct 31 23:15:13 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.04 ms/frame, one presentation with cached UI
+Sat Oct 31 23:15:17 unknown OsuLegacy[623] <Warning>: OSU frame: 45.5 fps, build 6.64 ms, present 13.13 ms, 5.6 draws/frame, 4195 vertices/frame
+> 
+Sat Oct 31 23:15:18 unknown OsuLegacy[623] <Warning>: OSU FFT: 10668 windows, avg 20.062 ms, max 194.734 ms
+Sat Oct 31 23:15:18 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.83 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:15:22 unknown OsuLegacy[623] <Warning>: OSU frame: 46.2 fps, build 6.17 ms, present 13.46 ms, 5.6 draws/frame, 3563 vertices/frame
+Sat Oct 31 23:15:23 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.90 ms/frame, one presentation with cached UI
+Sat Oct 31 23:15:27 unknown OsuLegacy[623] <Warning>: OSU frame: 45.2 fps, build 6.34 ms, present 13.80 ms, 5.4 draws/frame, 4512 vertices/frame
+> 
+Sat Oct 31 23:15:28 unknown OsuLegacy[623] <Warning>: OSU FFT: 10881 windows, avg 20.457 ms, max 194.734 ms
+Sat Oct 31 23:15:28 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.07 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:15:33 unknown OsuLegacy[623] <Warning>: OSU frame: 45.9 fps, build 6.15 ms, present 13.54 ms, 5.4 draws/frame, 3913 vertices/frame
+Sat Oct 31 23:15:33 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.89 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:15:38 unknown OsuLegacy[623] <Warning>: OSU frame: 45.8 fps, build 6.87 ms, present 12.93 ms, 5.7 draws/frame, 3869 vertices/frame
+Sat Oct 31 23:15:38 unknown OsuLegacy[623] <Warning>: OSU FFT: 11097 windows, avg 20.854 ms, max 194.734 ms
+Sat Oct 31 23:15:38 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.99 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:15:43 unknown OsuLegacy[623] <Warning>: OSU frame: 45.3 fps, build 6.73 ms, present 13.27 ms, 5.6 draws/frame, 4094 vertices/frame
+Sat Oct 31 23:15:43 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.15 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:15:48 unknown OsuLegacy[623] <Warning>: OSU frame: 45.5 fps, build 6.59 ms, present 13.45 ms, 5.5 draws/frame, 4062 vertices/frame
+Sat Oct 31 23:15:48 unknown OsuLegacy[623] <Warning>: OSU FFT: 11308 windows, avg 21.226 ms, max 194.734 ms
+Sat Oct 31 23:15:48 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.07 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:15:53 unknown OsuLegacy[623] <Warning>: OSU frame: 45.7 fps, build 6.14 ms, present 13.69 ms, 5.5 draws/frame, 3869 vertices/frame
+Sat Oct 31 23:15:53 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.98 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:15:58 unknown OsuLegacy[623] <Warning>: OSU FFT: 11527 windows, avg 21.581 ms, max 194.734 ms
+Sat Oct 31 23:15:58 unknown OsuLegacy[623] <Warning>: OSU frame: 45.0 fps, build 7.17 ms, present 12.99 ms, 5.6 draws/frame, 4462 vertices/frame
+Sat Oct 31 23:15:58 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.26 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:16:03 unknown OsuLegacy[623] <Warning>: OSU frame: 46.5 fps, build 6.34 ms, present 13.27 ms, 5.6 draws/frame, 3700 vertices/frame
+Sat Oct 31 23:16:03 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.55 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:16:08 unknown OsuLegacy[623] <Warning>: OSU FFT: 11752 windows, avg 21.870 ms, max 194.734 ms
+Sat Oct 31 23:16:08 unknown OsuLegacy[623] <Warning>: OSU frame: 47.1 fps, build 4.42 ms, present 14.57 ms, 5.0 draws/frame, 3640 vertices/frame
+Sat Oct 31 23:16:09 unknown OsuLegacy[623] <Warning>: OSU stall: music prepare audio.mp3 112.3 ms
+Sat Oct 31 23:16:09 unknown OsuLegacy[623] <Warning>: OSU music: playing audio.mp3
+Sat Oct 31 23:16:09 unknown OsuLegacy[623] <Warning>: OSU stall: background poll 200.9 ms
+> 
+Sat Oct 31 23:16:09 unknown OsuLegacy[623] <Warning>: OSU stall: artwork wallpaper-04-010.jpg 480x320 125.3 ms
+Sat Oct 31 23:16:09 unknown OsuLegacy[623] <Warning>: OSU drawing: idle 0.3 calls/s, 40.0 ms/call
+Sat Oct 31 23:16:09 unknown OsuLegacy[623] <Warning>: OSU stall: main frame 431.2 ms
+Sat Oct 31 23:16:09 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 18.99 ms/frame, one presentation with cached UI
+Sat Oct 31 23:16:09 unknown OsuLegacy[623] <Warning>: OSU FFT: source audio.mp3, streamed windows, setup 286.40 ms
+Sat Oct 31 23:16:09 unknown OsuLegacy[623] <Warning>: OSU GPU effects: first spectrum at 0.364, age 24.5 ms
+> 
+Sat Oct 31 23:16:13 unknown OsuLegacy[623] <Warning>: OSU frame: 41.3 fps, build 7.20 ms, present 13.49 ms, 5.3 draws/frame, 4542 vertices/frame
+Sat Oct 31 23:16:13 unknown OsuLegacy[623] <Warning>: OSU GPU cache: 1 uploads, 0 evictions, 36.2 ms upload work, 5601 KiB cached
+> 
+Sat Oct 31 23:16:14 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.34 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:16:18 unknown OsuLegacy[623] <Warning>: OSU FFT: 12094 windows, avg 21.694 ms, max 194.734 ms
+Sat Oct 31 23:16:18 unknown OsuLegacy[623] <Warning>: OSU frame: 46.1 fps, build 5.98 ms, present 13.71 ms, 5.3 draws/frame, 4220 vertices/frame
+> 
+Sat Oct 31 23:16:19 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.49 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:16:23 unknown OsuLegacy[623] <Warning>: OSU frame: 47.2 fps, build 5.48 ms, present 13.65 ms, 5.4 draws/frame, 3444 vertices/frame
+> 
+Sat Oct 31 23:16:24 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.45 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:16:28 unknown OsuLegacy[623] <Warning>: OSU FFT: 12442 windows, avg 21.560 ms, max 194.734 ms
+Sat Oct 31 23:16:28 unknown OsuLegacy[623] <Warning>: OSU frame: 46.2 fps, build 6.57 ms, present 12.96 ms, 5.6 draws/frame, 3878 vertices/frame
+> 
+Sat Oct 31 23:16:29 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.66 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:16:33 unknown OsuLegacy[623] <Warning>: OSU frame: 45.3 fps, build 7.05 ms, present 13.06 ms, 5.6 draws/frame, 4528 vertices/frame
+> 
+Sat Oct 31 23:16:34 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.36 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:16:38 unknown OsuLegacy[623] <Warning>: OSU FFT: 12778 windows, avg 21.459 ms, max 194.734 ms
+Sat Oct 31 23:16:38 unknown OsuLegacy[623] <Warning>: OSU frame: 45.8 fps, build 6.86 ms, present 12.92 ms, 5.6 draws/frame, 4238 vertices/frame
+> 
+Sat Oct 31 23:16:39 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.50 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:16:43 unknown OsuLegacy[623] <Warning>: OSU frame: 47.3 fps, build 5.42 ms, present 13.76 ms, 5.4 draws/frame, 3247 vertices/frame
+> 
+Sat Oct 31 23:16:44 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.50 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:16:48 unknown OsuLegacy[623] <Warning>: OSU FFT: 13127 windows, avg 21.334 ms, max 194.734 ms
+Sat Oct 31 23:16:48 unknown OsuLegacy[623] <Warning>: OSU frame: 45.4 fps, build 6.61 ms, present 13.46 ms, 5.4 draws/frame, 4336 vertices/frame
+> 
+Sat Oct 31 23:16:49 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.16 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:16:53 unknown OsuLegacy[623] <Warning>: OSU frame: 45.8 fps, build 6.08 ms, present 13.71 ms, 5.4 draws/frame, 4150 vertices/frame
+> 
+Sat Oct 31 23:16:54 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.87 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:16:58 unknown OsuLegacy[623] <Warning>: OSU FFT: 13477 windows, avg 21.202 ms, max 194.734 ms
+Sat Oct 31 23:16:58 unknown OsuLegacy[623] <Warning>: OSU frame: 45.6 fps, build 6.10 ms, present 13.65 ms, 5.4 draws/frame, 4181 vertices/frame
+> 
+Sat Oct 31 23:16:59 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.64 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:17:03 unknown OsuLegacy[623] <Warning>: OSU frame: 47.0 fps, build 6.28 ms, present 13.00 ms, 5.5 draws/frame, 3610 vertices/frame
+> 
+Sat Oct 31 23:17:04 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.53 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:17:08 unknown OsuLegacy[623] <Warning>: OSU FFT: 13829 windows, avg 21.073 ms, max 194.734 ms
+Sat Oct 31 23:17:08 unknown OsuLegacy[623] <Warning>: OSU frame: 46.6 fps, build 5.31 ms, present 14.20 ms, 5.2 draws/frame, 3949 vertices/frame
+> 
+Sat Oct 31 23:17:09 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.65 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:17:13 unknown OsuLegacy[623] <Warning>: OSU frame: 45.0 fps, build 7.04 ms, present 13.19 ms, 5.6 draws/frame, 4325 vertices/frame
+> 
+Sat Oct 31 23:17:14 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.41 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:17:18 unknown OsuLegacy[623] <Warning>: OSU FFT: 14167 windows, avg 21.006 ms, max 194.734 ms
+Sat Oct 31 23:17:18 unknown OsuLegacy[623] <Warning>: OSU FFmpeg: cached fireflies.ogg
+Sat Oct 31 23:17:18 unknown OsuLegacy[623] <Warning>: OSU frame: 45.6 fps, build 6.95 ms, present 12.92 ms, 5.6 draws/frame, 4194 vertices/frame
+> 
+Sat Oct 31 23:17:19 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.96 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:17:23 unknown OsuLegacy[623] <Warning>: OSU frame: 45.2 fps, build 6.91 ms, present 13.22 ms, 5.7 draws/frame, 3348 vertices/frame
+> 
+Sat Oct 31 23:17:24 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.04 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:17:28 unknown OsuLegacy[623] <Warning>: OSU FFT: 14501 windows, avg 20.910 ms, max 194.734 ms
+Sat Oct 31 23:17:28 unknown OsuLegacy[623] <Warning>: OSU drawing: idle 0.1 calls/s, 21.4 ms/call
+Sat Oct 31 23:17:28 unknown OsuLegacy[623] <Warning>: OSU frame: 44.5 fps, build 7.06 ms, present 13.30 ms, 5.5 draws/frame, 4498 vertices/frame
+> 
+Sat Oct 31 23:17:29 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.60 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:17:33 unknown OsuLegacy[623] <Warning>: OSU frame: 44.9 fps, build 7.02 ms, present 13.28 ms, 5.6 draws/frame, 4235 vertices/frame
+> 
+Sat Oct 31 23:17:34 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.13 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:17:38 unknown OsuLegacy[623] <Warning>: OSU FFT: 14838 windows, avg 20.821 ms, max 194.734 ms
+Sat Oct 31 23:17:38 unknown OsuLegacy[623] <Warning>: OSU frame: 46.4 fps, build 6.46 ms, present 13.05 ms, 5.6 draws/frame, 3632 vertices/frame
+> 
+Sat Oct 31 23:17:39 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.58 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:17:41 unknown OsuLegacy[623] <Warning>: OSU drawing: idle 0.8 calls/s, 19.4 ms/call
+> 
+Sat Oct 31 23:17:43 unknown OsuLegacy[623] <Warning>: OSU frame: 44.9 fps, build 6.14 ms, present 13.98 ms, 5.2 draws/frame, 4027 vertices/frame
+> 
+Sat Oct 31 23:17:44 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.36 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:17:48 unknown OsuLegacy[623] <Warning>: OSU FFT: 15202 windows, avg 20.701 ms, max 194.734 ms
+Sat Oct 31 23:17:48 unknown OsuLegacy[623] <Warning>: OSU frame: 46.0 fps, build 5.55 ms, present 14.14 ms, 5.2 draws/frame, 4121 vertices/frame
+> 
+Sat Oct 31 23:17:49 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.64 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:17:53 unknown OsuLegacy[623] <Warning>: OSU frame: 45.6 fps, build 6.30 ms, present 13.59 ms, 5.4 draws/frame, 4064 vertices/frame
+> 
+Sat Oct 31 23:17:54 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.30 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:17:58 unknown OsuLegacy[623] <Warning>: OSU FFT: 15557 windows, avg 20.597 ms, max 194.734 ms
+Sat Oct 31 23:17:58 unknown OsuLegacy[623] <Warning>: OSU frame: 46.0 fps, build 6.01 ms, present 13.74 ms, 5.4 draws/frame, 3979 vertices/frame
+> 
+Sat Oct 31 23:17:59 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.56 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:18:02 unknown OsuLegacy[623] <Warning>: OSU drawing: idle 0.5 calls/s, 18.9 ms/call
+> 
+Sat Oct 31 23:18:03 unknown OsuLegacy[623] <Warning>: OSU frame: 46.5 fps, build 5.13 ms, present 14.31 ms, 5.2 draws/frame, 3497 vertices/frame
+> 
+Sat Oct 31 23:18:04 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.69 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:18:08 unknown OsuLegacy[623] <Warning>: OSU FFT: 15913 windows, avg 20.515 ms, max 194.734 ms
+Sat Oct 31 23:18:08 unknown OsuLegacy[623] <Warning>: OSU frame: 45.2 fps, build 6.46 ms, present 13.56 ms, 5.4 draws/frame, 4534 vertices/frame
+> 
+Sat Oct 31 23:18:09 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.06 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:18:13 unknown OsuLegacy[623] <Warning>: OSU frame: 45.4 fps, build 6.34 ms, present 13.59 ms, 5.4 draws/frame, 4142 vertices/frame
+> 
+Sat Oct 31 23:18:14 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.82 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:18:18 unknown OsuLegacy[623] <Warning>: OSU FFT: 16273 windows, avg 20.409 ms, max 194.734 ms
+Sat Oct 31 23:18:18 unknown OsuLegacy[623] <Warning>: OSU frame: 46.8 fps, build 5.13 ms, present 14.21 ms, 5.2 draws/frame, 3605 vertices/frame
+> 
+Sat Oct 31 23:18:19 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 19.41 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:18:21 unknown OsuLegacy[623] <Warning>: OSU drawing: idle 0.5 calls/s, 23.4 ms/call
+> 
+Sat Oct 31 23:18:23 unknown OsuLegacy[623] <Warning>: OSU frame: 45.2 fps, build 6.31 ms, present 13.73 ms, 5.4 draws/frame, 3760 vertices/frame
+> 
+Sat Oct 31 23:18:24 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.48 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:18:28 unknown OsuLegacy[623] <Warning>: OSU FFT: 16616 windows, avg 20.306 ms, max 194.734 ms
+Sat Oct 31 23:18:28 unknown OsuLegacy[623] <Warning>: OSU frame: 44.5 fps, build 6.78 ms, present 13.55 ms, 5.4 draws/frame, 4600 vertices/frame
+> 
+Sat Oct 31 23:18:29 unknown OsuLegacy[623] <Warning>: OSU GPU effects: 20.25 ms/frame, one presentation with cached UI
+> 
+Sat Oct 31 23:18:32 unknown OsuLegacy[623] <Warning>: OSU stall: GPU scene 0 build 4.7 ms present 131.8 ms
+Sat Oct 31 23:18:32 unknown OsuLegacy[623] <Warning>: OSU stall: main frame 150.1 ms
+Sat Oct 31 23:18:32 unknown OsuLegacy[623] <Warning>: OSU stall: GPU scene 0 build 16.6 ms present 125.8 ms
+Sat Oct 31 23:18:32 unknown OsuLegacy[623] <Warning>: OSU stall: main frame 164.1 ms
+Sat Oct 31 23:18:34 unknown UIKitApplication:org.osu.legacy.experimental[0x3e33][623] <Notice>: AudioStreamBasicDescription:  2 ch,  44100 Hz, 'lpcm' (0x00000C2C) 8.24-bit little-endian signed integer, deinterleaved
+> 

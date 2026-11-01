@@ -1,0 +1,2937 @@
+[connected:f7f4c5236445e3e001f9834aa63367fd56cdf871]
+
+========================
+ASL is here to serve you
+> 
+Fri Oct 30 00:03:12 unknown OsuLegacy[1065] <Warning>: OSU shared music: selected audio.mp3 at 0.05 sec
+Fri Oct 30 00:03:12 unknown mediaserverd[20] <Notice>: Inside H264DecodeThread : destroyDecoderThread()
+Fri Oct 30 00:03:12 unknown mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : freeDriverStorage()
+Fri Oct 30 00:03:12 unknown mediaserverd[20] <Notice>: Inside AppleM2H264DriverUserlandInterface : closeH264Driver()
+Fri Oct 30 00:03:12 unknown mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Fri Oct 30 00:03:12 unknown kernel[0] <Debug>: Assertion failed in "/SourceCache/AppleAMC/AppleAMC-162/Source/AppleAMC_R2/AppleAMCDriver_r2.cpp" at line 1445
+Fri Oct 30 00:03:12 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is disabled
+Fri Oct 30 00:03:12 unknown OsuLegacy[1065] <Warning>: OSU GPU cache: 2 uploads, 0 evictions, 7.7 ms upload work, 2797 KiB cached
+Fri Oct 30 00:03:12 unknown OsuLegacy[1065] <Warning>: OSU drawing: idle 2.1 calls/s, 272.3 ms/call
+Fri Oct 30 00:03:46 unknown OsuLegacy[1065] <Warning>: OSU music: playing demo.wav
+Fri Oct 30 00:03:46 unknown OsuLegacy[1065] <Warning>: OSU shared music: selected demo.wav at 0.00 sec
+Fri Oct 30 00:03:54 unknown OsuLegacy[1065] <Warning>: OSU GPU cache: 2 uploads, 0 evictions, 21.5 ms upload work, 2941 KiB cached
+Fri Oct 30 00:03:55 unknown OsuLegacy[1065] <Warning>: OSU music: playing audio.mp3
+Fri Oct 30 00:03:56 unknown OsuLegacy[1065] <Warning>: OSU shared music: selected audio.mp3 at 20.69 sec
+Fri Oct 30 00:03:56 unknown kernel[0] <Debug>: Assertion failed in "/SourceCache/AppleAMC/AppleAMC-162/Source/AppleAMC_R2/AppleAMCDriver_r2.cpp" at line 1445
+Fri Oct 30 00:03:57 unknown mediaserverd[20] <Error>: 00:03:57.560 <AudioQueueServer> AudioQueueObject::IONodeConnection::_AcquireHardwareCodec: failed ('hwiu')
+Fri Oct 30 00:03:57 unknown OsuLegacy[1065] <Warning>: OSU music: playing audio.mp3
+Fri Oct 30 00:03:57 unknown OsuLegacy[1065] <Warning>: OSU shared music: selected audio.mp3 at 0.05 sec
+Fri Oct 30 00:04:03 unknown OsuLegacy[1065] <Warning>: OSU music: playing audio.mp3
+Fri Oct 30 00:04:03 unknown OsuLegacy[1065] <Warning>: OSU shared music: selected audio.mp3 at 20.69 sec
+Fri Oct 30 00:04:03 unknown kernel[0] <Debug>: Assertion failed in "/SourceCache/AppleAMC/AppleAMC-162/Source/AppleAMC_R2/AppleAMCDriver_r2.cpp" at line 1445
+Fri Oct 30 00:04:03 unknown mediaserverd[20] <Error>: 00:04:03.837 <AudioQueueServer> AudioQueueObject::IONodeConnection::_AcquireHardwareCodec: failed ('hwiu')
+Fri Oct 30 00:04:03 unknown OsuLegacy[1065] <Warning>: OSU music: playing audio.mp3
+Fri Oct 30 00:04:04 unknown OsuLegacy[1065] <Warning>: OSU shared music: selected audio.mp3 at 0.05 sec
+Fri Oct 30 00:04:15 unknown UIKitApplication:org.osu.legacy.experimental[0xca8d][1065] <Notice>: System.NotSupportedException: This gameplay engine supports osu! and taiko
+Fri Oct 30 00:04:15 unknown UIKitApplication:org.osu.legacy.experimental[0xca8d][1065] <Notice>:   at OsuLegacy.Beatmap.Load (System.String path) [0x00000] in <filename unknown>:0 
+Fri Oct 30 00:04:15 unknown UIKitApplication:org.osu.legacy.experimental[0xca8d][1065] <Notice>:   at OsuLegacy.Program+<StartSong>c__AnonStorey0.<>m__0 () [0x00000] in <filename unknown>:0 
+Fri Oct 30 00:04:18 unknown OsuLegacy[1065] <Warning>: OSU drawing: idle 0.2 calls/s, 2533.1 ms/call
+Fri Oct 30 00:04:18 unknown UIKitApplication:org.osu.legacy.experimental[0xca8d][1065] <Notice>: System.NotSupportedException: This gameplay engine supports osu! and taiko
+Fri Oct 30 00:04:18 unknown UIKitApplication:org.osu.legacy.experimental[0xca8d][1065] <Notice>:   at OsuLegacy.Beatmap.Load (System.String path) [0x00000] in <filename unknown>:0 
+Fri Oct 30 00:04:18 unknown UIKitApplication:org.osu.legacy.experimental[0xca8d][1065] <Notice>:   at OsuLegacy.Program+<StartSong>c__AnonStorey0.<>m__0 () [0x00000] in <filename unknown>:0 
+Fri Oct 30 00:04:21 unknown OsuLegacy[1065] <Warning>: OSU GPU cache: 1 uploads, 0 evictions, 11.4 ms upload work, 3197 KiB cached
+Fri Oct 30 00:04:44 unknown OsuLegacy[1065] <Warning>: OSU FFT: 173 windows, avg 18.076 ms, max 822.125 ms
+Fri Oct 30 00:04:44 unknown OsuLegacy[1065] <Warning>: OSU GPU effects: 29.20 ms/frame, one presentation with cached UI
+Fri Oct 30 00:04:44 unknown OsuLegacy[1065] <Warning>: OSU FFT: source audio.mp3, streamed windows, setup 45.97 ms
+Fri Oct 30 00:04:45 unknown OsuLegacy[1065] <Warning>: OSU GPU effects: first spectrum at 41.216, age 97.0 ms
+Fri Oct 30 00:04:46 unknown OsuLegacy[1065] <Warning>: OSU music: playing audio.mp3
+Fri Oct 30 00:04:46 unknown OsuLegacy[1065] <Warning>: OSU shared music: selected audio.mp3 at 20.69 sec
+Fri Oct 30 00:04:46 unknown kernel[0] <Debug>: Assertion failed in "/SourceCache/AppleAMC/AppleAMC-162/Source/AppleAMC_R2/AppleAMCDriver_r2.cpp" at line 1445
+Fri Oct 30 00:04:47 unknown OsuLegacy[1065] <Warning>: OSU music: playing demo.wav
+Fri Oct 30 00:04:47 unknown OsuLegacy[1065] <Warning>: OSU shared music: selected demo.wav at 0.00 sec
+Fri Oct 30 00:04:50 unknown UIKitApplication:org.osu.legacy.experimental[0xca8d][1065] <Notice>: OSU song load: parsed 21 objects at 289 ms
+Fri Oct 30 00:04:50 unknown UIKitApplication:org.osu.legacy.experimental[0xca8d][1065] <Notice>: OSU song load: audio ready at 368 ms
+Fri Oct 30 00:04:51 unknown UIKitApplication:org.osu.legacy.experimental[0xca8d][1065] <Notice>: OSU song load: hitsounds ready at 1288 ms
+Fri Oct 30 00:04:51 unknown OsuLegacy[1065] <Warning>: OSU drawing: active 0.3 calls/s, 170.7 ms/call
+Fri Oct 30 00:04:54 unknown OsuLegacy[1065] <Warning>: OSU GPU cache: 4 uploads, 0 evictions, 44.7 ms upload work, 4061 KiB cached
+Fri Oct 30 00:04:57 unknown OsuLegacy[1065] <Warning>: OSU drawing: active 18.0 calls/s, 39.1 ms/call
+Fri Oct 30 00:05:02 unknown OsuLegacy[1065] <Warning>: OSU drawing: active 18.9 calls/s, 38.7 ms/call
+Fri Oct 30 00:05:05 unknown OsuLegacy[1065] <Warning>: OSU GPU cache: 1 uploads, 0 evictions, 12.8 ms upload work, 4317 KiB cached
+Fri Oct 30 00:05:07 unknown OsuLegacy[1065] <Warning>: OSU drawing: active 19.7 calls/s, 37.2 ms/call
+Fri Oct 30 00:05:10 unknown UIKitApplication:org.osu.legacy.experimental[0xca8d][1065] <Notice>: OSU results: D, score 1550, accuracy 26.32%, combo 1/19
+Fri Oct 30 00:05:20 unknown OsuLegacy[1065] <Warning>: OSU GPU cache: 2 uploads, 0 evictions, 91.2 ms upload work, 4461 KiB cached
+Fri Oct 30 00:05:20 unknown OsuLegacy[1065] <Warning>: OSU drawing: active 5.1 calls/s, 181.1 ms/call
+Fri Oct 30 00:05:23 unknown OsuLegacy[1065] <Warning>: OSU startup: menu music play=1
+Fri Oct 30 00:05:24 unknown UIKitApplication:org.osu.legacy.experimental[0xca8d][1065] <Notice>: OSU song load: parsed 21 objects at 75 ms
+Fri Oct 30 00:05:24 unknown UIKitApplication:org.osu.legacy.experimental[0xca8d][1065] <Notice>: OSU song load: audio ready at 90 ms
+Fri Oct 30 00:05:25 unknown UIKitApplication:org.osu.legacy.experimental[0xca8d][1065] <Notice>: OSU song load: hitsounds ready at 780 ms
+Fri Oct 30 00:05:25 unknown OsuLegacy[1065] <Warning>: OSU GPU cache: 1 uploads, 0 evictions, 11.7 ms upload work, 4717 KiB cached
+Fri Oct 30 00:05:25 unknown OsuLegacy[1065] <Warning>: OSU drawing: active 8.3 calls/s, 38.7 ms/call
+Fri Oct 30 00:05:30 unknown OsuLegacy[1065] <Warning>: OSU drawing: active 19.5 calls/s, 39.6 ms/call
+Fri Oct 30 00:05:35 unknown OsuLegacy[1065] <Warning>: OSU drawing: active 19.3 calls/s, 40.7 ms/call
+Fri Oct 30 00:05:40 unknown OsuLegacy[1065] <Warning>: OSU drawing: active 20.2 calls/s, 36.3 ms/call
+Fri Oct 30 00:05:45 unknown UIKitApplication:org.osu.legacy.experimental[0xca8d][1065] <Notice>: OSU results: D, score 770, accuracy 10.53%, combo 1/19
+Fri Oct 30 00:05:45 unknown OsuLegacy[1065] <Warning>: OSU drawing: active 19.3 calls/s, 36.5 ms/call
+Fri Oct 30 00:05:50 unknown OsuLegacy[1065] <Warning>: OSU startup: menu music play=1
+Fri Oct 30 00:05:52 unknown OsuLegacy[1065] <Warning>: OSU drawing: idle 7.8 calls/s, 41.0 ms/call
+Fri Oct 30 00:05:54 unknown OsuLegacy[1065] <Warning>: OSU music: playing audio.mp3
+Fri Oct 30 00:05:54 unknown OsuLegacy[1065] <Warning>: OSU shared music: selected audio.mp3 at 20.69 sec
+Fri Oct 30 00:05:54 unknown kernel[0] <Debug>: Assertion failed in "/SourceCache/AppleAMC/AppleAMC-162/Source/AppleAMC_R2/AppleAMCDriver_r2.cpp" at line 1445
+Fri Oct 30 00:06:11 unknown OsuLegacy[1065] <Warning>: OSU music: playing demo.wav
+Fri Oct 30 00:06:11 unknown OsuLegacy[1065] <Warning>: OSU shared music: selected demo.wav at 0.00 sec
+Fri Oct 30 00:06:12 unknown OsuLegacy[1065] <Warning>: OSU music: playing audio.mp3
+Fri Oct 30 00:06:12 unknown OsuLegacy[1065] <Warning>: OSU shared music: selected audio.mp3 at 0.05 sec
+Fri Oct 30 00:06:13 unknown kernel[0] <Debug>: Assertion failed in "/SourceCache/AppleAMC/AppleAMC-162/Source/AppleAMC_R2/AppleAMCDriver_r2.cpp" at line 1445
+Fri Oct 30 00:06:13 unknown mediaserverd[20] <Error>: 00:06:13.794 <AudioQueueServer> AudioQueueObject::IONodeConnection::_AcquireHardwareCodec: failed ('hwiu')
+Fri Oct 30 00:06:13 unknown OsuLegacy[1065] <Warning>: OSU music: playing audio.mp3
+Fri Oct 30 00:06:14 unknown OsuLegacy[1065] <Warning>: OSU shared music: selected audio.mp3 at 20.69 sec
+Fri Oct 30 00:06:20 unknown OsuLegacy[1065] <Warning>: OSU music: playing audio.mp3
+Fri Oct 30 00:06:20 unknown kernel[0] <Debug>: Assertion failed in "/SourceCache/AppleAMC/AppleAMC-162/Source/AppleAMC_R2/AppleAMCDriver_r2.cpp" at line 1445
+Fri Oct 30 00:06:20 unknown OsuLegacy[1065] <Warning>: OSU shared music: selected audio.mp3 at 32.39 sec
+Fri Oct 30 00:06:23 unknown UIKitApplication:org.osu.legacy.experimental[0xca8d][1065] <Notice>: OSU song load: parsed 422 objects at 887 ms
+Fri Oct 30 00:06:23 unknown UIKitApplication:org.osu.legacy.experimental[0xca8d][1065] <Notice>: OSU song load: audio ready at 906 ms
+Fri Oct 30 00:06:24 unknown UIKitApplication:org.osu.legacy.experimental[0xca8d][1065] <Notice>: OSU song load: hitsounds ready at 1598 ms
+Fri Oct 30 00:06:24 unknown mediaserverd[20] <Error>: 00:06:24.714 <AudioQueueServer> AudioQueueObject::IONodeConnection::_AcquireHardwareCodec: failed ('hwiu')
+Fri Oct 30 00:06:24 unknown OsuLegacy[1065] <Warning>: OSU GPU cache: 1 uploads, 0 evictions, 4.8 ms upload work, 4845 KiB cached
+Fri Oct 30 00:06:24 unknown OsuLegacy[1065] <Warning>: OSU drawing: active 0.3 calls/s, 307.5 ms/call
+Fri Oct 30 00:06:29 unknown OsuLegacy[1065] <Warning>: OSU GPU cache: 1 uploads, 0 evictions, 17.6 ms upload work, 5101 KiB cached
+Fri Oct 30 00:06:30 unknown OsuLegacy[1065] <Warning>: OSU drawing: active 23.2 calls/s, 31.9 ms/call
+Fri Oct 30 00:06:35 unknown OsuLegacy[1065] <Warning>: OSU drawing: active 18.9 calls/s, 35.2 ms/call
+Fri Oct 30 00:06:40 unknown OsuLegacy[1065] <Warning>: OSU drawing: active 16.1 calls/s, 43.6 ms/call
+Fri Oct 30 00:06:45 unknown OsuLegacy[1065] <Warning>: OSU drawing: active 16.3 calls/s, 44.1 ms/call
+Fri Oct 30 00:06:50 unknown OsuLegacy[1065] <Warning>: OSU drawing: active 16.6 calls/s, 43.4 ms/call
+Fri Oct 30 00:06:55 unknown OsuLegacy[1065] <Warning>: OSU drawing: active 16.1 calls/s, 44.8 ms/call
+Fri Oct 30 00:07:00 unknown OsuLegacy[1065] <Warning>: OSU drawing: active 16.6 calls/s, 43.0 ms/call
+Fri Oct 30 00:07:05 unknown OsuLegacy[1065] <Warning>: OSU drawing: active 17.5 calls/s, 40.5 ms/call
+Fri Oct 30 00:07:10 unknown OsuLegacy[1065] <Warning>: OSU drawing: active 17.5 calls/s, 40.9 ms/call
+Fri Oct 30 00:07:15 unknown OsuLegacy[1065] <Warning>: OSU drawing: active 17.3 calls/s, 40.6 ms/call
+Fri Oct 30 00:07:20 unknown OsuLegacy[1065] <Warning>: OSU drawing: active 16.2 calls/s, 45.0 ms/call
+Fri Oct 30 00:07:25 unknown OsuLegacy[1065] <Warning>: OSU drawing: active 16.5 calls/s, 45.0 ms/call
+Fri Oct 30 00:07:30 unknown OsuLegacy[1065] <Warning>: OSU drawing: active 17.0 calls/s, 42.4 ms/call
+Fri Oct 30 00:07:35 unknown OsuLegacy[1065] <Warning>: OSU drawing: active 16.6 calls/s, 44.2 ms/call
+Fri Oct 30 00:07:40 unknown OsuLegacy[1065] <Warning>: OSU drawing: active 16.4 calls/s, 44.4 ms/call
+Fri Oct 30 00:07:45 unknown OsuLegacy[1065] <Warning>: OSU drawing: active 16.5 calls/s, 44.7 ms/call
+Fri Oct 30 00:07:50 unknown OsuLegacy[1065] <Warning>: OSU drawing: active 17.5 calls/s, 40.0 ms/call
+Fri Oct 30 00:07:55 unknown OsuLegacy[1065] <Warning>: OSU drawing: active 17.5 calls/s, 40.7 ms/call
+Fri Oct 30 00:08:00 unknown OsuLegacy[1065] <Warning>: OSU drawing: active 17.7 calls/s, 40.8 ms/call
+Fri Oct 30 00:08:05 unknown OsuLegacy[1065] <Warning>: OSU drawing: active 17.0 calls/s, 42.8 ms/call
+Fri Oct 30 00:08:10 unknown OsuLegacy[1065] <Warning>: OSU drawing: active 17.2 calls/s, 41.6 ms/call
+Fri Oct 30 00:08:15 unknown OsuLegacy[1065] <Warning>: OSU drawing: active 17.2 calls/s, 41.1 ms/call
+Fri Oct 30 00:08:20 unknown UIKitApplication:org.osu.legacy.experimental[0xca8d][1065] <Notice>: OSU results: D, score 63960, accuracy 48.78%, combo 10/624
+Fri Oct 30 00:08:20 unknown OsuLegacy[1065] <Warning>: OSU drawing: active 19.1 calls/s, 38.0 ms/call
+Fri Oct 30 00:08:33 unknown OsuLegacy[1065] <Warning>: OSU startup: menu music play=1
+Fri Oct 30 00:08:33 unknown OsuLegacy[1065] <Warning>: OSU GPU cache: 1 uploads, 0 evictions, 1.7 ms upload work, 5117 KiB cached
+Fri Oct 30 00:08:33 unknown OsuLegacy[1065] <Warning>: OSU drawing: idle 5.0 calls/s, 44.1 ms/call
+Fri Oct 30 00:08:51 unknown OsuLegacy[1065] <Warning>: OSU music: playing demo.wav
+Fri Oct 30 00:08:51 unknown OsuLegacy[1065] <Warning>: OSU shared music: selected demo.wav at 0.00 sec
+Fri Oct 30 00:08:59 unknown OsuLegacy[1065] <Warning>: OSU music: playing Feel The Melody Xin.mp3
+Fri Oct 30 00:09:00 unknown OsuLegacy[1065] <Warning>: OSU shared music: selected Feel The Melody Xin.mp3 at 32.76 sec
+Fri Oct 30 00:09:00 unknown kernel[0] <Debug>: Assertion failed in "/SourceCache/AppleAMC/AppleAMC-162/Source/AppleAMC_R2/AppleAMCDriver_r2.cpp" at line 1445
+Fri Oct 30 00:09:01 unknown OsuLegacy[1065] <Warning>: OSU FFT: 178 windows, avg 20.665 ms, max 822.125 ms
+Fri Oct 30 00:09:01 unknown OsuLegacy[1065] <Warning>: OSU GPU effects: 35.31 ms/frame, one presentation with cached UI
+Fri Oct 30 00:09:03 unknown OsuLegacy[1065] <Warning>: OSU GPU cache: 2 uploads, 0 evictions, 34.7 ms upload work, 5501 KiB cached
+Fri Oct 30 00:09:03 unknown OsuLegacy[1065] <Warning>: OSU drawing: idle 0.3 calls/s, 2428.0 ms/call
+Fri Oct 30 00:09:03 unknown OsuLegacy[1065] <Warning>: OSU FFT: source Feel The Melody Xin.mp3, streamed windows, setup 2197.57 ms
+Fri Oct 30 00:09:07 unknown OsuLegacy[1065] <Warning>: OSU FFT: source Feel The Melody Xin.mp3, streamed windows, setup 1391.07 ms
+Fri Oct 30 00:09:08 unknown OsuLegacy[1065] <Warning>: OSU GPU effects: 37.37 ms/frame, one presentation with cached UI
+Fri Oct 30 00:09:09 unknown OsuLegacy[1065] <Warning>: OSU drawing: idle 2.6 calls/s, 45.5 ms/call
+Fri Oct 30 00:09:09 unknown OsuLegacy[1065] <Warning>: OSU FFT: source Feel The Melody Xin.mp3, streamed windows, setup 1743.36 ms
+Fri Oct 30 00:09:10 unknown OsuLegacy[1065] <Warning>: OSU GPU effects: first spectrum at 42.710, age 7.8 ms
+Fri Oct 30 00:09:11 unknown OsuLegacy[1065] <Warning>: OSU FFT: 211 windows, avg 19.351 ms, max 822.125 ms
+Fri Oct 30 00:09:13 unknown OsuLegacy[1065] <Warning>: OSU GPU effects: 34.20 ms/frame, one presentation with cached UI
+Fri Oct 30 00:09:14 unknown OsuLegacy[1065] <Warning>: OSU drawing: idle 2.3 calls/s, 66.3 ms/call
+Fri Oct 30 00:09:18 unknown OsuLegacy[1065] <Warning>: OSU GPU effects: 36.72 ms/frame, one presentation with cached UI
+Fri Oct 30 00:09:21 unknown OsuLegacy[1065] <Warning>: OSU FFT: 437 windows, avg 13.782 ms, max 822.125 ms
+Fri Oct 30 00:09:23 unknown OsuLegacy[1065] <Warning>: OSU GPU effects: 36.68 ms/frame, one presentation with cached UI
+Fri Oct 30 00:09:24 unknown OsuLegacy[1065] <Warning>: OSU drawing: idle 1.0 calls/s, 62.6 ms/call
+Fri Oct 30 00:09:28 unknown OsuLegacy[1065] <Warning>: OSU GPU effects: 35.33 ms/frame, one presentation with cached UI
+Fri Oct 30 00:09:29 unknown OsuLegacy[1065] <Warning>: OSU drawing: idle 3.3 calls/s, 59.5 ms/call
+Fri Oct 30 00:09:31 unknown OsuLegacy[1065] <Warning>: OSU FFT: 629 windows, avg 12.822 ms, max 822.125 ms
+Fri Oct 30 00:09:33 unknown OsuLegacy[1065] <Warning>: OSU GPU effects: 28.84 ms/frame, one presentation with cached UI
+Fri Oct 30 00:09:35 unknown OsuLegacy[1065] <Warning>: OSU drawing: idle 4.7 calls/s, 64.8 ms/call
+Fri Oct 30 00:09:38 unknown OsuLegacy[1065] <Warning>: OSU GPU effects: 36.35 ms/frame, one presentation with cached UI
+Fri Oct 30 00:09:41 unknown OsuLegacy[1065] <Warning>: OSU FFT: 839 windows, avg 12.047 ms, max 822.125 ms
+Fri Oct 30 00:09:43 unknown OsuLegacy[1065] <Warning>: OSU GPU effects: 36.91 ms/frame, one presentation with cached UI
+Fri Oct 30 00:09:43 unknown OsuLegacy[1065] <Warning>: OSU drawing: idle 1.2 calls/s, 55.8 ms/call
+Fri Oct 30 00:09:48 unknown OsuLegacy[1065] <Warning>: OSU GPU effects: 34.35 ms/frame, one presentation with cached UI
+Fri Oct 30 00:09:49 unknown OsuLegacy[1065] <Warning>: OSU drawing: idle 2.1 calls/s, 63.5 ms/call
+Fri Oct 30 00:09:51 unknown OsuLegacy[1065] <Warning>: OSU FFT: 1050 windows, avg 11.388 ms, max 822.125 ms
+Fri Oct 30 00:09:53 unknown OsuLegacy[1065] <Warning>: OSU GPU effects: 36.36 ms/frame, one presentation with cached UI
+Fri Oct 30 00:09:53 unknown OsuLegacy[1065] <Warning>: OSU GPU cache: 1 uploads, 0 evictions, 20.4 ms upload work, 6013 KiB cached
+Fri Oct 30 00:09:55 unknown OsuLegacy[1065] <Warning>: OSU drawing: idle 1.7 calls/s, 86.5 ms/call
+Fri Oct 30 00:09:59 unknown mediaserverd[20] <Error>: 00:09:59.403 <AudioQueueServer> AudioQueueObject::IONodeConnection::_AcquireHardwareCodec: failed ('hwiu')
+Fri Oct 30 00:09:59 unknown OsuLegacy[1065] <Warning>: OSU music: playing audio.mp3
+Fri Oct 30 00:09:59 unknown OsuLegacy[1065] <Warning>: OSU shared music: selected audio.mp3 at 20.69 sec
+Fri Oct 30 00:10:04 unknown OsuLegacy[1065] <Warning>: OSU FFT: 1125 windows, avg 11.336 ms, max 822.125 ms
+Fri Oct 30 00:10:04 unknown OsuLegacy[1065] <Warning>: OSU GPU effects: 31.73 ms/frame, one presentation with cached UI
+Fri Oct 30 00:10:04 unknown OsuLegacy[1065] <Warning>: OSU FFT: source audio.mp3, streamed windows, setup 49.78 ms
+Fri Oct 30 00:10:05 unknown OsuLegacy[1065] <Warning>: OSU GPU effects: first spectrum at 25.919, age 24.0 ms
+Fri Oct 30 00:10:06 unknown OsuLegacy[1065] <Warning>: OSU drawing: idle 0.9 calls/s, 179.3 ms/call
+Fri Oct 30 00:23:49 unknown securityd[1066] <Notice>: MS:Notice: Injecting: (null) [securityd] (550.52)
+Fri Oct 30 00:23:50 unknown lockdownd[18] <Error>: 2ff68000 handle_connection: Could not receive USB message #9 from ideviceinstaller. Killing connection
+Fri Oct 30 00:23:50 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 00:23:52 unknown installd[1072] <Notice>: MS:Notice: Injecting: (null) [installd] (550.52)
+Fri Oct 30 00:23:59 unknown installd[1072] <Error>: 2ff68000 verify_signer_identity: TDMTANF bypass enabled
+Fri Oct 30 00:23:59 unknown SpringBoard[26] <Warning>: Killing <SBApplication: 0x3b5c9c0> org.osu.legacy.experimental  activate:  deactivate:  for app installation
+Fri Oct 30 00:24:01 unknown SpringBoard[26] <Warning>: Reloading application state for 'org.osu.legacy.experimental' as its modification date has changed
+Fri Oct 30 00:24:02 unknown SpringBoard[26] <Warning>: Reloading and rendering all application icons.
+Fri Oct 30 00:26:25 unknown securityd[1074] <Notice>: MS:Notice: Injecting: (null) [securityd] (550.52)
+Fri Oct 30 00:26:26 unknown lockdownd[18] <Error>: 2ff68000 handle_connection: Could not receive USB message #9 from ideviceinstaller. Killing connection
+Fri Oct 30 00:26:26 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 00:26:28 unknown installd[1080] <Notice>: MS:Notice: Injecting: (null) [installd] (550.52)
+Fri Oct 30 00:26:35 unknown installd[1080] <Error>: 2ff68000 verify_signer_identity: TDMTANF bypass enabled
+Fri Oct 30 00:26:35 unknown SpringBoard[26] <Warning>: Killing <SBApplication: 0x2c4700> org.osu.legacy.experimental  activate:  deactivate:  for app installation
+Fri Oct 30 00:26:37 unknown SpringBoard[26] <Warning>: Reloading application state for 'org.osu.legacy.experimental' as its modification date has changed
+Fri Oct 30 00:26:38 unknown SpringBoard[26] <Warning>: Reloading and rendering all application icons.
+Fri Oct 30 00:27:55 unknown OsuLegacy[1082] <Notice>: MS:Notice: Injecting: org.osu.legacy.experimental [OsuLegacy] (550.52)
+Fri Oct 30 00:27:55 unknown kernel[0] <Debug>: punchd[1082] Builtin profile: container (sandbox)
+Fri Oct 30 00:27:55 unknown kernel[0] <Debug>: punchd[1082] Container: /private/var/mobile/Applications/5EF0F814-773B-4BC6-947A-1B767EA0A240 [69] (sandbox)
+Fri Oct 30 00:27:57 unknown OsuLegacy[1082] <Warning>: OSU GPU: PowerVR MBXLite with VGPLite / OpenGL ES-CM 1.1 (76), shared ES 1.1 surfaces
+Fri Oct 30 00:27:57 unknown OsuLegacy[1082] <Warning>: OSU GPU cache: 2 uploads, 0 evictions, 44.7 ms upload work, 640 KiB cached
+Fri Oct 30 00:27:58 unknown OsuLegacy[1082] <Warning>: OSU boot: initializing embedded Mono after native launch
+Fri Oct 30 00:27:59 unknown OsuLegacy[1082] <Warning>: OSU checkpoint: managed entry reached native bundle binding
+Fri Oct 30 00:28:01 unknown OsuLegacy[1082] <Warning>: OSU boot: managed callbacks registered
+Fri Oct 30 00:28:01 unknown OsuLegacy[1082] <Warning>: OSU boot: managed startup returned to UIKit
+Fri Oct 30 00:28:03 unknown OsuLegacy[1082] <Warning>: OSU GPU cache: 9 uploads, 0 evictions, 65.0 ms upload work, 1356 KiB cached
+Fri Oct 30 00:28:04 unknown OsuLegacy[1082] <Warning>: OSU startup: IntroTriangles requested, 480x320 / 30 fps
+Fri Oct 30 00:28:04 unknown OsuLegacy[1082] <Warning>: OSU startup: intro surface presented
+Fri Oct 30 00:28:04 unknown mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Fri Oct 30 00:28:04 unknown mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : openH264Driver()
+Fri Oct 30 00:28:04 unknown mediaserverd[20] <Notice>: Inside H264DecodeThread : createDecoderThread()
+Fri Oct 30 00:28:04 unknown mediaserverd[20] <Notice>: H264M2VideoDecoder_StartSession() Stream may not be H264LC: 0 or EnableH264OutOfLoopFilter property: 0 is set to false or Resolution is <= 320X240 : 480X320
+Fri Oct 30 00:28:04 unknown mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : setH264DriverSession()
+Fri Oct 30 00:28:04 unknown kernel[0] <Debug>: *** AppleM2H264MPDDriver[0x807d8000]::setSessionSettings() called ***
+Fri Oct 30 00:28:04 unknown kernel[0] <Debug>: # AppleM2H264MPDDriver::setSessionSettings():Turning off Post Filtering #
+Fri Oct 30 00:28:05 unknown OsuLegacy[1082] <Warning>: OSU startup: visible surface and decoder ready; starting from zero
+Fri Oct 30 00:28:05 unknown OsuLegacy[1082] <Warning>: OSU startup: triangles video playing; theme=1
+Fri Oct 30 00:28:05 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is enabled
+Fri Oct 30 00:28:08 unknown OsuLegacy[1082] <Warning>: OSU startup: video ended ({
+	    MPMoviePlayerPlaybackDidFinishReasonUserInfoKey = 0;
+	})
+Fri Oct 30 00:28:08 unknown mediaserverd[20] <Notice>: Inside H264DecodeThread : destroyDecoderThread()
+Fri Oct 30 00:28:08 unknown mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : freeDriverStorage()
+Fri Oct 30 00:28:08 unknown mediaserverd[20] <Notice>: Inside AppleM2H264DriverUserlandInterface : closeH264Driver()
+Fri Oct 30 00:28:08 unknown mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Fri Oct 30 00:28:08 unknown OsuLegacy[1082] <Warning>: OSU startup: waiting for menu frame
+Fri Oct 30 00:28:08 unknown OsuLegacy[1082] <Warning>: OSU startup: triangles menu revealed
+Fri Oct 30 00:28:08 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is disabled
+Fri Oct 30 00:28:09 unknown OsuLegacy[1082] <Warning>: OSU FFT: source menu.m4a, cached windows, setup 1.74 ms
+Fri Oct 30 00:28:09 unknown OsuLegacy[1082] <Warning>: OSU GPU effects: first spectrum at 3.804, age 56.4 ms
+Fri Oct 30 00:28:09 unknown OsuLegacy[1082] <Warning>: OSU GPU effects: 7.52 ms/frame, one presentation with cached UI
+Fri Oct 30 00:28:10 unknown OsuLegacy[1082] <Warning>: OSU drawing: idle 0.8 calls/s, 282.8 ms/call
+Fri Oct 30 00:28:11 unknown OsuLegacy[1082] <Warning>: OSU FFT: 40 windows, avg 1.153 ms, max 12.564 ms
+Fri Oct 30 00:28:14 unknown OsuLegacy[1082] <Warning>: OSU GPU cache: 4 uploads, 0 evictions, 33.3 ms upload work, 1869 KiB cached
+Fri Oct 30 00:28:16 unknown OsuLegacy[1082] <Warning>: OSU FFmpeg: Apple decoder unavailable, decoding 557a0l.ogg
+Fri Oct 30 00:28:16 unknown OsuLegacy[1082] <Warning>: OSU drawing: idle 1.6 calls/s, 88.3 ms/call
+Fri Oct 30 00:28:29 unknown OsuLegacy[1082] <Warning>: OSU FFmpeg: failed 557a0l.ogg: Immediate exit requested
+Fri Oct 30 00:28:32 unknown OsuLegacy[1082] <Warning>: OSU GPU cache: 3 uploads, 0 evictions, 82.8 ms upload work, 2261 KiB cached
+Fri Oct 30 00:28:33 unknown mediaserverd[20] <Error>: 00:28:33.884 <AudioQueueServer> AudioQueueObject::IONodeConnection::_AcquireHardwareCodec: failed ('hwiu')
+Fri Oct 30 00:28:34 unknown OsuLegacy[1082] <Warning>: OSU music: playing audio.mp3
+Fri Oct 30 00:28:35 unknown OsuLegacy[1082] <Warning>: OSU shared music: selected audio.mp3 at 186.02 sec
+Fri Oct 30 00:28:36 unknown OsuLegacy[1082] <Warning>: OSU FFmpeg: Apple decoder unavailable, decoding 557a0l.ogg
+Fri Oct 30 00:28:37 unknown OsuLegacy[1082] <Warning>: OSU GPU cache: 2 uploads, 0 evictions, 7.4 ms upload work, 2397 KiB cached
+Fri Oct 30 00:28:42 unknown OsuLegacy[1082] <Warning>: OSU GPU cache: 1 uploads, 0 evictions, 1.6 ms upload work, 2413 KiB cached
+Fri Oct 30 00:28:43 unknown OsuLegacy[1082] <Warning>: OSU FFmpeg: failed 557a0l.ogg: Immediate exit requested
+Fri Oct 30 00:28:50 unknown OsuLegacy[1082] <Warning>: OSU music: playing audio.mp3
+Fri Oct 30 00:28:51 unknown OsuLegacy[1082] <Warning>: OSU shared music: selected audio.mp3 at 91.87 sec
+Fri Oct 30 00:28:51 unknown kernel[0] <Debug>: Assertion failed in "/SourceCache/AppleAMC/AppleAMC-162/Source/AppleAMC_R2/AppleAMCDriver_r2.cpp" at line 1445
+Fri Oct 30 00:28:53 unknown OsuLegacy[1082] <Warning>: OSU GPU cache: 2 uploads, 0 evictions, 14.1 ms upload work, 2557 KiB cached
+Fri Oct 30 00:28:53 unknown securityd[1083] <Notice>: MS:Notice: Injecting: (null) [securityd] (550.52)
+Fri Oct 30 00:28:55 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 00:28:55 unknown lockdownd[18] <Error>: 2ff68000 handle_connection: Could not receive USB message #9 from ideviceinstaller. Killing connection
+Fri Oct 30 00:28:57 unknown OsuLegacy[1082] <Warning>: OSU drawing: idle 0.2 calls/s, 2147.3 ms/call
+Fri Oct 30 00:29:01 unknown UIKitApplication:org.osu.legacy.experimental[0xf428][1082] <Notice>: OSU song load: parsed 264 objects at 3792 ms
+Fri Oct 30 00:29:01 unknown UIKitApplication:org.osu.legacy.experimental[0xf428][1082] <Notice>: OSU song load: audio ready at 4068 ms
+Fri Oct 30 00:29:02 unknown OsuLegacy[1082] <Warning>: OSU FFmpeg: Apple decoder unavailable, decoding soft-sliderslide.wav
+Fri Oct 30 00:29:03 unknown OsuLegacy[1082] <Warning>: OSU FFmpeg: failed soft-sliderslide.wav: Invalid data found when processing input
+Fri Oct 30 00:29:03 unknown OsuLegacy[1082] <Warning>: OSU sounds: using fallback for soft-sliderslide.wav (decoder 0)
+Fri Oct 30 00:29:03 unknown installd[1089] <Notice>: MS:Notice: Injecting: (null) [installd] (550.52)
+Fri Oct 30 00:29:06 unknown UIKitApplication:org.osu.legacy.experimental[0xf428][1082] <Notice>: OSU song load: hitsounds ready at 9590 ms
+Fri Oct 30 00:29:06 unknown mediaserverd[20] <Error>: 00:29:06.970 <AudioQueueServer> AudioQueueObject::IONodeConnection::_AcquireHardwareCodec: failed ('hwiu')
+Fri Oct 30 00:29:07 unknown OsuLegacy[1082] <Warning>: OSU GPU cache: 2 uploads, 0 evictions, 15.7 ms upload work, 2877 KiB cached
+Fri Oct 30 00:29:08 unknown OsuLegacy[1082] <Warning>: OSU drawing: active 0.9 calls/s, 80.5 ms/call
+Fri Oct 30 00:29:12 unknown OsuLegacy[1082] <Warning>: OSU GPU cache: 1 uploads, 0 evictions, 3.8 ms upload work, 2941 KiB cached
+Fri Oct 30 00:29:13 unknown OsuLegacy[1082] <Warning>: OSU drawing: active 21.0 calls/s, 29.4 ms/call
+Fri Oct 30 00:29:18 unknown OsuLegacy[1082] <Warning>: OSU drawing: active 21.1 calls/s, 28.6 ms/call
+Fri Oct 30 00:29:23 unknown OsuLegacy[1082] <Warning>: OSU drawing: active 21.8 calls/s, 26.2 ms/call
+Fri Oct 30 00:29:27 unknown OsuLegacy[1082] <Warning>: OSU GPU cache: 2 uploads, 0 evictions, 8.1 ms upload work, 3069 KiB cached
+Fri Oct 30 00:29:28 unknown OsuLegacy[1082] <Warning>: OSU drawing: active 16.4 calls/s, 42.3 ms/call
+Fri Oct 30 00:29:33 unknown OsuLegacy[1082] <Warning>: OSU drawing: active 16.5 calls/s, 42.2 ms/call
+Fri Oct 30 00:29:37 unknown installd[1089] <Error>: 2ff68000 verify_signer_identity: TDMTANF bypass enabled
+Fri Oct 30 00:29:37 unknown SpringBoard[26] <Warning>: Killing <SBApplication: 0x3b8d3c0> org.osu.legacy.experimental finishedLaunchingFrontmost userLaunch statusBarWindowContextId = -187642039  activate:  deactivate:  for app installation
+Fri Oct 30 00:29:37 unknown com.apple.launchd[1] <Notice>: (UIKitApplication:org.osu.legacy.experimental[0xf428]) Exited: Killed
+Fri Oct 30 00:29:37 unknown SpringBoard[26] <Warning>: Application 'Osu!' exited abnormally with signal 9: Killed
+Fri Oct 30 00:29:40 unknown SpringBoard[26] <Warning>: Reloading application state for 'org.osu.legacy.experimental' as its modification date has changed
+Fri Oct 30 00:29:40 unknown SpringBoard[26] <Warning>: Reloading and rendering all application icons.
+Fri Oct 30 00:29:48 unknown securityd[1091] <Notice>: MS:Notice: Injecting: (null) [securityd] (550.52)
+Fri Oct 30 00:29:48 unknown lockdownd[18] <Error>: 2ff68000 handle_connection: Could not receive USB message #8 from idevicesyslog. Killing connection
+Fri Oct 30 00:29:48 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+> 
+Fri Oct 30 00:30:06 iPod-touch kernel[0] <Debug>: punchd[1096] Builtin profile: container (sandbox)
+
+
+Fri Oct 30 00:30:06 iPod-touch kernel[0] <Debug>: punchd[1096] Container: /private/var/mobile/Applications/C10FA607-2CB3-4D4F-BFE7-5436FB1C63C8 [69] (sandbox)
+
+
+Fri Oct 30 00:30:07 iPod-touch OsuLegacy[1096] <Notice>: MS:Notice: Injecting: org.osu.legacy.experimental [OsuLegacy] (550.52)
+
+
+Fri Oct 30 00:30:09 iPod-touch OsuLegacy[1096] <Warning>: OSU GPU: PowerVR MBXLite with VGPLite / OpenGL ES-CM 1.1 (76), shared ES 1.1 surfaces
+
+
+Fri Oct 30 00:30:09 iPod-touch OsuLegacy[1096] <Warning>: OSU GPU cache: 2 uploads, 0 evictions, 41.8 ms upload work, 640 KiB cached
+
+
+Fri Oct 30 00:30:09 iPod-touch OsuLegacy[1096] <Warning>: OSU boot: initializing embedded Mono after native launch
+
+
+Fri Oct 30 00:30:10 iPod-touch OsuLegacy[1096] <Warning>: OSU checkpoint: managed entry reached native bundle binding
+
+
+Fri Oct 30 00:30:12 iPod-touch OsuLegacy[1096] <Warning>: OSU boot: managed callbacks registered
+
+
+Fri Oct 30 00:30:12 iPod-touch OsuLegacy[1096] <Warning>: OSU boot: managed startup returned to UIKit
+
+
+Fri Oct 30 00:30:14 iPod-touch OsuLegacy[1096] <Warning>: OSU startup: IntroTriangles requested, 480x320 / 30 fps
+
+
+Fri Oct 30 00:30:15 iPod-touch mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+
+
+Fri Oct 30 00:30:15 iPod-touch mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : openH264Driver()
+
+
+Fri Oct 30 00:30:15 iPod-touch mediaserverd[20] <Notice>: Inside H264DecodeThread : createDecoderThread()
+
+
+Fri Oct 30 00:30:15 iPod-touch mediaserverd[20] <Notice>: H264M2VideoDecoder_StartSession() Stream may not be H264LC: 0 or EnableH264OutOfLoopFilter property: 0 is set to false or Resolution is <= 320X240 : 480X320
+
+
+Fri Oct 30 00:30:15 iPod-touch mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : setH264DriverSession()
+
+
+Fri Oct 30 00:30:15 iPod-touch OsuLegacy[1096] <Warning>: OSU GPU cache: 9 uploads, 0 evictions, 52.2 ms upload work, 1356 KiB cached
+
+
+Fri Oct 30 00:30:15 iPod-touch OsuLegacy[1096] <Warning>: OSU startup: intro surface presented
+
+
+Fri Oct 30 00:30:15 iPod-touch OsuLegacy[1096] <Warning>: OSU startup: visible surface and decoder ready; starting from zero
+
+
+Fri Oct 30 00:30:15 iPod-touch OsuLegacy[1096] <Warning>: OSU startup: triangles video playing; theme=1
+
+
+Fri Oct 30 00:30:16 iPod-touch kernel[0] <Debug>: *** AppleM2H264MPDDriver[0x807d8000]::setSessionSettings() called ***
+
+
+Fri Oct 30 00:30:16 iPod-touch kernel[0] <Debug>: # AppleM2H264MPDDriver::setSessionSettings():Turning off Post Filtering #
+
+
+Fri Oct 30 00:30:16 iPod-touch kernel[0] <Debug>: AppleM2CLCLD, MIE is enabled
+
+
+Fri Oct 30 00:30:19 iPod-touch OsuLegacy[1096] <Warning>: OSU startup: video ended ({
+	    MPMoviePlayerPlaybackDidFinishReasonUserInfoKey = 0;
+	})
+
+
+Fri Oct 30 00:30:19 iPod-touch mediaserverd[20] <Notice>: Inside H264DecodeThread : destroyDecoderThread()
+
+
+Fri Oct 30 00:30:19 iPod-touch mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : freeDriverStorage()
+
+
+Fri Oct 30 00:30:19 iPod-touch mediaserverd[20] <Notice>: Inside AppleM2H264DriverUserlandInterface : closeH264Driver()
+
+
+Fri Oct 30 00:30:19 iPod-touch mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+
+
+Fri Oct 30 00:30:19 iPod-touch OsuLegacy[1096] <Warning>: OSU startup: waiting for menu frame
+
+
+Fri Oct 30 00:30:19 iPod-touch OsuLegacy[1096] <Warning>: OSU startup: triangles menu revealed
+
+
+Fri Oct 30 00:30:19 iPod-touch OsuLegacy[1096] <Warning>: OSU FFT: source menu.m4a, cached windows, setup 2.30 ms
+
+
+Fri Oct 30 00:30:19 iPod-touch OsuLegacy[1096] <Warning>: OSU GPU effects: first spectrum at 3.791, age 58.9 ms
+
+
+Fri Oct 30 00:30:19 iPod-touch kernel[0] <Debug>: AppleM2CLCLD, MIE is disabled
+
+
+Fri Oct 30 00:30:20 iPod-touch OsuLegacy[1096] <Warning>: OSU GPU effects: 10.91 ms/frame, one presentation with cached UI
+
+
+Fri Oct 30 00:30:21 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: idle 0.8 calls/s, 264.1 ms/call
+
+
+Fri Oct 30 00:30:34 iPod-touch OsuLegacy[1096] <Warning>: OSU GPU cache: 7 uploads, 0 evictions, 89.7 ms upload work, 2261 KiB cached
+
+
+Fri Oct 30 00:30:35 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: idle 0.7 calls/s, 1009.7 ms/call
+
+
+Fri Oct 30 00:30:39 iPod-touch mediaserverd[20] <Error>: 00:30:39.589 <AudioQueueServer> AudioQueueObject::IONodeConnection::_AcquireHardwareCodec: failed ('hwiu')
+
+
+Fri Oct 30 00:30:39 iPod-touch OsuLegacy[1096] <Warning>: OSU music: playing audio.mp3
+
+
+Fri Oct 30 00:30:39 iPod-touch OsuLegacy[1096] <Warning>: OSU shared music: selected audio.mp3 at 0.05 sec
+
+
+Fri Oct 30 00:30:40 iPod-touch OsuLegacy[1096] <Warning>: OSU GPU cache: 3 uploads, 0 evictions, 7.8 ms upload work, 2413 KiB cached
+
+
+Fri Oct 30 00:30:43 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: idle 1.4 calls/s, 390.2 ms/call
+
+
+Fri Oct 30 00:30:46 iPod-touch UIKitApplication:org.osu.legacy.experimental[0xbd70][1096] <Notice>: OSU song load: parsed 311 objects at 2163 ms
+
+
+Fri Oct 30 00:30:46 iPod-touch UIKitApplication:org.osu.legacy.experimental[0xbd70][1096] <Notice>: OSU song load: audio ready at 2400 ms
+
+
+Fri Oct 30 00:30:48 iPod-touch OsuLegacy[1096] <Warning>: OSU FFmpeg: Apple decoder unavailable, decoding soft-sliderslide.wav
+
+
+Fri Oct 30 00:30:48 iPod-touch OsuLegacy[1096] <Warning>: OSU FFmpeg: failed soft-sliderslide.wav: Invalid data found when processing input
+
+
+Fri Oct 30 00:30:48 iPod-touch OsuLegacy[1096] <Warning>: OSU sounds: using fallback for soft-sliderslide.wav (decoder 0)
+
+
+Fri Oct 30 00:30:55 iPod-touch UIKitApplication:org.osu.legacy.experimental[0xbd70][1096] <Notice>: OSU song load: hitsounds ready at 12108 ms
+
+
+Fri Oct 30 00:30:56 iPod-touch OsuLegacy[1096] <Warning>: OSU GPU cache: 2 uploads, 0 evictions, 14.8 ms upload work, 2733 KiB cached
+
+
+Fri Oct 30 00:30:56 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: active 0.7 calls/s, 77.3 ms/call
+
+
+Fri Oct 30 00:31:01 iPod-touch OsuLegacy[1096] <Warning>: OSU GPU cache: 3 uploads, 0 evictions, 12.2 ms upload work, 2925 KiB cached
+
+
+Fri Oct 30 00:31:01 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: active 19.3 calls/s, 36.5 ms/call
+
+
+Fri Oct 30 00:31:06 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: active 20.8 calls/s, 33.4 ms/call
+
+
+Fri Oct 30 00:31:11 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: active 21.3 calls/s, 32.1 ms/call
+
+
+Fri Oct 30 00:31:16 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: active 19.7 calls/s, 35.7 ms/call
+
+
+Fri Oct 30 00:31:21 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: active 18.3 calls/s, 40.6 ms/call
+
+
+Fri Oct 30 00:31:26 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: active 19.4 calls/s, 37.7 ms/call
+
+
+Fri Oct 30 00:31:31 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: active 19.4 calls/s, 37.2 ms/call
+
+
+Fri Oct 30 00:31:36 iPod-touch OsuLegacy[1096] <Warning>: OSU GPU cache: 2 uploads, 0 evictions, 16.4 ms upload work, 3053 KiB cached
+
+
+Fri Oct 30 00:31:36 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: active 18.3 calls/s, 39.8 ms/call
+
+
+Fri Oct 30 00:31:41 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: active 19.2 calls/s, 37.8 ms/call
+
+
+Fri Oct 30 00:31:47 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: active 19.2 calls/s, 37.0 ms/call
+
+
+Fri Oct 30 00:31:52 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: active 18.8 calls/s, 38.7 ms/call
+
+
+Fri Oct 30 00:31:54 iPod-touch OsuLegacy[1096] <Warning>: OSU startup: menu music play=1
+
+
+Fri Oct 30 00:31:57 iPod-touch OsuLegacy[1096] <Warning>: OSU GPU cache: 2 uploads, 0 evictions, 18.4 ms upload work, 3437 KiB cached
+
+
+Fri Oct 30 00:31:57 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: idle 9.4 calls/s, 41.2 ms/call
+
+
+Fri Oct 30 00:32:02 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: idle 2.0 calls/s, 18.4 ms/call
+
+
+Fri Oct 30 00:32:05 iPod-touch OsuLegacy[1096] <Warning>: OSU GPU effects: 38.39 ms/frame, one presentation with cached UI
+
+
+Fri Oct 30 00:32:05 iPod-touch OsuLegacy[1096] <Warning>: OSU FFT: source audio.mp3, streamed windows, setup 35.90 ms
+
+
+Fri Oct 30 00:32:06 iPod-touch OsuLegacy[1096] <Warning>: OSU GPU effects: first spectrum at 27.901, age 140.5 ms
+
+
+Fri Oct 30 00:32:06 iPod-touch OsuLegacy[1096] <Warning>: OSU FFT: 40 windows, avg 22.260 ms, max 640.058 ms
+
+
+Fri Oct 30 00:32:08 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: idle 2.1 calls/s, 42.8 ms/call
+
+
+Fri Oct 30 00:32:10 iPod-touch OsuLegacy[1096] <Warning>: OSU GPU effects: 36.63 ms/frame, one presentation with cached UI
+
+
+Fri Oct 30 00:32:19 iPod-touch OsuLegacy[1096] <Warning>: OSU GPU cache: 1 uploads, 0 evictions, 87.6 ms upload work, 3453 KiB cached
+
+
+Fri Oct 30 00:32:19 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: idle 1.1 calls/s, 82.9 ms/call
+
+
+Fri Oct 30 00:32:24 iPod-touch OsuLegacy[1096] <Warning>: OSU GPU cache: 5 uploads, 0 evictions, 9.5 ms upload work, 3533 KiB cached
+
+
+Fri Oct 30 00:32:31 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: idle 0.9 calls/s, 83.4 ms/call
+
+
+Fri Oct 30 00:32:35 iPod-touch OsuLegacy[1096] <Warning>: OSU GPU cache: 1 uploads, 0 evictions, 1.7 ms upload work, 3549 KiB cached
+
+
+Fri Oct 30 00:32:40 iPod-touch OsuLegacy[1096] <Warning>: OSU GPU cache: 4 uploads, 0 evictions, 6.7 ms upload work, 3613 KiB cached
+
+
+Fri Oct 30 00:32:47 iPod-touch OsuLegacy[1096] <Warning>: OSU GPU cache: 5 uploads, 0 evictions, 9.5 ms upload work, 3693 KiB cached
+
+
+Fri Oct 30 00:32:48 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: idle 0.6 calls/s, 231.7 ms/call
+
+
+Fri Oct 30 00:32:49 iPod-touch OsuLegacy[1096] <Warning>: OSU FFmpeg: Apple decoder unavailable, decoding 557a0l.ogg
+
+
+Fri Oct 30 00:32:54 iPod-touch OsuLegacy[1096] <Warning>: OSU music: playing Feel The Melody Xin.mp3
+
+
+Fri Oct 30 00:32:55 iPod-touch OsuLegacy[1096] <Warning>: OSU shared music: selected Feel The Melody Xin.mp3 at 32.76 sec
+
+
+Fri Oct 30 00:32:55 iPod-touch kernel[0] <Debug>: Assertion failed in "/SourceCache/AppleAMC/AppleAMC-162/Source/AppleAMC_R2/AppleAMCDriver_r2.cpp" at line 1445
+
+
+Fri Oct 30 00:32:57 iPod-touch mediaserverd[20] <Error>: 00:32:57.275 <AudioQueueServer> AudioQueueObject::IONodeConnection::_AcquireHardwareCodec: failed ('hwiu')
+
+
+Fri Oct 30 00:32:57 iPod-touch OsuLegacy[1096] <Warning>: OSU music: playing audio.mp3
+
+
+Fri Oct 30 00:32:57 iPod-touch OsuLegacy[1096] <Warning>: OSU shared music: selected audio.mp3 at 0.05 sec
+
+
+Fri Oct 30 00:32:58 iPod-touch OsuLegacy[1096] <Warning>: OSU GPU cache: 1 uploads, 0 evictions, 4.8 ms upload work, 3821 KiB cached
+
+
+Fri Oct 30 00:32:59 iPod-touch OsuLegacy[1096] <Warning>: OSU music: playing Feel The Melody Xin.mp3
+
+
+Fri Oct 30 00:32:59 iPod-touch OsuLegacy[1096] <Warning>: OSU shared music: selected Feel The Melody Xin.mp3 at 32.76 sec
+
+
+Fri Oct 30 00:32:59 iPod-touch kernel[0] <Debug>: Assertion failed in "/SourceCache/AppleAMC/AppleAMC-162/Source/AppleAMC_R2/AppleAMCDriver_r2.cpp" at line 1445
+
+
+Fri Oct 30 00:33:01 iPod-touch UIKitApplication:org.osu.legacy.experimental[0xbd70][1096] <Notice>: OSU song load: parsed 600 objects at 402 ms
+
+
+Fri Oct 30 00:33:01 iPod-touch UIKitApplication:org.osu.legacy.experimental[0xbd70][1096] <Notice>: OSU song load: audio ready at 405 ms
+
+
+Fri Oct 30 00:33:02 iPod-touch UIKitApplication:org.osu.legacy.experimental[0xbd70][1096] <Notice>: OSU song load: hitsounds ready at 1277 ms
+
+
+Fri Oct 30 00:33:02 iPod-touch mediaserverd[20] <Error>: 00:33:02.783 <AudioQueueServer> AudioQueueObject::IONodeConnection::_AcquireHardwareCodec: failed ('hwiu')
+
+
+Fri Oct 30 00:33:03 iPod-touch OsuLegacy[1096] <Warning>: OSU GPU cache: 2 uploads, 0 evictions, 28.8 ms upload work, 4397 KiB cached
+
+
+Fri Oct 30 00:33:03 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: active 0.7 calls/s, 454.5 ms/call
+
+
+Fri Oct 30 00:33:08 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: active 20.7 calls/s, 34.1 ms/call
+
+
+Fri Oct 30 00:33:13 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: active 21.2 calls/s, 34.0 ms/call
+
+
+Fri Oct 30 00:33:18 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: active 20.6 calls/s, 34.0 ms/call
+
+
+Fri Oct 30 00:33:23 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: active 19.6 calls/s, 35.8 ms/call
+
+
+Fri Oct 30 00:33:28 iPod-touch OsuLegacy[1096] <Warning>: OSU GPU cache: 1 uploads, 0 evictions, 5.6 ms upload work, 4429 KiB cached
+
+
+Fri Oct 30 00:33:28 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: active 14.6 calls/s, 46.8 ms/call
+
+
+Fri Oct 30 00:33:33 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: active 15.5 calls/s, 48.6 ms/call
+
+
+Fri Oct 30 00:33:36 iPod-touch OsuLegacy[1096] <Warning>: OSU startup: menu music play=1
+
+
+Fri Oct 30 00:33:37 iPod-touch mediaserverd[20] <Error>: 00:33:37.629 <AudioQueueServer> AudioQueueObject::IONodeConnection::_AcquireHardwareCodec: failed ('hwiu')
+
+
+Fri Oct 30 00:33:37 iPod-touch OsuLegacy[1096] <Warning>: OSU music: playing audio.mp3
+
+
+Fri Oct 30 00:33:37 iPod-touch OsuLegacy[1096] <Warning>: OSU shared music: selected audio.mp3 at 0.05 sec
+
+
+Fri Oct 30 00:34:07 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: idle 1.6 calls/s, 52.7 ms/call
+
+
+Fri Oct 30 00:34:10 iPod-touch OsuLegacy[1096] <Warning>: OSU FFT: 66 windows, avg 28.586 ms, max 640.058 ms
+
+
+Fri Oct 30 00:34:10 iPod-touch OsuLegacy[1096] <Warning>: OSU GPU effects: 33.14 ms/frame, one presentation with cached UI
+
+
+Fri Oct 30 00:34:10 iPod-touch OsuLegacy[1096] <Warning>: OSU FFT: source audio.mp3, streamed windows, setup 212.05 ms
+
+
+Fri Oct 30 00:34:11 iPod-touch OsuLegacy[1096] <Warning>: OSU GPU effects: first spectrum at 33.521, age 4.4 ms
+
+
+Fri Oct 30 00:34:12 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: idle 1.9 calls/s, 90.0 ms/call
+
+
+Fri Oct 30 00:34:13 iPod-touch OsuLegacy[1096] <Warning>: OSU FFmpeg: cached 557a0l.ogg
+
+
+Fri Oct 30 00:34:15 iPod-touch OsuLegacy[1096] <Warning>: OSU GPU effects: 33.06 ms/frame, one presentation with cached UI
+
+
+Fri Oct 30 00:34:17 iPod-touch OsuLegacy[1096] <Warning>: OSU GPU cache: 1 uploads, 0 evictions, 17.8 ms upload work, 4685 KiB cached
+
+
+Fri Oct 30 00:34:17 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: idle 3.2 calls/s, 151.7 ms/call
+
+
+Fri Oct 30 00:34:20 iPod-touch OsuLegacy[1096] <Warning>: OSU FFT: 145 windows, avg 40.097 ms, max 713.651 ms
+
+
+Fri Oct 30 00:34:20 iPod-touch OsuLegacy[1096] <Warning>: OSU GPU effects: 30.16 ms/frame, one presentation with cached UI
+
+
+Fri Oct 30 00:34:22 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: idle 2.6 calls/s, 38.3 ms/call
+
+
+Fri Oct 30 00:34:24 iPod-touch OsuLegacy[1096] <Warning>: OSU FFmpeg: Apple decoder unavailable, decoding fireflies.ogg
+
+
+Fri Oct 30 00:34:27 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: idle 2.7 calls/s, 31.1 ms/call
+
+
+Fri Oct 30 00:34:30 iPod-touch OsuLegacy[1096] <Warning>: OSU music: playing menu.m4a
+
+
+Fri Oct 30 00:34:32 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: idle 2.3 calls/s, 39.7 ms/call
+
+
+Fri Oct 30 00:34:36 iPod-touch OsuLegacy[1096] <Warning>: OSU FFT: 151 windows, avg 40.876 ms, max 713.651 ms
+
+
+Fri Oct 30 00:34:36 iPod-touch OsuLegacy[1096] <Warning>: OSU GPU effects: 30.77 ms/frame, one presentation with cached UI
+
+
+Fri Oct 30 00:34:36 iPod-touch OsuLegacy[1096] <Warning>: OSU FFT: source menu.m4a, cached windows, setup 7.34 ms
+
+
+Fri Oct 30 00:34:36 iPod-touch OsuLegacy[1096] <Warning>: OSU GPU effects: first spectrum at 5.663, age 7.9 ms
+
+
+Fri Oct 30 00:34:38 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: idle 2.7 calls/s, 44.7 ms/call
+
+
+Fri Oct 30 00:34:42 iPod-touch mediaserverd[20] <Error>: 00:34:41.996 <AudioQueueServer> AudioQueueObject::IONodeConnection::_AcquireHardwareCodec: failed ('hwiu')
+
+
+Fri Oct 30 00:34:42 iPod-touch OsuLegacy[1096] <Warning>: OSU music: playing audio.mp3
+
+
+Fri Oct 30 00:34:42 iPod-touch OsuLegacy[1096] <Warning>: OSU shared music: selected audio.mp3 at 0.05 sec
+
+
+Fri Oct 30 00:34:43 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: idle 2.7 calls/s, 166.3 ms/call
+
+
+Fri Oct 30 00:34:43 iPod-touch OsuLegacy[1096] <Warning>: OSU GPU effects: 31.41 ms/frame, one presentation with cached UI
+
+
+Fri Oct 30 00:34:43 iPod-touch OsuLegacy[1096] <Warning>: OSU FFT: source audio.mp3, streamed windows, setup 29.29 ms
+
+
+Fri Oct 30 00:34:44 iPod-touch OsuLegacy[1096] <Warning>: OSU GPU effects: first spectrum at 1.896, age 191.2 ms
+
+
+Fri Oct 30 00:34:46 iPod-touch OsuLegacy[1096] <Warning>: OSU FFT: 260 windows, avg 29.326 ms, max 713.651 ms
+
+
+Fri Oct 30 00:34:48 iPod-touch OsuLegacy[1096] <Warning>: OSU GPU effects: 33.19 ms/frame, one presentation with cached UI
+
+
+Fri Oct 30 00:34:49 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: idle 2.4 calls/s, 72.9 ms/call
+
+
+Fri Oct 30 00:34:53 iPod-touch OsuLegacy[1096] <Warning>: OSU GPU effects: 30.75 ms/frame, one presentation with cached UI
+
+
+Fri Oct 30 00:34:54 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: idle 3.2 calls/s, 63.2 ms/call
+
+
+Fri Oct 30 00:34:56 iPod-touch OsuLegacy[1096] <Warning>: OSU FFT: 381 windows, avg 37.429 ms, max 713.651 ms
+
+
+Fri Oct 30 00:34:58 iPod-touch OsuLegacy[1096] <Warning>: OSU GPU effects: 29.68 ms/frame, one presentation with cached UI
+
+
+Fri Oct 30 00:34:59 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: idle 4.5 calls/s, 74.5 ms/call
+
+
+Fri Oct 30 00:35:05 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: idle 3.2 calls/s, 82.4 ms/call
+
+
+Fri Oct 30 00:35:05 iPod-touch OsuLegacy[1096] <Warning>: OSU GPU effects: 29.49 ms/frame, one presentation with cached UI
+
+
+Fri Oct 30 00:35:06 iPod-touch OsuLegacy[1096] <Warning>: OSU FFT: 486 windows, avg 39.121 ms, max 713.651 ms
+
+
+Fri Oct 30 00:35:10 iPod-touch OsuLegacy[1096] <Warning>: OSU GPU effects: 36.61 ms/frame, one presentation with cached UI
+
+
+Fri Oct 30 00:35:11 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: idle 2.5 calls/s, 65.4 ms/call
+
+
+Fri Oct 30 00:35:15 iPod-touch OsuLegacy[1096] <Warning>: OSU GPU effects: 38.36 ms/frame, one presentation with cached UI
+
+
+Fri Oct 30 00:35:16 iPod-touch OsuLegacy[1096] <Warning>: OSU FFT: 665 windows, avg 37.622 ms, max 713.651 ms
+
+
+Fri Oct 30 00:35:17 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: idle 1.5 calls/s, 69.3 ms/call
+
+
+Fri Oct 30 00:35:39 iPod-touch OsuLegacy[1096] <Warning>: OSU FFmpeg: cached fireflies.ogg
+
+
+Fri Oct 30 00:35:40 iPod-touch OsuLegacy[1096] <Warning>: OSU GPU cache: 1 uploads, 0 evictions, 2.8 ms upload work, 4701 KiB cached
+
+
+Fri Oct 30 00:35:42 iPod-touch OsuLegacy[1096] <Warning>: OSU drawing: idle 0.4 calls/s, 163.7 ms/call
+
+
+Fri Oct 30 00:35:46 iPod-touch OsuLegacy[1096] <Warning>: OSU FFmpeg: Apple decoder unavailable, decoding audio.ogg
+
+[disconnected:f7f4c5236445e3e001f9834aa63367fd56cdf871]
+[connected:f7f4c5236445e3e001f9834aa63367fd56cdf871]
+
+========================
+ASL is here to serve you
+> 
+Fri Oct 30 00:58:36 unknown OsuLegacy[1099] <Warning>: OSU startup: triangles video playing; theme=1
+Fri Oct 30 00:58:36 unknown kernel[0] <Debug>: *** AppleM2H264MPDDriver[0x807d8000]::setSessionSettings() called ***
+Fri Oct 30 00:58:36 unknown kernel[0] <Debug>: # AppleM2H264MPDDriver::setSessionSettings():Turning off Post Filtering #
+Fri Oct 30 00:58:36 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is enabled
+Fri Oct 30 00:58:39 unknown OsuLegacy[1099] <Warning>: OSU startup: video ended ({
+	    MPMoviePlayerPlaybackDidFinishReasonUserInfoKey = 0;
+	})
+Fri Oct 30 00:58:39 unknown mediaserverd[20] <Notice>: Inside H264DecodeThread : destroyDecoderThread()
+Fri Oct 30 00:58:39 unknown mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : freeDriverStorage()
+Fri Oct 30 00:58:39 unknown mediaserverd[20] <Notice>: Inside AppleM2H264DriverUserlandInterface : closeH264Driver()
+Fri Oct 30 00:58:39 unknown mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Fri Oct 30 00:58:39 unknown OsuLegacy[1099] <Warning>: OSU startup: waiting for menu frame
+Fri Oct 30 00:58:39 unknown OsuLegacy[1099] <Warning>: OSU startup: triangles menu revealed
+Fri Oct 30 00:58:40 unknown OsuLegacy[1099] <Warning>: OSU FFT: source menu.m4a, cached windows, setup 2.05 ms
+Fri Oct 30 00:58:40 unknown OsuLegacy[1099] <Warning>: OSU GPU effects: first spectrum at 3.756, age 58.8 ms
+Fri Oct 30 00:58:40 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is disabled
+Fri Oct 30 00:58:40 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is disabled
+Fri Oct 30 00:58:40 unknown OsuLegacy[1099] <Warning>: OSU GPU effects: 7.89 ms/frame, one presentation with cached UI
+Fri Oct 30 00:58:42 unknown OsuLegacy[1099] <Warning>: OSU drawing: idle 0.8 calls/s, 254.8 ms/call
+Fri Oct 30 00:58:42 unknown OsuLegacy[1099] <Warning>: OSU FFT: 40 windows, avg 1.134 ms, max 7.109 ms
+Fri Oct 30 00:58:45 unknown mediaserverd[20] <Error>: 00:58:45.289 <AudioQueueServer> AudioQueueObject::IONodeConnection::_AcquireHardwareCodec: failed ('hwiu')
+Fri Oct 30 00:58:45 unknown OsuLegacy[1099] <Warning>: OSU music: playing audio.mp3
+Fri Oct 30 00:58:45 unknown OsuLegacy[1099] <Warning>: OSU shared music: selected audio.mp3 at 0.91 sec
+Fri Oct 30 00:58:46 unknown OsuLegacy[1099] <Warning>: OSU GPU cache: 7 uploads, 0 evictions, 49.4 ms upload work, 2141 KiB cached
+Fri Oct 30 00:58:48 unknown OsuLegacy[1099] <Warning>: OSU drawing: idle 1.6 calls/s, 328.6 ms/call
+Fri Oct 30 00:58:51 unknown OsuLegacy[1099] <Warning>: OSU GPU cache: 1 uploads, 0 evictions, 1.6 ms upload work, 2157 KiB cached
+Fri Oct 30 00:58:58 unknown OsuLegacy[1099] <Warning>: OSU GPU cache: 1 uploads, 0 evictions, 31.4 ms upload work, 2173 KiB cached
+Fri Oct 30 00:59:03 unknown mediaserverd[20] <Error>: 00:59:03.366 <AudioQueueServer> AudioQueueObject::IONodeConnection::_AcquireHardwareCodec: failed ('hwiu')
+Fri Oct 30 00:59:03 unknown OsuLegacy[1099] <Warning>: OSU music: playing audio.mp3
+Fri Oct 30 00:59:03 unknown OsuLegacy[1099] <Warning>: OSU shared music: selected audio.mp3 at 0.05 sec
+Fri Oct 30 00:59:03 unknown OsuLegacy[1099] <Warning>: OSU GPU cache: 2 uploads, 0 evictions, 6.5 ms upload work, 2317 KiB cached
+Fri Oct 30 00:59:04 unknown OsuLegacy[1099] <Warning>: OSU drawing: idle 0.6 calls/s, 316.3 ms/call
+Fri Oct 30 00:59:11 unknown OsuLegacy[1099] <Warning>: OSU music: playing The Office Theme Song.mp3
+Fri Oct 30 00:59:11 unknown OsuLegacy[1099] <Warning>: OSU shared music: selected The Office Theme Song.mp3 at 5.67 sec
+Fri Oct 30 00:59:11 unknown OsuLegacy[1099] <Warning>: OSU GPU cache: 3 uploads, 0 evictions, 8.2 ms upload work, 2477 KiB cached
+Fri Oct 30 00:59:12 unknown kernel[0] <Debug>: Assertion failed in "/SourceCache/AppleAMC/AppleAMC-162/Source/AppleAMC_R2/AppleAMCDriver_r2.cpp" at line 1832
+Fri Oct 30 00:59:12 unknown kernel[0] <Debug>: Assertion failed in "/SourceCache/AppleAMC/AppleAMC-162/Source/AppleAMC_R2/AppleAMCDriver_r2.cpp" at line 1445
+Fri Oct 30 00:59:18 unknown OsuLegacy[1099] <Warning>: OSU GPU cache: 1 uploads, 0 evictions, 6.0 ms upload work, 2605 KiB cached
+Fri Oct 30 00:59:36 unknown mediaserverd[20] <Error>: 00:59:36.876 <AudioQueueServer> AudioQueueObject::IONodeConnection::_AcquireHardwareCodec: failed ('hwiu')
+Fri Oct 30 00:59:36 unknown OsuLegacy[1099] <Warning>: OSU music: playing audio.mp3
+Fri Oct 30 00:59:37 unknown OsuLegacy[1099] <Warning>: OSU shared music: selected audio.mp3 at 105.72 sec
+Fri Oct 30 00:59:37 unknown OsuLegacy[1099] <Warning>: OSU video: preparing Imagine Dragons &amp JID - Enemy (from the series Arcane League of Legends) - Official Music Video.mp4.ipod.mp4 (browser), native decoder + GPU layer
+Fri Oct 30 00:59:37 unknown OsuLegacy[1099] <Warning>: OSU GPU cache: 1 uploads, 0 evictions, 4.7 ms upload work, 2733 KiB cached
+Fri Oct 30 00:59:38 unknown mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Fri Oct 30 00:59:38 unknown mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : openH264Driver()
+Fri Oct 30 00:59:38 unknown mediaserverd[20] <Notice>: Inside H264DecodeThread : createDecoderThread()
+Fri Oct 30 00:59:38 unknown mediaserverd[20] <Notice>: H264M2VideoDecoder_StartSession() Stream may not be H264LC: 0 or EnableH264OutOfLoopFilter property: 0 is set to false or Resolution is <= 320X240 : 480X320
+Fri Oct 30 00:59:38 unknown mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : setH264DriverSession()
+Fri Oct 30 00:59:38 unknown kernel[0] <Debug>: *** AppleM2H264MPDDriver[0x807d8000]::setSessionSettings() called ***
+Fri Oct 30 00:59:38 unknown kernel[0] <Debug>: # AppleM2H264MPDDriver::setSessionSettings():Turning off Post Filtering #
+Fri Oct 30 00:59:38 unknown OsuLegacy[1099] <Warning>: OSU video: first decoded frame visible Imagine Dragons &amp JID - Enemy (from the series Arcane League of Legends) - Official Music Video.mp4
+Fri Oct 30 00:59:39 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is enabled
+Fri Oct 30 01:00:02 unknown OsuLegacy[1099] <Warning>: OSU GPU cache: 2 uploads, 0 evictions, 4.2 ms upload work, 2765 KiB cached
+Fri Oct 30 01:00:29 unknown OsuLegacy[1099] <Warning>: OSU music: playing audio.mp3
+Fri Oct 30 01:00:30 unknown OsuLegacy[1099] <Warning>: OSU shared music: selected audio.mp3 at 62.85 sec
+Fri Oct 30 01:00:30 unknown mediaserverd[20] <Notice>: Inside H264DecodeThread : destroyDecoderThread()
+Fri Oct 30 01:00:30 unknown mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : freeDriverStorage()
+Fri Oct 30 01:00:30 unknown mediaserverd[20] <Notice>: Inside AppleM2H264DriverUserlandInterface : closeH264Driver()
+Fri Oct 30 01:00:30 unknown mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Fri Oct 30 01:00:31 unknown kernel[0] <Debug>: Assertion failed in "/SourceCache/AppleAMC/AppleAMC-162/Source/AppleAMC_R2/AppleAMCDriver_r2.cpp" at line 1445
+Fri Oct 30 01:00:31 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is disabled
+Fri Oct 30 01:00:31 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is disabled
+Fri Oct 30 01:00:31 unknown OsuLegacy[1099] <Warning>: OSU GPU cache: 3 uploads, 0 evictions, 9.6 ms upload work, 2925 KiB cached
+Fri Oct 30 01:00:33 unknown mediaserverd[20] <Error>: 01:00:33.509 <AudioQueueServer> AudioQueueObject::IONodeConnection::_AcquireHardwareCodec: failed ('hwiu')
+Fri Oct 30 01:00:33 unknown OsuLegacy[1099] <Warning>: OSU music: playing audio.mp3
+Fri Oct 30 01:00:34 unknown OsuLegacy[1099] <Warning>: OSU shared music: selected audio.mp3 at 68.52 sec
+Fri Oct 30 01:00:36 unknown OsuLegacy[1099] <Warning>: OSU GPU cache: 3 uploads, 0 evictions, 8.6 ms upload work, 3085 KiB cached
+Fri Oct 30 01:00:39 unknown OsuLegacy[1099] <Warning>: OSU music: playing 02.A.mp3
+Fri Oct 30 01:00:39 unknown OsuLegacy[1099] <Warning>: OSU shared music: selected 02.A.mp3 at 36.39 sec
+Fri Oct 30 01:00:40 unknown kernel[0] <Debug>: Assertion failed in "/SourceCache/AppleAMC/AppleAMC-162/Source/AppleAMC_R2/AppleAMCDriver_r2.cpp" at line 1445
+Fri Oct 30 01:00:41 unknown OsuLegacy[1099] <Warning>: OSU GPU cache: 3 uploads, 0 evictions, 9.3 ms upload work, 3245 KiB cached
+Fri Oct 30 01:00:46 unknown OsuLegacy[1099] <Warning>: OSU GPU cache: 4 uploads, 0 evictions, 8.1 ms upload work, 3309 KiB cached
+Fri Oct 30 01:00:51 unknown UIKitApplication:org.osu.legacy.experimental[0xf585][1099] <Notice>: OSU song load: parsed 381 objects at 1655 ms
+Fri Oct 30 01:00:51 unknown UIKitApplication:org.osu.legacy.experimental[0xf585][1099] <Notice>: OSU song load: audio ready at 1977 ms
+Fri Oct 30 01:00:53 unknown OsuLegacy[1099] <Warning>: OSU FFmpeg: Apple decoder unavailable, decoding normal-sliderslide.wav
+Fri Oct 30 01:00:53 unknown OsuLegacy[1099] <Warning>: OSU FFmpeg: failed normal-sliderslide.wav: Invalid data found when processing input
+Fri Oct 30 01:00:53 unknown OsuLegacy[1099] <Warning>: OSU sounds: using fallback for normal-sliderslide.wav (decoder 0)
+Fri Oct 30 01:00:53 unknown OsuLegacy[1099] <Warning>: OSU FFmpeg: Apple decoder unavailable, decoding normal-sliderwhistle.wav
+Fri Oct 30 01:00:54 unknown OsuLegacy[1099] <Warning>: OSU FFmpeg: failed normal-sliderwhistle.wav: Invalid data found when processing input
+Fri Oct 30 01:00:54 unknown OsuLegacy[1099] <Warning>: OSU sounds: using fallback for normal-sliderwhistle.wav (decoder 0)
+Fri Oct 30 01:00:56 unknown UIKitApplication:org.osu.legacy.experimental[0xf585][1099] <Notice>: OSU song load: hitsounds ready at 6193 ms
+Fri Oct 30 01:00:56 unknown mediaserverd[20] <Error>: 01:00:56.143 <AudioQueueServer> AudioQueueObject::IONodeConnection::_AcquireHardwareCodec: failed ('hwiu')
+Fri Oct 30 01:00:56 unknown OsuLegacy[1099] <Warning>: OSU GPU cache: 3 uploads, 0 evictions, 55.4 ms upload work, 4333 KiB cached
+Fri Oct 30 01:00:56 unknown OsuLegacy[1099] <Warning>: OSU drawing: active 0.1 calls/s, 1360.9 ms/call
+Fri Oct 30 01:01:02 unknown OsuLegacy[1099] <Warning>: OSU GPU cache: 1 uploads, 0 evictions, 6.8 ms upload work, 4461 KiB cached
+Fri Oct 30 01:01:02 unknown OsuLegacy[1099] <Warning>: OSU drawing: active 16.5 calls/s, 44.3 ms/call
+Fri Oct 30 01:01:07 unknown OsuLegacy[1099] <Warning>: OSU drawing: active 18.0 calls/s, 39.7 ms/call
+Fri Oct 30 01:01:12 unknown OsuLegacy[1099] <Warning>: OSU drawing: active 17.3 calls/s, 40.3 ms/call
+Fri Oct 30 01:01:17 unknown OsuLegacy[1099] <Warning>: OSU drawing: active 19.0 calls/s, 36.7 ms/call
+Fri Oct 30 01:01:22 unknown OsuLegacy[1099] <Warning>: OSU drawing: active 18.3 calls/s, 39.0 ms/call
+Fri Oct 30 01:01:27 unknown OsuLegacy[1099] <Warning>: OSU drawing: active 18.9 calls/s, 35.5 ms/call
+Fri Oct 30 01:01:32 unknown OsuLegacy[1099] <Warning>: OSU drawing: active 18.8 calls/s, 35.2 ms/call
+Fri Oct 30 01:01:37 unknown OsuLegacy[1099] <Warning>: OSU drawing: active 18.3 calls/s, 36.7 ms/call
+Fri Oct 30 01:01:42 unknown OsuLegacy[1099] <Warning>: OSU drawing: active 19.8 calls/s, 33.7 ms/call
+Fri Oct 30 01:01:47 unknown OsuLegacy[1099] <Warning>: OSU drawing: active 18.3 calls/s, 37.8 ms/call
+Fri Oct 30 01:01:52 unknown OsuLegacy[1099] <Warning>: OSU drawing: active 22.7 calls/s, 30.3 ms/call
+Fri Oct 30 01:01:57 unknown OsuLegacy[1099] <Warning>: OSU drawing: active 23.9 calls/s, 30.1 ms/call
+Fri Oct 30 01:02:02 unknown OsuLegacy[1099] <Warning>: OSU drawing: active 23.5 calls/s, 30.3 ms/call
+Fri Oct 30 01:02:07 unknown OsuLegacy[1099] <Warning>: OSU drawing: active 19.0 calls/s, 37.4 ms/call
+Fri Oct 30 01:02:12 unknown OsuLegacy[1099] <Warning>: OSU drawing: active 18.8 calls/s, 35.6 ms/call
+Fri Oct 30 01:02:17 unknown OsuLegacy[1099] <Warning>: OSU drawing: active 18.8 calls/s, 36.4 ms/call
+Fri Oct 30 01:02:22 unknown OsuLegacy[1099] <Warning>: OSU drawing: active 18.7 calls/s, 36.1 ms/call
+Fri Oct 30 01:02:27 unknown OsuLegacy[1099] <Warning>: OSU drawing: active 18.7 calls/s, 37.4 ms/call
+Fri Oct 30 01:02:32 unknown OsuLegacy[1099] <Warning>: OSU GPU cache: 2 uploads, 0 evictions, 24.0 ms upload work, 4973 KiB cached
+Fri Oct 30 01:02:32 unknown OsuLegacy[1099] <Warning>: OSU drawing: active 18.7 calls/s, 35.7 ms/call
+Fri Oct 30 01:02:37 unknown OsuLegacy[1099] <Warning>: OSU drawing: active 18.9 calls/s, 36.7 ms/call
+Fri Oct 30 01:02:42 unknown OsuLegacy[1099] <Warning>: OSU drawing: active 18.9 calls/s, 35.8 ms/call
+Fri Oct 30 01:02:47 unknown OsuLegacy[1099] <Warning>: OSU drawing: active 18.0 calls/s, 38.4 ms/call
+Fri Oct 30 01:02:52 unknown OsuLegacy[1099] <Warning>: OSU drawing: active 17.6 calls/s, 40.5 ms/call
+Fri Oct 30 01:02:57 unknown OsuLegacy[1099] <Warning>: OSU drawing: active 19.4 calls/s, 35.2 ms/call
+Fri Oct 30 01:03:02 unknown OsuLegacy[1099] <Warning>: OSU drawing: active 24.1 calls/s, 29.2 ms/call
+Fri Oct 30 01:03:07 unknown OsuLegacy[1099] <Warning>: OSU drawing: active 20.6 calls/s, 32.5 ms/call
+Fri Oct 30 01:03:12 unknown OsuLegacy[1099] <Warning>: OSU drawing: active 18.6 calls/s, 37.2 ms/call
+Fri Oct 30 01:03:17 unknown OsuLegacy[1099] <Warning>: OSU drawing: active 18.2 calls/s, 38.8 ms/call
+Fri Oct 30 01:03:22 unknown OsuLegacy[1099] <Warning>: OSU drawing: active 19.4 calls/s, 32.8 ms/call
+Fri Oct 30 01:03:27 unknown OsuLegacy[1099] <Warning>: OSU drawing: active 18.6 calls/s, 35.3 ms/call
+Fri Oct 30 01:03:32 unknown OsuLegacy[1099] <Warning>: OSU drawing: active 18.4 calls/s, 37.9 ms/call
+Fri Oct 30 01:03:37 unknown OsuLegacy[1099] <Warning>: OSU drawing: active 18.7 calls/s, 37.3 ms/call
+Fri Oct 30 01:03:42 unknown OsuLegacy[1099] <Warning>: OSU drawing: active 18.9 calls/s, 35.7 ms/call
+Fri Oct 30 01:03:47 unknown OsuLegacy[1099] <Warning>: OSU drawing: active 19.8 calls/s, 34.4 ms/call
+Fri Oct 30 01:03:53 unknown OsuLegacy[1099] <Warning>: OSU drawing: active 17.4 calls/s, 41.6 ms/call
+Fri Oct 30 01:03:53 unknown UIKitApplication:org.osu.legacy.experimental[0xf585][1099] <Notice>: OSU results: D, score 62380, accuracy 48.73%, combo 22/573
+Fri Oct 30 01:03:59 unknown OsuLegacy[1099] <Warning>: OSU startup: menu music play=1
+Fri Oct 30 01:03:59 unknown OsuLegacy[1099] <Warning>: OSU GPU cache: 1 uploads, 0 evictions, 2.7 ms upload work, 4989 KiB cached
+Fri Oct 30 01:03:59 unknown OsuLegacy[1099] <Warning>: OSU drawing: idle 10.3 calls/s, 46.9 ms/call
+Fri Oct 30 01:04:05 unknown OsuLegacy[1099] <Warning>: OSU FFT: 49 windows, avg 1.079 ms, max 7.109 ms
+Fri Oct 30 01:04:05 unknown OsuLegacy[1099] <Warning>: OSU GPU effects: 34.19 ms/frame, one presentation with cached UI
+Fri Oct 30 01:04:07 unknown OsuLegacy[1099] <Warning>: OSU drawing: idle 1.3 calls/s, 73.7 ms/call
+Fri Oct 30 01:04:07 unknown OsuLegacy[1099] <Warning>: OSU FFT: source 02.A.mp3, streamed windows, setup 1825.72 ms
+Fri Oct 30 01:04:07 unknown OsuLegacy[1099] <Warning>: OSU GPU effects: first spectrum at 61.417, age 28.5 ms
+Fri Oct 30 01:04:11 unknown OsuLegacy[1099] <Warning>: OSU GPU effects: 34.48 ms/frame, one presentation with cached UI
+Fri Oct 30 01:04:12 unknown OsuLegacy[1099] <Warning>: OSU drawing: idle 2.0 calls/s, 76.1 ms/call
+Fri Oct 30 01:04:15 unknown OsuLegacy[1099] <Warning>: OSU GPU cache: 1 uploads, 0 evictions, 19.5 ms upload work, 5501 KiB cached
+Fri Oct 30 01:04:15 unknown OsuLegacy[1099] <Warning>: OSU FFT: 218 windows, avg 7.208 ms, max 36.701 ms
+Fri Oct 30 01:04:16 unknown OsuLegacy[1099] <Warning>: OSU GPU effects: 35.64 ms/frame, one presentation with cached UI
+Fri Oct 30 01:04:21 unknown OsuLegacy[1099] <Warning>: OSU GPU effects: 36.98 ms/frame, one presentation with cached UI
+Fri Oct 30 01:04:21 unknown OsuLegacy[1099] <Warning>: OSU drawing: idle 1.0 calls/s, 65.5 ms/call
+Fri Oct 30 01:04:25 unknown OsuLegacy[1099] <Warning>: OSU FFT: 444 windows, avg 8.104 ms, max 44.459 ms
+Fri Oct 30 01:04:26 unknown OsuLegacy[1099] <Warning>: OSU GPU effects: 33.07 ms/frame, one presentation with cached UI
+Fri Oct 30 01:04:28 unknown OsuLegacy[1099] <Warning>: OSU drawing: idle 1.6 calls/s, 73.8 ms/call
+Fri Oct 30 01:04:31 unknown OsuLegacy[1099] <Warning>: OSU GPU effects: 36.52 ms/frame, one presentation with cached UI
+Fri Oct 30 01:04:34 unknown OsuLegacy[1099] <Warning>: OSU drawing: idle 1.6 calls/s, 61.8 ms/call
+Fri Oct 30 01:05:00 unknown kernel[0] <Debug>: AppleD1759PMUPowerSource: AppleUSBCableDetect 1
+Fri Oct 30 01:05:00 unknown kernel[0] <Debug>: AppleD1759PMUPowerSource: AppleUSBCableType USBHost
+Fri Oct 30 01:05:00 unknown kernel[0] <Debug>: AppleEmbeddedUSBArbitrator::handleUSBCableTypeChange : Connected to a USB host, entering device mode
+Fri Oct 30 01:05:00 unknown kernel[0] <Debug>: AppleS5L8720XUSBPhy::powerUp : _powered: 0
+Fri Oct 30 01:05:00 unknown kernel[0] <Debug>: AppleEmbeddedUSBArbitrator::enableDeviceClock : enable: 1, index: 0
+Fri Oct 30 01:05:00 unknown kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBReset
+Fri Oct 30 01:05:08 unknown kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBReset
+Fri Oct 30 01:05:08 unknown kernel[0] <Debug>: AppleSynopsysOTGDevice::stallBadSetupRequest request: 80 06 0f00 0000 0005
+Fri Oct 30 01:05:08 unknown lockdownd[18] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from usbmuxd. Killing connection
+Fri Oct 30 01:05:08 unknown lockdownd[18] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+Fri Oct 30 01:05:08 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 01:05:08 unknown lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from usbmuxd. Killing connection
+Fri Oct 30 01:05:08 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 01:05:08 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of messageCould not receive size of message
+Fri Oct 30 01:05:08 unknown lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from usbmuxd. Killing connection
+Fri Oct 30 01:05:08 unknown lockdownd[18] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+Fri Oct 30 01:05:08 unknown lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from usbmuxd. Killing connection
+Fri Oct 30 01:05:09 unknown securityd[1102] <Notice>: MS:Notice: Injecting: (null) [securityd] (550.52)
+Fri Oct 30 01:05:09 unknown kernel[0] <Debug>: AppleSynopsysOTGDevice::stallBadSetupRequest request: 80 06 0f00 0000 0005
+Fri Oct 30 01:05:09 unknown kernel[0] <Debug>: punchd[1101] Builtin profile: ptpd (sandbox)
+Fri Oct 30 01:05:09 unknown kernel[0] <Debug>: punchd[1100] Builtin profile: ptpd (sandbox)
+Fri Oct 30 01:05:09 unknown ptpd[1100] <Notice>: MS:Notice: Injecting: (null) [ptpd] (550.52)
+Fri Oct 30 01:05:10 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 01:05:10 unknown lockdownd[18] <Error>: 2ff68000 handle_connection: Could not receive USB message #3 from usbmuxd. Killing connection
+Fri Oct 30 01:05:10 unknown lockdownd[18] <Error>: 2ff68000 set_response_error: handle_get_value GetProhibited
+Fri Oct 30 01:05:10 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 01:05:10 unknown lockdownd[18] <Error>: 2ff68000 handle_connection: Could not receive USB message #4 from Safari. Killing connection
+Fri Oct 30 01:05:10 unknown lockdownd[18] <Error>: 00508000 handle_connection: Could not receive USB message #2 from unknown. Killing connection
+Fri Oct 30 01:05:10 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 01:05:10 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 01:05:10 unknown configd[24] <Debug>: usbeth_handle_pairing_notification:838 Host is trusted
+Fri Oct 30 01:05:10 unknown lockdownd[18] <Error>: 00508000 handle_connection: Could not receive USB message #2 from unknown. Killing connection
+Fri Oct 30 01:05:10 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 01:05:10 unknown lockdownd[18] <Error>: 00508000 handle_connection: Could not receive USB message #3 from remotepairingd. Killing connection
+Fri Oct 30 01:05:10 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 01:05:10 unknown lockdownd[18] <Error>: 00508000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Fri Oct 30 01:05:10 unknown lockdownd[18] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+Fri Oct 30 01:05:10 unknown lockdownd[18] <Error>: 0058a000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Fri Oct 30 01:05:10 unknown lockdownd[18] <Error>: 0058a000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Fri Oct 30 01:05:10 unknown lockdownd[18] <Error>: 0058a000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+Fri Oct 30 01:05:10 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of messageCould not receive size of message
+Fri Oct 30 01:05:10 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 01:05:10 unknown lockdownd[18] <Error>: 0058a000 set_response_error: handle_get_value GetProhibited
+Fri Oct 30 01:05:10 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 01:05:10 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 01:05:10 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 01:05:10 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of messageCould not receive size of message
+Fri Oct 30 01:05:10 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 01:05:10 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 01:05:10 unknown lockdownd[18] <Error>: 00710000 set_response_error: handle_get_value GetProhibited
+Fri Oct 30 01:05:10 unknown lockdownd[18] <Error>: 0058a000 handle_connection: Could not receive USB message #3 from remotepairingd. Killing connection
+Fri Oct 30 01:05:10 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 01:05:10 unknown lockdownd[18] <Error>: 0068e000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Fri Oct 30 01:05:10 unknown lockdownd[18] <Error>: 0068e000 set_response_error: handle_get_value GetProhibited
+Fri Oct 30 01:05:10 unknown lockdownd[18] <Error>: 01f25000 set_response_error: handle_get_value GetProhibited
+Fri Oct 30 01:05:10 unknown lockdownd[18] <Error>: 01f25000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+Fri Oct 30 01:05:10 unknown lockdownd[18] <Error>: 01f25000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Fri Oct 30 01:05:10 unknown lockdownd[18] <Error>: 00792000 set_response_error: handle_get_value GetProhibited
+Fri Oct 30 01:05:10 unknown lockdownd[18] <Error>: 0068e000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Fri Oct 30 01:05:10 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 01:05:10 unknown lockdownd[18] <Error>: 0058a000 handle_connection: Could not receive USB message #3 from remotepairingd. Killing connection
+Fri Oct 30 01:05:10 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 01:05:10 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 01:05:10 unknown lockdownd[18] <Error>: 00710000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Fri Oct 30 01:05:10 unknown lockdownd[18] <Error>: 00792000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Fri Oct 30 01:05:10 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 01:05:10 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 01:05:10 unknown lockdownd[18] <Error>: 00710000 set_response_error: handle_get_value GetProhibited
+Fri Oct 30 01:05:10 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 01:05:10 unknown lockdownd[18] <Error>: 0058a000 set_response_error: handle_get_value GetProhibited
+Fri Oct 30 01:05:10 unknown lockdownd[18] <Error>: 00792000 set_response_error: handle_get_value GetProhibited
+Fri Oct 30 01:05:10 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 01:05:10 unknown lockdownd[18] <Error>: 00710000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Fri Oct 30 01:05:10 unknown lockdownd[18] <Error>: 0058a000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+Fri Oct 30 01:05:10 unknown lockdownd[18] <Error>: 00792000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Fri Oct 30 01:05:10 unknown lockdownd[18] <Error>: 00710000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+Fri Oct 30 01:05:10 unknown lockdownd[18] <Error>: 0068e000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Fri Oct 30 01:05:10 unknown lockdownd[18] <Error>: 00710000 set_response_error: handle_get_value GetProhibited
+Fri Oct 30 01:05:11 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 01:05:10 unknown lockdownd[18] <Error>: 0058a000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Fri Oct 30 01:05:11 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 01:05:10 unknown mDNSResponder[21] <Error>: mDNSPlatformSetDNSConfig: Error: dns_configuration_copy returned NULL
+Fri Oct 30 01:05:11 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 01:05:11 unknown lockdownd[18] <Error>: 0058a000 set_response_error: handle_get_value GetProhibited
+Fri Oct 30 01:05:11 unknown lockdownd[18] <Error>: 0058a000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Fri Oct 30 01:05:11 unknown lockdownd[18] <Error>: 0058a000 set_response_error: handle_get_value GetProhibited
+Fri Oct 30 01:05:11 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 01:05:11 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 01:05:11 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 01:05:11 unknown lockdownd[18] <Error>: 0058a000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Fri Oct 30 01:05:11 unknown lockdownd[18] <Error>: 0058a000 set_response_error: handle_get_value GetProhibited
+Fri Oct 30 01:05:10 unknown lockdownd[18] <Error>: 01f25000 set_response_error: handle_get_value GetProhibited
+Fri Oct 30 01:05:11 unknown lockdownd[18] <Error>: 00710000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+Fri Oct 30 01:05:10 unknown lockdownd[18] <Error>: 00792000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Fri Oct 30 01:05:11 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 01:05:11 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 01:05:11 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 01:05:11 unknown lockdownd[18] <Error>: 01f25000 handle_connection: Could not receive USB message #3 from remotepairingd. Killing connection
+Fri Oct 30 01:05:11 unknown lockdownd[18] <Error>: 00710000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Fri Oct 30 01:05:11 unknown lockdownd[18] <Error>: 00710000 set_response_error: handle_get_value GetProhibited
+Fri Oct 30 01:05:11 unknown lockdownd[18] <Error>: 00792000 set_response_error: handle_get_value GetProhibited
+Fri Oct 30 01:05:11 unknown lockdownd[18] <Error>: 0068e000 set_response_error: handle_get_value GetProhibited
+Fri Oct 30 01:05:11 unknown lockdownd[18] <Error>: 0058a000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+Fri Oct 30 01:05:11 unknown lockdownd[18] <Error>: 01f25000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+Fri Oct 30 01:05:11 unknown lockdownd[18] <Error>: 00710000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Fri Oct 30 01:05:11 unknown lockdownd[18] <Error>: 0068e000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Fri Oct 30 01:05:11 unknown lockdownd[18] <Error>: 0058a000 set_response_error: handle_get_value GetProhibited
+Fri Oct 30 01:05:11 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 01:05:11 unknown lockdownd[18] <Error>: 01f25000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Fri Oct 30 01:05:11 unknown lockdownd[18] <Error>: 0068e000 set_response_error: handle_get_value GetProhibited
+Fri Oct 30 01:05:11 unknown lockdownd[18] <Error>: 0068e000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Fri Oct 30 01:05:11 unknown lockdownd[18] <Error>: 0058a000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+Fri Oct 30 01:05:11 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 01:05:11 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 01:05:11 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 01:05:11 unknown lockdownd[18] <Error>: 00792000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+Fri Oct 30 01:05:12 iPod-touch lockdownd[18] <Error>: 2ff68000 handle_connection: Could not receive USB message #8 from idevicesyslog. Killing connection
+
+
+Fri Oct 30 01:05:12 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:12 iPod-touch lockdownd[18] <Error>: 2ff68000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Fri Oct 30 01:05:12 iPod-touch lockdownd[18] <Error>: 2ff68000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Fri Oct 30 01:05:12 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:12 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+> 
+Fri Oct 30 01:05:12 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:13 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #5 from remotepairingd. Killing connection
+
+
+Fri Oct 30 01:05:13 iPod-touch lockdownd[18] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 01:05:13 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:13 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Fri Oct 30 01:05:13 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:13 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Fri Oct 30 01:05:13 iPod-touch lockdownd[18] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 01:05:13 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:13 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Fri Oct 30 01:05:13 iPod-touch lockdownd[18] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 01:05:13 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:13 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Fri Oct 30 01:05:13 iPod-touch lockdownd[18] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 01:05:13 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:13 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Fri Oct 30 01:05:13 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:13 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Fri Oct 30 01:05:13 iPod-touch /usr/libexec/ptpd[1100] <Notice>: PTP interface has been activated at high speed.
+
+
+Fri Oct 30 01:05:13 iPod-touch lockdownd[18] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 01:05:13 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:13 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Fri Oct 30 01:05:13 iPod-touch lockdownd[18] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 01:05:13 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:13 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Fri Oct 30 01:05:13 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:13 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Fri Oct 30 01:05:13 iPod-touch lockdownd[18] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 01:05:13 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:13 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Fri Oct 30 01:05:13 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:13 iPod-touch lockdownd[18] <Error>: 00508000 handle_connection: Could not receive USB message #15 from Safari. Killing connection
+
+
+Fri Oct 30 01:05:13 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:13 iPod-touch lockdownd[18] <Error>: 00508000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Fri Oct 30 01:05:14 iPod-touch lockdownd[18] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 01:05:14 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Fri Oct 30 01:05:14 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:14 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:14 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 01:05:14 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:14 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Fri Oct 30 01:05:14 iPod-touch lockdownd[18] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 01:05:14 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:14 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 01:05:14 iPod-touch lockdownd[18] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 01:05:14 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:14 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Fri Oct 30 01:05:14 iPod-touch lockdownd[18] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 01:05:14 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Fri Oct 30 01:05:14 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 01:05:14 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Fri Oct 30 01:05:14 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Fri Oct 30 01:05:14 iPod-touch lockdownd[18] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 01:05:14 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 01:05:14 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of messageCould not receive size of messageCould not receive size of messageCould not receive size of messageCould not receive size of message
+
+
+Fri Oct 30 01:05:14 iPod-touch lockdownd[18] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 01:05:14 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Fri Oct 30 01:05:14 iPod-touch lockdownd[18] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 01:05:14 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Fri Oct 30 01:05:14 iPod-touch lockdownd[18] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 01:05:14 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Fri Oct 30 01:05:14 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of messageCould not receive size of messageCould not receive size of message
+
+
+Fri Oct 30 01:05:14 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:14 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Fri Oct 30 01:05:14 iPod-touch lockdownd[18] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 01:05:14 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:14 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Fri Oct 30 01:05:14 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:14 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Fri Oct 30 01:05:14 iPod-touch lockdownd[18] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 01:05:14 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:14 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Fri Oct 30 01:05:15 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:15 iPod-touch lockdownd[18] <Error>: 00508000 handle_connection: Could not receive USB message #5 from Safari. Killing connection
+
+
+Fri Oct 30 01:05:15 iPod-touch lockdownd[18] <Error>: 2ffea000 spawn_service_agent: Could not look up service in the map
+
+
+Fri Oct 30 01:05:15 iPod-touch lockdownd[18] <Error>: 2ffea000 spawn_and_handle_checkin: Could not spawn the com.apple.afc2 service agent:InvalidService 
+
+
+Fri Oct 30 01:05:15 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 01:05:15 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:15 iPod-touch lockdownd[18] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 01:05:15 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:15 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 01:05:15 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:15 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 01:05:15 iPod-touch lockdownd[18] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 01:05:15 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:15 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 01:05:15 iPod-touch lockdownd[18] <Error>: 2ffea000 handle_connection: Could not receive USB message #14 from iFunBox. Killing connection
+
+
+Fri Oct 30 01:05:15 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:16 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:16 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Fri Oct 30 01:05:16 iPod-touch lockdownd[18] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 01:05:16 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:16 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Fri Oct 30 01:05:16 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:16 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Fri Oct 30 01:05:16 iPod-touch lockdownd[18] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 01:05:16 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:16 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Fri Oct 30 01:05:16 iPod-touch lockdownd[18] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 01:05:16 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:16 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Fri Oct 30 01:05:16 iPod-touch lockdownd[18] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 01:05:16 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:16 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Fri Oct 30 01:05:16 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:16 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Fri Oct 30 01:05:16 iPod-touch lockdownd[18] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 01:05:16 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:16 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Fri Oct 30 01:05:16 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:16 iPod-touch lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #21 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Fri Oct 30 01:05:16 iPod-touch lockdownd[18] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 01:05:17 iPod-touch lockdownd[18] <Error>: 00508000 handle_connection: Could not receive USB message #5 from Safari. Killing connection
+
+
+Fri Oct 30 01:05:17 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Fri Oct 30 01:05:17 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of messageCould not receive size of message
+
+
+Fri Oct 30 01:05:17 iPod-touch lockdownd[18] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 01:05:17 iPod-touch lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Fri Oct 30 01:05:17 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:17 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:17 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Fri Oct 30 01:05:17 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:17 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 01:05:17 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:17 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Fri Oct 30 01:05:17 iPod-touch lockdownd[18] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 01:05:17 iPod-touch lockdownd[18] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 01:05:17 iPod-touch lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Fri Oct 30 01:05:17 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:17 iPod-touch lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Fri Oct 30 01:05:17 iPod-touch lockdownd[18] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 01:05:17 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:17 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:17 iPod-touch lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Fri Oct 30 01:05:17 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:17 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 01:05:17 iPod-touch lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 01:05:17 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:17 iPod-touch lockdownd[18] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 01:05:17 iPod-touch lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 01:05:17 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:17 iPod-touch installd[1111] <Notice>: MS:Notice: Injecting: (null) [installd] (550.52)
+
+
+Fri Oct 30 01:05:18 iPod-touch SpringBoard[26] <Notice>: MultitouchHID(217370) uilock state: 0 -> 1
+
+
+Fri Oct 30 01:05:18 iPod-touch lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Fri Oct 30 01:05:18 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:18 iPod-touch lockdownd[18] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 01:05:18 iPod-touch lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Fri Oct 30 01:05:18 iPod-touch lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Fri Oct 30 01:05:18 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of messageCould not receive size of message
+
+
+Fri Oct 30 01:05:18 iPod-touch lockdownd[18] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 01:05:18 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:18 iPod-touch lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Fri Oct 30 01:05:19 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:19 iPod-touch lockdownd[18] <Error>: 0068e000 handle_connection: Could not receive USB message #5 from Safari. Killing connection
+
+
+Fri Oct 30 01:05:19 iPod-touch lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 01:05:19 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:19 iPod-touch lockdownd[18] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 01:05:19 iPod-touch lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 01:05:19 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:19 iPod-touch lockdownd[18] <Error>: 00508000 handle_connection: Could not receive USB message #7 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Fri Oct 30 01:05:19 iPod-touch lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 01:05:19 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of messageCould not receive size of message
+
+
+Fri Oct 30 01:05:19 iPod-touch lockdownd[18] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 01:05:20 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:20 iPod-touch lockdownd[18] <Error>: 00508000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 01:05:20 iPod-touch lockdownd[18] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 01:05:20 iPod-touch lockdownd[18] <Error>: 00508000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Fri Oct 30 01:05:20 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:20 iPod-touch lockdownd[18] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 01:05:20 iPod-touch lockdownd[18] <Error>: 00508000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Fri Oct 30 01:05:20 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:20 iPod-touch lockdownd[18] <Error>: 00508000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Fri Oct 30 01:05:20 iPod-touch lockdownd[18] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 01:05:20 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:20 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:20 iPod-touch lockdownd[18] <Error>: 00508000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Fri Oct 30 01:05:20 iPod-touch lockdownd[18] <Error>: 0068e000 spawn_service_agent: Could not look up service in the map
+
+
+Fri Oct 30 01:05:20 iPod-touch lockdownd[18] <Error>: 0068e000 spawn_and_handle_checkin: Could not spawn the com.apple.webinspector service agent:InvalidService 
+
+
+Fri Oct 30 01:05:21 iPod-touch lockdownd[18] <Error>: 0068e000 handle_connection: Could not receive USB message #5 from Safari. Killing connection
+
+
+Fri Oct 30 01:05:21 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:21 iPod-touch lockdownd[18] <Error>: 00508000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 01:05:21 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:21 iPod-touch lockdownd[18] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 01:05:21 iPod-touch lockdownd[18] <Error>: 00508000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 01:05:21 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:21 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:21 iPod-touch lockdownd[18] <Error>: 00508000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 01:05:21 iPod-touch lockdownd[18] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 01:05:21 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:21 iPod-touch lockdownd[18] <Error>: 00508000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 01:05:21 iPod-touch lockdownd[18] <Error>: 0068e000 handle_connection: Could not receive USB message #5 from Safari. Killing connection
+
+
+Fri Oct 30 01:05:21 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:21 iPod-touch lockdownd[18] <Error>: 00508000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 01:05:21 iPod-touch lockdownd[18] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 01:05:21 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:21 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:21 iPod-touch lockdownd[18] <Error>: 00508000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 01:05:21 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:21 iPod-touch lockdownd[18] <Error>: 00508000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 01:05:21 iPod-touch lockdownd[18] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 01:05:21 iPod-touch lockdownd[18] <Error>: 00508000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 01:05:21 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:22 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 01:05:22 iPod-touch lockdownd[18] <Error>: 0068e000 handle_connection: Could not receive USB message #5 from Safari. Killing connection
+
+
+Fri Oct 30 01:05:37 iPod-touch lockdownd[18] <Error>: 2ffea000 handle_connection: Could not receive USB message #4 from iFunBox. Killing connection
+
+
+Fri Oct 30 01:05:37 iPod-touch com.apple.mobile.lockdown[18] <Notice>: receive secure message timeout!
+
+
+Fri Oct 30 01:05:59 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+
+
+Fri Oct 30 01:06:00 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBResume
+
+
+Fri Oct 30 01:06:51 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+
+
+Fri Oct 30 01:11:03 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBResume
+
+
+Fri Oct 30 01:11:54 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+
+
+Fri Oct 30 01:12:15 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBResume
+
+
+Fri Oct 30 01:13:05 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+
+
+Fri Oct 30 01:13:08 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBResume
+
+
+Fri Oct 30 01:13:58 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+
+
+Fri Oct 30 01:29:47 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBResume
+
+
+Fri Oct 30 01:33:51 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+
+
+Fri Oct 30 01:33:51 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBResume
+
+
+Fri Oct 30 01:46:40 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+
+
+Fri Oct 30 02:02:17 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBResume
+
+
+Fri Oct 30 02:04:47 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+
+
+Fri Oct 30 02:20:35 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBResume
+
+
+Fri Oct 30 03:19:17 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+
+
+Fri Oct 30 03:35:07 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBResume
+
+
+Fri Oct 30 03:38:15 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+
+
+Fri Oct 30 03:54:26 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBResume
+
+
+Fri Oct 30 04:08:32 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+
+
+Fri Oct 30 04:23:48 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBResume
+
+
+Fri Oct 30 04:24:35 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+
+
+Fri Oct 30 04:40:11 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBResume
+
+
+Fri Oct 30 04:40:58 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+
+
+Fri Oct 30 04:57:00 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBResume
+
+
+Fri Oct 30 04:57:47 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+
+
+Fri Oct 30 05:06:15 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBResume
+
+
+Fri Oct 30 05:07:06 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+
+
+Fri Oct 30 05:22:04 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBResume
+
+
+Fri Oct 30 05:23:12 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+
+
+Fri Oct 30 05:40:46 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBResume
+
+
+Fri Oct 30 05:41:37 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+
+
+Fri Oct 30 05:58:24 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBResume
+
+
+Fri Oct 30 05:59:15 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+
+
+Fri Oct 30 06:07:15 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBResume
+
+
+Fri Oct 30 06:08:06 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+
+
+Fri Oct 30 06:25:03 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBResume
+
+
+Fri Oct 30 06:26:11 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+
+
+Fri Oct 30 06:41:22 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBResume
+
+
+Fri Oct 30 06:42:13 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+
+
+Fri Oct 30 06:47:04 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBResume
+
+
+Fri Oct 30 06:47:56 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+
+
+Fri Oct 30 07:04:14 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBResume
+
+
+Fri Oct 30 07:05:05 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+
+
+Fri Oct 30 07:08:15 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBResume
+
+
+Fri Oct 30 07:09:06 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+
+
+Fri Oct 30 07:24:39 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBResume
+
+
+Fri Oct 30 07:25:52 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+
+
+Fri Oct 30 07:42:43 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBResume
+
+
+Fri Oct 30 07:43:34 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+
+
+Fri Oct 30 07:44:45 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBResume
+
+
+Fri Oct 30 07:45:36 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+
+
+Fri Oct 30 08:01:11 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBResume
+
+
+Fri Oct 30 08:02:02 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+
+
+Fri Oct 30 08:09:15 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBResume
+
+
+Fri Oct 30 08:10:29 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+
+
+Fri Oct 30 08:14:03 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBResume
+
+
+Fri Oct 30 08:14:54 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+
+
+Fri Oct 30 08:30:13 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBResume
+
+
+Fri Oct 30 08:31:21 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+
+
+Fri Oct 30 08:46:58 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBResume
+
+
+Fri Oct 30 08:47:49 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+
+
+Fri Oct 30 08:57:49 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBResume
+
+
+Fri Oct 30 08:58:40 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+
+
+Fri Oct 30 08:59:17 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBResume
+
+
+Fri Oct 30 09:00:08 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+
+
+Fri Oct 30 09:10:16 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBResume
+
+
+Fri Oct 30 09:11:07 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+
+
+Fri Oct 30 09:17:34 iPod-touch daily[1114] <Notice>: MS:Notice: Injecting: (null) [daily] (550.52)
+
+
+Fri Oct 30 09:17:34 iPod-touch locationd[1115] <Notice>: MS:Notice: Injecting: (null) [locationd] (550.52)
+
+
+Fri Oct 30 09:17:39 iPod-touch installd[1118] <Notice>: MS:Notice: Injecting: (null) [installd] (550.52)
+
+
+Fri Oct 30 09:24:13 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBResume
+
+
+Fri Oct 30 09:25:04 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+
+
+Fri Oct 30 09:25:58 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBResume
+
+
+Fri Oct 30 09:26:51 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+
+
+Fri Oct 30 09:26:55 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBResume
+
+
+Fri Oct 30 09:27:48 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+
+
+Fri Oct 30 09:31:21 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBResume
+
+
+Fri Oct 30 09:32:14 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+
+
+Fri Oct 30 09:47:40 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBResume
+
+[disconnected:f7f4c5236445e3e001f9834aa63367fd56cdf871]
+[connected:f7f4c5236445e3e001f9834aa63367fd56cdf871]
+
+========================
+ASL is here to serve you
+> 
+Fri Oct 30 17:27:11 unknown kernel[0] <Debug>: AppleD1759PMUPowerSource: AppleUSBCableDetect 0
+Fri Oct 30 17:27:11 unknown kernel[0] <Debug>: AppleD1759PMUPowerSource: AppleUSBCableType Detached
+Fri Oct 30 17:27:11 unknown SpringBoard[26] <Notice>: MultitouchHID(217370) uilock state: 1 -> 0
+Fri Oct 30 17:27:11 unknown configd[24] <Notice>: Sleep: Success - BATT 50 - Idle Sleep
+Fri Oct 30 17:27:11 unknown configd[24] <Notice>: Wake: Success - BATT 50
+Fri Oct 30 17:27:13 unknown mDNSResponder[21] <Error>: mDNSPlatformSetDNSConfig: Error: dns_configuration_copy returned NULL
+Fri Oct 30 17:27:18 unknown OsuLegacy[1126] <Warning>: OSU startup: menu music play=1
+Fri Oct 30 17:27:18 unknown mDNSResponder[21] <Error>: mDNSPlatformSetDNSConfig: Error: dns_configuration_copy returned NULL
+Fri Oct 30 17:27:37 unknown kernel[0] <Debug>: punchd[1133] Builtin profile: container (sandbox)
+Fri Oct 30 17:27:37 unknown kernel[0] <Debug>: punchd[1133] Container: /private/var/mobile/Applications/C77B4BE2-F264-4028-9A7A-DD005698FBA8 [69] (sandbox)
+Fri Oct 30 17:27:37 unknown JellyCar3[1133] <Notice>: MS:Notice: Injecting: com.disney.JellyCar3 [JellyCar3] (550.52)
+Fri Oct 30 17:27:39 unknown JellyCar3[1133] <Warning>: Detected platform: iPod touch 2G  (iPod2,1)
+Fri Oct 30 17:27:39 unknown JellyCar3[1133] <Warning>: reading queued hits from /var/mobile/Applications/C77B4BE2-F264-4028-9A7A-DD005698FBA8/Documents/arraySafeFile
+Fri Oct 30 17:27:40 unknown itunesstored[1134] <Notice>: MS:Notice: Injecting: com.apple.itunesstored [itunesstored] (550.52)
+Fri Oct 30 17:27:43 unknown installd[1136] <Notice>: MS:Notice: Injecting: (null) [installd] (550.52)
+Fri Oct 30 17:27:46 unknown JellyCar3[1133] <Warning>:  got 'force_fresh_load' value: 0
+Fri Oct 30 17:27:50 unknown com.apple.assetsd[1129] <Notice>: Exiting...
+Fri Oct 30 17:29:13 unknown SpringBoard[26] <Warning>: JellyCar3[1133] has active assertions beyond permitted time: 
+	{(
+	    <SBProcessAssertion: 0x3b73610> identifier: Suspending process: JellyCar3[1133] permittedBackgroundDuration: 10.000000 reason: suspend owner pid:26 preventSuspend  preventThrottleDownCPU  preventThrottleDownUI 
+	)}
+Fri Oct 30 17:29:13 unknown SpringBoard[26] <Warning>: Forcing crash report of JellyCar3[1133]...
+Fri Oct 30 17:29:13 unknown ReportCrash[1138] <Notice>: MS:Notice: Injecting: (null) [ReportCrash] (550.52)
+Fri Oct 30 17:29:17 unknown SpringBoard[26] <Warning>: Finished crash reporting.
+Fri Oct 30 17:29:17 unknown com.apple.launchd[1] <Notice>: (UIKitApplication:com.disney.JellyCar3[0xf1d7]) Exited: Killed
+Fri Oct 30 17:29:17 unknown SpringBoard[26] <Warning>: Application 'JellyCar 3' exited abnormally with signal 9: Killed
+Fri Oct 30 17:29:18 unknown ReportCrash[1138] <Error>: Saved crashreport to /var/mobile/Library/Logs/CrashReporter/JellyCar3_2026-10-30-172914_iPod-touch.plist using uid: 0 gid: 0, synthetic_euid: 501 egid: 0
+Fri Oct 30 17:29:59 unknown OsuLegacy[1140] <Notice>: MS:Notice: Injecting: org.osu.legacy.experimental [OsuLegacy] (550.52)
+Fri Oct 30 17:30:00 unknown kernel[0] <Debug>: punchd[1140] Builtin profile: container (sandbox)
+Fri Oct 30 17:30:00 unknown kernel[0] <Debug>: punchd[1140] Container: /private/var/mobile/Applications/C10FA607-2CB3-4D4F-BFE7-5436FB1C63C8 [69] (sandbox)
+Fri Oct 30 17:30:01 unknown OsuLegacy[1140] <Warning>: OSU GPU: PowerVR MBXLite with VGPLite / OpenGL ES-CM 1.1 (76), shared ES 1.1 surfaces
+Fri Oct 30 17:30:01 unknown OsuLegacy[1140] <Warning>: OSU GPU cache: 2 uploads, 0 evictions, 41.1 ms upload work, 640 KiB cached
+Fri Oct 30 17:30:01 unknown OsuLegacy[1140] <Warning>: OSU boot: initializing embedded Mono after native launch
+Fri Oct 30 17:30:02 unknown OsuLegacy[1140] <Warning>: OSU checkpoint: managed entry reached native bundle binding
+Fri Oct 30 17:30:05 unknown OsuLegacy[1140] <Warning>: OSU boot: managed callbacks registered
+Fri Oct 30 17:30:05 unknown OsuLegacy[1140] <Warning>: OSU boot: managed startup returned to UIKit
+Fri Oct 30 17:30:07 unknown OsuLegacy[1140] <Warning>: OSU startup: IntroTriangles requested, 480x320 / 30 fps
+Fri Oct 30 17:30:07 unknown mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Fri Oct 30 17:30:07 unknown mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : openH264Driver()
+Fri Oct 30 17:30:07 unknown mediaserverd[20] <Notice>: Inside H264DecodeThread : createDecoderThread()
+Fri Oct 30 17:30:07 unknown mediaserverd[20] <Notice>: H264M2VideoDecoder_StartSession() Stream may not be H264LC: 0 or EnableH264OutOfLoopFilter property: 0 is set to false or Resolution is <= 320X240 : 480X320
+Fri Oct 30 17:30:07 unknown mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : setH264DriverSession()
+Fri Oct 30 17:30:07 unknown OsuLegacy[1140] <Warning>: OSU GPU cache: 9 uploads, 0 evictions, 49.2 ms upload work, 1356 KiB cached
+Fri Oct 30 17:30:07 unknown OsuLegacy[1140] <Warning>: OSU startup: intro surface presented
+Fri Oct 30 17:30:07 unknown OsuLegacy[1140] <Warning>: OSU startup: visible surface and decoder ready; starting from zero
+Fri Oct 30 17:30:08 unknown kernel[0] <Debug>: *** AppleM2H264MPDDriver[0x807d8000]::setSessionSettings() called ***
+Fri Oct 30 17:30:08 unknown kernel[0] <Debug>: # AppleM2H264MPDDriver::setSessionSettings():Turning off Post Filtering #
+Fri Oct 30 17:30:08 unknown OsuLegacy[1140] <Warning>: OSU startup: triangles video playing; theme=1
+Fri Oct 30 17:30:09 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is enabled
+Fri Oct 30 17:30:11 unknown mediaserverd[20] <Notice>: Inside H264DecodeThread : destroyDecoderThread()
+Fri Oct 30 17:30:11 unknown mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : freeDriverStorage()
+Fri Oct 30 17:30:11 unknown mediaserverd[20] <Notice>: Inside AppleM2H264DriverUserlandInterface : closeH264Driver()
+Fri Oct 30 17:30:11 unknown mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Fri Oct 30 17:30:12 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is disabled
+Fri Oct 30 17:30:12 unknown mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Fri Oct 30 17:30:13 unknown kernel[0] <Debug>: *** AppleM2H264MPDDriver[0x807d8000]::setSessionSettings() called ***
+Fri Oct 30 17:30:13 unknown kernel[0] <Debug>: # AppleM2H264MPDDriver::setSessionSettings():Turning off Post Filtering #
+Fri Oct 30 17:30:13 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is enabled
+Fri Oct 30 17:30:12 unknown mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : openH264Driver()
+Fri Oct 30 17:30:12 unknown mediaserverd[20] <Notice>: Inside H264DecodeThread : createDecoderThread()
+Fri Oct 30 17:30:13 unknown mediaserverd[20] <Notice>: H264M2VideoDecoder_StartSession() Stream may not be H264LC: 0 or EnableH264OutOfLoopFilter property: 0 is set to false or Resolution is <= 320X240 : 480X320
+Fri Oct 30 17:30:13 unknown mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : setH264DriverSession()
+Fri Oct 30 17:30:13 unknown OsuLegacy[1140] <Warning>: OSU GPU effects: 5.74 ms/frame, one presentation with cached UI
+Fri Oct 30 17:30:13 unknown mDNSResponder[21] <Error>: mDNSPlatformSetDNSConfig: Error: dns_configuration_copy returned NULL
+Fri Oct 30 17:30:14 unknown OsuLegacy[1140] <Warning>: OSU startup: video ended ({
+	    MPMoviePlayerPlaybackDidFinishReasonUserInfoKey = 0;
+	})
+Fri Oct 30 17:30:14 unknown mediaserverd[20] <Notice>: Inside H264DecodeThread : destroyDecoderThread()
+Fri Oct 30 17:30:14 unknown mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : freeDriverStorage()
+Fri Oct 30 17:30:14 unknown mediaserverd[20] <Notice>: Inside AppleM2H264DriverUserlandInterface : closeH264Driver()
+Fri Oct 30 17:30:14 unknown mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+Fri Oct 30 17:30:14 unknown OsuLegacy[1140] <Warning>: OSU startup: waiting for menu frame
+Fri Oct 30 17:30:15 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is disabled
+Fri Oct 30 17:30:15 unknown kernel[0] <Debug>: AppleM2CLCLD, MIE is disabled
+Fri Oct 30 17:30:15 unknown OsuLegacy[1140] <Warning>: OSU startup: triangles menu revealed
+Fri Oct 30 17:30:15 unknown OsuLegacy[1140] <Warning>: OSU FFT: source menu.m4a, cached windows, setup 4.45 ms
+Fri Oct 30 17:30:15 unknown OsuLegacy[1140] <Warning>: OSU GPU effects: first spectrum at 5.394, age 25.5 ms
+Fri Oct 30 17:30:17 unknown OsuLegacy[1140] <Warning>: OSU FFT: 40 windows, avg 0.865 ms, max 5.769 ms
+Fri Oct 30 17:30:18 unknown OsuLegacy[1140] <Warning>: OSU GPU cache: 1 uploads, 0 evictions, 1.5 ms upload work, 1357 KiB cached
+Fri Oct 30 17:30:18 unknown OsuLegacy[1140] <Warning>: OSU drawing: idle 0.6 calls/s, 213.2 ms/call
+Fri Oct 30 17:30:18 unknown OsuLegacy[1140] <Warning>: OSU GPU effects: 25.54 ms/frame, one presentation with cached UI
+Fri Oct 30 17:30:23 unknown OsuLegacy[1140] <Warning>: OSU GPU cache: 1 uploads, 0 evictions, 5.4 ms upload work, 1485 KiB cached
+Fri Oct 30 17:30:23 unknown OsuLegacy[1140] <Warning>: OSU GPU effects: 34.96 ms/frame, one presentation with cached UI
+Fri Oct 30 17:30:23 unknown OsuLegacy[1140] <Warning>: OSU drawing: idle 3.3 calls/s, 58.9 ms/call
+Fri Oct 30 17:30:25 unknown mediaserverd[20] <Error>: 17:30:25.404 <AudioQueueServer> AudioQueueObject::IONodeConnection::_AcquireHardwareCodec: failed ('hwiu')
+Fri Oct 30 17:30:25 unknown OsuLegacy[1140] <Warning>: OSU music: playing audio.mp3
+Fri Oct 30 17:30:25 unknown OsuLegacy[1140] <Warning>: OSU shared music: selected audio.mp3 at 29.26 sec
+Fri Oct 30 17:30:28 unknown OsuLegacy[1140] <Warning>: OSU GPU cache: 5 uploads, 0 evictions, 28.9 ms upload work, 2141 KiB cached
+Fri Oct 30 17:30:33 unknown UIKitApplication:org.osu.legacy.experimental[0x5b][1140] <Notice>: OSU song load: parsed 420 objects at 1733 ms
+Fri Oct 30 17:30:33 unknown UIKitApplication:org.osu.legacy.experimental[0x5b][1140] <Notice>: OSU song load: audio ready at 2045 ms
+Fri Oct 30 17:30:34 unknown OsuLegacy[1140] <Warning>: OSU FFmpeg: Apple decoder unavailable, decoding soft-sliderslide.wav
+Fri Oct 30 17:30:34 unknown OsuLegacy[1140] <Warning>: OSU FFmpeg: failed soft-sliderslide.wav: Invalid data found when processing input
+Fri Oct 30 17:30:34 unknown OsuLegacy[1140] <Warning>: OSU sounds: using fallback for soft-sliderslide.wav (decoder 0)
+Fri Oct 30 17:30:37 unknown UIKitApplication:org.osu.legacy.experimental[0x5b][1140] <Notice>: OSU song load: hitsounds ready at 6269 ms
+Fri Oct 30 17:30:38 unknown OsuLegacy[1140] <Warning>: OSU GPU cache: 2 uploads, 0 evictions, 42.3 ms upload work, 2909 KiB cached
+Fri Oct 30 17:30:38 unknown OsuLegacy[1140] <Warning>: OSU drawing: active 0.7 calls/s, 352.8 ms/call
+Fri Oct 30 17:30:43 unknown OsuLegacy[1140] <Warning>: OSU GPU cache: 1 uploads, 0 evictions, 9.3 ms upload work, 3037 KiB cached
+Fri Oct 30 17:30:43 unknown OsuLegacy[1140] <Warning>: OSU drawing: active 18.5 calls/s, 37.8 ms/call
+Fri Oct 30 17:30:48 unknown OsuLegacy[1140] <Warning>: OSU drawing: active 22.5 calls/s, 31.3 ms/call
+Fri Oct 30 17:30:53 unknown OsuLegacy[1140] <Warning>: OSU drawing: active 22.8 calls/s, 31.2 ms/call
+Fri Oct 30 17:30:58 unknown OsuLegacy[1140] <Warning>: OSU drawing: active 20.8 calls/s, 32.7 ms/call
+Fri Oct 30 17:31:03 unknown OsuLegacy[1140] <Warning>: OSU drawing: active 20.8 calls/s, 33.7 ms/call
+Fri Oct 30 17:31:08 unknown OsuLegacy[1140] <Warning>: OSU drawing: active 20.6 calls/s, 35.4 ms/call
+Fri Oct 30 17:31:13 unknown OsuLegacy[1140] <Warning>: OSU drawing: active 19.6 calls/s, 36.6 ms/call
+Fri Oct 30 17:31:18 unknown OsuLegacy[1140] <Warning>: OSU drawing: active 20.3 calls/s, 33.7 ms/call
+Fri Oct 30 17:31:23 unknown OsuLegacy[1140] <Warning>: OSU drawing: active 20.9 calls/s, 32.2 ms/call
+Fri Oct 30 17:31:28 unknown OsuLegacy[1140] <Warning>: OSU drawing: active 20.2 calls/s, 33.3 ms/call
+Fri Oct 30 17:31:33 unknown OsuLegacy[1140] <Warning>: OSU startup: menu music play=1
+Fri Oct 30 17:31:34 unknown OsuLegacy[1140] <Warning>: OSU music: playing Feel The Melody Xin.mp3
+Fri Oct 30 17:31:35 unknown OsuLegacy[1140] <Warning>: OSU shared music: selected Feel The Melody Xin.mp3 at 32.76 sec
+Fri Oct 30 17:31:35 unknown kernel[0] <Debug>: Assertion failed in "/SourceCache/AppleAMC/AppleAMC-162/Source/AppleAMC_R2/AppleAMCDriver_r2.cpp" at line 1445
+Fri Oct 30 17:31:38 unknown SpringBoard[26] <Notice>: MultitouchHID(217370) uilock state: 0 -> 1
+Fri Oct 30 17:32:47 unknown configd[24] <Debug>: usbeth_handle_interfaces_found:666 found iointerface
+Fri Oct 30 17:32:47 unknown configd[24] <Debug>: usbeth_handle_interfaces_found:666 found iointerface
+Fri Oct 30 17:32:47 unknown configd[24] <Debug>: usbeth_handle_interface_found:565 handling interface 0x11307
+Fri Oct 30 17:32:47 unknown configd[24] <Debug>: usbeth_handle_interface_found:565 handling interface 0x11307
+Fri Oct 30 17:32:47 unknown kernel[0] <Debug>: AppleEmbeddedUSBArbitrator::setPowerStateGated : powerstate = 0
+Fri Oct 30 17:32:47 unknown kernel[0] <Debug>: AppleBCMWLAN::setPowerStateGated() : Powering Off and sleeping
+Fri Oct 30 17:32:47 unknown kernel[0] <Debug>: AppleBCMWLAN::powerOff Ready to power off
+Fri Oct 30 17:32:00 unknown kernel[0] <Debug>: System Sleep
+Fri Oct 30 17:32:47 unknown kernel[0] <Debug>: pmu wake events: menu
+Fri Oct 30 17:32:47 unknown kernel[0] <Debug>: AppleEmbeddedUSBArbitrator::setPowerStateGated : powerstate = 1
+Fri Oct 30 17:32:47 unknown kernel[0] <Debug>: AppleBCMWLAN::setPowerStateGated() : Powering On
+Fri Oct 30 17:32:47 unknown kernel[0] <Debug>: AppleD1759PMUPowerSource: AppleUSBCableDetect 0
+Fri Oct 30 17:32:47 unknown kernel[0] <Debug>: AppleD1759PMUPowerSource: AppleUSBCableType Detached
+Fri Oct 30 17:32:47 unknown configd[24] <Debug>: SCPreferences(PowerManagement UUID Temp Storage:com.apple.PowerManagement.plist) lock held for 48.488 seconds
+Fri Oct 30 17:32:47 unknown SpringBoard[26] <Notice>: MultitouchHID(256380) uilock state: 1 -> 1
+Fri Oct 30 17:32:47 unknown SpringBoard[26] <Notice>: MultitouchHID(217370) uilock state: 1 -> 0
+Fri Oct 30 17:32:47 unknown configd[24] <Notice>: Sleep: Success - BATT 5 - Idle Sleep
+Fri Oct 30 17:32:47 unknown configd[24] <Notice>: Wake: Success - BATT 5
+Fri Oct 30 17:32:49 unknown mDNSResponder[21] <Error>: mDNSPlatformSetDNSConfig: Error: dns_configuration_copy returned NULL
+Fri Oct 30 17:32:54 unknown SCHelper[1141] <Notice>: MS:Notice: Injecting: com.apple.SystemConfiguration [SCHelper] (550.52)
+Fri Oct 30 17:32:58 unknown SpringBoard[26] <Notice>: MultitouchHID(217370) uilock state: 0 -> 1
+Fri Oct 30 17:33:02 unknown SpringBoard[26] <Warning>: Osu! failed to resume in time
+Fri Oct 30 17:33:02 unknown SpringBoard[26] <Warning>: Forcing crash report of OsuLegacy[1140]...
+Fri Oct 30 17:33:03 unknown ReportCrash[1143] <Notice>: MS:Notice: Injecting: (null) [ReportCrash] (550.52)
+Fri Oct 30 17:33:08 unknown SpringBoard[26] <Warning>: Finished crash reporting.
+Fri Oct 30 17:33:08 unknown com.apple.launchd[1] <Notice>: (UIKitApplication:org.osu.legacy.experimental[0x5b]) Exited: Killed
+Fri Oct 30 17:33:08 unknown SpringBoard[26] <Warning>: Application 'Osu!' exited abnormally with signal 9: Killed
+Fri Oct 30 17:33:10 unknown ReportCrash[1143] <Error>: Saved crashreport to /var/mobile/Library/Logs/CrashReporter/OsuLegacy_2026-10-30-173303_iPod-touch.plist using uid: 0 gid: 0, synthetic_euid: 501 egid: 0
+Fri Oct 30 21:53:04 unknown kernel[0] <Debug>: AppleEmbeddedUSBArbitrator::setPowerStateGated : powerstate = 0
+Fri Oct 30 21:53:04 unknown kernel[0] <Debug>: AppleBCMWLAN::setPowerStateGated() : Powering Off and sleeping
+Fri Oct 30 21:53:04 unknown kernel[0] <Debug>: AppleBCMWLAN::powerOff Ready to power off
+Fri Oct 30 17:33:16 unknown kernel[0] <Debug>: System Sleep
+Fri Oct 30 21:53:04 unknown kernel[0] <Debug>: pmu wake events: usb
+Fri Oct 30 21:53:04 unknown kernel[0] <Debug>: AppleEmbeddedUSBArbitrator::setPowerStateGated : powerstate = 1
+Fri Oct 30 21:53:04 unknown kernel[0] <Debug>: AppleBCMWLAN::setPowerStateGated() : Powering On
+Fri Oct 30 21:53:04 unknown configd[24] <Debug>: usbeth_handle_interfaces_found:666 found iointerface
+Fri Oct 30 21:53:04 unknown configd[24] <Debug>: usbeth_handle_interfaces_found:666 found iointerface
+Fri Oct 30 21:53:04 unknown configd[24] <Debug>: usbeth_handle_interface_found:565 handling interface 0x1138b
+Fri Oct 30 21:53:04 unknown configd[24] <Debug>: usbeth_handle_interface_found:565 handling interface 0x1138b
+Fri Oct 30 21:53:04 unknown SpringBoard[26] <Notice>: MultitouchHID(256380) uilock state: 1 -> 1
+Fri Oct 30 21:53:04 unknown kernel[0] <Debug>: AppleD1759PMUPowerSource: AppleUSBCableDetect 1
+Fri Oct 30 21:53:04 unknown kernel[0] <Debug>: AppleD1759PMUPowerSource: AppleUSBCableType USBHost
+Fri Oct 30 21:53:04 unknown kernel[0] <Debug>: AppleEmbeddedUSBArbitrator::handleUSBCableTypeChange : Connected to a USB host, entering device mode
+Fri Oct 30 21:53:04 unknown kernel[0] <Debug>: AppleS5L8720XUSBPhy::powerUp : _powered: 0
+Fri Oct 30 21:53:04 unknown kernel[0] <Debug>: AppleEmbeddedUSBArbitrator::enableDeviceClock : enable: 1, index: 0
+Fri Oct 30 21:53:04 unknown kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBReset
+Fri Oct 30 21:53:04 unknown kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBReset
+Fri Oct 30 21:53:04 unknown kernel[0] <Debug>: AppleSynopsysOTGDevice::stallBadSetupRequest request: 80 06 0f00 0000 0005
+Fri Oct 30 21:53:04 unknown kernel[0] <Debug>: AppleSynopsysOTGDevice::stallBadSetupRequest request: 80 06 0f00 0000 0005
+Fri Oct 30 21:53:05 unknown lockdownd[18] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from usbmuxd. Killing connection
+Fri Oct 30 21:53:05 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 21:53:05 unknown configd[24] <Notice>: Sleep: Success - BATT 40 - Idle Sleep
+Fri Oct 30 21:53:05 unknown configd[24] <Notice>: Wake: Success - BATT 40
+Fri Oct 30 21:53:05 unknown lockdownd[18] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+Fri Oct 30 21:53:05 unknown lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from usbmuxd. Killing connection
+Fri Oct 30 21:53:05 unknown lockdownd[18] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+Fri Oct 30 21:53:05 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 21:53:05 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 21:53:05 unknown lockdownd[18] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from usbmuxd. Killing connection
+Fri Oct 30 21:53:05 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 21:53:05 unknown lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from usbmuxd. Killing connection
+Fri Oct 30 21:53:05 unknown SpringBoard[26] <Notice>: MultitouchHID(217370) uilock state: 1 -> 0
+Fri Oct 30 21:53:05 unknown kernel[0] <Debug>: punchd[1146] Builtin profile: ptpd (sandbox)
+Fri Oct 30 21:53:06 unknown securityd[1147] <Notice>: MS:Notice: Injecting: (null) [securityd] (550.52)
+Fri Oct 30 21:53:06 unknown kernel[0] <Debug>: punchd[1145] Builtin profile: ptpd (sandbox)
+Fri Oct 30 21:53:07 unknown ptpd[1145] <Notice>: MS:Notice: Injecting: (null) [ptpd] (550.52)
+Fri Oct 30 21:53:07 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 21:53:07 unknown lockdownd[18] <Error>: 2ff68000 handle_connection: Could not receive USB message #3 from usbmuxd. Killing connection
+Fri Oct 30 21:53:07 unknown lockdownd[18] <Error>: 2ffea000 set_response_error: handle_get_value GetProhibited
+Fri Oct 30 21:53:07 unknown lockdownd[18] <Error>: 2ffea000 handle_connection: Could not receive USB message #4 from Safari. Killing connection
+Fri Oct 30 21:53:07 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 21:53:07 unknown configd[24] <Debug>: usbeth_handle_pairing_notification:838 Host is trusted
+Fri Oct 30 21:53:07 unknown lockdownd[18] <Error>: 00508000 handle_connection: Could not receive USB message #2 from unknown. Killing connection
+Fri Oct 30 21:53:07 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 21:53:07 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 21:53:07 unknown lockdownd[18] <Error>: 2ffea000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Fri Oct 30 21:53:07 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 21:53:07 unknown lockdownd[18] <Error>: 2ffea000 handle_connection: Could not receive USB message #2 from unknown. Killing connection
+Fri Oct 30 21:53:07 unknown lockdownd[18] <Error>: 00508000 handle_connection: Could not receive USB message #3 from remotepairingd. Killing connection
+Fri Oct 30 21:53:07 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 21:53:07 unknown lockdownd[18] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+Fri Oct 30 21:53:08 unknown mDNSResponder[21] <Error>: mDNSPlatformSetDNSConfig: Error: dns_configuration_copy returned NULL
+Fri Oct 30 21:53:08 unknown lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+Fri Oct 30 21:53:08 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 21:53:08 unknown lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Fri Oct 30 21:53:08 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 21:53:08 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 21:53:08 unknown lockdownd[18] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+Fri Oct 30 21:53:08 unknown lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from remotepairingd. Killing connection
+Fri Oct 30 21:53:08 unknown lockdownd[18] <Error>: 0068e000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Fri Oct 30 21:53:08 unknown lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Fri Oct 30 21:53:08 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of messageCould not receive size of message
+Fri Oct 30 21:53:08 unknown lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Fri Oct 30 21:53:08 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 21:53:08 unknown lockdownd[18] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+Fri Oct 30 21:53:08 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 21:53:08 unknown lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+Fri Oct 30 21:53:08 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 21:53:08 unknown lockdownd[18] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+Fri Oct 30 21:53:08 unknown lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Fri Oct 30 21:53:08 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 21:53:08 unknown lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from remotepairingd. Killing connection
+Fri Oct 30 21:53:08 unknown lockdownd[18] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+Fri Oct 30 21:53:08 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 21:53:08 unknown lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Fri Oct 30 21:53:08 unknown lockdownd[18] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+Fri Oct 30 21:53:08 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 21:53:08 unknown lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Fri Oct 30 21:53:08 unknown lockdownd[18] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+Fri Oct 30 21:53:08 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 21:53:08 unknown lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Fri Oct 30 21:53:08 unknown lockdownd[18] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+Fri Oct 30 21:53:08 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 21:53:08 unknown lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+Fri Oct 30 21:53:08 unknown lockdownd[18] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+Fri Oct 30 21:53:08 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 21:53:08 unknown lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Fri Oct 30 21:53:08 unknown lockdownd[18] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+Fri Oct 30 21:53:09 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 21:53:09 unknown lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from remotepairingd. Killing connection
+Fri Oct 30 21:53:09 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 21:53:09 unknown lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Fri Oct 30 21:53:09 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 21:53:09 unknown lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Fri Oct 30 21:53:09 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 21:53:09 unknown lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Fri Oct 30 21:53:09 unknown lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+Fri Oct 30 21:53:09 unknown lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Fri Oct 30 21:53:09 unknown lockdownd[18] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+Fri Oct 30 21:53:09 unknown lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+Fri Oct 30 21:53:09 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of messageCould not receive size of messageCould not receive size of message
+Fri Oct 30 21:53:09 unknown lockdownd[18] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+Fri Oct 30 21:53:09 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 21:53:09 unknown lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Fri Oct 30 21:53:09 unknown lockdownd[18] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+Fri Oct 30 21:53:09 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 21:53:09 unknown lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+Fri Oct 30 21:53:09 unknown lockdownd[18] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+Fri Oct 30 21:53:09 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 21:53:09 unknown lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+Fri Oct 30 21:53:09 unknown lockdownd[18] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+Fri Oct 30 21:53:09 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 21:53:09 unknown lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+Fri Oct 30 21:53:09 unknown lockdownd[18] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+Fri Oct 30 21:53:09 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 21:53:09 unknown lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+Fri Oct 30 21:53:09 unknown lockdownd[18] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+Fri Oct 30 21:53:09 unknown com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+Fri Oct 30 21:53:09 unknown lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+Fri Oct 30 21:53:10 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:53:10 iPod-touch lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Fri Oct 30 21:53:10 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #8 from idevicesyslog. Killing connection
+
+
+Fri Oct 30 21:53:10 iPod-touch lockdownd[18] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 21:53:10 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Fri Oct 30 21:53:10 iPod-touch lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Fri Oct 30 21:53:10 iPod-touch lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Fri Oct 30 21:53:10 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:53:10 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:53:10 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:53:10 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:53:10 iPod-touch lockdownd[18] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 21:53:10 iPod-touch lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Fri Oct 30 21:53:10 iPod-touch lockdownd[18] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 21:53:10 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Fri Oct 30 21:53:10 iPod-touch lockdownd[18] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 21:53:10 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Fri Oct 30 21:53:10 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of messageCould not receive size of messageCould not receive size of message
+
+
+Fri Oct 30 21:53:10 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:53:10 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Fri Oct 30 21:53:11 iPod-touch lockdownd[18] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 21:53:11 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:53:11 iPod-touch lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Fri Oct 30 21:53:11 iPod-touch lockdownd[18] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 21:53:11 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:53:11 iPod-touch lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+> 
+Fri Oct 30 21:53:11 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:53:11 iPod-touch lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Fri Oct 30 21:53:11 iPod-touch lockdownd[18] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 21:53:11 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:53:11 iPod-touch lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Fri Oct 30 21:53:11 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:53:11 iPod-touch lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Fri Oct 30 21:53:11 iPod-touch lockdownd[18] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 21:53:11 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:53:11 iPod-touch lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Fri Oct 30 21:53:11 iPod-touch lockdownd[18] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 21:53:11 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:53:11 iPod-touch lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Fri Oct 30 21:53:11 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:53:11 iPod-touch lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Fri Oct 30 21:53:11 iPod-touch lockdownd[18] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 21:53:11 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:53:11 iPod-touch lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Fri Oct 30 21:53:11 iPod-touch lockdownd[18] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 21:53:11 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:53:11 iPod-touch lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Fri Oct 30 21:53:11 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:53:11 iPod-touch lockdownd[18] <Error>: 2ff68000 handle_connection: Could not receive USB message #5 from remotepairingd. Killing connection
+
+
+Fri Oct 30 21:53:11 iPod-touch lockdownd[18] <Error>: 2ff68000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 21:53:11 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:53:11 iPod-touch lockdownd[18] <Error>: 2ff68000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Fri Oct 30 21:53:11 iPod-touch /usr/libexec/ptpd[1145] <Notice>: PTP interface has been activated at high speed.
+
+
+Fri Oct 30 21:53:11 iPod-touch lockdownd[18] <Error>: 2ff68000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 21:53:11 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:53:11 iPod-touch lockdownd[18] <Error>: 2ff68000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Fri Oct 30 21:53:11 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:53:11 iPod-touch lockdownd[18] <Error>: 2ff68000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Fri Oct 30 21:53:11 iPod-touch lockdownd[18] <Error>: 2ff68000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 21:53:11 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:53:11 iPod-touch lockdownd[18] <Error>: 2ff68000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Fri Oct 30 21:53:11 iPod-touch lockdownd[18] <Error>: 2ff68000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 21:53:13 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:53:13 iPod-touch lockdownd[18] <Error>: 00508000 handle_connection: Could not receive USB message #15 from Safari. Killing connection
+
+
+Fri Oct 30 21:53:13 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:53:13 iPod-touch lockdownd[18] <Error>: 00508000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Fri Oct 30 21:53:13 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:53:13 iPod-touch lockdownd[18] <Error>: 00508000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Fri Oct 30 21:53:13 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:53:13 iPod-touch lockdownd[18] <Error>: 00508000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Fri Oct 30 21:53:13 iPod-touch lockdownd[18] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 21:53:13 iPod-touch lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Fri Oct 30 21:53:13 iPod-touch lockdownd[18] <Error>: 2ff68000 handle_connection: Could not receive USB message #3 from MobileDeviceUpdater. Killing connection
+
+
+Fri Oct 30 21:53:13 iPod-touch lockdownd[18] <Error>: 2ff68000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 21:53:13 iPod-touch lockdownd[18] <Error>: 2ff68000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Fri Oct 30 21:53:13 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of messageCould not receive size of messageCould not receive size of message
+
+
+Fri Oct 30 21:53:13 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:53:13 iPod-touch lockdownd[18] <Error>: 2ff68000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Fri Oct 30 21:53:13 iPod-touch lockdownd[18] <Error>: 2ff68000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 21:53:13 iPod-touch lockdownd[18] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 21:53:13 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:53:13 iPod-touch lockdownd[18] <Error>: 2ff68000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Fri Oct 30 21:53:13 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:53:13 iPod-touch lockdownd[18] <Error>: 2ff68000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Fri Oct 30 21:53:13 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:53:13 iPod-touch lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Fri Oct 30 21:53:13 iPod-touch lockdownd[18] <Error>: 2ff68000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 21:53:13 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:53:13 iPod-touch lockdownd[18] <Error>: 2ff68000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Fri Oct 30 21:53:13 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:53:13 iPod-touch lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 21:53:13 iPod-touch lockdownd[18] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 21:53:13 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:53:13 iPod-touch lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 21:53:13 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:53:13 iPod-touch lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 21:53:13 iPod-touch lockdownd[18] <Error>: 0060c000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 21:53:13 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:53:13 iPod-touch lockdownd[18] <Error>: 0060c000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 21:53:15 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBSuspend
+
+
+Fri Oct 30 21:53:17 iPod-touch iFile4[1152] <Warning>: Creating link from /var/root/Library/AddressBook to /var/mobile/Library/AddressBook
+
+
+Fri Oct 30 21:53:21 iPod-touch iFile4[1152] <Warning>: BTM: attaching to BTServer
+
+
+Fri Oct 30 21:53:21 iPod-touch iFile4[1152] <Warning>: <<< Session >>> +[GKBluetoothSupport _determineBluetoothStatus]: BT not available - try again later.
+
+
+Fri Oct 30 21:53:21 iPod-touch iFile4[1152] <Warning>: BTM: posting notification BluetoothAvailabilityChangedNotification
+
+
+Fri Oct 30 21:53:21 iPod-touch kernel[0] <Debug>: punchd[1155] Builtin profile: PasteBoard (sandbox)
+
+
+Fri Oct 30 21:53:21 iPod-touch kernel[0] <Debug>: punchd[1154] Builtin profile: PasteBoard (sandbox)
+
+
+Fri Oct 30 21:53:21 iPod-touch pasteboardd[1154] <Notice>: MS:Notice: Injecting: (null) [pasteboardd] (550.52)
+
+
+Fri Oct 30 21:53:21 iPod-touch com.apple.launchd[1] (com.apple.UIKit.pasteboardd[1154]) <Warning>: (com.apple.UIKit.pasteboardd) Check-in of Mach service failed. Already active: com.apple.UIKit.pasteboardd
+
+
+Fri Oct 30 21:53:35 iPod-touch lockdownd[18] <Error>: 0058a000 handle_connection: Could not receive USB message #5 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Fri Oct 30 21:53:35 iPod-touch com.apple.mobile.lockdown[18] <Notice>: receive secure message timeout!
+
+
+Fri Oct 30 21:53:35 iPod-touch lockdownd[18] <Error>: 00508000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 21:53:35 iPod-touch com.apple.mobile.lockdown[18] <Notice>: receive secure message timeout!
+
+
+Fri Oct 30 21:53:35 iPod-touch lockdownd[18] <Error>: 2ff68000 handle_connection: Could not receive USB message #2 from iFunBox. Killing connection
+
+
+Fri Oct 30 21:53:35 iPod-touch com.apple.mobile.lockdown[18] <Notice>: receive secure message timeout!
+
+
+Fri Oct 30 21:55:40 iPod-touch SpringBoard[26] <Warning>: iFile failed to resume in time
+
+
+Fri Oct 30 21:55:40 iPod-touch SpringBoard[26] <Warning>: Forcing crash report of [1152]...
+
+
+Fri Oct 30 21:55:40 iPod-touch ReportCrash[1156] <Notice>: MS:Notice: Injecting: (null) [ReportCrash] (550.52)
+
+
+Fri Oct 30 21:55:41 iPod-touch ReportCrash[1156] <Error>: Saved crashreport to /Library/Logs/CrashReporter/iFile4-2026-10-30-215541.plist using uid: 0 gid: 0, synthetic_euid: 0 egid: 0
+
+
+Fri Oct 30 21:55:41 iPod-touch SpringBoard[26] <Warning>: Finished crash reporting.
+
+
+Fri Oct 30 21:55:51 iPod-touch kernel[0] <Debug>: punchd[1159] Builtin profile: PasteBoard (sandbox)
+
+
+Fri Oct 30 21:55:51 iPod-touch kernel[0] <Debug>: punchd[1158] Builtin profile: PasteBoard (sandbox)
+
+
+Fri Oct 30 21:55:51 iPod-touch pasteboardd[1158] <Notice>: MS:Notice: Injecting: (null) [pasteboardd] (550.52)
+
+
+Fri Oct 30 21:55:51 iPod-touch com.apple.launchd[1] (com.apple.UIKit.pasteboardd[1158]) <Warning>: (com.apple.UIKit.pasteboardd) Check-in of Mach service failed. Already active: com.apple.UIKit.pasteboardd
+
+
+Fri Oct 30 21:55:53 iPod-touch iFile4[1160] <Warning>: Creating link from /var/root/Library/AddressBook to /var/mobile/Library/AddressBook
+
+
+Fri Oct 30 21:55:56 iPod-touch iFile4[1160] <Warning>: BTM: attaching to BTServer
+
+
+Fri Oct 30 21:55:56 iPod-touch iFile4[1160] <Warning>: <<< Session >>> +[GKBluetoothSupport _determineBluetoothStatus]: BT not available - try again later.
+
+
+Fri Oct 30 21:55:57 iPod-touch iFile4[1160] <Warning>: BTM: posting notification BluetoothAvailabilityChangedNotification
+
+
+Fri Oct 30 21:55:57 iPod-touch ABDatabaseDoctor[1162] <Notice>: MS:Notice: Injecting: (null) [ABDatabaseDoctor] (550.52)
+
+
+Fri Oct 30 21:56:32 iPod-touch lockdownd[18] <Error>: 2ff68000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 21:56:32 iPod-touch lockdownd[18] <Error>: 2ff68000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Fri Oct 30 21:56:32 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:56:32 iPod-touch lockdownd[18] <Error>: 2ff68000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 21:56:32 iPod-touch lockdownd[18] <Error>: 2ff68000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Fri Oct 30 21:56:32 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:56:32 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Fri Oct 30 21:56:32 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:56:32 iPod-touch lockdownd[18] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 21:56:32 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from AMPDeviceDiscoveryAgent. Killing connection
+
+
+Fri Oct 30 21:56:32 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:56:32 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Fri Oct 30 21:56:32 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:56:32 iPod-touch lockdownd[18] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 21:56:32 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:56:32 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Fri Oct 30 21:56:32 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:56:32 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 21:56:32 iPod-touch lockdownd[18] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 21:56:32 iPod-touch securityd[1164] <Notice>: MS:Notice: Injecting: (null) [securityd] (550.52)
+
+
+Fri Oct 30 21:56:32 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:56:32 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 21:56:32 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:56:32 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 21:56:32 iPod-touch lockdownd[18] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 21:56:32 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:56:32 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 21:56:32 iPod-touch kernel[0] <Debug>: AppleSynopsysOTGDevice::handleUSBResume
+
+
+Fri Oct 30 21:56:33 iPod-touch lockdownd[18] <Error>: 2ffea000 spawn_service_agent: Could not look up service in the map
+
+
+Fri Oct 30 21:56:33 iPod-touch lockdownd[18] <Error>: 2ffea000 spawn_and_handle_checkin: Could not spawn the com.apple.afc2 service agent:InvalidService 
+
+
+Fri Oct 30 21:56:33 iPod-touch lockdownd[18] <Error>: 2ff68000 handle_connection: Could not receive USB message #5 from Safari. Killing connection
+
+
+Fri Oct 30 21:56:33 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:56:33 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 21:56:33 iPod-touch lockdownd[18] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 21:56:33 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 21:56:33 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 21:56:33 iPod-touch lockdownd[18] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 21:56:33 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of messageCould not receive size of messageCould not receive size of messageCould not receive size of message
+
+
+Fri Oct 30 21:56:33 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 21:56:33 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:56:33 iPod-touch lockdownd[18] <Error>: 2ffea000 handle_connection: Could not receive USB message #14 from iFunBox. Killing connection
+
+
+Fri Oct 30 21:56:34 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:56:34 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Fri Oct 30 21:56:34 iPod-touch lockdownd[18] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 21:56:34 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:56:34 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Fri Oct 30 21:56:34 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:56:34 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Fri Oct 30 21:56:34 iPod-touch lockdownd[18] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 21:56:34 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:56:34 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from iFunBox. Killing connection
+
+
+Fri Oct 30 21:56:34 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:56:34 iPod-touch lockdownd[18] <Error>: 2ff68000 handle_connection: Could not receive USB message #5 from Safari. Killing connection
+
+
+Fri Oct 30 21:56:34 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 21:56:34 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:56:34 iPod-touch lockdownd[18] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 21:56:34 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 21:56:34 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 21:56:34 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of messageCould not receive size of message
+
+
+Fri Oct 30 21:56:34 iPod-touch lockdownd[18] <Error>: 00486000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 21:56:34 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:56:34 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 21:56:35 iPod-touch installd[1171] <Notice>: MS:Notice: Injecting: (null) [installd] (550.52)
+
+
+Fri Oct 30 21:56:35 iPod-touch lockdownd[18] <Error>: 2ff68000 spawn_service_agent: Could not look up service in the map
+
+
+Fri Oct 30 21:56:35 iPod-touch lockdownd[18] <Error>: 2ff68000 spawn_and_handle_checkin: Could not spawn the com.apple.webinspector service agent:InvalidService 
+
+
+Fri Oct 30 21:56:35 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:56:35 iPod-touch lockdownd[18] <Error>: 2ff68000 handle_connection: Could not receive USB message #5 from Safari. Killing connection
+
+
+Fri Oct 30 21:56:35 iPod-touch lockdownd[18] <Error>: 00486000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 21:56:35 iPod-touch lockdownd[18] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 21:56:35 iPod-touch lockdownd[18] <Error>: 00508000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 21:56:35 iPod-touch lockdownd[18] <Error>: 00508000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 21:56:35 iPod-touch lockdownd[18] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 21:56:35 iPod-touch lockdownd[18] <Error>: 00508000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 21:56:35 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of messageCould not receive size of messageCould not receive size of messageCould not receive size of message
+
+
+Fri Oct 30 21:56:36 iPod-touch lockdownd[18] <Error>: 2ff68000 handle_connection: Could not receive USB message #5 from Safari. Killing connection
+
+
+Fri Oct 30 21:56:36 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:56:36 iPod-touch lockdownd[18] <Error>: 00508000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 21:56:36 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:56:36 iPod-touch lockdownd[18] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 21:56:36 iPod-touch lockdownd[18] <Error>: 00508000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 21:56:36 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:56:36 iPod-touch lockdownd[18] <Error>: 00508000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 21:56:36 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:56:36 iPod-touch lockdownd[18] <Error>: 00508000 set_response_error: handle_get_value GetProhibited
+
+
+Fri Oct 30 21:56:36 iPod-touch lockdownd[18] <Error>: 00508000 handle_connection: Could not receive USB message #3 from Safari. Killing connection
+
+
+Fri Oct 30 21:56:36 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:56:37 iPod-touch lockdownd[18] <Error>: 2ff68000 handle_connection: Could not receive USB message #5 from Safari. Killing connection
+
+
+Fri Oct 30 21:56:37 iPod-touch com.apple.mobile.lockdown[18] <Notice>: Could not receive size of message
+
+
+Fri Oct 30 21:56:54 iPod-touch lockdownd[18] <Error>: 2ffea000 handle_connection: Could not receive USB message #4 from iFunBox. Killing connection
+
+
+Fri Oct 30 21:56:54 iPod-touch com.apple.mobile.lockdown[18] <Notice>: receive secure message timeout!
+
+
+Fri Oct 30 22:02:23 iPod-touch OsuLegacy[1173] <Notice>: MS:Notice: Injecting: org.osu.legacy.experimental [OsuLegacy] (550.52)
+
+
+Fri Oct 30 22:02:23 iPod-touch kernel[0] <Debug>: punchd[1173] Builtin profile: container (sandbox)
+
+
+Fri Oct 30 22:02:23 iPod-touch kernel[0] <Debug>: punchd[1173] Container: /private/var/mobile/Applications/C10FA607-2CB3-4D4F-BFE7-5436FB1C63C8 [69] (sandbox)
+
+
+Fri Oct 30 22:02:25 iPod-touch OsuLegacy[1173] <Warning>: OSU GPU: PowerVR MBXLite with VGPLite / OpenGL ES-CM 1.1 (76), shared ES 1.1 surfaces
+
+
+Fri Oct 30 22:02:25 iPod-touch OsuLegacy[1173] <Warning>: OSU GPU cache: 2 uploads, 0 evictions, 45.7 ms upload work, 640 KiB cached
+
+
+Fri Oct 30 22:02:26 iPod-touch OsuLegacy[1173] <Warning>: OSU boot: initializing embedded Mono after native launch
+
+
+Fri Oct 30 22:02:27 iPod-touch OsuLegacy[1173] <Warning>: OSU checkpoint: managed entry reached native bundle binding
+
+
+Fri Oct 30 22:02:29 iPod-touch OsuLegacy[1173] <Warning>: OSU boot: managed callbacks registered
+
+
+Fri Oct 30 22:02:29 iPod-touch OsuLegacy[1173] <Warning>: OSU boot: managed startup returned to UIKit
+
+
+Fri Oct 30 22:02:31 iPod-touch OsuLegacy[1173] <Warning>: OSU startup: IntroTriangles requested, 480x320 / 30 fps
+
+
+Fri Oct 30 22:02:31 iPod-touch mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+
+
+Fri Oct 30 22:02:31 iPod-touch mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : openH264Driver()
+
+
+Fri Oct 30 22:02:31 iPod-touch mediaserverd[20] <Notice>: Inside H264DecodeThread : createDecoderThread()
+
+
+Fri Oct 30 22:02:31 iPod-touch mediaserverd[20] <Notice>: H264M2VideoDecoder_StartSession() Stream may not be H264LC: 0 or EnableH264OutOfLoopFilter property: 0 is set to false or Resolution is <= 320X240 : 480X320
+
+
+Fri Oct 30 22:02:31 iPod-touch mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : setH264DriverSession()
+
+
+Fri Oct 30 22:02:31 iPod-touch OsuLegacy[1173] <Warning>: OSU GPU cache: 9 uploads, 0 evictions, 48.2 ms upload work, 1356 KiB cached
+
+
+Fri Oct 30 22:02:32 iPod-touch OsuLegacy[1173] <Warning>: OSU startup: intro surface presented
+
+
+Fri Oct 30 22:02:32 iPod-touch OsuLegacy[1173] <Warning>: OSU startup: visible surface and decoder ready; starting from zero
+
+
+Fri Oct 30 22:02:32 iPod-touch kernel[0] <Debug>: *** AppleM2H264MPDDriver[0x807d8000]::setSessionSettings() called ***
+
+
+Fri Oct 30 22:02:32 iPod-touch kernel[0] <Debug>: # AppleM2H264MPDDriver::setSessionSettings():Turning off Post Filtering #
+
+
+Fri Oct 30 22:02:32 iPod-touch OsuLegacy[1173] <Warning>: OSU startup: triangles video playing; theme=1
+
+
+Fri Oct 30 22:02:33 iPod-touch kernel[0] <Debug>: AppleM2CLCLD, MIE is enabled
+
+
+Fri Oct 30 22:02:36 iPod-touch OsuLegacy[1173] <Warning>: OSU startup: video ended ({
+	    MPMoviePlayerPlaybackDidFinishReasonUserInfoKey = 0;
+	})
+
+
+Fri Oct 30 22:02:36 iPod-touch mediaserverd[20] <Notice>: Inside H264DecodeThread : destroyDecoderThread()
+
+
+Fri Oct 30 22:02:36 iPod-touch mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : freeDriverStorage()
+
+
+Fri Oct 30 22:02:36 iPod-touch mediaserverd[20] <Notice>: Inside AppleM2H264DriverUserlandInterface : closeH264Driver()
+
+
+Fri Oct 30 22:02:36 iPod-touch mediaserverd[20] <Notice>: Inside AppleH264DriverUserlandInterface : initDriverStorage()
+
+
+Fri Oct 30 22:02:36 iPod-touch OsuLegacy[1173] <Warning>: OSU startup: waiting for menu frame
+
+
+Fri Oct 30 22:02:36 iPod-touch OsuLegacy[1173] <Warning>: OSU startup: triangles menu revealed
+
+
+Fri Oct 30 22:02:36 iPod-touch OsuLegacy[1173] <Warning>: OSU FFT: source menu.m4a, cached windows, setup 5.34 ms
+
+
+Fri Oct 30 22:02:36 iPod-touch OsuLegacy[1173] <Warning>: OSU GPU effects: first spectrum at 3.729, age 24.2 ms
+
+
+Fri Oct 30 22:02:36 iPod-touch kernel[0] <Debug>: AppleM2CLCLD, MIE is disabled
+
+
+Fri Oct 30 22:02:37 iPod-touch OsuLegacy[1173] <Warning>: OSU GPU effects: 10.97 ms/frame, one presentation with cached UI
+
+
+Fri Oct 30 22:02:38 iPod-touch OsuLegacy[1173] <Warning>: OSU drawing: idle 0.8 calls/s, 257.1 ms/call
+
+
+Fri Oct 30 22:02:39 iPod-touch OsuLegacy[1173] <Warning>: OSU FFT: 40 windows, avg 1.437 ms, max 25.711 ms
+
+
+Fri Oct 30 22:02:41 iPod-touch mediaserverd[20] <Error>: 22:02:41.762 <AudioQueueServer> AudioQueueObject::IONodeConnection::_AcquireHardwareCodec: failed ('hwiu')
+
+
+Fri Oct 30 22:02:41 iPod-touch OsuLegacy[1173] <Warning>: OSU music: playing audio.mp3
+
+
+Fri Oct 30 22:02:42 iPod-touch OsuLegacy[1173] <Warning>: OSU shared music: selected audio.mp3 at 0.91 sec
+
+
+Fri Oct 30 22:02:42 iPod-touch OsuLegacy[1173] <Warning>: OSU GPU cache: 7 uploads, 0 evictions, 69.3 ms upload work, 2141 KiB cached
+
+
+Fri Oct 30 22:02:45 iPod-touch OsuLegacy[1173] <Warning>: OSU music: playing audio.mp3
+
+
+Fri Oct 30 22:02:45 iPod-touch OsuLegacy[1173] <Warning>: OSU shared music: selected audio.mp3 at 0.05 sec
+
+
+Fri Oct 30 22:02:45 iPod-touch kernel[0] <Debug>: Assertion failed in "/SourceCache/AppleAMC/AppleAMC-162/Source/AppleAMC_R2/AppleAMCDriver_r2.cpp" at line 1445
+
+
+Fri Oct 30 22:02:49 iPod-touch OsuLegacy[1173] <Warning>: OSU GPU cache: 3 uploads, 0 evictions, 17.6 ms upload work, 2301 KiB cached
+
+
+Fri Oct 30 22:02:56 iPod-touch OsuLegacy[1173] <Warning>: OSU GPU cache: 2 uploads, 0 evictions, 54.6 ms upload work, 2333 KiB cached
+
+
+Fri Oct 30 22:02:58 iPod-touch OsuLegacy[1173] <Warning>: OSU drawing: idle 0.5 calls/s, 769.5 ms/call
+
+
+Fri Oct 30 22:03:04 iPod-touch OsuLegacy[1173] <Warning>: OSU GPU cache: 9 uploads, 0 evictions, 17.2 ms upload work, 2477 KiB cached
+

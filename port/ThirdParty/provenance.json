@@ -1,0 +1,10 @@
+{
+  "source": "https://github.com/ppy/osu",
+  "supplied_release": "2026.1005.0-lazer",
+  "path": "osu.Game.Rulesets.Osu/Scoring/OsuHitWindows.cs",
+  "sha256_original": "eabcab8269b9e681bea51eef93fdc56a54c98f8c19557941adffefda3ce20184",
+  "changes": [
+    "Replaced static interface DifficultyRange calls with a classic-runtime helper; scoring formulas and windows unchanged."
+  ],
+  "license": "osu-LICENCE"
+}

@@ -1,0 +1,19 @@
+#!/bin/bash
+set -euo pipefail
+toolchain_dir="$(cd "$(dirname "$0")" && pwd)"
+sdk_dir="${IOS_SDK:-$toolchain_dir/common-3.0.sdk}"
+ios_target="${IOS_TARGET:-armv6-apple-ios3.0}"
+ios_crt="${IOS_CRT:-crt1.o}"
+ios_ld="${IOS_LD:-$toolchain_dir/../build/toolchain/ld64}"
+compile_only=false
+for arg in "$@"; do
+    case "$arg" in -c|-E|-S|-M|-MM|--version|-v|-V|-qversion|-version) compile_only=true;; esac
+done
+if ! "$compile_only"; then
+    set -- "$@" "$sdk_dir/usr/lib/$ios_crt" -lSystem -lgcc_s.1
+fi
+exec /usr/bin/clang -target "$ios_target" \
+    -isysroot "$sdk_dir" -B"$toolchain_dir/common-3.0.sdk/usr/bin" -mlinker-version=253 \
+    -fuse-ld="$ios_ld" \
+    -I"$toolchain_dir/compat" \
+    -Wno-incompatible-sysroot -fno-stack-protector -nostdlib "$@"

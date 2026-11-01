@@ -1,0 +1,14 @@
+/Applications/Xcode.app/Contents/Developer/usr/bin/make all-local
+MCS     [net_4_0] mscorlib.dll
+Mono StrongName - version 6.14.1.0
+StrongName utility for signing assemblies
+Copyright 2002, 2003 Motus Technologies. Copyright 2004-2008 Novell. BSD licensed.
+
+Assembly ../../class/lib/net_4_0/tmp/mscorlib.dll signed.
+/bin/sh ./../../mkinstalldirs ../../class/lib/net_4_0/
+touch ../../class/lib/net_4_0//.stamp
+Mono StrongName - version 6.14.1.0
+StrongName utility for signing assemblies
+Copyright 2002, 2003 Motus Technologies. Copyright 2004-2008 Novell. BSD licensed.
+
+Assembly ../../class/lib/net_4_0/mscorlib.dll is strongnamed.

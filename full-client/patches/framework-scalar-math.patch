@@ -1,0 +1,140 @@
+diff --git a/osu.Framework/Utils/PathApproximator.cs b/osu.Framework/Utils/PathApproximator.cs
+index 9348d9c..f844ba0 100644
+--- a/osu.Framework/Utils/PathApproximator.cs
++++ b/osu.Framework/Utils/PathApproximator.cs
+@@ -4,7 +4,9 @@
+ using System;
+ using System.Collections.Generic;
+ using System.Linq;
++#if !OSU_LEGACY_SCALAR
+ using System.Numerics.Tensors;
++#endif
+ using osu.Framework.Graphics.Primitives;
+ using osuTK;
+ 
+@@ -492,6 +494,11 @@ private static unsafe void matLerp(float[,] mat1, float[,] mat2, float t, float[
+             if (ReferenceEquals(mat1, result))
+                 throw new ArgumentException($"{nameof(mat1)} can not be the same array as {nameof(result)}.");
+ 
++#if OSU_LEGACY_SCALAR
++            for (int i = 0; i < result.GetLength(0); i++)
++                for (int j = 0; j < result.GetLength(1); j++)
++                    result[i, j] = mat1[i, j] * (1 - t) + mat2[i, j] * t;
++#else
+             fixed (float* mat1P = mat1, mat2P = mat2, resultP = result)
+             {
+                 var span1 = new Span<float>(mat1P, mat1.Length);
+@@ -500,10 +507,16 @@ private static unsafe void matLerp(float[,] mat1, float[,] mat2, float t, float[
+                 TensorPrimitives.Multiply(span2, t, spanR);
+                 TensorPrimitives.MultiplyAdd(span1, 1 - t, spanR, spanR);
+             }
++#endif
+         }
+ 
+         private static unsafe void matProduct(float[,] mat1, float[,] mat2, float[,] result)
+         {
++#if OSU_LEGACY_SCALAR
++            for (int i = 0; i < result.GetLength(0); i++)
++                for (int j = 0; j < result.GetLength(1); j++)
++                    result[i, j] = mat1[i, j] * mat2[i, j];
++#else
+             fixed (float* mat1P = mat1, mat2P = mat2, resultP = result)
+             {
+                 var span1 = new Span<float>(mat1P, mat1.Length);
+@@ -511,20 +524,32 @@ private static unsafe void matProduct(float[,] mat1, float[,] mat2, float[,] res
+                 var spanR = new Span<float>(resultP, result.Length);
+                 TensorPrimitives.Multiply(span1, span2, spanR);
+             }
++#endif
+         }
+ 
+         private static unsafe void matScale(float[,] mat, float scalar, float[,] result)
+         {
++#if OSU_LEGACY_SCALAR
++            for (int i = 0; i < result.GetLength(0); i++)
++                for (int j = 0; j < result.GetLength(1); j++)
++                    result[i, j] = mat[i, j] * scalar;
++#else
+             fixed (float* matP = mat, resultP = result)
+             {
+                 var span1 = new Span<float>(matP, mat.Length);
+                 var spanR = new Span<float>(resultP, result.Length);
+                 TensorPrimitives.Multiply(span1, scalar, spanR);
+             }
++#endif
+         }
+ 
+         private static unsafe void matDiff(float[,] mat1, float[,] mat2, float[,] result)
+         {
++#if OSU_LEGACY_SCALAR
++            for (int i = 0; i < result.GetLength(0); i++)
++                for (int j = 0; j < result.GetLength(1); j++)
++                    result[i, j] = mat1[i, j] - mat2[i, j];
++#else
+             fixed (float* mat1P = mat1, mat2P = mat2, resultP = result)
+             {
+                 var span1 = new Span<float>(mat1P, mat1.Length);
+@@ -532,6 +557,7 @@ private static unsafe void matDiff(float[,] mat1, float[,] mat2, float[,] result
+                 var spanR = new Span<float>(resultP, result.Length);
+                 TensorPrimitives.Subtract(span1, span2, spanR);
+             }
++#endif
+         }
+ 
+         // This matmul operation is not standard because it computes (m, p) * (n, p) -> (m, n)
+@@ -546,12 +572,19 @@ private static unsafe void matmul(float[,] mat1, float[,] mat2, float[,] result)
+             {
+                 for (int j = 0; j < n; j++)
+                 {
++#if OSU_LEGACY_SCALAR
++                    float sum = 0;
++                    for (int k = 0; k < p; k++)
++                        sum += mat1[i, k] * mat2[j, k];
++                    result[i, j] = sum;
++#else
+                     fixed (float* mat1P = mat1, mat2P = mat2)
+                     {
+                         var span1 = new Span<float>(mat1P + i * p, p);
+                         var span2 = new Span<float>(mat2P + j * p, p);
+                         result[i, j] = TensorPrimitives.Dot(span1, span2);
+                     }
++#endif
+                 }
+             }
+         }
+@@ -587,8 +620,13 @@ private static void getDistanceDistribution(float[,] points, float[] result, flo
+                 result[i] = accumulator;
+             }
+ 
++#if OSU_LEGACY_SCALAR
++            for (int i = 0; i < result.Length; i++)
++                result[i] /= accumulator;
++#else
+             var spanR = result.AsSpan();
+             TensorPrimitives.Divide(spanR, accumulator, spanR);
++#endif
+         }
+ 
+         private class Interpolator
+diff --git a/osu.Framework/osu.Framework.csproj b/osu.Framework/osu.Framework.csproj
+index da83d76..dc24ced 100644
+--- a/osu.Framework/osu.Framework.csproj
++++ b/osu.Framework/osu.Framework.csproj
+@@ -18,6 +18,9 @@
+     <PackageReleaseNotes>Automated release.</PackageReleaseNotes>
+     <PackageTags>osu game framework</PackageTags>
+   </PropertyGroup>
++  <PropertyGroup Condition="'$(LegacyScalarMath)' == 'true'">
++    <DefineConstants>$(DefineConstants);OSU_LEGACY_SCALAR</DefineConstants>
++  </PropertyGroup>
+   <ItemGroup Label="Package References">
+     <PackageReference Include="FFmpeg.AutoGen" Version="4.3.0.1" />
+     <PackageReference Include="Microsoft.Extensions.ObjectPool" Version="10.0.11" />
+@@ -51,6 +54,6 @@
+     <!-- Any version ahead of this will cause runtime issues on iOS
+          See https://github.com/xoofx/markdig/issues/564 -->
+     <PackageReference Include="Markdig" Version="0.23.0" />
+-    <PackageReference Include="System.Numerics.Tensors" Version="10.0.11" />
++    <PackageReference Include="System.Numerics.Tensors" Version="10.0.11" Condition="'$(LegacyScalarMath)' != 'true'" />
+   </ItemGroup>
+ </Project>

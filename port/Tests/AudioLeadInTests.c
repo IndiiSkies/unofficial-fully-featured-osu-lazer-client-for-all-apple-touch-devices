@@ -1,0 +1,4 @@
+#include "../Native/AudioLeadIn.h"
+#include <assert.h>
+#include <stdio.h>
+int main(void){LegacyAudioLeadIn clock={0};legacy_leadin_start(&clock,1500,10000);assert(legacy_leadin_time(&clock,10000)==-1500);assert(legacy_leadin_time(&clock,10500)==-1000);assert(!legacy_leadin_due(&clock,10500));legacy_leadin_pause(&clock,10500);assert(legacy_leadin_time(&clock,20000)==-1000);assert(!legacy_leadin_due(&clock,20000));legacy_leadin_resume(&clock,20000);assert(legacy_leadin_time(&clock,20500)==-500);assert(legacy_leadin_due(&clock,21000));assert(!legacy_leadin_due(&clock,21001));legacy_leadin_start(&clock,clock.duration,30000);assert(legacy_leadin_time(&clock,30000)==-1500);legacy_leadin_start(&clock,0,40000);assert(!clock.waiting);puts("PASS: negative gameplay lead-in, pause/background/resume, retry and single audio start");return 0;}

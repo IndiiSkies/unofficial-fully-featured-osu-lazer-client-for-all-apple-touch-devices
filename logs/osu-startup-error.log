@@ -1,0 +1,20 @@
+Wed Dec 31 20:24:38 unknown UIKitApplication:org.osu.legacy.experimental[0xa79b][180] <Notice>: The assembly mscorlib.dll was not found or could not be loaded.
+Wed Dec 31 20:24:38 unknown UIKitApplication:org.osu.legacy.experimental[0xa79b][180] <Notice>: It should have been installed in the `/var/mobile/Applications/B9E54C2C-8F1A-4020-926A-D083FDEBA0E4/OsuLegacy.app/lib/mono/4.5/mscorlib.dll' directory.
+Wed Dec 31 20:24:38 unknown com.apple.launchd[1] <Warning>: (UIKitApplication:org.osu.legacy.experimental[0xa79b]) Exited with exit code: 1
+Wed Dec 31 20:24:38 unknown SpringBoard[29] <Warning>: Application 'osu legacy' exited abnormally with exit status 1
+Wed Dec 31 20:24:40 unknown UIKitApplication:org.osu.legacy.experimental[0xcd7e][181] <Notice>: The assembly mscorlib.dll was not found or could not be loaded.
+Wed Dec 31 20:24:40 unknown UIKitApplication:org.osu.legacy.experimental[0xcd7e][181] <Notice>: It should have been installed in the `/var/mobile/Applications/B9E54C2C-8F1A-4020-926A-D083FDEBA0E4/OsuLegacy.app/lib/mono/4.5/mscorlib.dll' directory.
+Wed Dec 31 20:24:40 unknown com.apple.launchd[1] <Warning>: (UIKitApplication:org.osu.legacy.experimental[0xcd7e]) Exited with exit code: 1
+Wed Dec 31 20:24:40 unknown SpringBoard[29] <Warning>: Application 'osu legacy' exited abnormally with exit status 1
+Wed Dec 31 20:24:49 unknown UIKitApplication:org.osu.legacy.experimental[0xe400][182] <Notice>: The assembly mscorlib.dll was not found or could not be loaded.
+Wed Dec 31 20:24:49 unknown UIKitApplication:org.osu.legacy.experimental[0xe400][182] <Notice>: It should have been installed in the `/var/mobile/Applications/B9E54C2C-8F1A-4020-926A-D083FDEBA0E4/OsuLegacy.app/lib/mono/4.5/mscorlib.dll' directory.
+Wed Dec 31 20:24:49 unknown com.apple.launchd[1] <Warning>: (UIKitApplication:org.osu.legacy.experimental[0xe400]) Exited with exit code: 1
+Wed Dec 31 20:24:49 unknown SpringBoard[29] <Warning>: Application 'osu legacy' exited abnormally with exit status 1
+Wed Dec 31 20:25:32 unknown UIKitApplication:org.osu.legacy.experimental[0x259a][193] <Notice>: The assembly mscorlib.dll was not found or could not be loaded.
+Wed Dec 31 20:25:32 unknown UIKitApplication:org.osu.legacy.experimental[0x259a][193] <Notice>: It should have been installed in the `/var/mobile/Applications/B9E54C2C-8F1A-4020-926A-D083FDEBA0E4/OsuLegacy.app/lib/mono/4.5/mscorlib.dll' directory.
+Wed Dec 31 20:25:32 unknown com.apple.launchd[1] <Warning>: (UIKitApplication:org.osu.legacy.experimental[0x259a]) Exited with exit code: 1
+Wed Dec 31 20:25:32 unknown SpringBoard[29] <Warning>: Application 'osu legacy' exited abnormally with exit status 1
+Wed Dec 31 20:25:36 unknown UIKitApplication:org.osu.legacy.experimental[0x14c1][194] <Notice>: The assembly mscorlib.dll was not found or could not be loaded.
+Wed Dec 31 20:25:36 unknown UIKitApplication:org.osu.legacy.experimental[0x14c1][194] <Notice>: It should have been installed in the `/var/mobile/Applications/B9E54C2C-8F1A-4020-926A-D083FDEBA0E4/OsuLegacy.app/lib/mono/4.5/mscorlib.dll' directory.
+Wed Dec 31 20:25:36 unknown com.apple.launchd[1] <Warning>: (UIKitApplication:org.osu.legacy.experimental[0x14c1]) Exited with exit code: 1
+Wed Dec 31 20:25:36 unknown SpringBoard[29] <Warning>: Application 'osu legacy' exited abnormally with exit status 1

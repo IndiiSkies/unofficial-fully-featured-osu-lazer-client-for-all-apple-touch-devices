@@ -1,0 +1,15 @@
+using System;using System.IO;using System.Collections.Generic;using OsuLegacy;
+class MusicPlayerTests {
+ static int checks;static void Check(bool value,string message){checks++;if(!value)throw new Exception(message);}
+ static void Main(string[] args){string root=Path.Combine(Path.GetTempPath(),"osu-player-"+Guid.NewGuid());Directory.CreateDirectory(root);try{
+ var music=new MenuPlaylist(root,Path.Combine(root,"theme.m4a"));var songs=new List<SongEntry>();for(int i=0;i<20;i++)songs.Add(new SongEntry{AudioPath=Path.Combine(root,"track"+i+".mp3"),Title="Track "+i,Artist="Artist "+i});music.Append(songs);int starts=0,seeks=0;double target=-1;music.Start=delegate(MenuTrack track){starts++;return true;};music.Seek=delegate(double position){seeks++;target=position;};music.PlayAt(1,false);music.Duration=180;music.Position=30;
+ var ui=new LazerUi{Music=music,Animate=false};ui.OpenMusic();Action draw=delegate{ui.Draw(new SvgUiSurface(args[0]),0);};Action<double,double> tap=delegate(double x,double y){draw();ui.MenuPointer(0,x,y);ui.MenuPointer(2,x,y);};draw();var preview=new SvgUiSurface(args[0]);ui.Draw(preview,0);preview.Save(Path.Combine(args[1],"now-playing.svg"));
+ tap(240,134);Check(music.Paused,"Play control pauses shared player");draw();ui.MenuPointer(0,240,101);ui.MenuPointer(1,325,101);Check(seeks==0,"Seek drag defers backend call until release");ui.MenuPointer(2,325,101);Check(seeks==1 && target==135 && music.Paused,"Seek commits once and preserves paused state");
+ draw();ui.MenuPointer(0,240,101);ui.MenuPointer(3,240,101);Check(seeks==1,"Cancelled seek does not reach backend");draw();ui.MenuPointer(0,240,101);music.PlayAt(2,false);ui.MenuPointer(2,325,101);Check(seeks==1,"Changing song cancels pending seek");
+ tap(38,134);Check(music.Shuffle,"Shuffle control works");var repeat=music.Repeat;tap(94,134);Check(music.Repeat!=repeat,"Repeat control cycles");tap(387,134);tap(387,134);Check(music.Custom.Count==1,"Add current deduplicates");
+ bool keyboard=false;ui.MusicTextRequested=delegate(string title,string value){keyboard=true;};tap(280,17);Check(keyboard && ui.AcceptMusicText("Track 17"),"Search routes its keyboard result");tap(100,220);Check(music.Current.Title=="Track 17","Filtered row plays by song identity");
+ tap(280,17);tap(270,188);int before=starts;draw();ui.MenuPointer(0,100,270);ui.MenuPointer(1,100,210);ui.MenuPointer(2,100,210);Check(starts==before,"Scrolling does not select a track");
+ tap(446,134);preview=new SvgUiSurface(args[0]);ui.Draw(preview,0);preview.Save(Path.Combine(args[1],"now-playing-collapsed.svg"));Check(File.ReadAllText(Path.Combine(args[1],"now-playing-collapsed.svg")).Contains("Playlist hidden"),"Playlist can collapse independently");tap(240,300);tap(160,188);tap(397,188);tap(450,220);Check(music.Custom.Count==0,"Edit removes the selected custom entry");
+ before=starts;tap(410,17);Check(ui.Screen==UiScreen.Home && starts==before,"Close returns without restarting music");Console.WriteLine("PASS: "+checks+" music window controls, seek, search and scroll checks");
+ }finally{Directory.Delete(root,true);}}
+}

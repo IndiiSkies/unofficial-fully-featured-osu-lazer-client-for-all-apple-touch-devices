@@ -1,0 +1,14 @@
+2026-10-28T15:50:39.842836-04:00 Monitoring after recovery exit; waiting for normal-mode USB and syslog.
+2026-10-28T15:50:45.887952-04:00 USB recovery query: ERROR: Unable to connect to device
+2026-10-28T15:51:07.025998-04:00 USB recovery query: ERROR: Unable to connect to device
+2026-10-28T15:51:28.157438-04:00 USB recovery query: ERROR: Unable to connect to device
+2026-10-28T15:51:49.310029-04:00 USB recovery query: ERROR: Unable to connect to device
+2026-10-28T15:52:10.443508-04:00 USB recovery query: ERROR: Unable to connect to device
+2026-10-28T15:52:31.654820-04:00 USB recovery query: ERROR: Unable to connect to device
+2026-10-28T15:52:52.848040-04:00 USB recovery query: ERROR: Unable to connect to device
+2026-10-28T15:53:13.998684-04:00 USB recovery query: ERROR: Unable to connect to device
+2026-10-28T15:53:35.169522-04:00 USB recovery query: ERROR: Unable to connect to device
+2026-10-28T15:53:56.302784-04:00 USB recovery query: ERROR: Unable to connect to device
+2026-10-28T15:53:59.336064-04:00 Normal-mode device detected: f7f4c5236445e3e001f9834aa63367fd56cdf871
+2026-10-28T15:53:59.339201-04:00 Syslog streaming; PID 14250
+2026-10-28T15:56:29.347209-04:00 Syslog listener remains active after observation window.
